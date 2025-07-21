@@ -10,5 +10,5 @@ dbutils.library.restartPython()
 # COMMAND ----------
 
 # DBTITLE 1,Edit this cell with your resource names
-catalog_name = "agent_bricks_demo"
-schema_name = "data_schema"
+catalog_name = "users"
+schema_name = "te_chen"
