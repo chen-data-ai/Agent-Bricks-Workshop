@@ -1,0 +1,59 @@
+Ticket ID: TICK-8071
+Customer ID: CUS-10678
+Subscription ID: SUB-10001013
+Category: Billing
+Priority: High
+Status: Resolved
+Created: 2024-10-30 22:04:51.156000
+Agent ID: BIL-1635
+Resolved: 2024-11-02 22:04:51.156000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8071 (Created: 2024-10-31 05:05)
+
+I'm extremely frustrated with my latest bill which shows a $49.99 "Premium Content Access" charge that I NEVER authorized! I've been a loyal customer on your Ultimate Unlimited Family Plan for over 3 years and have never had this issue before. I checked my iPhone 15 Pro Max and there's absolutely no evidence of subscribing to any premium content. 
+
+When I tried using the MyTelecom app to dispute the charge, I kept getting Error Code BIL-4023 "Unable to process billing inquiry at this time." I've already spent 45 minutes on hold trying to resolve this by phone yesterday evening.
+
+This is completely unacceptable! I need this charge removed IMMEDIATELY as my autopay is scheduled to process tomorrow morning, and I refuse to pay for something I didn't order. I'm in the Portland area and have never had billing issues before, but this makes me seriously consider switching carriers after all these years.
+
+Please contact me ASAP to resolve this before my payment processes. If this isn't fixed today, I'll be forced to file a complaint with the FCC.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8071 | Agent BIL-1635 | Resolved on 2024-11-03 05:05
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration you've experienced regarding the unauthorized $49.99 "Premium Content Access" charge on your account and the difficulty you encountered when attempting to resolve this through our MyTelecom app.
+
+## Actions Taken:
+1. Thoroughly reviewed your Ultimate Unlimited Family Plan account history and confirmed you have indeed been a loyal customer for over 3 years with no previous billing disputes.
+2. Accessed our Content Subscription Management System (CSMS) and verified there was no authorization record for the Premium Content Access subscription on your line.
+3. Investigated Error Code BIL-4023 in our system logs and identified a temporary technical issue with the billing dispute function in the MyTelecom app that has since been resolved.
+4. Immediately processed a full credit of $49.99 to your account to remove the unauthorized charge.
+5. Added a 12-month content subscription block to your account (per our Unauthorized Charge Protection Protocol) to prevent similar issues in the future.
+6. Paused your scheduled autopay to ensure you wouldn't be charged while this issue was being resolved.
+
+## Resolution Details:
+The $49.99 charge has been fully credited to your account. Our investigation revealed this was due to a system error that incorrectly applied a third-party content subscription to your line. According to our Premium Content Billing Policy, customers must provide explicit authorization for such charges, which did not occur in this case.
+
+I've also applied a one-time $20 account credit as a goodwill gesture for the inconvenience and time spent trying to resolve this issue, in accordance with our Customer Satisfaction Guarantee.
+
+## Follow-up Actions:
+1. Your autopay has been reactivated and will process normally for your next billing cycle.
+2. I've sent detailed instructions to your registered email on how to monitor third-party charges through the MyTelecom app (Settings > Account > Subscriptions & Purchases).
+3. Should you encounter any similar issues in the future, you can reach our dedicated Billing Support team directly at 1-800-XXX-XXXX (option 2).
+
+We truly value your loyalty as a customer and understand how concerning unexpected charges can be. Please don't hesitate to contact us if you have any additional questions or concerns.
+
+Thank you for your patience while we resolved this matter.
+
+Sincerely,
+Agent BIL-1635
+Billing Resolution Team

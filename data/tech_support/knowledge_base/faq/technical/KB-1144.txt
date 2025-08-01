@@ -1,0 +1,119 @@
+ID: KB-1144
+Type: FAQ
+Category: Technical
+Subcategory: Phone not receiving calls
+Title: FAQ: Why is my phone not receiving calls?
+Tags: troubleshooting,calls,receiving,technical,faq,phone not receiving calls,roaming,phone,plan
+Last Updated: 2024-12-20 23:59:47
+Generated: 2025-07-13T23:15:45.463640
+
+---
+
+# FAQ: Why is my phone not receiving calls?
+
+## Overview
+If your phone isn't receiving incoming calls, this can be frustrating and concerning. This guide will help you troubleshoot common causes and resolve the issue in most cases.
+
+## Step-by-Step Troubleshooting
+
+### 1. Check Network Signal
+**For all devices:**
+- Verify you have adequate signal strength (at least 2-3 bars)
+- Check if the signal indicator shows "No Service" or "Emergency Calls Only"
+- Toggle Airplane Mode on for 30 seconds, then off again
+- Move to a different location to see if reception improves
+
+**Common error messages:**
+- "No Service"
+- "Emergency Calls Only"
+- "Call Failed"
+
+### 2. Verify Call Forwarding Settings
+**For Android:**
+1. Open the Phone app
+2. Tap the three dots (⋮) or More icon
+3. Select "Settings" → "Calls" → "Call forwarding"
+4. Ensure all forwarding options are turned off or set correctly
+
+**For iPhone:**
+1. Go to Settings
+2. Tap "Phone" → "Call Forwarding"
+3. Make sure Call Forwarding is turned off (unless intentionally using it)
+
+### 3. Check Do Not Disturb and Silent Mode
+**For Android:**
+1. Swipe down from the top of your screen
+2. Check if Do Not Disturb (moon icon) is enabled
+3. Go to Settings → Sound → Do Not Disturb to check settings
+4. Verify your volume settings aren't silencing calls
+
+**For iPhone:**
+1. Check if the silent switch on the side is activated
+2. Swipe down from top-right (or up from bottom on older models) to access Control Center
+3. Check if Do Not Disturb (moon icon) is enabled
+4. Go to Settings → Do Not Disturb to review settings
+
+### 4. Restart Your Device
+**For Android:**
+1. Press and hold the power button
+2. Select "Restart" or "Reboot"
+3. Wait for the device to completely restart
+
+**For iPhone:**
+1. For iPhone X or newer: Press and hold side button + either volume button
+2. For iPhone 8 or earlier: Press and hold the side/top button
+3. Slide to power off, wait 30 seconds, then turn back on
+
+### 5. Check for Call Blocking
+**For Android:**
+1. Open the Phone app
+2. Tap the three dots (⋮) → "Settings" → "Blocked numbers"
+3. Remove any numbers that shouldn't be blocked
+
+**For iPhone:**
+1. Go to Settings → Phone → "Blocked Contacts"
+2. Review the list and remove any contacts as needed
+
+### 6. Verify SIM Card Status
+1. Power off your device
+2. Remove your SIM card carefully
+3. Check for any damage or debris
+4. Reinsert the SIM card properly
+5. Power on your device
+
+### 7. Check for System Updates
+**For Android:**
+1. Go to Settings → System → System update or Software update
+2. Install any available updates
+
+**For iPhone:**
+1. Go to Settings → General → Software Update
+2. Install any available updates
+
+### 8. Reset Network Settings
+**For Android:**
+1. Go to Settings → System → Reset options
+2. Select "Reset Wi-Fi, mobile & Bluetooth" or "Reset network settings"
+3. Confirm and enter your PIN if prompted
+
+**For iPhone:**
+1. Go to Settings → General → Reset (or Transfer or Reset iPhone)
+2. Tap "Reset Network Settings"
+3. Enter your passcode and confirm
+
+## When to Contact Support
+Contact our customer support if:
+- You've tried all steps above and still can't receive calls
+- You see persistent "No Service" even in areas with known good coverage
+- Your phone shows error messages like "SIM card not provisioned" or "Invalid SIM"
+- You can make outgoing calls but cannot receive incoming calls
+- The issue began immediately after account changes or phone upgrades
+
+**Have ready before contacting support:**
+- Your account number
+- The phone number experiencing issues
+- Device make and model
+- When the problem started
+- List of troubleshooting steps already attempted
+
+You can reach support through our mobile app, online account portal, or by calling our support line from

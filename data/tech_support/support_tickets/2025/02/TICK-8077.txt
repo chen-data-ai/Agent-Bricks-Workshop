@@ -1,0 +1,59 @@
+Ticket ID: TICK-8077
+Customer ID: CUS-11381
+Subscription ID: SUB-10002035
+Category: Technical
+Priority: Critical
+Status: Closed
+Created: 2025-02-04 21:07:13.214000
+Agent ID: TEC-8767
+Resolved: 2025-02-04 21:07:13.214000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8077 (Created: 2025-02-05 05:07)
+
+I'm beyond frustrated with my service right now. For the past three days, my iPhone 15 Pro keeps showing "No Service" or fluctuating between 1-2 bars in areas where I normally have full 5G coverage. I'm on your Ultimate Unlimited Plus plan that I pay $89.99/month for specifically because you promised reliable coverage in my area (Westlake neighborhood in Austin, TX). 
+
+When I do get a connection, data speeds are crawling - speedtest shows 0.8Mbps when I normally get 150+Mbps. I've already tried restarting my Apple iPhone 14 , toggling airplane mode, resetting network settings, and even removed/reinserted my SIM card. Nothing helps!
+
+My work depends on having reliable internet access, and I've already missed two important client calls because of this. The error message I keep getting is "Cellular Network Not Available" followed by "Could Not Activate Cellular Data Network."
+
+This needs to be fixed IMMEDIATELY. I've been a loyal customer for 6+ years and this kind of service degradation is unacceptable. Is there an outage in my area that nobody is acknowledging? Please help before I'm forced to switch carriers.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8077 | Agent TEC-8767 | Resolved on 2025-02-05 05:07
+
+Dear Valued Customer,
+
+Thank you for bringing this service issue to our attention. I sincerely apologize for the frustration and inconvenience you've experienced with your cellular service in the Westlake neighborhood of Austin, TX. As a loyal customer of 6+ years, you deserve the reliable service you're paying for with your Ultimate Unlimited Plus plan.
+
+After investigating your case, I've confirmed there is indeed an ongoing network outage affecting the cell towers serving your area. Our Network Operations Center (NOC) identified that three towers in the Westlake vicinity are currently operating at reduced capacity due to equipment failure following the recent weather event. This outage was logged in our system (Outage #WTX-2025-0204) but unfortunately wasn't properly communicated to all customers in the affected area.
+
+Actions taken:
+1. Verified your account status and confirmed your Ultimate Unlimited Plus plan ($89.99/month) is active and in good standing
+2. Ran a diagnostic on your line through our NetCheck system, which confirmed connectivity issues originating from our network rather than your device
+3. Checked your device IMEI against our database and confirmed your iPhone 15 Pro (not 14 as mentioned in your description) is fully compatible with our network
+4. Escalated your case to our Network Engineering team with priority status (ESC-2502-AUS)
+5. Applied a service credit of $8.99 (10% of your monthly plan cost) to your account for the inconvenience
+
+The good news is that our technical team is actively working on this issue. The equipment replacement has been expedited, and according to our latest update, full service restoration is expected within 24 hours. In the meantime, I've activated our "Network Guarantee" feature on your line, which will automatically connect you to partner networks in the area without additional charges to ensure you maintain connectivity for those important client calls.
+
+For immediate improved connectivity, I recommend:
+• Enabling WiFi Calling in your iPhone settings (Settings > Cellular > WiFi Calling)
+• Using our Mobile Hotspot Finder feature in our mobile app to locate nearby premium WiFi hotspots included with your plan
+• Temporarily adjusting your phone to prefer LTE instead of 5G (Settings > Cellular > Cellular Data Options > Voice & Data > LTE) which may provide more stable connectivity during this outage
+
+I've also added a follow-up flag to your account. You'll receive an automated notification once the network is fully restored, and I'll personally check back with you tomorrow to ensure your service has returned to normal.
+
+If you continue experiencing issues after the expected resolution time or need additional assistance, please contact us directly at our priority support line: 1-800-555-TECH, referencing your ticket number.
+
+Thank you for your patience and understanding. We value your business and are committed to resolving this issue as quickly as possible.
+
+Sincerely,
+Agent TEC-8767
+Technical Support Team

@@ -1,0 +1,77 @@
+ID: KB-1049
+Type: Guide
+Category: Account
+Subcategory: Reactivating service
+Title: How to Reactivate Your Telecom Service
+Tags: data,account,reactivating,service,reactivating service,voice,guide
+Last Updated: 2024-10-25 23:59:47
+Generated: 2025-07-13T23:15:52.092906
+
+---
+
+# How to Reactivate Your Telecom Service
+
+When your service has been suspended or disconnected, you can follow these steps to get reconnected quickly and securely.
+
+## Before You Begin
+
+Make sure you have:
+- Your account number or phone number
+- A valid photo ID
+- Payment method for any outstanding balances
+- The last 4 digits of your Social Security Number (for verification)
+
+## Reactivation Methods
+
+### Online Reactivation (Fastest Method)
+
+1. Visit our website or open the mobile app (available on iOS and Android)
+2. Log in to your account (or select "Forgot Password" if needed)
+3. Navigate to "Account Status" or "Service Management"
+4. Select "Reactivate Service"
+5. Verify your identity using one of the following:
+   - Answer security questions
+   - Enter a one-time verification code sent to your email/alternate phone
+6. Pay any outstanding balance
+7. Review and confirm service plan details
+8. Submit your reactivation request
+
+**Processing time:** Typically 15-30 minutes for service to resume
+
+### Phone Reactivation
+
+1. Call our Customer Support at 1-800-XXX-XXXX
+2. Select the option for "Account Services" or "Reactivation"
+3. Provide your account information to the representative
+4. Complete identity verification (security questions, PIN)
+5. Make necessary payments
+6. Confirm your service plan
+
+**Processing time:** 15-60 minutes after call completion
+
+### In-Store Reactivation
+
+1. Visit any of our retail locations during business hours
+2. Bring your photo ID and account information
+3. Inform the representative you need to reactivate service
+4. Complete identity verification
+5. Make any required payments
+6. Review and confirm your service details
+
+**Processing time:** Service typically restored before you leave the store
+
+## Important Security Considerations
+
+- For your protection, we require identity verification for all reactivations
+- If your account was suspended due to suspected fraud, additional verification steps may be required
+- Reactivation after non-payment requires settling the outstanding balance
+- If your service was disconnected for more than 60 days, you may need to establish a new account
+
+## After Reactivation
+
+- Restart your device to ensure proper reconnection to the network
+- Verify your service is working by making a test call or browsing the internet
+- Check that your plan features are active in your online account or mobile app
+- Contact Customer Support if your service isn't fully restored within the expected timeframe
+
+Need additional help? Contact our support team through the mobile app's chat feature, online support portal, or call 1-800-XXX-XXXX.

@@ -1,0 +1,82 @@
+ID: KB-1075
+Type: FAQ
+Category: Technical
+Subcategory: Network outages
+Title: What should I do during a network outage?
+Tags: technical,text,outages,faq,wireless,network,network outages,customer
+Last Updated: 2024-12-13 23:59:47
+Generated: 2025-07-13T23:15:54.407580
+
+---
+
+# What should I do during a network outage?
+
+## Understanding Network Outages
+
+A network outage occurs when cellular service (calls, texts, or data) becomes temporarily unavailable in your area. Outages can affect specific services (like just data) or all network connectivity, and may be limited to certain locations or impact broader regions.
+
+## How to Identify a Network Outage
+
+Common signs of a network outage include:
+
+* No signal bars or "No Service" displayed on your device
+* "Emergency Calls Only" status
+* Unable to make/receive calls or texts
+* No data connectivity despite full signal bars
+* Error messages such as "Connection Failed," "Network Unavailable," or "Service Temporarily Unavailable"
+
+## Troubleshooting Steps
+
+### Step 1: Verify it's an outage
+1. Restart your device
+   * **iOS**: Press and hold the power button and either volume button until the slider appears, then slide to power off. Wait 30 seconds before powering back on.
+   * **Android**: Press and hold the power button until the power menu appears, then select "Restart" or "Power off" (then turn back on after 30 seconds).
+
+2. Check Airplane Mode
+   * **iOS**: Swipe down from the top-right corner (or up from bottom on older models) and ensure Airplane Mode is off (the airplane icon should not be highlighted).
+   * **Android**: Swipe down from the top of the screen and ensure Airplane Mode is off.
+
+3. Try enabling/disabling Mobile Data
+   * **iOS**: Go to Settings > Cellular > Toggle Cellular Data off and on.
+   * **Android**: Go to Settings > Network & Internet > Mobile Network > Toggle Mobile data off and on.
+
+### Step 2: Check for a confirmed outage
+1. Use our mobile app's Network Status feature (requires WiFi if your data is affected)
+   * Navigate to the "Support" or "Network" section to view current outage information
+
+2. Visit our website's Network Status page using WiFi
+   * Current outages are typically displayed on our homepage or support section
+
+3. Check social media for announcements about service disruptions
+
+### Step 3: Try these additional fixes
+1. Toggle between network modes
+   * **iOS**: Go to Settings > Cellular > Cellular Data Options > Voice & Data > Select a different network type (5G, LTE, or 3G)
+   * **Android**: Go to Settings > Network & Internet > Mobile Network > Preferred network type > Select a different option
+
+2. Reset network settings (Note: This will remove saved WiFi passwords)
+   * **iOS**: Go to Settings > General > Reset > Reset Network Settings
+   * **Android**: Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+
+3. Check if your SIM card is properly seated
+   * Power off your device, remove and reinsert your SIM card, then power back on
+
+## When to Contact Customer Support
+
+Contact our support team if:
+* The outage persists for more than 4 hours
+* Your service doesn't return after a confirmed outage has been resolved
+* You see service has been restored in your area but you're still experiencing issues
+* You receive error messages like "SIM card not provisioned" or "Registration failed"
+* Your device shows "No SIM" or "Invalid SIM" errors
+
+## During a Confirmed Outage
+
+* Our technical teams are automatically notified of network issues and work to resolve them quickly
+* Most outages are resolved within 1-4 hours
+* For emergency calls during an outage, your device should connect to any available network (even competitors') for 911 calls only
+* Consider using WiFi calling if available and you have WiFi access:
+  * **iOS**: Go to Settings > Phone > WiFi Calling
+  * **Android**: Go to Phone app > Settings > Calls > WiFi calling
+
+We appreciate your patience during network disruptions as our teams work to restore service as quickly as possible.

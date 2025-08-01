@@ -1,0 +1,60 @@
+ID: KB-1158
+Type: FAQ
+Category: Account
+Subcategory: Billing responsibility transfer
+Title: How Do I Transfer Billing Responsibility for My Account to Someone Else?
+Tags: payment,account,transfer,faq,wireless,responsibility,billing responsibility transfer,data,billing
+Last Updated: 2025-01-08 23:59:47
+Generated: 2025-07-13T23:15:46.480929
+
+---
+
+# How Do I Transfer Billing Responsibility for My Account to Someone Else?
+
+## Overview
+Transferring billing responsibility allows you to shift financial and legal ownership of your telecom account to another individual. This process, also known as a Transfer of Ownership (TOO) or Assumption of Liability (AOL), requires specific steps to ensure a smooth transition.
+
+## Eligibility Requirements
+Before initiating a transfer:
+- Your account must be in good standing with no past-due balances
+- The person assuming responsibility must pass a credit check
+- Both parties must provide valid government-issued photo ID
+- Both parties must agree to the terms of the transfer
+
+## Transfer Process
+1. **Initiation**: The current account owner must initiate the transfer request through one of these methods:
+   - Online: Log into your account via our website or mobile app (available on iOS and Android)
+   - Phone: Contact Customer Support at 1-800-XXX-XXXX
+   - In-store: Visit any of our retail locations with both parties present
+
+2. **Verification**: Both parties must complete identity verification:
+   - Current owner: Account PIN/password and last 4 digits of SSN
+   - New owner: Full name, address, SSN, and date of birth for credit check
+
+3. **Agreement**: Both parties must review and accept the transfer agreement, which outlines:
+   - Financial responsibility transition
+   - Service plan terms and conditions
+   - Any applicable fees
+
+## Timeframes
+- **Processing time**: 24-48 hours for system processing after approval
+- **Billing cycle impact**: Changes typically take effect at the start of the next billing cycle
+- **Service continuation**: Service remains uninterrupted during the transfer
+
+## Billing Impacts
+- **Final bill**: Current owner receives a prorated final bill through the transfer date
+- **First bill**: New owner's first bill begins on the transfer completion date
+- **Deposits**: Any existing deposits may be refunded to the original account holder or transferred to the new account
+
+## Service Impacts
+- **Phone numbers**: All numbers on the account transfer to the new owner
+- **Device payments**: Any remaining device payment plans transfer to the new owner
+- **Plan features**: Current plan features and promotions may change based on new owner eligibility
+
+## Important Considerations
+- Authorized users will need to be re-established by the new account owner
+- Auto-pay settings will not transfer and must be set up again
+- Mobile app access will need to be reconfigured with the new account credentials
+- The new owner may need to establish new security questions and PIN
+
+For additional assistance with billing responsibility transfers, please contact Customer Support or visit our website's Account Management section.

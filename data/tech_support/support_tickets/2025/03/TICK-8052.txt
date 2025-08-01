@@ -1,0 +1,60 @@
+Ticket ID: TICK-8052
+Customer ID: CUS-11411
+Subscription ID: SUB-10002079
+Category: Billing
+Priority: Medium
+Status: Closed
+Created: 2025-03-08 20:58:20.874000
+Agent ID: BIL-7363
+Resolved: 2025-03-09 21:58:20.874000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8052 (Created: 2025-03-09 04:58)
+
+I am absolutely FURIOUS about my latest bill! I just opened my March statement and found a $249.99 charge for "International Data Roaming" that I never authorized. I was in Vancouver for a business trip last month, but I specifically purchased your "North America Unlimited" plan for $15 before traveling because your representative ASSURED me it would cover Canada. I even received a confirmation text when I crossed the border saying "Welcome to Canada. Your North America Unlimited plan is active."
+
+I have an iPhone 15 Pro and made sure to enable the Travel Pass feature in your mobile app as instructed. I've been a loyal customer for 8+ years and have NEVER had billing issues like this. When I tried to dispute this through the app, I kept getting error code BIL-4023 saying "Your dispute cannot be processed at this time."
+
+This is completely unacceptable! I need this resolved IMMEDIATELY and the charges removed from my account. I'm not paying for something I was told was already covered by my travel plan. If this isn't fixed by the time payment is due, I'll be forced to dispute the entire bill with my credit card company and consider switching carriers.
+
+Please call me back ASAP at my number on file. I'm available anytime today.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8052 | Agent BIL-7363 | Resolved on 2025-03-10 04:58
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration caused by the unexpected international data roaming charges on your March statement and the difficulty you experienced when attempting to resolve this through our mobile app.
+
+## Investigation Conducted:
+- Reviewed your account history and confirmed your 8+ years of loyal customer status
+- Verified the purchase of the "North America Unlimited" plan ($15) prior to your Vancouver trip
+- Confirmed the welcome text message sent when you entered Canada indicating plan activation
+- Checked system logs showing Travel Pass was properly enabled in our mobile app on your iPhone 15 Pro
+- Investigated error code BIL-4023, which was caused by a temporary system maintenance issue
+
+## Actions Taken:
+1. Removed the unauthorized $249.99 "International Data Roaming" charge from your March statement
+2. Applied a $15 account credit as compensation for the inconvenience (Credit ID: CR-20250310-8642)
+3. Added a note to your account confirming the "North America Unlimited" plan covers all data usage in Canada
+4. Verified all future trips to Canada will be properly covered under this plan without additional charges
+5. Submitted feedback to our technical team regarding the BIL-4023 error to prevent similar issues
+
+## Additional Information:
+Per our International Travel Policy (Section 3.2), the "North America Unlimited" plan explicitly covers data usage in Canada and Mexico with no additional roaming charges. This has been properly documented on your account to prevent any similar billing errors in the future.
+
+Your revised March statement is now available in your online account and through our mobile app. The payment due date remains unchanged, but now reflects the corrected balance without the disputed charge.
+
+I've also added a 12-month account notation to prevent any similar billing issues during future travel to Canada. Should you experience any additional concerns with international usage, please contact our dedicated International Travel Support team at the number listed in our mobile app's "Travel" section.
+
+Thank you again for your patience and for giving us the opportunity to resolve this matter. We truly value your long-standing loyalty to our service.
+
+Sincerely,
+Agent BIL-7363
+Billing Resolution Team

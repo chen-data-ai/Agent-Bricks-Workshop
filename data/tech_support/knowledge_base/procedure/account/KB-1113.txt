@@ -1,0 +1,121 @@
+ID: KB-1113
+Type: Procedure
+Category: Account
+Subcategory: Reactivating service
+Title: Service Reactivation Procedure
+Tags: payment,troubleshooting,account,reactivating,service,reactivating service,procedure,customer
+Last Updated: 2024-07-20 23:59:47
+Generated: 2025-07-13T23:15:57.050248
+
+---
+
+# Service Reactivation Procedure
+**Internal Support Document**
+
+## Overview
+This document outlines the standardized procedure for reactivating service on customer accounts. Following these steps ensures consistent account management, regulatory compliance, and positive customer experience.
+
+## Prerequisites
+- Active CSR credentials with reactivation permissions
+- Access to the Customer Account Management System (CAMS)
+- Knowledge of current service plans and promotions
+- Familiarity with regulatory requirements (FCC, CPNI, etc.)
+
+## Procedure
+
+### 1. Account Verification
+1.1. **Primary Authentication** (required)
+   - Verify customer identity using at least two of the following:
+     - Account PIN/password
+     - Last 4 digits of SSN/Tax ID
+     - Account security questions
+     - Government-issued photo ID (for in-store reactivations)
+
+1.2. **Secondary Authentication** (if primary fails)
+   - Send one-time verification code to email/phone on file
+   - Validate billing information (last payment amount/date)
+
+1.3. **Documentation Example:**
+   ```
+   [Date/Time] - Identity verified via account PIN and last 4 of SSN. Customer confirmed as authorized account manager. - [Agent ID]
+   ```
+
+### 2. Account Assessment
+
+2.1. **Service History Review**
+   - Check account status reason code (e.g., NONPAY, CUSTREQ, FRAUD)
+   - Review suspension/deactivation date
+   - Identify any outstanding balances
+
+2.2. **Device Verification**
+   - Confirm IMEI/MEID/ESN status
+   - Check device compatibility with current network
+   - Verify device is not reported lost/stolen (check blocklist database)
+
+2.3. **Line Eligibility Check**
+   - Confirm number hasn't been reassigned
+   - Verify number portability status if applicable
+   - Check for any service restrictions
+
+2.4. **Documentation Example:**
+   ```
+   [Date/Time] - Account suspended on [date] due to [reason]. Device IMEI [last 4 digits] verified as clean. Number eligible for reactivation. - [Agent ID]
+   ```
+
+### 3. System Updates
+
+3.1. **Billing System Updates**
+   - Clear any system blocks/holds
+   - Process any required payments
+   - Apply appropriate rate plan and features
+   - Update billing cycle information
+
+3.2. **Network Provisioning**
+   - Submit reactivation order in CAMS
+   - Provision services in OSS/BSS systems
+   - Initiate SIM/eSIM activation if applicable
+   - Verify service elements (voice, data, messaging)
+
+3.3. **Documentation Example:**
+   ```
+   [Date/Time] - $X.XX past due balance collected. Account reactivated on [Plan Name]. Order #XXXXX submitted. Services provisioned successfully. - [Agent ID]
+   ```
+
+### 4. Compliance Requirements
+
+4.1. **Regulatory Compliance**
+   - Confirm customer consent for reactivation
+   - Complete any required CPNI verification
+   - Document all authorization details
+   - Update customer preferences (marketing, privacy settings)
+
+4.2. **Credit Requirements**
+   - Run credit check if required by policy
+   - Collect/adjust deposits based on credit results
+   - Document credit decision and customer notification
+
+4.3. **Documentation Example:**
+   ```
+   [Date/Time] - CPNI verification completed. Customer provided explicit consent for service reactivation. Privacy preferences updated per customer request. - [Agent ID]
+   ```
+
+### 5. Customer Notification
+
+5.1. **Confirmation Communication**
+   - Send service reactivation confirmation via preferred method
+   - Provide estimated timeframe for full service restoration
+   - Include support contact information
+
+5.2. **Account Management Information**
+   - Provide instructions for accessing online account
+   - Direct to mobile app download (iOS/Android)
+   - Explain billing implications (prorated charges, next bill date)
+
+5.3. **Documentation Example:**
+   ```
+   [Date/Time] - Reactivation confirmation sent via email to xxx@example.com. Customer informed of 2-4 hour provisioning window. Mobile app setup instructions provided. - [Agent ID]
+   ```
+
+### 6. Quality Assurance
+
+6.1. **Service

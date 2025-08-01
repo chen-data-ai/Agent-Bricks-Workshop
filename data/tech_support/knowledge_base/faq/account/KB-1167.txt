@@ -1,0 +1,73 @@
+ID: KB-1167
+Type: FAQ
+Category: Account
+Subcategory: Account pins and passwords
+Title: What are account PINs and passwords, and how do I manage them?
+Tags: payment,account,account pins and passwords,faq,pins,passwords,data,customer
+Last Updated: 2024-08-19 23:59:47
+Generated: 2025-07-13T23:15:47.229223
+
+---
+
+# What are account PINs and passwords, and how do I manage them?
+
+## Overview
+Your account PIN and password are critical security measures that protect your account information and prevent unauthorized changes to your services. While they serve similar security purposes, they function differently within our systems.
+
+## Account PIN
+Your account PIN is a 4-6 digit number that serves as a verbal password when contacting our customer service representatives. This PIN is required to:
+- Verify your identity during phone support calls
+- Authorize account changes in our retail stores
+- Process certain high-security transactions
+
+### Setting or Changing Your PIN
+1. **Online**: Log into your account at my.telecom.com or through our mobile app (available on iOS and Android)
+   - Navigate to Account Settings > Security > Manage PIN
+   - Changes take effect immediately
+
+2. **Phone**: Call our customer service at 1-800-XXX-XXXX
+   - You'll need to verify your identity using your current PIN or alternative verification methods
+   - Changes take effect immediately
+
+3. **In Store**: Visit any of our retail locations with a valid government-issued photo ID
+
+### Important PIN Guidelines
+- Choose a PIN you can remember but isn't easily guessable (avoid birthdays, address numbers, etc.)
+- PINs must be 4-6 digits and contain only numbers
+- Your PIN cannot be the same as the last 3 PINs you've used
+
+## Account Password
+Your account password is used to access your online account through our website and mobile app. This password:
+- Protects access to billing information
+- Allows you to make service changes online
+- Secures your personal information
+
+### Setting or Changing Your Password
+1. **Online**:
+   - Go to my.telecom.com or open our mobile app
+   - Navigate to Account Settings > Security > Change Password
+   - Changes take effect immediately
+
+2. **Forgotten Password**:
+   - Click "Forgot Password" on the login screen
+   - Follow the verification steps (typically email or text verification)
+   - Reset links expire after 30 minutes for security purposes
+
+### Password Requirements
+- Minimum 8 characters
+- Must include at least one uppercase letter, one lowercase letter, one number, and one special character
+- Cannot be the same as your previous 5 passwords
+- Expires every 180 days for enhanced security
+
+## Impact on Services
+- Changing your PIN or password will not interrupt your service
+- Any scheduled payments or autopay arrangements will continue unaffected
+- If you forget both your PIN and password, account recovery may require a 24-hour security hold before certain changes can be made
+
+## Additional Security Tips
+- Never share your PIN or password with anyone, including those claiming to be company representatives
+- Enable two-factor authentication for additional account security through the Security section of your online account
+- Update your security questions periodically through the account settings menu
+- If you suspect unauthorized access, contact customer support immediately at 1-800-XXX-XXXX
+
+For additional assistance with account security, please contact our dedicated support team or visit the Security Center in our mobile app.

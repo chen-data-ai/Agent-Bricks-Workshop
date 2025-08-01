@@ -1,0 +1,68 @@
+ID: KB-1135
+Type: FAQ
+Category: Billing
+Subcategory: Disputing charges
+Title: How Can I Dispute a Charge on My Bill?
+Tags: subscription,faq,charges,wireless,disputing,roaming,billing,disputing charges
+Last Updated: 2024-08-08 23:59:47
+Generated: 2025-07-13T23:15:44.941376
+
+---
+
+# How Can I Dispute a Charge on My Bill?
+
+## Understanding Your Bill and Disputing Charges
+
+If you notice an unexpected or incorrect charge on your monthly statement, you have the right to dispute it. Here's a comprehensive guide to help you understand and resolve billing concerns:
+
+### Before Filing a Dispute
+
+1. **Review your bill carefully**: Compare the charges against your plan details. Remember that your bill includes:
+   - Base plan charges ($40-$120 depending on your tier)
+   - Equipment installment payments (typically $20-$45 monthly)
+   - One-time charges (activation fees, late payments)
+   - Third-party charges (app purchases, subscriptions)
+   - Taxes and regulatory fees
+
+2. **Check for recent changes**: Did you recently upgrade your plan, add a line, or purchase accessories? These can affect your billing.
+
+3. **Verify usage**: For usage-based charges (like international calls or data overages), check your actual usage in your online account or mobile app.
+
+### How to Dispute a Charge
+
+1. **Contact Customer Support**: The fastest resolution comes from calling our support line at the number on your bill or through the "Support" section of our mobile app (available on iOS and Android).
+
+2. **Provide specific information**:
+   - Your account number
+   - The billing date in question
+   - The specific charge(s) you're disputing
+   - Why you believe the charge is incorrect
+
+3. **Documentation helps**: Screenshots, receipts, or confirmation emails related to promotions or plan changes can help resolve your dispute faster.
+
+### Common Disputed Charges and Explanations
+
+- **Data overage charges**: If you see an additional $15 charge for data, you may have exceeded your plan limit. For example, our 10GB plan charges $15 per additional GB used.
+
+- **Premium service charges**: Charges like "Premium SMS" or "Direct Carrier Billing" (typically $9.99-$19.99) indicate third-party subscriptions, which may have been authorized through app downloads or websites.
+
+- **Proration charges**: When you change plans mid-billing cycle, you'll see partial charges for both plans. For example, if you upgrade from a $60 plan to an $80 plan halfway through your cycle, you might see: $30 (half month of old plan) + $40 (half month of new plan) = $70.
+
+### What Happens After You Dispute
+
+1. **Investigation period**: We'll investigate your dispute within 30 days.
+
+2. **Temporary credit**: In some cases, we may issue a temporary credit while investigating.
+
+3. **Resolution**: You'll receive notification of the outcome through your preferred contact method.
+
+4. **Adjustment or explanation**: If we find the charge was incorrect, we'll adjust your bill. If the charge was valid, we'll provide a detailed explanation.
+
+### Preventing Future Billing Surprises
+
+- Set up usage alerts through our mobile app
+- Review your plan details regularly
+- Monitor third-party subscriptions
+- Check for available promotions that might lower your bill
+
+Need more help? Our support team is available 24/7 through the mobile app's chat feature or by calling customer service.

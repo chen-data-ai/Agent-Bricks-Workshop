@@ -1,0 +1,143 @@
+ID: KB-1220
+Type: Procedure
+Category: Account
+Subcategory: Account suspension process
+Title: Account Suspension Management Procedure
+Tags: account,telecom,procedure,voice,process,account suspension process,suspension
+Last Updated: 2025-02-22 23:59:47
+Generated: 2025-07-13T23:15:42.079091
+
+---
+
+# Account Suspension Management Procedure
+**Document ID:** PROC-ACCT-SUSP-001  
+**Version:** 3.2  
+**Last Updated:** [Current Date]  
+**Classification:** Internal Use Only
+
+## 1. Purpose and Scope
+
+This document outlines the standardized procedure for implementing, managing, and resolving account suspensions. This procedure applies to all customer accounts across residential, business, and enterprise service tiers.
+
+## 2. Pre-Suspension Assessment
+
+### 2.1 Verification Requirements
+- Confirm account identity using at least two of the following:
+  - Account number
+  - Service address
+  - Last 4 digits of account holder's SSN/TIN
+  - Account PIN/password
+  - Authorized user verification
+
+### 2.2 Suspension Qualification Review
+- Validate that the account meets suspension criteria:
+  - Payment delinquency (45+ days past due)
+  - Terms of Service violations
+  - Fraud indicators
+  - Legal/regulatory requirements
+  - Customer-requested suspension
+
+### 2.3 Documentation Requirements
+- Document the specific suspension reason in CRM notes
+- Capture verification method used
+- Record agent ID and timestamp
+- Note any customer communications prior to suspension
+
+## 3. System Processing Steps
+
+### 3.1 CRM Updates
+1. Navigate to Account Management > Suspension Module
+2. Select appropriate suspension type from dropdown menu
+3. Enter required fields:
+   - Suspension reason code
+   - Effective date
+   - Expected resolution date (if applicable)
+   - Authorizing agent ID
+4. Upload supporting documentation if applicable
+
+### 3.2 Billing System Updates
+1. Access Billing Platform > Account Status
+2. Apply appropriate suspension code
+3. Document billing implications:
+   - Suspended services
+   - Continuing charges
+   - Late fee status
+   - Minimum payment requirements for restoration
+
+### 3.3 Service Provisioning Updates
+1. Generate service suspension order in OSS
+2. Verify service suspension across all applicable platforms:
+   - Voice services
+   - Data services
+   - Value-added services
+   - Equipment status changes
+
+## 4. Compliance Requirements
+
+### 4.1 Regulatory Checks
+- Verify compliance with:
+  - State-specific disconnection regulations
+  - FCC requirements for service interruption
+  - Medical necessity exceptions
+  - Military service protections (SCRA)
+  - Bankruptcy stay requirements
+
+### 4.2 Special Circumstances Review
+- Check for protected status indicators:
+  - Medical alert flags
+  - Senior/disability status
+  - Weather emergency restrictions
+  - Pandemic-related protections
+
+### 4.3 Documentation Example
+```
+[05/15/2023 14:32] Agent ID: JS4587
+Account verified via: Account number + Service address
+Suspension reason: Payment delinquency (67 days)
+Compliance checks completed: No medical alerts, no SCRA protection
+Customer notification: Email and SMS sent per protocol
+Resolution requirements: Payment of $347.82 required for restoration
+```
+
+## 5. Customer Notification Process
+
+### 5.1 Required Communications
+- Send suspension notification through all available channels:
+  - SMS alert to primary account contact
+  - Email notification with restoration steps
+  - Mobile app push notification (if enabled)
+  - Outbound call for business/enterprise accounts
+
+### 5.2 Notification Content Requirements
+- Clearly state reason for suspension
+- Provide specific restoration requirements
+- Include timeline for potential disconnection
+- Offer payment arrangement options if applicable
+- Provide customer support contact information
+- Include reference number for the suspension action
+
+## 6. Account Restoration Process
+
+### 6.1 Restoration Triggers
+- Document specific conditions that will trigger restoration:
+  - Payment received
+  - Payment arrangement established
+  - Dispute resolution
+  - Compliance verification completed
+
+### 6.2 System Restoration Steps
+1. Update CRM with resolution details
+2. Generate restoration order in OSS
+3. Verify service restoration across all platforms
+4. Document restoration completion in account notes
+
+## 7. Quality Assurance
+
+### 7.1 Required Audits
+- 100% of suspensions must be reviewed for:
+  - Proper verification
+  - Accurate documentation
+  - Compliance with regulations
+  - Appropriate customer notification
+
+### 7.2 QA Checklist

@@ -1,0 +1,79 @@
+ID: KB-1071
+Type: Policy
+Category: Billing
+Subcategory: Autopay setup
+Title: Autopay Setup Policy
+Tags: setup,autopay setup,policy,phone,billing,plan,autopay,customer
+Last Updated: 2025-02-28 23:59:47
+Generated: 2025-07-13T23:15:53.849308
+
+---
+
+# Autopay Setup Policy
+
+## Overview
+This policy outlines the procedures, terms, and conditions for establishing automatic payment arrangements for your telecommunications services. Autopay allows for the automatic withdrawal of funds from your designated payment method to cover your monthly bill.
+
+## Definitions
+- **Autopay**: An automated payment system that withdraws funds from a customer's designated payment method on a recurring basis to pay their telecommunications bill.
+- **Payment Method**: A valid credit card, debit card, or bank account used for autopay transactions.
+- **Billing Cycle**: The period between billing statements, typically 30 days.
+- **Processing Date**: The date on which the autopay withdrawal is initiated, usually 2-3 business days before the due date.
+
+## Enrollment Process
+1. Customers may enroll in autopay through:
+   - The company mobile app (available on iOS and Android)
+   - Online account management portal
+   - Customer service (phone or in-store)
+   - Text message response to enrollment invitation
+
+2. Required information for enrollment:
+   - Account holder's name
+   - Valid payment method details
+   - Authorization consent
+
+3. Verification process:
+   - A confirmation message will be sent via email and text message within 24 hours of enrollment
+   - The payment method may be subject to a $0.01 verification charge (refunded within 3-5 business days)
+
+## Payment Processing
+1. Customers will receive a bill notification 5-7 days before the processing date.
+2. The full outstanding balance will be withdrawn on the processing date.
+3. A payment confirmation will be sent within 24 hours of successful processing.
+4. If a partial payment is preferred, customers must make manual arrangements at least 3 business days before the processing date.
+
+## Customer Rights and Responsibilities
+1. Customers have the right to:
+   - Cancel autopay at any time (changes take effect within 2 business days)
+   - Update payment method information
+   - Receive advance notification of any changes to this policy
+
+2. Customer responsibilities:
+   - Maintain sufficient funds in the designated account
+   - Update payment information before expiration
+   - Review monthly statements for accuracy
+   - Notify the company of any billing discrepancies within 30 days
+
+## Failed Payments
+1. If an autopay transaction fails:
+   - A notification will be sent within 24 hours
+   - A second attempt will be made 3 business days later
+   - A $25 returned payment fee may apply (subject to state regulations)
+   - Service interruption may occur if payment remains outstanding 10 days after the due date
+
+## Privacy and Security
+1. Payment information is encrypted using industry-standard protocols.
+2. Card and bank information is stored in compliance with PCI DSS standards.
+3. Access to customer payment information is restricted to authorized personnel only.
+
+## Policy Changes
+1. This policy is subject to change with 30 days' advance notice.
+2. Notifications of policy changes will be sent via email, text message, and posted in the online account portal.
+3. Continued use of autopay after notification constitutes acceptance of policy changes.
+
+## Contact Information
+For questions or assistance regarding autopay setup:
+- Mobile app: Access the "Billing" section and select "Autopay Help"
+- Online: Visit the Account Management Portal
+- Phone: Contact Customer Support at 1-800-XXX-XXXX
+- In-store: Visit any company retail location

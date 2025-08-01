@@ -1,0 +1,78 @@
+ID: KB-1040
+Type: FAQ
+Category: Services
+Subcategory: Device protection plans
+Title: What are device protection plans and how do they work?
+Tags: device protection plans,text,services,faq,plans,mobile,coverage,device,protection
+Last Updated: 2024-08-25 23:59:47
+Generated: 2025-07-13T23:15:51.378921
+
+---
+
+# What are device protection plans and how do they work?
+
+## Overview
+Device protection plans are optional insurance services that safeguard your mobile device against damage, loss, theft, and mechanical/electrical failures after the manufacturer's warranty expires. These plans provide peace of mind by covering repair or replacement costs that would otherwise be expensive out-of-pocket expenses.
+
+## Coverage Details
+Our device protection plans typically cover:
+* Accidental damage (drops, spills, cracked screens)
+* Loss and theft
+* Mechanical and electrical failures after manufacturer's warranty
+* Battery replacement (when battery capacity falls below 80%)
+* Same-day device replacement at local stores (subject to inventory availability)
+* Next-day shipping for replacement devices
+
+## Plan Options and Compatibility
+
+### Basic Protection ($8-12/month)
+* Compatible with all standard smartphones and basic phones
+* Covers mechanical/electrical failures
+* $99-149 deductible for replacements
+* Up to 2 claims per 12-month period
+
+### Premium Protection ($12-15/month)
+* Compatible with all smartphones and tablets
+* Covers everything in Basic plus accidental damage
+* $49-99 deductible for repairs, $149-199 for replacements
+* Up to 3 claims per 12-month period
+
+### Premium+ Protection ($15-18/month)
+* Compatible with all devices, including flagship smartphones and tablets
+* Comprehensive coverage including loss and theft
+* $29-49 for screen repairs, $199-249 for replacements
+* Up to 3 claims per 12-month period
+* Includes 50GB cloud backup for photos and contacts
+
+## Activation Requirements
+* Must be added within 30 days of new device purchase or upgrade
+* Device must be in good working condition at time of enrollment
+* Available for postpaid account customers on any rate plan
+* Can be added through My Account mobile app (iOS/Android), online account portal, or in-store
+
+## Filing a Claim
+1. Log into the My Account app or visit our website
+2. Select "File a Claim" under the Device Protection section
+3. Follow the prompts to describe the issue and verify your device details
+4. Pay any applicable deductible
+5. Choose your replacement method (in-store pickup or delivery)
+
+## Maximizing Value
+
+### Practical Example 1: Screen Damage
+Sarah dropped her new smartphone and cracked the screen. Without protection, screen replacement would cost $279. With Premium Protection, she paid just $49 for the repair, saving $230.
+
+### Practical Example 2: Lost Device
+Michael lost his phone while traveling. With Premium+ Protection, he received a replacement device the next day for a $199 deductible instead of paying $899 for a new phone. He also recovered his photos and contacts through the included cloud backup.
+
+### Practical Example 3: Battery Degradation
+After 18 months, David's phone battery only lasted half a day. His Basic Protection plan covered a free battery replacement, extending his device's usable life by years.
+
+## Additional Information
+* Protection plans are billed monthly on your regular wireless bill
+* You can cancel your protection plan at any time
+* Claims can be filed 24/7 through our mobile app or website
+* Replacement devices may be new or refurbished (same model or equivalent)
+* Deductibles vary based on device model and claim type
+
+For specific pricing and coverage details for your device, please check the My Account app or contact Customer Support.

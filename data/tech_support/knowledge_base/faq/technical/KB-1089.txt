@@ -1,0 +1,109 @@
+ID: KB-1089
+Type: FAQ
+Category: Technical
+Subcategory: Cellular data not working
+Title: FAQ: Why is my cellular data not working?
+Tags: payment,technical,cellular,cellular data not working,faq,roaming,voice,data,working
+Last Updated: 2024-07-11 23:59:47
+Generated: 2025-07-13T23:15:55.370955
+
+---
+
+# FAQ: Why is my cellular data not working?
+
+## Overview
+If you're experiencing issues with your cellular data connection, several factors could be causing the problem. This guide will help you troubleshoot common issues and restore your data connection.
+
+## Common Symptoms
+- "No Data Connection" or "No Internet" message
+- Apps unable to load content when not on Wi-Fi
+- "E" or "2G" icon instead of "4G", "LTE", or "5G" in status bar
+- "!" symbol next to signal bars
+- "Mobile data is turned off" notification
+
+## Basic Troubleshooting Steps
+
+### 1. Check if Airplane Mode is enabled
+**For Android:**
+- Swipe down from the top of your screen to access Quick Settings
+- Ensure Airplane Mode is turned OFF (icon should not be highlighted)
+- Alternatively, go to Settings > Network & Internet > Airplane Mode
+
+**For iOS:**
+- Swipe down from the top-right corner (iPhone X or later) or up from the bottom (iPhone 8 or earlier) to open Control Center
+- Ensure Airplane Mode icon (airplane symbol) is not highlighted
+- Or go to Settings and verify Airplane Mode is OFF
+
+### 2. Verify Data is enabled
+**For Android:**
+- Go to Settings > Network & Internet > Mobile Network
+- Ensure Mobile Data is toggled ON
+- Check that Data Saver mode is not restricting your apps
+
+**For iOS:**
+- Go to Settings > Cellular
+- Ensure Cellular Data is toggled ON
+- Check that Low Data Mode is not enabled unless intended
+
+### 3. Check your data usage
+You may have reached your data limit for the current billing cycle.
+- Check your data usage through our mobile app or by logging into your online account
+- Text "USAGE" to [company shortcode] for a quick update
+
+### 4. Restart your device
+A simple restart can resolve many connectivity issues:
+- Power off your device completely
+- Wait 30 seconds
+- Power it back on
+- Allow 1-2 minutes for all services to reconnect
+
+### 5. Check for network outages
+- Visit our Service Status page on our website
+- Check for outage notifications in our mobile app
+- Text "STATUS" to [company shortcode] for network status in your area
+
+### 6. Reset network settings
+**For Android:**
+- Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+- Note: This will remove all saved Wi-Fi passwords and paired Bluetooth devices
+
+**For iOS:**
+- Go to Settings > General > Reset > Reset Network Settings
+- Note: This will remove all saved Wi-Fi passwords and paired Bluetooth devices
+
+### 7. Check APN settings
+**For Android:**
+- Go to Settings > Network & Internet > Mobile Network > Advanced > Access Point Names
+- Ensure the correct APN is selected (typically "[Company Name]")
+- If missing, add a new APN with the following details:
+  - Name: [Company Name]
+  - APN: [specific APN address]
+  - MCC: [specific code]
+  - MNC: [specific code]
+  - Authentication Type: None
+
+**For iOS:**
+- Go to Settings > Cellular > Cellular Data Options > Cellular Network
+- If APN settings are missing, your device may need a carrier settings update
+
+## Device-Specific Solutions
+
+### iPhone Users
+- Check for carrier settings updates: Settings > General > About (wait for update prompt)
+- Ensure Cellular Data is enabled for specific apps: Settings > Cellular > scroll to app list
+- Try removing and reinserting your SIM card with the device powered off
+
+### Android Users
+- Check preferred network type: Settings > Network & Internet > Mobile Network > Preferred Network Type
+- Select "5G/4G/3G/2G Auto" for optimal connectivity
+- Some devices have dual SIM capability; ensure the correct SIM is selected for data
+
+### Samsung Galaxy Devices
+- Navigate to Settings > Connections > Mobile Networks > Access Point Names
+- Verify the correct APN is selected
+- Try switching between "LTE/3G/2G (auto connect)" and "5G/LTE/3G/2G (auto connect)" in network mode settings
+
+## When to Contact Support
+Please contact our technical support team if:
+- You've tried all the steps above and still have no data connection
+- You see error messages like "Registration faile

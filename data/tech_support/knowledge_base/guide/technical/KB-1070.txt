@@ -1,0 +1,102 @@
+ID: KB-1070
+Type: Guide
+Category: Technical
+Subcategory: Wi-fi calling setup
+Title: How to Set Up and Troubleshoot Wi-Fi Calling
+Tags: subscription,account,technical,text,calling,setup,guide,wi-fi,wi-fi calling setup
+Last Updated: 2024-12-22 23:59:47
+Generated: 2025-07-13T23:15:53.713306
+
+---
+
+# How to Set Up and Troubleshoot Wi-Fi Calling
+
+## What is Wi-Fi Calling?
+
+Wi-Fi Calling allows you to make and receive calls and texts over a Wi-Fi network instead of using your cellular connection. This feature is especially useful in areas with weak cellular coverage but strong Wi-Fi connectivity.
+
+## Prerequisites
+
+Before setting up Wi-Fi Calling:
+
+1. Ensure your device supports Wi-Fi Calling
+2. Verify your service plan includes Wi-Fi Calling (most modern plans do)
+3. Connect to a stable Wi-Fi network
+4. Make sure your device is running the latest software version
+
+## Setup Instructions by Device Type
+
+### For iPhone (iOS)
+
+1. **Access Settings**: Open the Settings app on your iPhone
+   - *Expected behavior*: Settings menu will display
+
+2. **Navigate to Phone settings**: Tap on "Phone"
+   - *Expected behavior*: Phone settings menu will appear
+
+3. **Select Wi-Fi Calling**: Tap "Wi-Fi Calling"
+   - *Expected behavior*: Wi-Fi Calling options screen will display
+
+4. **Enable the feature**: Toggle "Wi-Fi Calling on This iPhone" to ON (green)
+   - *Expected behavior*: You may see a prompt to enter or confirm your emergency address
+   - *Success indicator*: "Wi-Fi" or "Wi-Fi Calling" will appear next to your carrier name in the status bar
+
+### For Android Devices
+
+1. **Open Settings**: Access your device Settings
+   - *Expected behavior*: Settings menu will display
+
+2. **Access Network settings**: Tap "Connections," "Network & Internet," or similar (varies by manufacturer)
+   - *Expected behavior*: Network settings will appear
+
+3. **Find calling options**: Tap "Mobile network," "Calls," or "Wi-Fi Calling" (location varies by device)
+   - *Expected behavior*: Calling options will display
+
+4. **Enable Wi-Fi Calling**: Toggle the "Wi-Fi Calling" switch to ON
+   - *Expected behavior*: You may need to enter an emergency address
+   - *Success indicator*: A Wi-Fi calling icon will appear in your status bar when active
+
+## Common Issues and Solutions
+
+### Wi-Fi Calling Option Not Appearing
+
+1. **Check compatibility**: Ensure your device and plan support Wi-Fi Calling
+   - *Expected outcome*: Confirmation of feature availability
+
+2. **Update software**: Install the latest system update
+   - *Expected outcome*: New features and compatibility improvements
+
+3. **Contact support**: If the feature should be available but isn't appearing, contact customer support
+   - *Expected outcome*: Account-specific troubleshooting
+
+### Wi-Fi Calling Not Working
+
+1. **Verify Wi-Fi connection**: Ensure you're connected to a working Wi-Fi network
+   - *Expected outcome*: Strong Wi-Fi signal confirmed
+
+2. **Restart device**: Power off your device completely, then turn it back on
+   - *Expected outcome*: Network services reset properly
+
+3. **Toggle Airplane Mode**: Turn Airplane Mode on for 30 seconds, then off
+   - *Expected outcome*: Network connections refreshed
+
+4. **Reset network settings**: 
+   - On iPhone: Settings > General > Reset > Reset Network Settings
+   - On Android: Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+   - *Expected outcome*: All network connections reconfigured (note: you'll need to reconnect to Wi-Fi networks)
+
+## Managing Wi-Fi Calling Through Your Account
+
+You can also manage Wi-Fi Calling settings through:
+
+1. **Mobile app**: Open your carrier's app, navigate to account settings or features
+2. **Online account**: Log in to your carrier's website, find service features or add-ons
+3. **Customer support**: Contact your carrier if you need assistance enabling the feature on your account
+
+## How to Verify Wi-Fi Calling is Working
+
+- **iPhone**: Look for "Wi-Fi" or "Wi-Fi Calling" next to your carrier name
+- **Android**: Look for a phone icon with Wi-Fi symbol in the status bar
+- **Test call**: Make a test call while in Airplane Mode with Wi-Fi enabled
+
+If you've followed all steps and still experience issues, please contact customer support for personalized assistance.

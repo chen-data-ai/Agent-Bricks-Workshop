@@ -1,0 +1,63 @@
+Ticket ID: TICK-8059
+Customer ID: CUS-11185
+Subscription ID: SUB-10001748
+Category: Technical
+Priority: Critical
+Status: Closed
+Created: 2024-12-10 21:00:14.122000
+Agent ID: TEC-8317
+Resolved: 2024-12-11 21:00:14.122000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8059 (Created: 2024-12-11 05:00)
+
+I'm beyond frustrated with my internet connection at 1478 Oakwood Drive in Portland. For the third time this week, my home internet has completely dropped out during important work meetings. I'm on your Premium Fiber 1Gig plan that I pay $89.99/month for, and this is unacceptable! The router (your company's NetStream Pro X7) keeps showing a blinking red light and the app shows "Error Code: NS-4032 - Connection Interrupted."
+
+I've already tried rebooting the router multiple times, checked all cables, and even used my iPhone 15 Pro as a hotspot to confirm it's not my Apple iPhone 15 Pro Maxs having issues. My Galaxy S24 Ultra can't connect to the WiFi either. I work from home and have critical client presentations this afternoon. I've been a loyal customer for 4 years and this never happened with my previous provider.
+
+I need this fixed IMMEDIATELY. Your app's diagnostic test says "Signal strength: Poor" but your technician who installed it said this location has "excellent coverage." Either send someone today to fix this or credit my account for the downtime. I can't afford to keep missing meetings because your service is unreliable.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8059 | Agent TEC-8317 | Resolved on 2024-12-12 05:00
+
+Dear Valued Customer,
+
+I sincerely apologize for the internet connectivity issues you've experienced at your Portland residence. I understand how frustrating and disruptive these outages have been, especially during your important work meetings. As someone who relies on stable internet for professional commitments, this situation is certainly unacceptable.
+
+Actions Taken:
+1. Accessed your account and confirmed your Premium Fiber 1Gig plan subscription ($89.99/month)
+2. Ran a remote diagnostic on your NetStream Pro X7 router, which confirmed the Error Code NS-4032
+3. Identified signal degradation in the fiber line to your property
+4. Dispatched senior field technician (ID: FT-2145) to your location on 2024-12-11 at 14:30
+5. Technician discovered physical damage to the fiber line at the junction box near your property, likely caused by recent construction work in the area
+6. Replaced 18 feet of damaged fiber optic cable and recalibrated the signal amplifier
+7. Performed comprehensive signal strength testing at multiple points in your home
+8. Updated firmware on your NetStream Pro X7 router to version 12.4.7 (latest release)
+9. Verified stable connection across all bands (2.4GHz and 5GHz)
+
+Resolution Outcome:
+The technician confirmed stable signal strength readings of 95% or higher throughout your home after repairs were completed. All connectivity tests passed with download speeds averaging 987 Mbps and upload speeds of 942 Mbps, which aligns with your Premium Fiber 1Gig plan specifications.
+
+Account Adjustments:
+As per our Service Guarantee Policy (SGP-2024), I've applied a service credit of $17.99 to your account, representing 6 days of service at your current rate. This exceeds our standard 3-day credit policy in recognition of the repeated disruptions you've experienced and your loyalty as a 4-year customer.
+
+Preventative Measures:
+1. Added your account to our Priority Monitoring program for the next 30 days
+2. Scheduled an automated check-in for 2024-12-19 to ensure continued stability
+3. Updated your account with a VIP service flag to prioritize any future support needs
+
+I've also noted in your account that you work from home and rely on our service for professional purposes. Should you experience any further issues, please reference this ticket number when contacting us, and you'll receive expedited support.
+
+We truly value your business and understand the importance of reliable connectivity for your work. Please don't hesitate to contact us if you notice any changes in your service quality.
+
+Thank you for your patience while we resolved this issue.
+
+Sincerely,
+Agent TEC-8317
+Technical Support Team

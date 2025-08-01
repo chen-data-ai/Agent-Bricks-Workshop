@@ -1,0 +1,88 @@
+ID: KB-1019
+Type: FAQ
+Category: Technical
+Subcategory: Device overheating
+Title: Why Is My Mobile Device Overheating?
+Tags: technical,device overheating,faq,overheating,network,device,billing,plan
+Last Updated: 2024-09-27 23:59:47
+Generated: 2025-07-13T23:15:49.853252
+
+---
+
+# Why Is My Mobile Device Overheating?
+
+## Overview
+Device overheating is a common issue that can affect both iOS and Android smartphones and tablets. Excessive heat can impact performance, battery life, and in severe cases, may pose safety concerns. This guide will help you identify causes and resolve overheating issues.
+
+## Common Signs of Overheating
+- Device feels unusually hot to touch, particularly the back panel
+- Battery drains rapidly
+- Performance slows down significantly
+- Camera or flash becomes temporarily disabled
+- Display dims automatically
+- Warning messages appear:
+  - iOS: "Temperature: iPhone/iPad needs to cool down"
+  - Android: "Phone/Device is getting warm" or "Temperature too high"
+- Apps close unexpectedly
+- Device shuts down automatically
+
+## Troubleshooting Steps
+
+### 1. Immediate Actions
+- Remove any case or cover to improve heat dissipation
+- Move device away from direct sunlight or heat sources
+- Turn off the device for 5-10 minutes to allow cooling
+- If charging, disconnect from power source immediately
+
+### 2. Check for Resource-Intensive Activities
+- Close apps running in background:
+  - **iOS**: Double-press home button (or swipe up and hold on newer models) and swipe apps upward to close
+  - **Android**: Tap the recent apps button (square icon) or swipe up from bottom on newer models, then swipe apps away
+- Check for apps that may be stuck or frozen
+- Disable features not in use (Bluetooth, GPS, NFC, mobile hotspot)
+
+### 3. Software Troubleshooting
+- Update your operating system:
+  - **iOS**: Settings > General > Software Update
+  - **Android**: Settings > System > System update (may vary by manufacturer)
+- Update all apps:
+  - **iOS**: App Store > Profile icon > Available Updates
+  - **Android**: Google Play Store > Menu > My apps & games
+- Check for malware using your device's security features or carrier-provided security app
+- Restart your device:
+  - **iOS**: Press and hold side button + volume button until slider appears
+  - **Android**: Press and hold power button until restart option appears
+
+### 4. Advanced Troubleshooting
+- Check battery health:
+  - **iOS**: Settings > Battery > Battery Health
+  - **Android**: Settings > Battery > Battery usage (varies by manufacturer)
+- Clear cache:
+  - **iOS**: Not applicable at system level
+  - **Android**: Settings > Storage > Cached data
+- Check for specific app issues:
+  - Monitor battery usage in settings to identify power-hungry apps
+  - Try temporarily uninstalling recently added apps
+
+### 5. Carrier-Specific Tools
+- Use our [Carrier Name] Support App to run device diagnostics:
+  - Download from App Store or Google Play if not already installed
+  - Navigate to Device Health > Run Diagnostics > Temperature Check
+- Access your online account dashboard for remote device analysis
+
+## When to Contact Support
+Contact our technical support team immediately if:
+- Overheating persists after trying all troubleshooting steps
+- Device is too hot to touch comfortably
+- You notice bulging of the device back panel
+- There's an unusual odor coming from the device
+- Device shows physical damage or battery expansion
+- Overheating occurs even when the device is idle
+
+## Contact Methods
+- Live chat: Available through our Support App or website
+- Phone: [Support Number]
+- Visit a retail store: Find locations in our Support App
+- Schedule a video consultation: Book through online account management
+
+*Note: If your device feels dangerously hot or shows signs of battery damage (swelling, leaking), power off immediately if safe to do so and contact support. Do not place in water or freezer as rapid temperature changes can cause additional damage.*

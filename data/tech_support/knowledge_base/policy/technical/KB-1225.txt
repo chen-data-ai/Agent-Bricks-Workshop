@@ -1,0 +1,108 @@
+ID: KB-1225
+Type: Policy
+Category: Technical
+Subcategory: Network outages
+Title: Network Outage Policy
+Tags: subscription,technical,outages,voice,roaming,network,policy,network outages
+Last Updated: 2024-06-29 23:59:47
+Generated: 2025-07-13T23:15:42.427607
+
+---
+
+# Network Outage Policy
+
+## Purpose
+This policy outlines our procedures and commitments regarding network outages, including planned maintenance and unexpected service disruptions. It defines our service standards, notification protocols, and the respective responsibilities of our company and customers.
+
+## Service Standards
+
+### Uptime Commitment
+- We strive to maintain 99.9% network availability, measured monthly
+- This equates to a maximum of 43 minutes of unplanned downtime per month
+- Service Level Agreements (SLAs) for business customers may specify different uptime guarantees
+
+### Outage Classification
+1. **Critical Outage**: Complete service loss affecting multiple service areas
+2. **Major Outage**: Significant service degradation affecting a single service area
+3. **Minor Outage**: Limited service impact affecting specific features or a small geographic area
+4. **Planned Maintenance**: Scheduled network improvements with advance notification
+
+## Maintenance Windows
+
+### Standard Maintenance
+- Routine maintenance occurs between 12:00 AM and 5:00 AM local time
+- Standard maintenance windows are scheduled on Tuesdays and Thursdays
+- Customers will receive notification at least 72 hours in advance via email, SMS, and in-app alerts
+
+### Emergency Maintenance
+- May occur outside standard windows when necessary to prevent critical failures
+- Minimum 4-hour advance notice when possible
+- Priority given to maintaining core network services
+
+## Customer Notification Protocols
+
+### Notification Methods
+- Email alerts to registered account addresses
+- SMS notifications to primary contact numbers
+- Push notifications via our mobile app (iOS and Android)
+- Status updates on our website and customer portal
+- Social media announcements for widespread outages
+
+### Notification Timeline
+- Planned maintenance: 72+ hours in advance
+- Critical outages: Within 15 minutes of confirmation
+- Service restoration: Within 30 minutes of resolution
+- Post-incident report: Within 48 hours of major incidents
+
+## Remediation Procedures
+
+### Response Times
+- Initial assessment: Within 15 minutes of outage detection
+- Regular status updates: Every 30-60 minutes during ongoing outages
+- Resolution timeframes based on outage classification:
+  * Critical: 4 hours maximum
+  * Major: 8 hours maximum
+  * Minor: 24 hours maximum
+
+### Service Credits
+- Automatic service credits applied when uptime commitments are not met
+- Credit calculation: 5% of monthly service fee for each hour of downtime beyond SLA
+- Credits appear on the next billing cycle
+
+## Customer Responsibilities
+
+### Contact Information
+- Maintaining current contact information for outage notifications
+- Specifying preferred notification methods in account settings
+- Designating primary and secondary contacts for business accounts
+
+### Reporting Outages
+- Report service disruptions via:
+  * Mobile app (fastest method)
+  * Online account portal
+  * Customer support line: 1-800-XXX-XXXX
+- Providing accurate information about service impact and location
+
+### Equipment Verification
+- Performing basic troubleshooting steps as directed
+- Ensuring customer-owned equipment is properly maintained
+- Allowing access to premises if necessary for service restoration
+
+## Company Obligations
+
+### Monitoring and Detection
+- 24/7 network monitoring and proactive issue detection
+- Automated and manual testing procedures
+- Regular network health assessments
+
+### Communication
+- Transparent, timely, and accurate outage information
+- Multiple notification channels to ensure awareness
+- Clear explanations of technical issues in accessible language
+
+### Continuous Improvement
+- Post-incident analysis for all major outages
+- Implementation of preventative measures
+- Regular updates to network infrastructure
+
+For current network status, please visit our Network Status Dashboard in your online account or mobile app.

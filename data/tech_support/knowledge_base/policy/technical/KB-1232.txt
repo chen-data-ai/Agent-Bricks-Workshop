@@ -1,0 +1,104 @@
+ID: KB-1232
+Type: Policy
+Category: Technical
+Subcategory: Internet connectivity issues
+Title: Internet Connectivity Service Policy
+Tags: technical,text,internet connectivity issues,mobile,connectivity,internet,coverage,policy,issues
+Last Updated: 2025-02-25 23:59:47
+Generated: 2025-07-13T23:15:42.938231
+
+---
+
+# Internet Connectivity Service Policy
+
+## 1. Overview
+
+This policy document outlines the standards, procedures, and responsibilities related to internet connectivity services provided by our company. It serves as a reference for both customers and employees regarding how internet connectivity issues are addressed, prevented, and resolved.
+
+## 2. Service Standards
+
+### 2.1 Connectivity Guarantees
+- Standard residential service: 99.5% uptime measured on a monthly basis
+- Business service: 99.9% uptime with Service Level Agreements (SLAs)
+- Enterprise service: 99.99% uptime with enhanced SLAs and priority restoration
+
+### 2.2 Speed and Performance
+- Customers will receive at minimum 80% of their subscribed speed during non-peak hours
+- During peak hours (7:00 PM - 11:00 PM local time), minimum guaranteed speeds may reduce to 70% of subscribed rates
+- Latency targets: <30ms for fiber, <50ms for cable, <100ms for DSL to first hop
+
+## 3. Scheduled Maintenance
+
+### 3.1 Maintenance Windows
+- Routine maintenance: Tuesdays and Thursdays, 2:00 AM - 5:00 AM local time
+- Extended maintenance: First Sunday of each month, 12:00 AM - 6:00 AM local time
+- Emergency maintenance: May occur outside scheduled windows when necessary to protect network integrity
+
+### 3.2 Impact Minimization
+- Maintenance activities will be designed to minimize service disruption
+- Where possible, redundant systems will maintain connectivity during maintenance
+- Business and Enterprise customers may request custom maintenance schedules
+
+## 4. Customer Notification Protocols
+
+### 4.1 Scheduled Maintenance Notifications
+- Standard notification: 7 days advance notice via email and account portal
+- Emergency maintenance: Minimum 24-hour notice when possible
+- Notification methods: Email, SMS (opt-in), in-app notifications, account portal alerts
+
+### 4.2 Outage Communications
+- Initial notification within 30 minutes of confirmed widespread outage
+- Status updates every 60 minutes until resolution
+- Post-incident report available within 48 hours for Business and Enterprise customers
+- Service status available via:
+  - Company website status page
+  - Mobile app (iOS and Android)
+  - Customer service phone line
+
+## 5. Troubleshooting and Remediation Procedures
+
+### 5.1 First-Level Support
+- 24/7 technical support via phone, chat, and mobile app
+- Remote diagnostics of customer equipment when permitted
+- Guided self-service troubleshooting via online portal and mobile app
+
+### 5.2 Escalation Process
+- Tier 1: Basic troubleshooting and known issue identification
+- Tier 2: Advanced troubleshooting and configuration support
+- Tier 3: Network engineering and specialized technical support
+- Field Service: On-site technical support when remote resolution is not possible
+
+### 5.3 Resolution Timeframes
+- Residential service: Best effort resolution within 24-48 hours
+- Business service: Resolution within 8-24 hours per SLA
+- Enterprise service: Resolution within 4-8 hours per SLA
+
+## 6. Customer Responsibilities
+
+### 6.1 Equipment and Environment
+- Maintain company-provided equipment in appropriate environmental conditions
+- Follow recommended setup guidelines for customer-owned equipment
+- Provide adequate power, ventilation, and protection from water/physical damage
+- Report any physical damage to equipment promptly
+
+### 6.2 Access and Cooperation
+- Provide reasonable access to premises for installation and repair
+- Follow troubleshooting instructions when reporting issues
+- Maintain current contact information for service notifications
+- Promptly respond to requests for information during troubleshooting
+
+### 6.3 Acceptable Use
+- Adhere to the Acceptable Use Policy regarding bandwidth consumption
+- Refrain from activities that may disrupt network performance
+- Secure your network to prevent unauthorized access and malicious activity
+
+## 7. Company Obligations
+
+### 7.1 Service Restoration
+- Prioritize restoration of services based on outage scope and customer tier
+- Deploy appropriate resources to resolve connectivity issues
+- Provide loaner equipment when necessary during extended repair periods
+
+### 7.2 Service Credits
+- Automatic service credits applied when uptime guarantees are not met
+- Additional credits available upon request for extended outages

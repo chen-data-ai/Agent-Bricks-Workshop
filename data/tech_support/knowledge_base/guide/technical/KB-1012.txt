@@ -1,0 +1,89 @@
+ID: KB-1012
+Type: Guide
+Category: Technical
+Subcategory: Cellular data not working
+Title: Troubleshooting Guide: Cellular Data Not Working
+Tags: technical,service,cellular,cellular data not working,coverage,guide,data,phone,working
+Last Updated: 2024-09-10 23:59:47
+Generated: 2025-07-13T23:15:49.351737
+
+---
+
+# Troubleshooting Guide: Cellular Data Not Working
+
+## Introduction
+When your cellular data stops working, it can disrupt important activities like navigation, email, and social media. This guide will help you diagnose and resolve common cellular data issues across different devices and carriers.
+
+## Prerequisites
+Before starting troubleshooting:
+- Ensure your account is active and in good standing
+- Verify you're in a coverage area using our coverage map in the mobile app
+- Confirm you haven't exceeded your data limit (check via the app or by logging into your online account)
+
+## Step-by-Step Troubleshooting
+
+### Step 1: Check Airplane Mode
+**Action:** Ensure Airplane Mode is turned off.
+- **iOS:** Swipe down from the top-right corner (or up from bottom on older models) and check if the airplane icon is highlighted
+- **Android:** Swipe down from the top of the screen and check if the airplane icon is highlighted
+
+**Expected Result:** Airplane Mode should be disabled (icon not highlighted).
+
+### Step 2: Verify Data is Enabled
+**Action:** Confirm cellular data is turned on in your settings.
+- **iOS:** Go to Settings > Cellular > Make sure "Cellular Data" is toggled on
+- **Android:** Go to Settings > Network & Internet > Mobile network > Make sure "Mobile data" is toggled on
+
+**Expected Result:** You should see the data icon (LTE, 4G, 5G) in your status bar.
+
+### Step 3: Restart Your Device
+**Action:** Perform a complete device restart.
+- **iOS:** Press and hold power button + volume button, then slide to power off. Wait 30 seconds before powering back on.
+- **Android:** Press and hold the power button, select "Restart" or power off completely and turn back on after 30 seconds.
+
+**Expected Result:** After restarting, your device should reconnect to the cellular network.
+
+### Step 4: Check APN Settings
+**Action:** Verify your Access Point Name (APN) settings are correct.
+- **iOS:** Go to Settings > Cellular > Cellular Data Options > Cellular Network
+- **Android:** Go to Settings > Network & Internet > Mobile network > Advanced > Access Point Names
+
+**Expected Result:** APN settings should match those provided by your carrier (refer to your welcome materials or carrier's website for specific values).
+
+### Step 5: Reset Network Settings
+**Action:** Reset all network settings (note: this will remove saved Wi-Fi passwords).
+- **iOS:** Go to Settings > General > Reset > Reset Network Settings
+- **Android:** Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+
+**Expected Result:** Your device will restart and reconnect to the cellular network with default settings.
+
+### Step 6: Check for Carrier Settings Update
+**Action:** Verify if there are carrier settings updates available.
+- **iOS:** Go to Settings > General > About (wait a few seconds to see if an update appears)
+- **Android:** Go to Settings > System > Advanced > System update
+
+**Expected Result:** If an update is available, follow the prompts to install it.
+
+### Step 7: Test SIM Card
+**Action:** Remove and reinsert your SIM card.
+1. Power off your device completely
+2. Locate the SIM tray (usually on the side of your device)
+3. Use the SIM ejection tool to open the tray
+4. Remove the SIM card, inspect for damage, and reinsert properly
+5. Power your device back on
+
+**Expected Result:** Your device should recognize the SIM card and connect to the network.
+
+## How to Verify Success
+Your cellular data is working properly when:
+- Data icon (5G, LTE, 4G) appears in your status bar
+- You can load a website with Wi-Fi turned off
+- Mobile apps can access online content
+
+## Still Having Issues?
+If you've completed all steps and still can't connect:
+- Contact customer support through our mobile app's chat feature
+- Visit your nearest store for SIM card testing/replacement
+- Call our technical support line at [carrier phone number]
+
+Remember to have your account information and device details ready when contacting support for faster assistance.

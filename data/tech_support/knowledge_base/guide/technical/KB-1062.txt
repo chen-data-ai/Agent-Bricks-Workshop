@@ -1,0 +1,101 @@
+ID: KB-1062
+Type: Guide
+Category: Technical
+Subcategory: 5g connection troubleshooting
+Title: 5G Connection Troubleshooting Guide
+Tags: troubleshooting,technical,text,5g connection troubleshooting,5g,network,guide,connection,plan
+Last Updated: 2024-08-16 23:59:47
+Generated: 2025-07-13T23:15:53.111479
+
+---
+
+# 5G Connection Troubleshooting Guide
+
+## Introduction
+This guide helps you resolve common 5G connectivity issues on your mobile device. 5G technology offers faster speeds and lower latency than 4G, but may sometimes require troubleshooting to maintain optimal performance.
+
+## Prerequisites
+Before starting:
+- Confirm your device is 5G-compatible
+- Verify you have an active 5G plan with your carrier
+- Check that you're in a 5G coverage area using your carrier's coverage map in their mobile app or website
+
+## Common Issues and Solutions
+
+### Issue 1: Unable to Connect to 5G Network
+
+#### Step 1: Check 5G is Enabled
+**For Android:**
+1. Go to Settings > Connections > Mobile Networks
+2. Ensure "Network Mode" is set to "5G/LTE/3G/2G" or "Automatic"
+3. Expected result: Your device will search for the best available network, including 5G
+
+**For iPhone (iOS 14 or later):**
+1. Go to Settings > Cellular > Cellular Data Options
+2. Tap "Voice & Data" and select "5G Auto" or "5G On"
+3. Expected result: Your status bar should display "5G" when connected
+
+#### Step 2: Toggle Airplane Mode
+1. Swipe down from the top of your screen to access quick settings
+2. Turn on Airplane Mode for 10 seconds
+3. Turn off Airplane Mode
+4. Expected result: Your device will reconnect to available networks, potentially resolving connection issues
+5. Success indicator: 5G icon appears in your status bar
+
+#### Step 3: Reset Network Settings
+**For Android:**
+1. Go to Settings > System > Reset options
+2. Select "Reset Wi-Fi, mobile & Bluetooth"
+3. Confirm the reset
+4. Expected result: All network connections will be reset to factory defaults
+5. Note: This will remove saved Wi-Fi passwords
+
+**For iPhone:**
+1. Go to Settings > General > Reset (or Transfer/Reset iPhone)
+2. Select "Reset Network Settings"
+3. Enter your passcode and confirm
+4. Expected result: Device will restart with factory default network settings
+
+### Issue 2: 5G Connected but Slow Performance
+
+#### Step 1: Check Signal Strength
+1. Observe the signal bars in your status bar
+2. If signal is weak (1-2 bars), move to a different location
+3. Expected result: Better signal strength should improve performance
+4. Success indicator: More signal bars displayed
+
+#### Step 2: Test Network Speed
+1. Download a speed test app (like Speedtest by Ookla) from your app store
+2. Run a speed test
+3. Expected result: 5G speeds typically range from 50-1000+ Mbps depending on your location and carrier
+4. If speeds are significantly lower, continue troubleshooting
+
+#### Step 3: Check Data Usage and Throttling
+1. Open your carrier's mobile app or check your online account
+2. Review your data usage for the current billing cycle
+3. Expected result: If you've exceeded data limits, your carrier may be throttling speeds
+4. Solution: Consider upgrading your data plan if consistently reaching limits
+
+### Issue 3: Battery Draining Quickly on 5G
+
+#### Step 1: Adjust 5G Settings
+**For Android:**
+1. Go to Settings > Connections > Mobile Networks > Network Mode
+2. Select "LTE/3G/2G" when battery conservation is needed
+3. Expected result: Reduced battery consumption at the cost of connection speed
+
+**For iPhone:**
+1. Go to Settings > Cellular > Cellular Data Options > Voice & Data
+2. Select "5G Auto" instead of "5G On" to allow the phone to use 5G only when it won't significantly impact battery life
+3. Expected result: Better battery performance while maintaining good connection speeds
+
+#### Step 2: Enable Battery Saving Features
+1. Go to your device's battery settings
+2. Enable power saving mode
+3. Expected result: Extended battery life with potentially reduced performance
+4. Success indicator: Battery icon may change color or display a power saving indicator
+
+## When to Contact Support
+If you've tried all troubleshooting steps and still experience 5G connectivity issues:
+1. Contact your carrier's customer support through their mobile app, website, or phone
+2. Have ready: your account information, device model, an

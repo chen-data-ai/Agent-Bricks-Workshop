@@ -1,0 +1,112 @@
+ID: KB-1021
+Type: Guide
+Category: Account
+Subcategory: Account security
+Title: Account Security Guide for Telecom Customers
+Tags: account,security,text,service,guide,account security,phone
+Last Updated: 2024-10-03 23:59:47
+Generated: 2025-07-13T23:15:49.969150
+
+---
+
+# Account Security Guide for Telecom Customers
+
+## Introduction
+Protecting your telecom account from unauthorized access is essential to safeguard your personal information and prevent fraudulent activity. This guide outlines best practices and procedures for maintaining optimal account security.
+
+## Setting Up Strong Account Security
+
+### Creating a Secure Password
+1. Choose a password that is at least 12 characters long
+2. Include a mix of uppercase letters, lowercase letters, numbers, and special characters
+3. Avoid using personal information like birthdays or names
+4. Use a unique password not used for other accounts
+5. Change your password every 3-6 months
+
+### Enabling Two-Factor Authentication (2FA)
+1. Log into your account through our mobile app or website
+2. Navigate to "Security Settings" or "Account Settings"
+3. Select "Two-Factor Authentication"
+4. Choose your preferred verification method:
+   - SMS text message (processing time: immediate)
+   - Email verification code (processing time: immediate)
+   - Authenticator app (processing time: 2-3 minutes for setup)
+5. Follow the on-screen instructions to complete setup
+
+**Security Consideration:** Authenticator apps (like Google Authenticator or Microsoft Authenticator) provide stronger security than SMS verification.
+
+## Managing Account Access
+
+### Authorized Users
+1. To add an authorized user:
+   - Online: Account Settings → User Management → Add User
+   - Phone: Call customer service at 1-800-XXX-XXXX
+   - In-store: Visit with both parties and valid ID
+   
+2. Required documentation:
+   - Primary account holder's government-issued ID
+   - Secondary user's government-issued ID
+   - Completed authorization form (available online or in-store)
+
+**Processing Time:** 24-48 hours for verification and activation
+
+### Account PIN/Security Questions
+1. Set up a PIN or security questions through:
+   - Online: Security Settings → Verification Methods
+   - Mobile App: Profile → Security → Manage Verification
+   - Phone: Customer service guided setup
+   - In-store: Representative assisted setup
+
+**Security Consideration:** Choose questions with answers only you would know but that you won't forget.
+
+## Monitoring Account Activity
+
+### Setting Up Alerts
+1. Navigate to "Notifications" or "Alerts" in your account settings
+2. Enable alerts for:
+   - Password changes
+   - New device logins
+   - Payment method changes
+   - Address or contact information updates
+   - Unusual account activity
+
+**Processing Time:** Alert settings apply immediately
+
+### Reviewing Account Activity
+1. Check recent account activity through:
+   - Mobile App: Activity tab (iOS and Android)
+   - Online: Account Dashboard → Recent Activity
+   - Phone: Request activity summary from customer service
+
+**Security Consideration:** Review activity logs monthly to identify unauthorized changes
+
+## Responding to Security Concerns
+
+### If You Suspect Unauthorized Access
+1. Immediately change your password
+2. Contact customer support:
+   - Phone: 1-800-XXX-XXXX (24/7 security hotline)
+   - Live Chat: Available through website or mobile app
+   - In-store: Visit any retail location
+3. Request a security freeze on your account
+
+**Processing Time:** Security freezes are applied immediately but may take up to 24 hours to fully process
+
+### Recovering a Compromised Account
+1. Verify your identity using:
+   - Government-issued ID
+   - Recent bill or account statement
+   - Knowledge-based verification questions
+2. Reset all security credentials
+3. Review recent transactions and report unauthorized charges
+
+**Processing Time:** Account recovery typically takes 1-2 business days
+
+## Additional Security Best Practices
+- Update contact information promptly to ensure you receive security alerts
+- Never share account credentials or verification codes with others
+- Log out of your account when using shared or public devices
+- Keep your mobile device's operating system and our app updated
+- Enable biometric authentication (fingerprint/face recognition) where available on iOS and Android devices
+
+For additional assistance with account security, contact our dedicated security team at security@telecomprovider.com or 1-800-XXX-XXXX.

@@ -1,0 +1,78 @@
+ID: KB-1088
+Type: FAQ
+Category: Account
+Subcategory: Changing account details
+Title: How do I change my account details?
+Tags: account,details,faq,telecom,network,changing,changing account details,customer
+Last Updated: 2025-01-12 23:59:47
+Generated: 2025-07-13T23:15:55.304936
+
+---
+
+# How do I change my account details?
+
+## Overview
+You can update various account details through our online portal, mobile app, or by contacting customer service. Different types of changes require different verification methods and have varying processing times.
+
+## What account details can I change?
+
+You can modify the following information:
+- Contact information (phone number, email address)
+- Billing address
+- Payment method
+- Account password/PIN
+- Name on account (requires additional verification)
+- Account ownership transfer (requires extensive verification)
+
+## How to change your account details
+
+### Online Account Management
+1. Log in to your account at [my.provider.com](https://my.provider.com)
+2. Navigate to "Account Settings" or "Profile"
+3. Select the specific detail you wish to update
+4. Follow the on-screen instructions to verify your identity
+5. Submit your changes
+
+### Mobile App
+1. Open our mobile app (available on iOS and Android)
+2. Tap on the "Account" or "Profile" section
+3. Select "Edit" next to the information you want to change
+4. Complete the verification process when prompted
+5. Save your changes
+
+### Customer Service
+For assistance changing account details, contact our customer service at 1-800-XXX-XXXX. Please have your account number and identification ready.
+
+## Verification Requirements
+
+Different changes require different levels of verification:
+- **Basic changes** (email, phone number): Account PIN or one-time verification code
+- **Address changes**: Last 4 digits of payment method and account PIN
+- **Payment method**: Verification of new payment details
+- **Name changes**: Government-issued ID (can be uploaded securely online)
+- **Account ownership**: Both current and new account holders must provide ID and complete a transfer form
+
+## Processing Timeframes
+
+- **Contact information**: Immediate
+- **Billing address**: 1-2 business days
+- **Payment method**: Immediate for credit/debit cards; 3-5 business days for bank accounts
+- **Name changes**: 3-5 business days for processing
+- **Account ownership**: 5-7 business days
+
+## Impact on Billing and Services
+
+- Changes to your billing address may affect applicable taxes and fees on your next bill
+- Updating your payment method mid-billing cycle will not affect current charges
+- Name changes will be reflected on your next bill
+- Account ownership transfers may result in prorated charges on the final and first bills
+- Some changes may trigger a temporary security hold on new purchases or plan changes (typically 24 hours)
+
+## Important Notes
+
+- Always ensure your contact information is current to receive important account notifications
+- If you're moving to a new service area, you may need to review your service availability
+- For business accounts, only authorized account administrators can make changes
+- If you suspect unauthorized changes to your account, contact customer service immediately
+
+Need additional help? Contact our support team at 1-800-XXX-XXXX or chat with us through the mobile app.

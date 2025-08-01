@@ -1,0 +1,60 @@
+ID: KB-1156
+Type: FAQ
+Category: Billing
+Subcategory: Payment due dates
+Title: When is my payment due?
+Tags: payment,payment due dates,faq,telecom,network,phone,billing,dates
+Last Updated: 2025-04-25 23:59:47
+Generated: 2025-07-13T23:15:46.360375
+
+---
+
+# When is my payment due?
+
+Your payment is due on the same date each month, as indicated on your monthly bill. This due date is typically 14-21 days after your bill is generated, giving you ample time to review your charges and make payment arrangements.
+
+## Understanding your due date
+
+Your specific payment due date is clearly marked on your bill in several places:
+- At the top of your paper bill summary
+- On the first page of your PDF bill (if you receive electronic bills)
+- In your online account under "Billing Summary"
+- In our mobile app under "Bill Details"
+
+## What happens if I miss my due date?
+
+If payment isn't received by the due date:
+1. A late fee of $5 or 1.5% of the unpaid balance (whichever is greater) may be applied to your next bill
+2. After 3 days past due, you may receive payment reminders via text or email
+3. After 10 days past due, service restrictions may apply
+4. After 30 days past due, service suspension may occur
+
+## Payment options and timing
+
+Different payment methods have different processing times:
+- **Online/app payments**: Same-day processing if made before 8 PM ET
+- **Phone payments**: Same-day processing if made before 6 PM ET
+- **Mail payments**: Allow 5-7 business days for delivery and processing
+- **In-store payments**: Processed immediately
+- **Automatic payments**: Drafted on your due date (or 1-2 business days before)
+
+## Changing your due date
+
+If your current due date doesn't align well with your personal finances:
+- You can request a one-time due date change through your online account
+- Select a new date between the 1st and 28th of the month
+- Changes typically take effect on your next billing cycle
+- You're allowed one due date change every 12 months
+
+## Common questions about due dates
+
+**Q: Will I be notified before my payment is due?**
+Yes! We send payment reminders 3-5 days before your due date via your preferred communication method (email, text, or app notification).
+
+**Q: If I make a partial payment, will I still be charged a late fee?**
+Yes. To avoid late fees, you must pay at least the "Minimum Payment Due" amount shown on your bill by the due date.
+
+**Q: How does autopay work with my due date?**
+With autopay, we'll automatically draft your payment on your due date (or 1-2 business days before, depending on your bank's processing time).
+
+Need more help? You can chat with us in the mobile app, call customer service at 1-800-555-0123, or visit your nearest store location.

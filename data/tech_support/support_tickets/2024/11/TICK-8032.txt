@@ -1,0 +1,58 @@
+Ticket ID: TICK-8032
+Customer ID: CUS-10366
+Subscription ID: SUB-10000549
+Category: Technical
+Priority: High
+Status: Closed
+Created: 2024-11-09 20:50:04.989000
+Agent ID: TEC-5005
+Resolved: 2024-11-09 20:50:04.989000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8032 (Created: 2024-11-10 04:50)
+
+I've been trying to use my mobile hotspot on my new Galaxy S24 Ultra for the past 3 hours and keep getting the error message "Mobile Hotspot Unavailable - Network connection error (Code: HT-4021)". This is absolutely infuriating! I'm at my cabin in Lake Tahoe where there's no WiFi, and I specifically upgraded to your Premium Unlimited Plus plan last month because it includes 50GB of hotspot data. I have full 5G bars showing on my phone, but every time I try to activate the hotspot it fails after about 10 seconds.
+
+I've already tried restarting my phone FOUR times, toggled airplane mode on/off, and even reset my network settings which was a huge hassle since I had to reconnect everything. Nothing works! I'm trying to finish an urgent work presentation that's due tomorrow morning and I can't access any of my cloud files without a connection for my laptop.
+
+Is there an outage in the Lake Tahoe area? Or is something wrong with my account permissions? I'm paying extra for this hotspot feature and it's completely useless right now. Please help me resolve this ASAP - I'm desperate and running out of options here.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8032 | Agent TEC-5005 | Resolved on 2024-11-10 04:50
+
+Dear Valued Customer,
+
+Thank you for contacting us regarding the mobile hotspot issue you're experiencing with your Galaxy S24 Ultra. I understand how frustrating this situation must be, especially when you're relying on the hotspot feature for important work while at your cabin in Lake Tahoe.
+
+After reviewing your account in our billing system, I confirmed that your Premium Unlimited Plus plan is active and includes the 50GB hotspot allocation as expected. I also checked our network status dashboard and found no reported outages in the Lake Tahoe area.
+
+The error code HT-4021 typically indicates a provisioning issue between your device and our network. I've taken the following actions to resolve this:
+
+1. Refreshed your line's network provisioning settings in our backend system (ATLAS)
+2. Reset the hotspot feature flag on your account
+3. Pushed a new network configuration to your device
+
+To complete the resolution process, please follow these steps:
+- Power off your device completely
+- Wait 30 seconds, then power it back on
+- Once fully restarted, go to Settings > Connections > Mobile Hotspot and Tethering
+- Toggle the Mobile Hotspot switch to ON
+
+The hotspot should now function properly. I've also added a note to your account regarding this issue and applied a one-time courtesy credit of $15 to your next bill as compensation for the inconvenience experienced.
+
+If you continue to experience any issues with the hotspot functionality after completing these steps, please:
+1. Check if the "Hotspot" APN is selected in your mobile network settings
+2. Try connecting in a different location if possible, as some remote areas may have strong signal but limited bandwidth
+3. Contact us again and reference this ticket number
+
+We value your business and appreciate your patience while we resolved this matter. Is there anything else I can assist you with today?
+
+Best regards,
+Agent TEC-5005
+Technical Support Team

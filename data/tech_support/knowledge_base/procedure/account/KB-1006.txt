@@ -1,0 +1,124 @@
+ID: KB-1006
+Type: Procedure
+Category: Account
+Subcategory: Account security
+Title: Account Security Management Procedure
+Tags: account,security,service,procedure,account security,phone,customer
+Last Updated: 2024-08-27 23:59:47
+Generated: 2025-07-13T23:15:48.935024
+
+---
+
+# Account Security Management Procedure
+**Document ID:** SEC-PROC-2023-01  
+**Version:** 1.2  
+**Last Updated:** October 2023  
+**Classification:** Internal Use Only
+
+## 1. Purpose and Scope
+
+This procedure outlines the standardized process for managing security aspects of customer accounts, including verification, updates, and notifications. This document applies to all customer support representatives with account management access.
+
+## 2. Account Verification Protocol
+
+### 2.1 Primary Verification (Required)
+1. Request the account holder to provide their:
+   - Full name as it appears on the account
+   - Account number or phone number
+   - Last 4 digits of the payment method on file
+
+2. Secondary authentication (at least one required):
+   - One-time PIN sent to the registered mobile number or email
+   - Answers to security questions
+   - Recent transaction details (amount and date)
+
+### 2.2 Escalated Verification (For sensitive changes)
+1. Government-issued photo ID verification
+2. Billing address confirmation
+3. Call-back verification to the number on file
+
+**Example Documentation:**
+```
+[10/15/2023 14:32] Customer identity verified via:
+- Account number confirmation
+- DOB match
+- OTP sent to (XXX) XXX-1234 and verified
+- Security question: First pet name (correct)
+```
+
+## 3. System Updates Required
+
+### 3.1 Account Access Changes
+1. Access the Customer Account Management System (CAMS)
+2. Navigate to "Security Settings" > "Access Management"
+3. Document the current settings before making changes
+4. Implement requested changes with appropriate approval level
+5. Update the authentication method if necessary
+6. Set appropriate expiration dates for temporary access
+
+### 3.2 Password/PIN Resets
+1. Verify identity using the protocol in Section 2
+2. Access "Security Credentials" in CAMS
+3. Select "Generate Temporary Credentials"
+4. Document the reset in the account notes
+5. Ensure temporary credentials require change upon first use
+
+**System Path Reference:**
+CAMS > Customer Profile > Security > Manage Authentication > Reset Credentials
+
+## 4. Compliance Requirements
+
+### 4.1 Regulatory Compliance Checks
+- Ensure all changes comply with current telecommunications regulations
+- Verify customer identity meets CPNI (Customer Proprietary Network Information) standards
+- Document compliance with data protection regulations (GDPR, CCPA, etc. as applicable)
+- Confirm proper consent is obtained for any data processing changes
+
+### 4.2 Internal Policy Compliance
+- Verify changes align with current security policies
+- Ensure proper approval levels are obtained for sensitive changes
+- Confirm retention periods for security information are set correctly
+- Check that account changes are within authorized representative's permission level
+
+**Compliance Checklist:**
+- [ ] CPNI verification complete
+- [ ] Required approvals obtained
+- [ ] Changes within agent authorization level
+- [ ] Documentation meets retention requirements
+- [ ] Customer consent properly recorded
+
+## 5. Customer Notification Requirements
+
+### 5.1 Mandatory Notifications
+1. Account access changes notification via email and SMS
+2. Password/PIN reset confirmations
+3. New device authorizations
+4. Changes to security settings
+
+### 5.2 Notification Content Requirements
+- Clear identification of the company (avoid elements that could appear as phishing)
+- Description of what changed (without revealing sensitive details)
+- Date and time of the change
+- Contact information for questions/concerns
+- Instructions if the change was unauthorized
+
+**Example Notification:**
+```
+Security Alert: Your [Company] account security settings were updated on Oct 15, 2023 at 2:35 PM EST. A new device was authorized to access your account. If you did not make this change, please contact Customer Support immediately at 800-XXX-XXXX or through your mobile app's secure messaging.
+```
+
+## 6. Documentation Standards
+
+### 6.1 Required Documentation Elements
+- Date and time of security change
+- Type of change implemented
+- Verification methods used
+- Agent ID/name who processed the change
+- Ticket/case reference number
+- Customer confirmation method
+- System modules accessed
+
+### 6.2 Documentation Example
+```
+[Case #23456789] - 10/15/2023 14:45 - Security settings updated
+- Changed account PIN per

@@ -1,0 +1,133 @@
+ID: KB-1133
+Type: Procedure
+Category: Technical
+Subcategory: Cellular data not working
+Title: Technical Support Procedure: Resolving Cellular Data Connectivity Issues
+Tags: payment,subscription,technical,cellular,cellular data not working,telecom,procedure,data,working
+Last Updated: 2025-04-23 23:59:47
+Generated: 2025-07-13T23:15:44.823929
+
+---
+
+# Technical Support Procedure: Resolving Cellular Data Connectivity Issues
+
+**Document ID:** TS-DATA-001  
+**Last Updated:** [Current Date]  
+**Classification:** Internal Support Document  
+**Systems Required:** Customer Account Management System (CAMS), Network Diagnostic Tool (NDT), Billing System
+
+## 1. Overview
+
+This procedure guides support agents through a systematic approach to diagnose and resolve cellular data connectivity issues reported by customers. Following these steps will help identify whether the problem stems from account/billing issues, device configuration, network coverage, or hardware malfunction.
+
+## 2. Required Tools/System Access
+
+- Customer Account Management System (CAMS) - Level 2 access
+- Network Diagnostic Tool (NDT) - Basic diagnostic access
+- Billing System - Account status verification access
+- Network Coverage Map Tool
+- Device Troubleshooting Guide Database
+- Ticket Management System
+
+## 3. Diagnostic Procedure
+
+### 3.1 Initial Assessment
+
+1. Verify customer identity using standard authentication protocol
+2. Document the following information:
+   - Device make and model
+   - Operating system version
+   - SIM card number (ICCID)
+   - When the issue began
+   - Any recent changes (software updates, travel, plan changes)
+   - Error messages displayed (if any)
+
+### 3.2 Account Verification
+
+1. Access CAMS to verify:
+   - Account status (active/suspended)
+   - Data plan details and allowances
+   - Data usage for current billing cycle
+   - Any data speed restrictions or throttling in effect
+   - Recent plan changes or billing issues
+
+**Decision Point:**
+- If account is suspended → Proceed to Section 4.1
+- If data limit exceeded → Proceed to Section 4.2
+- If account is active with available data → Continue to Section 3.3
+
+### 3.3 Network Status Check
+
+1. Access NDT to verify:
+   - Network status in customer's area
+   - Any reported outages or maintenance
+   - Tower performance metrics
+   - Expected signal strength at customer location
+
+**Decision Point:**
+- If network outage confirmed → Proceed to Section 4.3
+- If no network issues detected → Continue to Section 3.4
+
+### 3.4 Device Configuration Check
+
+1. Guide customer to verify:
+   - Cellular data is enabled (Settings > Cellular/Mobile Data)
+   - Airplane mode is disabled
+   - Data roaming settings (if applicable)
+   - APN settings match recommended configuration
+   - Mobile data is enabled for specific apps (if applicable)
+
+2. For iOS devices:
+   - Navigate to Settings > Cellular > Cellular Data Options
+   - Verify correct network mode selection (5G/LTE/3G)
+   - Check for carrier settings updates
+
+3. For Android devices:
+   - Navigate to Settings > Network & Internet > Mobile Network
+   - Verify preferred network type
+   - Check Access Point Names (APN) settings
+
+**Decision Point:**
+- If configuration issue identified and resolved → Proceed to Section 5
+- If configuration appears correct → Continue to Section 3.5
+
+### 3.5 Device Troubleshooting
+
+1. Guide customer through basic device troubleshooting:
+   - Toggle Airplane mode on/off
+   - Restart device
+   - Remove and reinsert SIM card (if accessible)
+   - Reset network settings
+
+2. Perform signal strength test:
+   - Guide customer to check signal bars/indicator
+   - Document signal strength in dBm if available
+   - Test in multiple locations if possible
+
+3. Test alternative data connections:
+   - Verify if Wi-Fi connectivity works properly
+   - Test if voice calls function normally
+
+**Decision Point:**
+- If issue resolved during troubleshooting → Proceed to Section 5
+- If issue persists → Continue to Section 3.6
+
+### 3.6 Advanced Diagnostics
+
+1. Access NDT to perform:
+   - Remote SIM card validation
+   - IMEI verification and status check
+   - Network registration status check
+   - Data connection test to cell tower
+
+2. Perform device-specific diagnostics:
+   - Check for software updates
+   - Verify compatibility with network bands
+   - Check for known issues with device model/OS version
+
+## 4. Resolution Paths
+
+### 4.1 Account Status Resolution
+
+1. If suspended due to payment:
+   - Inform customer of outstanding

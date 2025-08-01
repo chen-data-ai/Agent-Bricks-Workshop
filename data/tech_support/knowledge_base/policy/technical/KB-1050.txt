@@ -1,0 +1,75 @@
+ID: KB-1050
+Type: Policy
+Category: Technical
+Subcategory: Wi-fi calling setup
+Title: Wi-Fi Calling Setup Policy
+Tags: technical,calling,setup,mobile,voice,network,wi-fi calling setup,policy,wi-fi
+Last Updated: 2024-12-06 23:59:47
+Generated: 2025-07-13T23:15:52.207819
+
+---
+
+# Wi-Fi Calling Setup Policy
+
+## Overview
+This policy outlines the standards, procedures, and responsibilities related to Wi-Fi Calling service, which allows customers to make and receive calls over a Wi-Fi network when cellular coverage is limited or unavailable.
+
+## Service Description
+Wi-Fi Calling is a complementary service available to eligible customers at no additional charge. This service routes calls through available Wi-Fi networks instead of cellular towers, providing enhanced coverage in areas with limited cellular reception.
+
+## Eligibility Requirements
+- Customer must have a Wi-Fi Calling compatible device
+- Customer must be on a qualifying rate plan
+- Customer must have an active account in good standing
+- E911 address must be registered (for emergency services)
+
+## Service Standards
+1. **Availability**: Wi-Fi Calling is designed to function on any stable Wi-Fi network with sufficient bandwidth (minimum recommended: 1 Mbps)
+2. **Quality**: Call quality is dependent on the customer's Wi-Fi network stability and speed
+3. **Seamless Transition**: When configured properly, calls should transition between Wi-Fi and cellular networks with minimal disruption
+
+## Setup Procedures
+The company will:
+- Provide clear setup instructions through multiple channels (website, app, customer support)
+- Ensure compatibility information is up-to-date
+- Maintain technical support for setup assistance
+
+The customer is responsible for:
+- Ensuring their device meets compatibility requirements
+- Following the provided setup instructions
+- Registering an accurate E911 address
+- Maintaining a stable Wi-Fi network
+
+## Maintenance Windows
+- Scheduled maintenance affecting Wi-Fi Calling services will occur between 12:00 AM and 5:00 AM local time
+- Maintenance notifications will be provided at least 72 hours in advance through the mobile app, account portal, and email
+- Emergency maintenance may occur outside scheduled windows with best-effort notification
+
+## Customer Notification Protocols
+Customers will be notified of:
+- Service eligibility through account messages
+- Setup requirements upon service activation
+- Maintenance windows affecting service
+- Service enhancements or changes
+- Troubleshooting recommendations when issues are detected
+
+## Troubleshooting and Remediation
+The company will:
+- Provide 24/7 technical support for Wi-Fi Calling issues
+- Troubleshoot network-side issues at no cost to customers
+- Offer step-by-step guidance for device-side configuration
+
+The customer is responsible for:
+- Ensuring Wi-Fi network functionality
+- Keeping device software updated
+- Following troubleshooting steps provided by support
+- Reporting persistent issues promptly
+
+## Service Limitations
+- Wi-Fi Calling quality depends on the customer's Wi-Fi network
+- International usage may incur charges per the customer's rate plan
+- Emergency services rely on the registered E911 address when using Wi-Fi Calling
+- Not all features available on cellular calls may be supported on Wi-Fi Calling
+
+## Policy Updates
+This policy is subject to change. Customers will be notified of significant changes through account notifications, email, and the company website at least 30 days before implementation.

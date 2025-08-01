@@ -1,0 +1,96 @@
+ID: KB-1164
+Type: FAQ
+Category: Technical
+Subcategory: Data throttling
+Title: What is Data Throttling and How Can I Fix Slow Data Speeds?
+Tags: subscription,technical,faq,throttling,data,data throttling,billing
+Last Updated: 2024-10-12 23:59:47
+Generated: 2025-07-13T23:15:46.992601
+
+---
+
+# What is Data Throttling and How Can I Fix Slow Data Speeds?
+
+## Understanding Data Throttling
+
+Data throttling occurs when your mobile carrier intentionally slows down your internet speed after you've reached a certain data threshold on your plan. This is different from network congestion, which affects all users in an area.
+
+### How to Identify if You're Being Throttled
+
+1. **Check your data usage:**
+   * **iOS:** Go to Settings > Cellular > Cellular Data Usage
+   * **Android:** Go to Settings > Network & Internet > Data Usage (may vary by manufacturer)
+
+2. **Look for these indicators:**
+   * Your data speeds were normal but suddenly slowed significantly
+   * Speeds decrease at the same time each billing cycle
+   * You received a notification about approaching or exceeding your data limit
+   * Video streaming automatically switches to lower quality
+
+3. **Common error messages:**
+   * "You've used 90% of your high-speed data"
+   * "Data speeds reduced due to plan limitations"
+   * "High-speed data limit reached"
+
+## Troubleshooting Steps
+
+### Step 1: Confirm You're Being Throttled
+Run a speed test before taking any action:
+1. Download a speed testing app (Speedtest by Ookla, Fast.com, etc.)
+2. Run the test while connected to cellular data (not Wi-Fi)
+3. Compare results to your plan's advertised speeds
+
+### Step 2: Check Your Data Usage and Plan
+1. **Through your carrier's app:**
+   * Download your carrier's official app from App Store/Google Play
+   * Log in to your account
+   * Navigate to "Data Usage" or "Plan Details"
+
+2. **Through your carrier's website:**
+   * Log in to your online account
+   * Check your current billing cycle's data usage
+   * Verify your plan's data limits and throttling policies
+
+### Step 3: Potential Solutions
+
+**If you're under your data limit but experiencing slow speeds:**
+1. Restart your device
+   * **iOS:** Press and hold power button + volume button, then slide to power off
+   * **Android:** Press and hold power button, select "Restart"
+
+2. Reset network settings
+   * **iOS:** Settings > General > Reset > Reset Network Settings
+   * **Android:** Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+
+3. Update carrier settings
+   * **iOS:** Settings > General > About (wait for carrier settings update prompt)
+   * **Android:** Settings > System > Advanced > System Update
+
+**If you've exceeded your data limit:**
+1. Purchase additional high-speed data through:
+   * Your carrier's mobile app
+   * Your online account portal
+   * Texting a designated shortcode (varies by carrier)
+
+2. Connect to Wi-Fi networks when available
+
+3. Enable data saver mode:
+   * **iOS:** Settings > Cellular > Cellular Data Options > Data Mode > select "Low Data Mode"
+   * **Android:** Settings > Network & Internet > Data Saver > turn on
+
+## When to Contact Customer Support
+
+Contact your carrier's customer support if:
+* You're experiencing throttling but haven't reached your data limit
+* Speeds remain slow after trying all troubleshooting steps
+* You need clarification on your plan's specific throttling policies
+* You want to upgrade to a plan with more high-speed data
+* Your data speeds don't return to normal at the start of a new billing cycle
+
+**Contact Methods:**
+* Call customer service: [Carrier phone number]
+* Live chat: Available through the carrier's mobile app or website
+* Social media: Many carriers offer support via Twitter or Facebook direct messages
+* Visit a retail store: For in-person assistance
+
+Remember that most throttling is a normal function of your data plan and not a technical issue that requires repair.

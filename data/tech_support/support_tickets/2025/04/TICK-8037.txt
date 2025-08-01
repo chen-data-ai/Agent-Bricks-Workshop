@@ -1,0 +1,71 @@
+Ticket ID: TICK-8037
+Customer ID: CUS-10756
+Subscription ID: SUB-10001119
+Category: Technical
+Priority: Critical
+Status: Closed
+Created: 2025-04-19 21:52:33.413000
+Agent ID: TEC-2129
+Resolved: 2025-04-20 21:52:33.413000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8037 (Created: 2025-04-20 04:52)
+
+I'm beyond frustrated with my service right now. For the past three nights, my home internet has been dropping every 20-30 minutes like clockwork. I have your Premium Fiber 1Gig plan that I'm paying $89.99/month for, and this is unacceptable! I work from home and have important video conferences with international clients, and I've been embarrassed twice now when my connection failed mid-meeting.
+
+The router (Model GT-AX11000) shows a blinking red light when this happens, and the app displays "Error E-4021: Connection to network gateway lost." I've already tried power cycling the router multiple times, reset it to factory settings, and even connected directly via ethernet cable to rule out Wi-Fi issues. Nothing helps!
+
+My iPhone 15 Pro and Galaxy S24 Ultra both show the same problem when trying to connect to Wi-Fi during these outages, so it's definitely the line. My neighbors on Oakwood Drive in Portland don't seem to be experiencing the same issues, so it appears to be isolated to my address.
+
+This needs immediate attention! I have another important conference call tomorrow evening and cannot afford another disconnection. I've been a loyal customer for 7 years and expect this to be resolved ASAP or I'll need to explore other options in my area.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8037 | Agent TEC-2129 | Resolved on 2025-04-21 04:52
+
+Dear Valued Customer,
+
+Thank you for bringing this connectivity issue to our attention. I sincerely apologize for the frustration and inconvenience you've experienced with your Premium Fiber 1Gig service, especially given the impact on your professional work commitments. As a loyal customer of 7 years, you deserve our best service.
+
+## Issue Diagnosis
+After reviewing your ticket details, I accessed our Network Monitoring System (NMS) and confirmed intermittent connectivity drops at your Oakwood Drive address in Portland. The error code E-4021 indicated a gateway connection issue, which our diagnostics revealed was due to:
+- Signal degradation on the fiber line between our neighborhood node and your premises
+- Packet loss rates exceeding our service threshold of 2% (your connection showed 8-12% loss during outages)
+- Gateway timing out due to upstream connectivity failures
+
+## Actions Taken
+1. Remotely accessed your GT-AX11000 router diagnostics and confirmed the issue was not device-related
+2. Dispatched field technician #FT-5082 to your location who:
+   - Tested the optical signal strength at your ONT (Optical Network Terminal)
+   - Discovered damaged fiber splicing at the junction box serving your property
+   - Replaced the damaged fiber segment and recalibrated the connection
+   - Verified signal strength restoration to optimal levels (-12dBm)
+
+3. Performed comprehensive testing:
+   - Continuous ping tests over 2 hours showed 0% packet loss
+   - Speed tests confirmed consistent 940Mbps+ download/880Mbps+ upload speeds
+   - Gateway stability monitoring showed no disconnections
+
+## Account Adjustments
+In accordance with our Service Guarantee Policy (SGP-2025), I've applied:
+- A service credit of $8.99 (10% of your monthly rate) for the service disruption
+- A one-time goodwill credit of $25.00 for the professional inconvenience caused
+- Total credit of $33.99 applied to your next billing cycle
+
+## Follow-Up Actions
+1. Your connection has been flagged for priority monitoring for the next 7 days
+2. I've scheduled an automated check-in via your preferred contact method in 48 hours
+3. Should you experience any further issues, please contact us immediately using priority code "TICK8037-FOLLOW" to be connected with a senior technician
+
+We value your business and understand how critical reliable internet service is for your work. Our team will continue to monitor your connection to ensure optimal performance. Please don't hesitate to reach out if you need any further assistance.
+
+Thank you for your patience throughout this resolution process.
+
+Sincerely,
+Agent TEC-2129
+Premium Support Team

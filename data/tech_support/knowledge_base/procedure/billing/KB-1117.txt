@@ -1,0 +1,109 @@
+ID: KB-1117
+Type: Procedure
+Category: Billing
+Subcategory: Disputing charges
+Title: Procedure: Handling Disputed Charges in Customer Support
+Tags: wireless,charges,telecom,disputing,procedure,roaming,billing,disputing charges
+Last Updated: 2024-07-31 23:59:47
+Generated: 2025-07-13T23:15:57.330847
+
+---
+
+# Procedure: Handling Disputed Charges in Customer Support
+
+## Purpose
+This procedure outlines the standardized process for customer support representatives to handle disputed charges on customer accounts, ensuring consistent resolution while balancing customer satisfaction with company policy compliance.
+
+## Procedure Steps
+
+### 1. Initial Customer Verification
+1. Verify the customer's identity using at least two authentication methods:
+   - Account PIN/password
+   - Last 4 digits of SSN/Tax ID
+   - Security questions
+   - One-time verification code sent to registered mobile number or email
+2. Confirm the customer is authorized to discuss billing on the account (account owner or authorized user)
+3. Document verification method used in the customer interaction log
+
+### 2. Charge Assessment and Documentation
+1. Ask the customer to identify the specific charge(s) being disputed
+2. Access the billing system to review the complete charge details
+3. Document the following information:
+   - Date of disputed charge
+   - Amount of disputed charge
+   - Service type (voice, data, SMS, equipment, third-party, etc.)
+   - Customer's reason for dispute
+4. Take screenshots or create reference numbers for the disputed charges in the billing system
+
+### 3. Initial Investigation
+1. Verify usage patterns in the account management system
+2. Check for recent plan changes, promotions, or service modifications
+3. Review previous bill cycles to identify if this is a recurring or one-time charge
+4. Consult knowledge base for known billing issues related to the charge type
+5. For third-party charges, identify the vendor and check authorization records
+
+### 4. Resolution Determination
+1. For clear billing errors (system-generated):
+   - Process immediate adjustment up to $50 without approval
+   - Document error type and resolution in customer notes
+2. For disputes $50-$200:
+   - Place account note for supervisor review
+   - Inform customer of 24-48 hour review period
+3. For disputes over $200:
+   - Escalate to billing department using Dispute Form #TC-2023
+   - Inform customer of 3-5 business day review period
+4. For recurring charge disputes:
+   - Investigate for three previous billing cycles maximum
+   - Document findings for each disputed cycle
+
+### 5. System Processing
+1. Access the Billing Adjustment module in the customer management system
+2. Select appropriate dispute reason code from dropdown menu
+3. Enter adjustment amount and billing cycle reference
+4. Upload any supporting documentation (screenshots, call logs, etc.)
+5. Generate a dispute reference number to provide to the customer
+6. Set appropriate follow-up status flag in the system
+
+### 6. Customer Communication
+1. Explain the findings of your investigation to the customer
+2. Clearly communicate next steps and timeline for resolution
+3. For immediate resolutions:
+   - Confirm the adjusted amount
+   - Explain when it will appear on their bill/account
+   - Direct them to verify in their online account or mobile app
+4. For pending resolutions:
+   - Provide dispute reference number
+   - Set expectations for follow-up communication
+   - Explain how they can check status (online, mobile app, or callback)
+
+### 7. Documentation Requirements
+1. Summarize the dispute details in the CRM notes
+2. Document all actions taken and adjustments made
+3. Note any customer commitments or expectations set
+4. Link all relevant screenshots and system reference numbers
+5. Complete the Dispute Resolution Form with outcome details
+6. Tag the interaction with appropriate dispute category codes
+
+### 8. Escalation Path
+1. Escalate to Team Lead if:
+   - Customer remains dissatisfied after initial resolution
+   - Dispute involves multiple billing cycles
+   - Adjustment exceeds agent authority threshold
+2. Escalate to Billing Department if:
+   - Technical billing system investigation is required
+   - Dispute involves third-party billing relationships
+   - Pattern of similar disputes is identified
+3. Escalate to Customer Retention if:
+   - Customer threatens to cancel service
+   - Lifetime value exceeds $1,500 annually
+   - Customer has experienced multiple billing issues
+
+### 9. Follow-up Process
+1. Set appropriate follow-up task in CRM system
+2. For pending disputes, schedule 48-hour status check
+3. For resolved disputes, schedule 7-day satisfaction follow-up
+4. Document any additional customer contact regarding the dispute
+5. Update resolution status in all relevant systems
+
+### 10. Quality Assurance
+1. Review dispute

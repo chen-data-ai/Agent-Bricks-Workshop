@@ -1,0 +1,109 @@
+ID: KB-1245
+Type: Policy
+Category: Billing
+Subcategory: Unexpected charges explanation
+Title: Unexpected Charges Explanation Policy
+Tags: troubleshooting,text,explanation,service,charges,unexpected,policy,unexpected charges explanation,billing
+Last Updated: 2024-12-25 23:59:47
+Generated: 2025-07-13T23:15:43.797616
+
+---
+
+# Unexpected Charges Explanation Policy
+
+## Purpose and Scope
+This policy outlines how [Company Name] identifies, explains, and resolves unexpected charges on customer bills. It applies to all residential and business customers across our mobile, broadband, landline, and television services.
+
+## Definitions
+- **Unexpected Charge**: Any fee, cost, or charge appearing on a customer's bill that differs from their expected monthly service charges based on their current plan.
+- **Billing Cycle**: The recurring period (typically monthly) for which service is provided and billed.
+- **Proration**: The calculation of charges for a partial billing period.
+- **One-time Charges**: Non-recurring fees that appear only once on a customer's bill.
+
+## Types of Unexpected Charges
+
+### 1. Usage-Based Charges
+Charges that occur when a customer exceeds their plan's allowances, including:
+- Data overage fees
+- International calling rates
+- Premium text messaging services
+- Pay-per-view or on-demand content
+
+### 2. Regulatory Fees and Taxes
+- Government-mandated fees
+- Local, state, and federal taxes
+- Universal Service Fund contributions
+- E911 service fees
+
+### 3. Administrative and Service Charges
+- Late payment fees
+- Returned payment fees
+- Account setup or activation fees
+- Equipment non-return fees
+- Service modification fees
+
+## Customer Notification Procedures
+
+### Prior to Billing
+1. Customers will receive notification via their preferred contact method (SMS, email, or app notification) when:
+   - They reach 75% of any usage limit
+   - They reach 90% of any usage limit
+   - They exceed any usage limit
+
+2. Notifications will be sent within 4 hours of threshold crossing.
+
+### On the Bill
+All unexpected charges will be:
+- Clearly itemized on the bill
+- Accompanied by a brief description
+- Dated to show when the charge was incurred
+- Categorized appropriately (e.g., "One-time Charges," "Usage Fees")
+
+## Customer Rights and Protections
+
+### Inquiry Period
+Customers have 60 calendar days from the bill issue date to inquire about or dispute any unexpected charges.
+
+### Dispute Resolution
+1. Customers may dispute charges through:
+   - Mobile app (iOS and Android)
+   - Online account management portal
+   - Customer service (phone, chat, or in-store)
+   - Written correspondence
+
+2. [Company Name] will acknowledge all disputes within 2 business days.
+
+3. [Company Name] will investigate and provide a resolution within 10 business days.
+
+### Refund Policy
+If [Company Name] determines charges were applied in error:
+- Full refund will be issued as bill credit within 1-2 billing cycles
+- Alternative refund methods available upon request (check, direct deposit)
+- No administrative fees will be charged for processing refunds
+
+## Company Procedures
+
+### Investigation Process
+1. Customer service will document all details of the unexpected charge inquiry.
+2. Technical teams will review account activity, usage patterns, and system records.
+3. Billing specialists will verify charge application against company policies.
+4. A determination will be made based on collected evidence.
+
+### Goodwill Adjustments
+[Company Name] may, at its discretion, offer one-time goodwill adjustments for:
+- First-time overages
+- Customers experiencing hardship
+- Long-term customers in good standing
+
+### Record Keeping
+Records of all unexpected charge inquiries and resolutions will be maintained for 24 months and are accessible to customers upon request.
+
+## Policy Updates
+This policy is reviewed quarterly and updated as needed. Customers will be notified of material changes to this policy 30 days before implementation through bill messages, email, and the company website.
+
+## Contact Information
+For questions about unexpected charges:
+- Mobile app: [Company Name] Support section
+- Online: www.[companyname].com/billing
+- Phone: 1-800-XXX-XXXX (Mon-Fri 8am-8pm, Sat 9am-5pm local time)
+- Email: billing@[companyname].com

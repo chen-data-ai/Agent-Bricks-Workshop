@@ -1,0 +1,75 @@
+ID: KB-1170
+Type: Policy
+Category: Billing
+Subcategory: Prorated billing
+Title: Prorated Billing Policy
+Tags: troubleshooting,text,policy,prorated,prorated billing,billing,customer
+Last Updated: 2025-03-24 23:59:47
+Generated: 2025-07-13T23:15:47.418873
+
+---
+
+# Prorated Billing Policy
+
+## Overview
+This policy document outlines our approach to prorated billing, which occurs when service charges are calculated based on the actual number of days service was provided within a billing cycle. Prorated charges ensure customers only pay for the services they receive.
+
+## Definitions
+**Prorated Billing**: The calculation of charges based on the portion of a billing cycle during which service is active.
+
+**Billing Cycle**: The recurring period (typically monthly) for which service charges are assessed.
+
+**Activation Date**: The date on which a service is initiated or a change becomes effective.
+
+**Termination Date**: The date on which a service is discontinued.
+
+## When Prorated Billing Applies
+Prorated charges will appear on your bill in the following situations:
+
+1. **New Service Activation**: When service begins on any day other than the first day of your billing cycle.
+2. **Service Termination**: When service ends before the conclusion of your billing cycle.
+3. **Plan Changes**: When you upgrade or downgrade your service plan mid-cycle.
+4. **Feature Addition/Removal**: When features with recurring charges are added or removed mid-cycle.
+
+## Calculation Method
+Prorated charges are calculated using the following formula:
+
+(Monthly charge ÷ Total days in billing cycle) × Number of applicable days
+
+For example, if your monthly plan costs $60, your billing cycle is 30 days, and you activate service on the 15th day:
+- Prorated charge = ($60 ÷ 30) × 16 = $32
+
+## Billing Cycle Information
+1. Your billing cycle begins on the same date each month.
+2. The first bill after activation or service change will include:
+   - Any applicable one-time fees
+   - Prorated charges for the partial first billing cycle
+   - Full charges for the upcoming billing cycle
+
+## Customer Rights and Obligations
+### Customer Rights
+- Receive a detailed breakdown of all prorated charges on your bill
+- Request an explanation of prorated calculations
+- Dispute any billing errors within 60 days of the bill issue date
+
+### Customer Obligations
+- Pay all undisputed portions of the bill by the due date
+- Notify the company at least 24 hours in advance of desired service changes that may trigger prorated billing
+
+## Viewing Prorated Charges
+Prorated charges are clearly labeled on your bill. You can review these charges:
+- Through your online account at our website
+- Via our mobile app (available for iOS and Android)
+- On your paper bill in the "Charges and Credits" section
+
+## Dispute Resolution
+If you believe there is an error in your prorated charges:
+1. Contact Customer Support within 60 days of receiving your bill
+2. Provide your account number and specific details about the disputed charge
+3. Our team will review your concern within 5 business days
+4. Any billing adjustments will appear on your next statement
+
+## Policy Changes
+We reserve the right to modify this prorated billing policy with 30 days' advance notice to customers through email, bill messages, or account notifications.
+
+For additional assistance with billing questions, please contact Customer Support at 1-800-XXX-XXXX or support@company.com.

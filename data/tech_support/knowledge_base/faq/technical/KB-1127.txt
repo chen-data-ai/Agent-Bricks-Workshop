@@ -1,0 +1,109 @@
+ID: KB-1127
+Type: FAQ
+Category: Technical
+Subcategory: Device software updates
+Title: Why is my device not receiving software updates?
+Tags: data,technical,device software updates,software,faq,roaming,coverage,device,updates
+Last Updated: 2025-04-21 23:59:47
+Generated: 2025-07-13T23:15:44.396490
+
+---
+
+# Why is my device not receiving software updates?
+
+Software updates provide important security patches, bug fixes, and new features for your device. If you're experiencing issues with updates, follow these troubleshooting steps to resolve common problems.
+
+## Common Symptoms
+- Update notifications not appearing
+- Updates failing to download
+- Installation errors
+- Updates getting stuck at a certain percentage
+- "Update not available" messages despite knowing a new version exists
+
+## Troubleshooting Steps
+
+### 1. Check Your Connection
+- Ensure you're connected to a stable Wi-Fi network
+- Updates typically require Wi-Fi and won't download over cellular data
+- Try connecting to a different Wi-Fi network if available
+
+### 2. Check Storage Space
+**For Android:**
+- Go to Settings > Storage
+- If less than 1GB is available, delete unnecessary files or apps
+- Clear cache: Settings > Apps > [Select apps] > Storage > Clear Cache
+
+**For iOS:**
+- Go to Settings > General > iPhone Storage
+- If less than 1GB is available, remove unused apps or media
+- Offload unused apps: Settings > General > iPhone Storage > Offload Unused Apps
+
+### 3. Verify Device Compatibility
+
+**For Android:**
+- Go to Settings > About phone > Software information
+- Check if your current Android version is still supported
+- Devices older than 3-4 years may no longer receive updates
+
+**For iOS:**
+- Go to Settings > General > About
+- Check your iOS version
+- Visit apple.com/ios/ios-16 (or current version) to verify compatibility
+
+### 4. Force Check for Updates
+
+**For Android:**
+- Go to Settings > System > System update > Check for update
+- Alternatively, open the Settings app and search for "update"
+
+**For iOS:**
+- Go to Settings > General > Software Update
+- If "Automatic Updates" is enabled, toggle it off and on again
+
+### 5. Reset Network Settings
+
+**For Android:**
+- Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+- Note: This will remove all saved networks and paired devices
+
+**For iOS:**
+- Go to Settings > General > Transfer or Reset iPhone > Reset > Reset Network Settings
+- Note: This will remove all saved Wi-Fi passwords
+
+## Common Error Messages and Solutions
+
+### "Update server unavailable"
+- This typically indicates high server traffic
+- Wait a few hours and try again
+- Check our service status page in the mobile app or website
+
+### "Update verification failed"
+- Restart your device and try again
+- Clear the cache of your system apps (Android only)
+- Make sure your date and time settings are set to automatic
+
+### "Not enough space"
+- Follow storage clearing steps in section 2
+- For larger updates, consider backing up and factory resetting your device
+
+### "Battery too low"
+- Connect your device to a charger
+- Updates require at least 50% battery or a connected charger
+
+## Using Our Mobile App for Updates
+
+- Open the [Your Company] app
+- Navigate to Account > Device Management
+- Select your device and tap "Check for updates"
+- Enable notifications to receive update alerts
+
+## When to Contact Support
+
+Contact our technical support team if:
+- You've tried all troubleshooting steps and still cannot update
+- Your device shows an error code not listed above
+- The update process begins but fails repeatedly at the same point
+- Your device becomes unresponsive during an update
+- You receive a "Software update failed" message more than 3 times
+
+Our support team is available 24/7 through the mobile app, online chat, or by calling 1-800-XXX-XXXX.

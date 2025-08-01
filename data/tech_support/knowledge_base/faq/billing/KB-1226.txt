@@ -1,0 +1,68 @@
+ID: KB-1226
+Type: FAQ
+Category: Billing
+Subcategory: Paper bill vs. electronic billing
+Title: What's the difference between paper bills and electronic billing?
+Tags: payment,bill,paper,faq,network,paper bill vs. electronic billing,device,electronic,billing
+Last Updated: 2024-11-19 23:59:47
+Generated: 2025-07-13T23:15:42.504519
+
+---
+
+# What's the difference between paper bills and electronic billing?
+
+## Paper Bills vs. Electronic Billing Explained
+
+**Paper bills** are traditional printed statements mailed to your home address each billing cycle, while **electronic billing (e-billing)** delivers your statement digitally to your email or through our mobile app and online account portal.
+
+### Paper Bills
+- Delivered by mail to your physical address
+- Typically arrive 3-5 business days after the billing cycle closes
+- Include a detailed breakdown of all charges, payments, and adjustments
+- Incur a $2.99 monthly paper bill fee (waived for certain accessibility accommodations)
+- Provide a physical record for your files
+- Include return envelope for mailing payments
+
+### Electronic Bills
+- Instantly available when your billing cycle closes
+- Accessible 24/7 through our mobile app (iOS and Android) and online account portal
+- Contain the same detailed information as paper bills
+- No additional fees for e-billing
+- Environmentally friendly option
+- Include convenient payment links for immediate payment
+- Searchable format to easily find specific charges
+- Access to up to 24 months of billing history
+
+### Sample Bill Breakdown (Same for Both Formats)
+Your bill will include:
+- Account summary with total amount due and due date
+- Base plan charges (e.g., $69.99 for Unlimited Premium)
+- Device payment installments (e.g., $33.34/month for 24 months)
+- Add-on services (e.g., $15 international calling package)
+- One-time charges or credits
+- Taxes and regulatory fees
+- Usage details for non-unlimited services
+
+### How to Switch Between Billing Methods
+**To switch to e-billing:**
+1. Log into your account via our mobile app or website
+2. Navigate to "Billing Preferences" or "Billing Settings"
+3. Select "Go Paperless" and verify your email address
+4. You'll receive a confirmation email within 24 hours
+
+**To request paper bills:**
+1. Follow the same steps above and select "Paper Billing"
+2. Note that the $2.99 monthly fee will apply starting with your next bill
+
+### Frequently Asked Questions
+
+**Will I still get bill notifications with e-billing?**
+Yes! You'll receive email or push notifications when your bill is ready, approaching due date, and payment confirmation.
+
+**Can I have both paper and electronic bills?**
+Yes, but the paper bill fee will apply. You'll have the convenience of digital access while still receiving physical copies.
+
+**What if I don't receive my paper bill?**
+Contact us immediately at 1-800-XXX-XXXX. Your payment will still be due, but we can help you access your bill information and may waive late fees if the bill was not delivered.
+
+Need more help? Chat with us in the mobile app, call 1-800-XXX-XXXX, or visit your nearest store.

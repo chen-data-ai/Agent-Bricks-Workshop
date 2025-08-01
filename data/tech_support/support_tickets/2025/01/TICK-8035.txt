@@ -1,0 +1,73 @@
+Ticket ID: TICK-8035
+Customer ID: CUS-11263
+Subscription ID: SUB-10001858
+Category: Technical
+Priority: Medium
+Status: Closed
+Created: 2025-01-14 20:50:50.923000
+Agent ID: TEC-7024
+Resolved: 2025-01-15 20:50:50.923000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8035 (Created: 2025-01-15 04:51)
+
+I'm beyond frustrated with my service right now. For the past three nights, my internet has been dropping every 15-20 minutes like clockwork. I have your Premium Fiber 1Gig plan that I'm paying $89.99/month for, and this is unacceptable! I work from home as a software developer and have important deadlines this week.
+
+When the connection drops, my router (Netgear Orbi RBK853) shows a blinking amber light, and my Apple iPhone 16 Pros display "No Internet Connection" before reconnecting about 2 minutes later. I've already tried power cycling both the router and the fiber ONT box multiple times, and even factory reset my router yesterday. Nothing helps!
+
+The error code on my connection diagnostic is ERR-4032-CONN-TIMEOUT. I've checked your outage map for my area (Portland, Oregon - 97209) and it shows no reported issues. My neighbors with the same service aren't experiencing problems.
+
+I need this fixed IMMEDIATELY. I have video conferences scheduled throughout the day and can't afford to keep dropping calls. Please send a technician TODAY if possible. I've been a loyal customer for 4 years and expect better service than this.
+
+- Michael Robertson
+Account #: 8872553901
+Phone: 503-555-7219
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8035 | Agent TEC-7024 | Resolved on 2025-01-16 04:51
+
+Dear Mr. Robertson,
+
+Thank you for bringing these service issues to our attention. I sincerely apologize for the frustration and inconvenience caused by the intermittent connection drops you've been experiencing with your Premium Fiber 1Gig service, especially given your work-from-home requirements and upcoming deadlines.
+
+## Troubleshooting Actions Taken:
+
+1. Accessed our Network Management System (NMS) to review your connection logs from the past 72 hours
+2. Identified multiple T3/T4 timeout errors occurring at approximately 15-20 minute intervals during evening hours
+3. Performed remote diagnostics on your ONT (Optical Network Terminal) which revealed fluctuating light levels
+4. Dispatched field technician #FT-3092 to your location as requested on 2025-01-15
+5. Technician discovered damaged fiber splice point at the neighborhood junction box affecting only your connection
+6. Replaced damaged fiber segment and recalibrated ONT signal strength
+7. Performed comprehensive line testing showing stable signal levels across all bands
+8. Verified connection stability through continuous ping tests over a 2-hour monitoring period
+
+## Resolution Details:
+
+The technician identified and repaired a damaged fiber splice point that was causing signal degradation specifically to your connection. This explains why neighboring customers weren't experiencing similar issues. The damage was likely caused by recent utility work in your area that wasn't properly documented in our system.
+
+After the repair, your connection has been stable with no timeout errors (ERR-4032-CONN-TIMEOUT) detected in our monitoring system. Signal strength readings are now within optimal parameters (receiving: -19.2dBm, transmitting: 2.1dBm).
+
+## Account Adjustments:
+
+As per our Service Guarantee Policy (SGP-2024-11), I've applied a service credit of $8.99 (10% of your monthly rate) to your account for the inconvenience caused. This credit will appear on your next billing statement.
+
+## Recommendations:
+
+1. Download our mobile app to monitor your connection status and receive real-time alerts about any future service issues
+2. Consider enabling the "Seamless Wi-Fi Backup" feature on your Netgear Orbi system, which can utilize mobile data during brief fiber outages (available in router settings)
+3. For critical work periods, I've added a priority flag to your account (valid for 30 days) to ensure expedited response should any further issues arise
+
+Please allow 24-48 hours for the system to fully stabilize after these repairs. If you experience any further connection issues, please contact us immediately through our Priority Technical Support line at 1-800-555-8734 or through the "Priority Support" section in our mobile app (available for both iOS and Android).
+
+We value your loyalty as a 4-year customer and are committed to providing the reliable service you deserve. Is there anything else I can assist you with regarding this matter?
+
+Best regards,
+
+Technical Support Team
+Premium Fiber Division

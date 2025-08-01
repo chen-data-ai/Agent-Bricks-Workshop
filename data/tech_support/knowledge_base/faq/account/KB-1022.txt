@@ -1,0 +1,65 @@
+ID: KB-1022
+Type: FAQ
+Category: Account
+Subcategory: Account pins and passwords
+Title: How do I manage my account PIN and passwords?
+Tags: account,account pins and passwords,faq,mobile,roaming,pins,passwords,customer
+Last Updated: 2025-01-26 23:59:47
+Generated: 2025-07-13T23:15:50.037936
+
+---
+
+# How do I manage my account PIN and passwords?
+
+## Account Security Overview
+
+Your account PIN and passwords are essential security measures that protect your personal information and prevent unauthorized changes to your account. Different credentials serve different purposes within our systems.
+
+## Types of Security Credentials
+
+**Account PIN**: A 4-6 digit number required for account verification when contacting customer service, making account changes in-store, or performing certain high-security transactions.
+
+**Online Account Password**: A complex password (8-20 characters with letters, numbers, and special characters) used to access your account through our website and mobile app.
+
+**My Account App PIN**: A 4-6 digit number that provides quick access to your mobile app after initial login with your password.
+
+## Changing Your Account PIN
+
+1. **Online**: Log into your account at [my.telecom.com](https://my.telecom.com) or through the My Account app, navigate to "Account Settings" > "Security" > "Change PIN"
+2. **Phone**: Call customer service at 1-800-XXX-XXXX and verify your identity through our authentication process
+3. **In-store**: Visit any retail location with a government-issued photo ID
+
+PIN changes take effect immediately. For security purposes, PINs cannot be recovered—only reset.
+
+## Changing Your Online Password
+
+1. Log into your account (or use the "Forgot Password" option if locked out)
+2. Navigate to "Account Settings" > "Security" > "Change Password"
+3. Enter your current password and create a new one following our security requirements
+4. Password changes take effect immediately across all platforms (website and mobile app)
+
+## Verification Requirements
+
+For all security credential changes, you must verify your identity through one or more methods:
+- Current PIN/password
+- Answers to security questions
+- One-time verification code sent to your registered email or phone
+- Government-issued photo ID (in-store only)
+
+## Important Considerations
+
+- **Billing Impact**: Changing your PIN or password does not affect your billing cycle or payment methods
+- **Service Impact**: A forgotten PIN may temporarily delay account changes requiring verification
+- **Recovery Time**: PIN resets may take up to 24 hours to process if extensive identity verification is needed
+- **Automatic Lockouts**: After 5 incorrect password attempts, your online account will be temporarily locked for 30 minutes
+- **Multi-device Sync**: Password changes will require re-authentication on all devices where you're logged in
+
+## Additional Security Recommendations
+
+- Update your PIN and passwords every 3-6 months
+- Don't use easily guessed information (birthdays, addresses, sequential numbers)
+- Enable two-factor authentication for additional security
+- iOS users can enable Touch ID/Face ID in the My Account app settings
+- Android users can enable fingerprint authentication in the My Account app settings
+
+For additional assistance with account security, contact customer support at 1-800-XXX-XXXX.

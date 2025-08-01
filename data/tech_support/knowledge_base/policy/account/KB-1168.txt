@@ -1,0 +1,105 @@
+ID: KB-1168
+Type: Policy
+Category: Account
+Subcategory: Account transfer
+Title: Account Transfer Policy
+Tags: account,coverage,data,policy,transfer,plan,account transfer
+Last Updated: 2025-03-26 23:59:47
+Generated: 2025-07-13T23:15:47.283049
+
+---
+
+# Account Transfer Policy
+
+## Purpose
+This policy outlines the procedures and requirements for transferring account ownership or authorized user status for telecommunications services provided by our company, ensuring security, privacy, and compliance with regulatory standards.
+
+## Scope
+This policy applies to all customer accounts, including individual, family, and business accounts across wireless, broadband, and fixed-line services.
+
+## Identity Verification Standards
+
+### Primary Account Holder Verification
+Before processing any account transfer request, we require multi-factor authentication including:
+- Government-issued photo ID (driver's license, passport, or state/national ID)
+- Account PIN or password
+- Last 4 digits of the account payment method
+- Answers to security questions established at account creation
+
+### New Account Holder Verification
+The proposed new account holder must provide:
+- Government-issued photo ID
+- Proof of address (utility bill, bank statement dated within 90 days)
+- Social Security Number or Tax ID (for credit verification purposes)
+- Consent to credit check (where applicable)
+
+## Data Protection Measures
+
+### Information Handling
+- All personal information is processed in compliance with relevant data protection regulations including CPNI (Customer Proprietary Network Information) rules
+- Transfer documentation is retained securely for 7 years in accordance with FCC requirements
+- Personal information is transmitted via encrypted channels only
+- Physical documents containing sensitive information are securely destroyed after digitization
+
+### System Security
+- Account transfer requests are logged with employee ID, timestamp, and location
+- System access for transfer processing is restricted to authorized personnel
+- All transfer activities undergo automated fraud detection review
+
+## Authorized Changes During Transfer
+
+### Transferable Elements
+- Service ownership
+- Financial responsibility
+- Authorized user permissions
+- Equipment payment plans (with credit approval)
+
+### Non-Transferable Elements
+- Contract terms and promotional pricing (may require new agreements)
+- Account history and payment history
+- Loyalty rewards (unless specified in program terms)
+- Phone numbers (require separate port request)
+
+## Transfer Processing Timeframes
+- Standard transfers: 1-3 business days
+- Complex business account transfers: 3-5 business days
+- Emergency transfers (e.g., deceased account holder): 24-48 hours with proper documentation
+
+## Regulatory Compliance
+- All transfers comply with FCC regulations regarding CPNI protection
+- Transfers adhere to state-specific consumer protection laws
+- International transfers comply with relevant cross-border data transfer regulations
+- Identity verification procedures follow NIST 800-63 digital identity guidelines
+
+## Customer Notification
+- Both the current and new account holders receive confirmation notifications
+- All authorized users on the account receive notification of ownership changes
+- Notifications are sent via multiple channels (email, SMS, app notification)
+
+## Online and Mobile Management
+- Initial transfer requests can be submitted via online account portal or mobile app
+- Supporting documentation can be securely uploaded through the My Account app (iOS and Android)
+- Transfer status tracking available through online account management
+- Digital signature capabilities available for required documentation
+
+## Escalation Path
+1. **First Level**: Account Transfer Specialist
+2. **Second Level**: Account Management Supervisor
+3. **Third Level**: Customer Relations Manager
+4. **Final Review**: Office of the President
+
+## Special Circumstances
+
+### Deceased Account Holders
+Additional documentation required:
+- Death certificate
+- Proof of executor status or next of kin relationship
+
+### Business Account Transfers
+Additional requirements:
+- Corporate resolution or authorization letter on company letterhead
+- Business registration documents if transferring to new entity
+- Authorized signatory verification
+
+## Policy Review
+This Account Transfer Policy is reviewed annually and updated to reflect current regulatory requirements and industry best practices.

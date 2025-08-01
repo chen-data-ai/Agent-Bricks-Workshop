@@ -1,0 +1,82 @@
+ID: KB-1058
+Type: Policy
+Category: Billing
+Subcategory: Credit application
+Title: Credit Application Policy
+Tags: subscription,text,credit,application,credit application,data,policy,billing
+Last Updated: 2024-05-30 23:59:47
+Generated: 2025-07-13T23:15:52.678867
+
+---
+
+# Credit Application Policy
+
+## Overview
+This policy outlines the procedures and requirements for customers applying for credit with [Company Name]. Credit applications allow eligible customers to receive telecommunications services with payment due after services are rendered, subject to approval based on creditworthiness assessment.
+
+## Definitions
+- **Credit Assessment**: The process of evaluating a customer's creditworthiness based on financial history and ability to pay.
+- **Security Deposit**: A refundable sum held as security against potential non-payment.
+- **Credit Limit**: The maximum amount of credit extended to a customer.
+- **Billing Cycle**: The recurring period (typically monthly) for which services are billed.
+
+## Application Process
+1. Customers may submit credit applications through:
+   - Our website account management portal
+   - The [Company Name] mobile app (iOS and Android)
+   - In-person at any retail location
+   - By phone with our Credit Department (1-800-XXX-XXXX)
+
+2. Required documentation includes:
+   - Valid government-issued photo ID
+   - Proof of income or employment
+   - Social Security Number or Tax ID Number
+   - Previous address history (past 2 years)
+
+3. Processing timeframes:
+   - Standard applications: 1-2 business days
+   - Applications requiring additional verification: Up to 5 business days
+
+## Credit Assessment Criteria
+Credit decisions are based on:
+- Credit bureau reports
+- Payment history with [Company Name] (if applicable)
+- Income verification
+- Length of residence/employment stability
+- Debt-to-income ratio
+
+## Security Deposits
+Customers who do not meet credit requirements may be offered service with a security deposit:
+- Deposit amounts range from $50 to $500 based on service package and credit assessment
+- Deposits are held for a minimum of 12 months of good payment history
+- Deposits earn simple interest at the rate mandated by state regulations
+- Refunds are processed within 30 days of account closure or credit requirement fulfillment
+
+## Customer Rights
+All applicants have the right to:
+- Receive notification of credit decisions within 7 days
+- Obtain the specific reason(s) for credit denial
+- Review information used in making the credit decision
+- Dispute inaccurate information by contacting our Credit Department
+- Reapply after 90 days from initial denial
+
+## Credit Limits and Management
+- Initial credit limits are established based on credit assessment
+- Customers can view their current credit limit through online account management or the mobile app
+- Credit limit reviews occur automatically after 12 months of good payment history
+- Customers may request credit limit increases after 6 months of on-time payments
+
+## Changes to Credit Terms
+[Company Name] reserves the right to modify credit terms with 30 days' written notice to customers. Changes may include:
+- Adjustments to credit limits
+- Modification of payment terms
+- Updates to security deposit requirements
+
+## Questions and Support
+For questions regarding credit applications or decisions:
+- Contact Credit Department: 1-800-XXX-XXXX (Monday-Friday, 8am-7pm local time)
+- Email: credit@companyname.com
+- Chat support available through our mobile app or website
+
+## Policy Updates
+This Credit Application Policy was last updated on [Date]. The most current version is always available at [website URL] or through the [Company Name] mobile app.

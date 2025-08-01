@@ -1,0 +1,103 @@
+ID: KB-1029
+Type: Policy
+Category: Technical
+Subcategory: Wifi optimization
+Title: WiFi Optimization Policy
+Tags: data,account,technical,wifi,optimization,wifi optimization,policy,phone
+Last Updated: 2024-10-15 23:59:47
+Generated: 2025-07-13T23:15:50.566399
+
+---
+
+# WiFi Optimization Policy
+
+## Overview
+This policy outlines [Company Name]'s approach to WiFi optimization services, including our service standards, maintenance procedures, and the respective responsibilities of both our company and our customers. WiFi optimization aims to maximize wireless network performance, coverage, and reliability for our customers.
+
+## Service Standards
+
+### Performance Metrics
+- Signal strength minimum of -67 dBm in primary usage areas
+- Network availability of 99.5% or higher (excluding scheduled maintenance)
+- Maximum latency of 30ms within the local network
+- Minimum throughput of 80% of subscribed bandwidth on WiFi when tested within optimal range
+
+### Coverage Expectations
+- Single router solutions designed for coverage up to 1,500 square feet under standard construction conditions
+- Mesh network solutions available for larger premises or challenging environments
+- Dead zone mitigation through strategic access point placement
+
+## Maintenance Windows
+
+### Scheduled Maintenance
+- Routine firmware updates performed between 2:00 AM and 5:00 AM local time
+- Major system updates scheduled with minimum 72-hour advance notice
+- Quarterly remote diagnostics performed automatically with no service interruption
+
+### Emergency Maintenance
+- Critical security patches may be deployed outside standard windows
+- Service-affecting emergency maintenance limited to 30-minute windows when possible
+- Priority restoration for business and premium residential customers
+
+## Customer Notification Protocols
+
+### Advance Notifications
+- Scheduled maintenance communicated via email, SMS, and in-app notifications
+- 7-day notice for standard maintenance
+- 24-hour reminder before scheduled maintenance begins
+- Service impact details and estimated completion times included in all notifications
+
+### During Service Events
+- Status updates available through customer portal, mobile app, and automated phone system
+- Major service-affecting events updated at minimum 60-minute intervals
+- Option to subscribe to real-time SMS alerts for specific services
+
+## Remediation Procedures
+
+### Troubleshooting Process
+1. Remote diagnostics performed via customer equipment
+2. Guided self-service troubleshooting via app or phone support
+3. Remote technical intervention when self-service is insufficient
+4. On-site technical visit if remote resolution is not possible
+
+### Service Credits
+- Automatic service credits applied when WiFi availability falls below 99% in a billing cycle
+- Additional credits available upon request for service affecting issues lasting >4 hours
+- Premium support customers receive priority scheduling for on-site visits
+
+## Customer Responsibilities
+
+### Equipment Placement
+- Follow technician or documentation guidance for optimal router placement
+- Maintain clearance of 6 inches around equipment for proper ventilation
+- Avoid placement near significant sources of interference (microwaves, baby monitors, etc.)
+
+### Network Management
+- Maintain current firmware by accepting recommended updates
+- Secure network with strong passwords and WPA3 encryption when available
+- Limit connected devices to manufacturer-recommended maximums
+
+### Access Requirements
+- Provide reasonable access for installation and maintenance
+- Maintain power to networking equipment
+- Ensure broadband service is active and functioning
+
+## Company Obligations
+
+### Technical Support
+- 24/7 support via phone, chat, and mobile app
+- Remote diagnostics available at customer request
+- Annual WiFi health check included with premium service tiers
+
+### Equipment Guarantees
+- Company-provided equipment warranted for the duration of service
+- Free replacement of defective equipment (excluding customer damage)
+- Technology upgrades available per service agreement terms
+
+### Privacy Protections
+- Network analysis data used solely for service optimization
+- No monitoring of customer internet activity or content
+- Anonymous usage statistics may be collected for network planning
+
+## Policy Updates
+This policy is subject to change with 30 days' notice. Current policy versions are always available in your online account portal and mobile app.

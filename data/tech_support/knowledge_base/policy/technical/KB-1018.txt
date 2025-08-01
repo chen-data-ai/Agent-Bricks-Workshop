@@ -1,0 +1,58 @@
+ID: KB-1018
+Type: Policy
+Category: Technical
+Subcategory: Internet connectivity issues
+Title: Internet Connectivity Issues Policy
+Tags: payment,technical,internet connectivity issues,wireless,connectivity,internet,policy,issues,customer
+Last Updated: 2024-09-06 23:59:47
+Generated: 2025-07-13T23:15:49.802093
+
+---
+
+# Internet Connectivity Issues Policy
+
+## 1. Overview
+This policy outlines our commitment to providing reliable internet service, the standards we maintain, and the procedures we follow when connectivity issues arise. It clarifies both customer and company responsibilities to ensure efficient resolution of internet service disruptions.
+
+## 2. Service Standards
+- **Uptime Commitment**: We strive to maintain 99.9% network availability measured monthly
+- **Speed Performance**: Customers will receive at least 80% of their subscribed speeds during normal operating conditions
+- **Latency Standards**: Maximum latency of 50ms for residential services and 30ms for business services within our network
+- **Technical Support**: Available 24/7/365 through our customer service line, mobile app, and online portal
+
+## 3. Scheduled Maintenance Windows
+- **Regular Maintenance**: Typically conducted between 12:00 AM and 6:00 AM local time
+- **Advance Notice**: Customers will receive notification at least 72 hours before scheduled maintenance
+- **Emergency Maintenance**: May occur without advance notice to prevent service degradation or security issues
+- **Notification Methods**: Email, SMS, mobile app notifications, and account portal alerts
+
+## 4. Customer Notification Protocols
+- **Service Disruptions**: Automated notifications for outages exceeding 15 minutes
+- **Status Updates**: Provided every 60 minutes during extended outages
+- **Resolution Confirmation**: Notification when service is restored
+- **Impact Communication**: Clear explanation of affected services and estimated resolution time
+- **Service Status Page**: Real-time updates available via our website and mobile app (iOS and Android)
+
+## 5. Remediation Procedures
+- **Troubleshooting**: Initial remote diagnostics performed by technical support
+- **Escalation Path**: Tiered response based on issue severity and scope
+- **On-Site Support**: Dispatched when remote resolution is not possible
+- **Service Credits**: Automatically applied for outages exceeding 4 consecutive hours
+- **Post-Incident Analysis**: Conducted for significant outages to prevent recurrence
+
+## 6. Customer Responsibilities
+- **Equipment Maintenance**: Keeping customer-owned equipment in good working condition
+- **Access Provision**: Ensuring technicians can access equipment when on-site service is required
+- **Timely Reporting**: Promptly reporting connectivity issues through official channels
+- **Basic Troubleshooting**: Following initial troubleshooting steps as directed by support
+- **Network Security**: Maintaining secure passwords and following recommended security practices
+
+## 7. Company Obligations
+- **Infrastructure Maintenance**: Regular upgrades and maintenance of network infrastructure
+- **Transparent Communication**: Clear, timely updates about service status
+- **Technical Support**: Providing qualified assistance for connectivity issues
+- **Service Restoration**: Prioritizing service restoration during outages
+- **Compensation**: Providing appropriate service credits for extended outages per our Service Level Agreement
+
+## 8. Policy Updates
+This policy is subject to periodic review and updates. Customers will be notified of significant changes through email and account notifications. The current version is always available in your online account portal and mobile app.

@@ -1,0 +1,78 @@
+Ticket ID: TICK-8080
+Customer ID: CUS-10255
+Subscription ID: SUB-10000387
+Category: Billing
+Priority: High
+Status: Closed
+Created: 2025-04-26 22:08:18.405000
+Agent ID: BIL-4086
+Resolved: 2025-04-28 22:08:18.405000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8080 (Created: 2025-04-27 05:08)
+
+I am absolutely FURIOUS about my latest bill! I just received a notification that my monthly charge jumped from $89.99 to $157.43 with NO WARNING whatsoever. I've been a loyal customer for over 6 years and this is how you treat me?
+
+I upgraded from the "Essential Plus" plan to the "Unlimited Premium" family plan last month when I added my daughter's new iPhone 15 Pro to our account. The representative SPECIFICALLY promised me that with the new promotion, our bill would only increase by about $30 per month. I even have the chat transcript saved where they guaranteed this price!
+
+When I try to view the bill details in the MyNetwork app on my Galaxy S24 Ultra, I keep getting an error message saying "Error code BL-4032: Unable to retrieve detailed billing information at this time." I've tried logging in on my laptop too, but the website just keeps spinning when I click on "View Bill Details."
+
+This is completely unacceptable! I need this resolved IMMEDIATELY as the payment is scheduled to be automatically withdrawn from my account in 3 days. I cannot afford this unexpected charge, especially since we're still paying off my daughter's phone.
+
+I expect a call back TODAY to explain these charges and honor the price I was quoted. If this isn't resolved quickly, I'll be forced to file a complaint with the FCC and consider switching to another carrier.
+
+- Michael Donovan
+Portland, OR
+Account #: 8742-5591-03
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8080 | Agent BIL-4086 | Resolved on 2025-04-29 05:08
+
+Dear Mr. Donovan,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration you've experienced with the unexpected increase in your monthly charges and the difficulty accessing your bill details through our digital platforms.
+
+## Investigation and Actions Taken:
+
+1. **Account Review**: I thoroughly reviewed account #8742-5591-03 and confirmed your recent plan change from "Essential Plus" to "Unlimited Premium" family plan with the addition of your daughter's iPhone 15 Pro.
+
+2. **Billing Analysis**: Upon examining your billing records in our BillingPro system, I identified two issues:
+   - The promotional discount of $35/month for the "Unlimited Premium" family plan was not properly applied
+   - An incorrect "Premium Device Protection" tier ($17.99/month) was added instead of the standard tier ($12.99/month) you requested
+
+3. **System Error**: I investigated error code BL-4032 and determined it was caused by a temporary synchronization issue between our billing system and the MyNetwork app. This has been resolved, and you should now be able to access your bill details.
+
+## Resolution:
+
+1. **Billing Correction**: I have applied the following adjustments to your account:
+   - Added the missing $35/month promotional discount (retroactive to your plan change date)
+   - Downgraded the device protection to the standard tier as originally requested
+   - These corrections reduce your monthly bill from $157.43 to $92.43
+
+2. **Credit Applied**: A one-time credit of $65.00 has been applied to your current bill to compensate for the overcharge.
+
+3. **Documentation**: I've added detailed notes to your account referencing the chat transcript you mentioned, ensuring the promised pricing will be honored for the duration of the 24-month promotional period per our Price Promise Policy.
+
+4. **Payment Schedule**: Your corrected payment of $92.43 is now scheduled for your regular auto-pay date. The system will reflect these changes within 24 hours.
+
+## Additional Information:
+
+- I've sent a detailed breakdown of your corrected bill to your email address on file
+- I've also activated Bill Alerts on your account, which will notify you of any future changes to your monthly charges
+- The MyNetwork app issue has been escalated to our IT team (reference #IT-20250428-113) to prevent similar errors
+
+Mr. Donovan, I understand how concerning unexpected charges can be, especially with device payments to consider. I appreciate your six years of loyalty and want to assure you that we value your business. Please review the email I've sent and feel free to contact us directly if you have any questions about these adjustments.
+
+For future reference, you can always reach our dedicated billing team at 1-800-555-0199 or through the secure messaging feature in the MyNetwork app.
+
+Thank you for your patience while we resolved this matter.
+
+Sincerely,
+Agent BIL-4086
+Customer Billing Resolution Team

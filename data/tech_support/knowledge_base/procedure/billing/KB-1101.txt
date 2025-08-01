@@ -1,0 +1,117 @@
+ID: KB-1101
+Type: Procedure
+Category: Billing
+Subcategory: Refund policy
+Title: Telecom Customer Refund Processing Procedure
+Tags: refund,refund policy,procedure,roaming,data,policy,billing,customer
+Last Updated: 2024-11-06 23:59:47
+Generated: 2025-07-13T23:15:56.169030
+
+---
+
+# Telecom Customer Refund Processing Procedure
+
+## Purpose
+This procedure outlines the standardized process for handling customer refund requests in accordance with company policy while maintaining customer satisfaction.
+
+## Procedure
+
+### 1. Initial Refund Request Assessment
+1. Acknowledge the customer's refund request professionally and empathetically
+2. Determine the nature of the refund request (billing error, service outage, contract dispute, etc.)
+3. Verify the customer's identity using at least two authentication methods:
+   - Account PIN/password
+   - Last 4 digits of payment method
+   - Recent transaction details
+   - Security questions
+
+### 2. Account and Transaction Verification
+1. Access the customer's account in the billing system
+2. Verify the disputed charge or payment in question
+3. Review account history for:
+   - Payment history (last 6 months)
+   - Previous refund requests
+   - Service modifications relevant to the claim
+4. Document the verification process in the customer's account notes
+
+### 3. Eligibility Determination
+1. Determine if the refund request falls within the company's refund policy:
+   - Time limitations (typically within 60 days of charge)
+   - Service agreement terms
+   - Applicable regulatory requirements
+2. Check for special circumstances:
+   - Service outages documented in the system
+   - Billing system errors
+   - Promotional guarantees
+   - Executive customer service exceptions
+
+### 4. Refund Authorization Levels
+1. Process refunds according to authorization thresholds:
+   - Tier 1 agents: Up to $50 without approval
+   - Tier 2 agents: Up to $150 without approval
+   - Team leaders: Up to $300
+   - Supervisors: Up to $500
+   - Managers: Up to $1,000
+   - Director level: Over $1,000
+2. For amounts exceeding your authorization level, place the customer on hold and consult with appropriate personnel
+
+### 5. Processing Approved Refunds
+1. Select the appropriate refund method in the billing system:
+   - Credit to account
+   - Return to original payment method
+   - Check by mail (for closed accounts)
+2. Enter the refund amount and select the correct reason code
+3. Add detailed notes explaining the justification for the refund
+4. Provide the customer with:
+   - Confirmation number
+   - Expected processing time (typically 3-5 business days for credit/debit cards, 1-2 billing cycles for account credits)
+   - Reference number for tracking
+
+### 6. Documentation Requirements
+1. Record in the CRM system:
+   - Date and time of request
+   - Nature of the refund request
+   - Amount requested and amount approved
+   - Justification for approval or denial
+   - Method of refund
+   - Your employee ID
+2. Attach any supporting documentation:
+   - Call recordings
+   - Customer correspondence
+   - Screenshots of system errors (if applicable)
+
+### 7. Handling Denied Refund Requests
+1. Clearly explain the reason for denial with reference to specific policy
+2. Offer alternative solutions:
+   - Account credits
+   - Service upgrades
+   - Extended service agreements
+   - Goodwill adjustments
+3. If the customer remains dissatisfied, proceed to the escalation process
+
+### 8. Escalation Path
+1. For disputed denials, escalate to:
+   - Team leader (first level)
+   - Supervisor (second level)
+   - Customer retention specialist (if applicable)
+2. For escalated cases, provide a case number to the customer
+3. Inform the customer of expected response time (typically 24-48 hours)
+4. Document the escalation in the system with all relevant details
+
+### 9. Follow-up Procedures
+1. For approved refunds exceeding $200, schedule a follow-up contact within 7 days
+2. Verify the refund was processed correctly
+3. Document the follow-up in the customer's account
+4. Address any additional concerns
+
+### 10. Quality Assurance and Compliance
+1. All refund transactions are subject to regular audits
+2. Maintain compliance with:
+   - Company refund policies
+   - Telecommunications regulations
+   - Payment card industry standards
+3. Report any system issues or policy concerns to your supervisor
+
+## Additional Resources
+- Refund Policy Documentation (accessible via company intranet)
+-

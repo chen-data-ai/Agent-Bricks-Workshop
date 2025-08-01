@@ -1,0 +1,101 @@
+ID: KB-1046
+Type: Policy
+Category: Technical
+Subcategory: Phone not receiving calls
+Title: Technical Services Policy: Phone Not Receiving Calls
+Tags: troubleshooting,calls,receiving,technical,phone not receiving calls,voice,network,policy,phone
+Last Updated: 2025-01-23 23:59:47
+Generated: 2025-07-13T23:15:51.848461
+
+---
+
+# Technical Services Policy: Phone Not Receiving Calls
+
+## 1. Policy Overview
+
+This document outlines [Company Name]'s policies and procedures regarding service interruptions where customers are unable to receive incoming calls. This policy applies to all voice service customers on our mobile and landline networks.
+
+## 2. Service Standards
+
+### 2.1 Service Availability Commitment
+- We commit to maintaining 99.9% network availability for voice services across our network.
+- Incoming call functionality is considered a core service covered under our Service Level Agreement (SLA).
+- Service interruptions affecting incoming calls will be prioritized based on scope and impact.
+
+### 2.2 Response Time Standards
+- Critical issues affecting multiple customers: Initial response within 30 minutes
+- Individual customer issues: Initial response within 4 hours during business hours
+- Resolution timeframes will be communicated based on issue complexity
+
+## 3. Maintenance Windows
+
+### 3.1 Scheduled Maintenance
+- Routine network maintenance occurs between 12:00 AM and 5:00 AM local time.
+- Scheduled maintenance that may impact incoming call functionality will be announced at least 72 hours in advance.
+- Notifications will be delivered via SMS, email, and the [Company Name] mobile app.
+
+### 3.2 Emergency Maintenance
+- Emergency maintenance may be performed outside scheduled windows when necessary.
+- We will make reasonable efforts to notify affected customers when possible.
+
+## 4. Customer Notification Protocols
+
+### 4.1 Outage Notifications
+- Network-wide issues: Notifications via SMS, email, mobile app alerts, and website status page
+- Localized issues: Targeted notifications to affected customers
+- Updates will be provided at regular intervals until resolution
+
+### 4.2 Status Updates
+- Service status can be monitored through:
+  - [Company Name] mobile app (iOS and Android)
+  - Online account portal
+  - Customer support line automated system
+  - Company website status page
+
+## 5. Remediation Procedures
+
+### 5.1 Troubleshooting Process
+1. Initial diagnosis to determine if issue is network-based or device-specific
+2. Network issues will be escalated to appropriate technical teams
+3. Device-specific issues will be addressed through customer support channels
+
+### 5.2 Service Credits
+- Service interruptions exceeding 4 consecutive hours may qualify for service credits
+- Credits are calculated based on duration of service interruption
+- Claims must be submitted within 30 days of the incident
+
+## 6. Customer Responsibilities
+
+### 6.1 Required Actions
+- Ensure device software is current with latest updates
+- Report service issues promptly through official support channels
+- Cooperate with troubleshooting steps as directed by customer support
+- Maintain current contact information for service notifications
+
+### 6.2 Device Maintenance
+- Customers are responsible for basic device maintenance
+- Regularly restart devices as recommended (at least once weekly)
+- Install carrier settings updates when prompted
+
+## 7. Company Obligations
+
+### 7.1 Network Maintenance
+- Maintain network infrastructure to support reliable voice services
+- Implement redundancy systems to minimize service interruptions
+- Conduct regular testing to identify potential issues proactively
+
+### 7.2 Technical Support
+- Provide 24/7 technical support for service interruptions
+- Offer multiple support channels (phone, chat, email, in-store)
+- Maintain knowledge base with self-help resources for common issues
+
+## 8. Exceptions and Limitations
+
+This policy does not cover service interruptions resulting from:
+- Customer equipment failure
+- Third-party app interference
+- Force majeure events
+- Suspension due to non-payment or terms violations
+- Deliberate network abuse or fraudulent activity
+
+For assistance with incoming call issues, please contact Customer Support at [support number] or through the [Company Name] mobile app.

@@ -1,0 +1,89 @@
+ID: KB-1219
+Type: FAQ
+Category: Technical
+Subcategory: Volte configuration
+Title: How do I enable and troubleshoot VoLTE on my device?
+Tags: technical,volte,text,faq,volte configuration,configuration,roaming,network
+Last Updated: 2025-05-03 23:59:47
+Generated: 2025-07-13T23:15:41.973125
+
+---
+
+# How do I enable and troubleshoot VoLTE on my device?
+
+## What is VoLTE?
+Voice over LTE (VoLTE) allows you to make high-quality voice calls over our 4G LTE network instead of using the traditional voice network. Benefits include clearer calls, faster call connection, and the ability to use data while on a call.
+
+## Device Compatibility
+Before troubleshooting, confirm your device supports VoLTE. Most smartphones manufactured after 2016 are VoLTE-capable, but carrier compatibility varies.
+
+## Enabling VoLTE
+
+### On Android devices:
+1. Open the **Settings** app
+2. Tap on **Network & Internet** (or **Connections** on Samsung devices)
+3. Select **Mobile network**
+4. Look for **VoLTE**, **HD calling**, or **Advanced Calling** and toggle it on
+5. Restart your device for changes to take effect
+
+### On iOS devices (iPhone):
+1. Go to **Settings**
+2. Tap **Cellular**
+3. Select **Cellular Data Options**
+4. Tap **Voice & Data**
+5. Enable **VoLTE**
+6. Restart your device
+
+## Common Troubleshooting Steps
+
+If VoLTE isn't working properly after enabling:
+
+1. **Check network coverage**: VoLTE requires strong 4G LTE signal
+2. **Update device software**: Ensure your device has the latest operating system
+3. **Update carrier settings**:
+   - iOS: Go to Settings > General > About (wait for carrier settings update prompt)
+   - Android: Check for carrier updates in Settings > System > Advanced > System update
+4. **Reset network settings**:
+   - iOS: Settings > General > Reset > Reset Network Settings
+   - Android: Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+5. **Check SIM card**: Ensure your SIM is properly seated and not damaged
+
+## Common Error Messages
+
+| Error Message | Possible Solution |
+|--------------|-------------------|
+| "VoLTE not available in your area" | Move to an area with better LTE coverage or contact support to verify service availability |
+| "VoLTE not supported on this device" | Your device may not be compatible or may need a software update |
+| "Unable to enable VoLTE" | Restart your device, reset network settings, or contact support |
+| "SIM card not provisioned for VoLTE" | Your account may need VoLTE service activation |
+
+## Device-Specific Instructions
+
+### Samsung Galaxy devices:
+1. Go to **Settings** > **Connections** > **Mobile networks**
+2. Toggle on **VoLTE calls** or **HD Voice**
+3. If not visible, try dialing `*#*#4636#*#*` to access testing menu, then select **Phone information** and enable VoLTE
+
+### Google Pixel devices:
+1. Go to **Settings** > **Network & Internet** > **Mobile network**
+2. Toggle on **VoLTE**
+
+### OnePlus devices:
+1. Go to **Settings** > **Wi-Fi & Network** > **SIM & Network**
+2. Select your SIM card and toggle on **VoLTE**
+
+## When to Contact Support
+
+Contact our technical support team if:
+- VoLTE option is missing from your settings menu despite having a compatible device
+- You've followed all troubleshooting steps and VoLTE still doesn't work
+- You receive persistent error messages when trying to make VoLTE calls
+- Your device shows VoLTE is enabled but calls are still using the regular voice network
+- You experience call quality issues specifically with VoLTE calls
+
+Our support team can verify your account provisioning and device compatibility, and provide additional troubleshooting specific to your situation.
+
+## Additional Resources
+- Download our mobile app to check your device compatibility and network coverage
+- Visit your online account portal to verify VoLTE is included in your service plan
+- Check our network status page for any ongoing service issues in your area

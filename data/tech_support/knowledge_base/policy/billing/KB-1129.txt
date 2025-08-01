@@ -1,0 +1,60 @@
+ID: KB-1129
+Type: Policy
+Category: Billing
+Subcategory: Service interruption credits
+Title: Service Interruption Credits Policy
+Tags: interruption,troubleshooting,subscription,service interruption credits,service,credits,data,policy,billing
+Last Updated: 2025-04-12 23:59:47
+Generated: 2025-07-13T23:15:44.543679
+
+---
+
+# Service Interruption Credits Policy
+
+## Overview
+This policy outlines the terms, conditions, and procedures for service interruption credits. When our network experiences outages or service degradation, eligible customers may receive bill credits as compensation for the affected service period.
+
+## Definitions
+- **Service Interruption**: A complete loss of service or significant degradation that renders the service unusable for its intended purpose
+- **Planned Maintenance**: Scheduled network updates announced at least 48 hours in advance
+- **Force Majeure Event**: Circumstances beyond our reasonable control including natural disasters, acts of terrorism, or government actions
+
+## Eligibility Criteria
+Customers may qualify for service interruption credits when:
+1. The interruption lasts longer than 4 consecutive hours
+2. The issue is within our network and not caused by customer equipment or third-party services
+3. The customer reports the outage within 7 days of occurrence
+4. The customer's account is in good standing (not past due)
+
+## Credit Calculation
+Credits are calculated as follows:
+- For residential services: 1/30th of the monthly recurring charge for each 24-hour period of interruption
+- For business services: 1/720th of the monthly recurring charge for each hour of interruption
+- Minimum credit amount: $1.00
+
+## Exclusions
+Credits will not be issued for:
+- Planned maintenance performed during designated maintenance windows (typically 12:00 AM - 6:00 AM local time)
+- Service interruptions caused by customer equipment or actions
+- Force majeure events
+- Customers with past-due balances until accounts are brought current
+
+## Requesting Credits
+To request a service interruption credit:
+1. Contact Customer Support via the mobile app, online account portal, or by calling 1-800-XXX-XXXX within 7 days of the interruption
+2. Provide the date, time, and duration of the service interruption
+3. Describe the nature of the interruption (complete outage, intermittent service, etc.)
+
+## Processing and Application
+- Credit requests will be reviewed within 5 business days
+- Approved credits will appear on your next billing statement
+- You can view pending and applied credits in your online account or mobile app (available for iOS and Android)
+
+## Customer Rights
+Customers retain the right to:
+- Dispute denied credit requests within 30 days
+- Seek additional remedies as outlined in the Customer Service Agreement
+- File complaints with relevant regulatory authorities if issues remain unresolved
+
+## Policy Updates
+This policy may be updated periodically. The current version will always be available on our website and through our Customer Support channels.

@@ -1,0 +1,97 @@
+ID: KB-1084
+Type: Guide
+Category: Billing
+Subcategory: Third-party charges
+Title: Understanding and Managing Third-Party Charges on Your Bill
+Tags: account,third-party charges,charges,mobile,third-party,guide,billing
+Last Updated: 2024-07-31 23:59:47
+Generated: 2025-07-13T23:15:55.012816
+
+---
+
+# Understanding and Managing Third-Party Charges on Your Bill
+
+Third-party charges (sometimes called "premium services" or "direct carrier billing") are fees for services or subscriptions from companies other than your telecom provider that appear on your monthly bill. This guide will help you identify, manage, and dispute these charges if necessary.
+
+## What You'll Need
+- Your account login credentials
+- Your most recent bill
+- Access to your online account portal or mobile app
+
+## Step-by-Step Instructions
+
+### 1. Access Your Account
+**Online:**
+1. Visit your carrier's website and click "Sign In" or "My Account"
+2. Enter your phone number/username and password
+
+**Mobile App:**
+1. Open your carrier's mobile app
+2. Sign in with your credentials
+
+*Expected Outcome: You should see your account dashboard with options to view your bill*
+
+### 2. Locate Your Current Bill
+**Online:**
+1. Navigate to "Billing" or "View Bill" section
+2. Select your most recent bill
+
+**Mobile App:**
+1. Tap on "Billing" or "Bill Details"
+2. Select the current billing period
+
+*Expected Outcome: Your detailed bill breakdown should appear*
+
+### 3. Identify Third-Party Charges
+1. Look for sections labeled "Third-Party Charges," "Premium Services," or "Other Charges"
+2. These charges typically appear separate from your standard plan charges
+3. Note the name of the service provider and the amount charged
+
+*Screenshot Description: A bill section showing third-party charges highlighted, with arrows pointing to the service name and amount*
+
+### 4. Research Unfamiliar Charges
+1. Check text messages for service confirmations
+2. Search your email for subscription confirmations
+3. Ask family members on your plan if they authorized the service
+
+*Expected Outcome: You'll determine if the charge is legitimate or unauthorized*
+
+### 5. Block Future Third-Party Charges
+**Online:**
+1. Navigate to "Account Settings" or "Security"
+2. Look for "Purchase Controls" or "Third-Party Billing"
+3. Toggle the option to "Block all third-party charges"
+
+**Mobile App:**
+1. Tap on "Account" or "Settings"
+2. Select "Security" or "Purchase Controls"
+3. Enable "Block third-party purchases"
+
+*Expected Outcome: A confirmation message that third-party billing has been blocked*
+
+### 6. Dispute Unauthorized Charges
+1. Contact customer service via phone or chat
+2. Provide the date and amount of the charge
+3. Explain why you believe the charge is unauthorized
+4. Request a refund and confirmation number for your dispute
+
+*Expected Outcome: A case number for your dispute and timeline for resolution*
+
+## Troubleshooting Tips
+
+- **Can't find third-party charges?** Some carriers list them under "Miscellaneous Charges" or within individual line items. Try searching your bill PDF for "third party" or specific dollar amounts.
+
+- **Blocking option not visible?** Some carriers require calling customer service directly to implement third-party blocks.
+
+- **Recurring charges continue after blocking?** The block prevents new charges but doesn't cancel existing subscriptions. Contact the third-party company directly to cancel.
+
+- **Dispute denied?** Ask to escalate to a supervisor. You may also file a complaint with the FCC at fcc.gov/consumers/guides/filing-complaint.
+
+## Prevention Tips
+
+- Review your bill monthly for unexpected charges
+- Be cautious when clicking on mobile ads or downloading free apps
+- Read the fine print before entering your phone number on websites
+- Consider setting up billing alerts for charges exceeding your normal amount
+
+Remember that legitimate third-party services require your explicit consent, usually through a double opt-in process. If you don't recall authorizing a charge, you have the right to dispute it.

@@ -1,0 +1,64 @@
+ID: KB-1010
+Type: FAQ
+Category: Billing
+Subcategory: Billing cycle changes
+Title: How Will a Change to My Billing Cycle Affect My Account?
+Tags: billing cycle changes,faq,telecom,support,phone,billing,changes,cycle
+Last Updated: 2024-06-13 23:59:47
+Generated: 2025-07-13T23:15:49.234761
+
+---
+
+# How Will a Change to My Billing Cycle Affect My Account?
+
+## Understanding Billing Cycle Changes
+
+When your billing cycle changes, it means the date your bill is generated and when payment is due will shift to a new day of the month. This can happen if you make significant changes to your account (like adding new lines or switching plans) or upon your request for administrative purposes.
+
+## What Happens During a Billing Cycle Change
+
+### Your First Bill After the Change
+Your first bill following a billing cycle change will typically be prorated, meaning you'll only be charged for the exact number of days of service you received. Here's how it works:
+
+* **Partial Month Charges**: You'll see charges for the partial period between your old and new billing dates.
+* **Credit for Unused Service**: If you've already paid for service days that fall after your new billing date, you'll receive a credit.
+
+### Example Calculation:
+Let's say your billing cycle currently runs from the 15th of each month to the 14th of the next month, and you're changing to a cycle that runs from the 1st to the end of each month:
+
+* Your current plan costs $80/month
+* Daily rate: $80 ÷ 30 days = approximately $2.67 per day
+* If your new cycle starts on the 1st, you'll be charged for days 15-30/31 of the previous month (about $40-$43)
+* Any unused days you already paid for will appear as a credit
+
+## Impact on Your Plan Features
+
+### Data Allowances
+Your monthly data allowance will also be prorated during the transition month. For example:
+* If you have a 15GB monthly data plan and your billing cycle is shortened to 15 days, you'll receive approximately 7.5GB for that shortened cycle.
+
+### Unlimited Plans
+Even with unlimited plans, any usage thresholds (like premium data limits or hotspot allowances) will be adjusted proportionally for the shorter or longer billing period.
+
+## Managing Your Account During the Transition
+
+You can monitor these changes through:
+* Our mobile app (available for iOS and Android)
+* Your online account dashboard
+* The detailed PDF bill that will be emailed to you
+
+## Frequently Asked Follow-Up Questions
+
+**Will my autopay date change?**
+Yes, your automatic payment date will align with your new billing cycle date.
+
+**Will this affect my promotional discounts or device payments?**
+No, your promotional discounts and device payment schedule will continue as normal, though the billing date will shift to your new cycle.
+
+**Can I request a specific billing date?**
+Yes, you can request a preferred billing date by contacting Customer Support, though we cannot guarantee all dates will be available.
+
+**How many times can I change my billing cycle?**
+We generally limit billing cycle changes to once every 6 months to ensure billing stability.
+
+If you have additional questions about your specific billing cycle change, please contact Customer Support with your account details ready.

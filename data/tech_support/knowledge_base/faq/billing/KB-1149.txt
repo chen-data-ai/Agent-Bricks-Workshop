@@ -1,0 +1,52 @@
+ID: KB-1149
+Type: FAQ
+Category: Billing
+Subcategory: Refund policy
+Title: What is our refund policy?
+Tags: payment,refund,refund policy,faq,telecom,policy,billing
+Last Updated: 2025-05-08 23:59:47
+Generated: 2025-07-13T23:15:45.823584
+
+---
+
+# What is our refund policy?
+
+We understand that billing questions can arise, and we're committed to fair and transparent refund practices. Here's everything you need to know about our refund policy:
+
+## General Refund Guidelines
+
+* **Service Plan Charges**: Monthly service plan fees are generally non-refundable once the billing cycle has begun. However, if you've been charged incorrectly (such as being billed for a $70/month premium plan when you're on a $50/month standard plan), we'll refund the difference promptly.
+
+* **Prorated Refunds**: If you downgrade or cancel your service mid-billing cycle, you may receive a prorated refund for the unused portion. For example, if you downgrade from a $60 plan to a $40 plan halfway through your billing cycle, you'll receive approximately $10 back (half of the $20 difference).
+
+* **Equipment Returns**: Purchased devices can be returned within 14 days for a full refund (less a $35 restocking fee). The device must be in like-new condition with all original packaging and accessories.
+
+* **Erroneous Charges**: If you identify an error on your bill (such as charges for services you didn't request or duplicate charges), we'll investigate and issue a full refund if the error is confirmed.
+
+## How to Request a Refund
+
+You can request a refund through:
+1. Our mobile app (tap Account → Billing → Request Refund)
+2. Your online account dashboard at www.ourcompany.com/myaccount
+3. Customer service at 1-800-555-1234
+
+Most refund requests are processed within 1-2 billing cycles. The refund will typically appear as a credit on your next bill or return to your original payment method.
+
+## Common Refund Scenarios
+
+**Example 1: Overpayment**  
+If you've made a payment of $100 but only owed $75, the $25 overpayment will automatically be applied to your next bill as a credit. If you prefer a direct refund instead, please contact us.
+
+**Example 2: International Roaming Disputes**  
+If you believe you've been incorrectly charged for international usage (e.g., $45 in roaming fees when you had an international add-on), please provide details of your travel dates and the disputed charges. We'll review your account and usage history to determine if a refund is warranted.
+
+**Example 3: Service Outages**  
+For significant service outages affecting your area for more than 24 hours, you may be eligible for a prorated service credit. The credit amount would be calculated based on the duration of the outage (e.g., a 2-day outage on a $60 monthly plan would result in approximately $4 credit).
+
+## Additional Information
+
+* Refund processing times may vary based on your payment method and billing cycle
+* All refund requests must be submitted within 60 days of the charge appearing on your bill
+* For prepaid customers, refunds are typically applied as account credits
+
+Have more questions about your bill or our refund policy? Contact our billing department directly through the Support section of our mobile app (available for both iOS and Android) or call us at 1-800-555-1234.

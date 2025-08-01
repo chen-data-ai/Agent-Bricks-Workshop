@@ -1,0 +1,59 @@
+Ticket ID: TICK-8030
+Customer ID: CUS-10859
+Subscription ID: SUB-10001268
+Category: Billing
+Priority: High
+Status: Closed
+Created: 2025-03-22 21:49:17.300000
+Agent ID: BIL-1273
+Resolved: 2025-03-22 21:49:17.300000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8030 (Created: 2025-03-23 04:49)
+
+I am absolutely FURIOUS about my latest bill! I've been a loyal customer for over 5 years on your "Ultimate Unlimited Plus" family plan, and suddenly my March bill is $247.89 higher than normal with no explanation. I checked my account on my iPhone 15 Pro using your mobile app and it shows some ridiculous "International Data Roaming" charges from Vancouver, Canada - but I've NEVER been to Canada! Not once!
+
+My entire family was in Phoenix the whole time these charges supposedly occurred. I can prove it! My Galaxy S24 location history shows I was at work, and my kids' phones never left Arizona. When I tried using the chat support in the app, it kept giving me Error Code BIL-4072 and disconnecting.
+
+This is completely unacceptable. I need these charges removed IMMEDIATELY. I've already had to postpone paying other bills because your system automatically withdrew the full incorrect amount from my account. If this isn't resolved within 24 hours, I'll be filing a complaint with the FCC and considering switching all 5 lines to your competitor.
+
+Please call me back ASAP at 480-555-7219. I work night shifts at the hospital so afternoon is best.
+
+- Michael Thornton
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8030 | Agent BIL-1273 | Resolved on 2025-03-23 04:49
+
+Dear Mr. Thornton,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration caused by the unexpected charges on your March bill and the difficulty you experienced when attempting to resolve this through our mobile app.
+
+## Investigation Details:
+- Accessed your "Ultimate Unlimited Plus" family plan account (5 lines)
+- Verified the reported international data roaming charges from Vancouver, Canada totaling $247.89
+- Confirmed through our location services database that all devices on your account remained within Arizona during the period in question
+- Identified a system error (Error Code BIL-4072) that incorrectly applied Canadian roaming charges to your account
+
+## Actions Taken:
+1. Removed all international data roaming charges ($247.89) from your March billing cycle
+2. Applied a courtesy credit of $25.00 to your account for the inconvenience (per our Customer Satisfaction Policy §4.3)
+3. Submitted an IT ticket to address the Error Code BIL-4072 you encountered in our mobile app
+4. Added a 90-day international roaming block on all lines to prevent similar errors
+5. Processed a refund of $247.89 to your payment method, which should appear in 3-5 business days
+
+## Additional Information:
+Our technical team has identified that customers with certain device models (including iPhone 15 Pro and Galaxy S24) near the northern Arizona border may occasionally experience incorrect tower registration with Canadian networks. We've implemented a fix to prevent this billing error from recurring on your account.
+
+I've updated your contact preferences to ensure any follow-up communications are scheduled during afternoon hours to accommodate your night shift schedule. You can also monitor the refund status through our mobile app or online account portal.
+
+Please don't hesitate to contact us if you have any additional questions or concerns. We value your 5+ years of loyalty and are committed to ensuring your complete satisfaction.
+
+Sincerely,
+Agent BIL-1273
+Billing Resolution Team

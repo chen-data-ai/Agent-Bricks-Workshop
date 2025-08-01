@@ -1,0 +1,106 @@
+ID: KB-1096
+Type: Policy
+Category: Technical
+Subcategory: Esim activation issues
+Title: eSIM Activation Issues: Technical Support Policy
+Tags: activation,technical,wireless,esim activation issues,mobile,esim,policy,billing,issues
+Last Updated: 2024-07-21 23:59:47
+Generated: 2025-07-13T23:15:55.843051
+
+---
+
+# eSIM Activation Issues: Technical Support Policy
+
+## 1. Overview
+This policy document outlines our company's approach to handling eSIM activation issues, including service standards, troubleshooting protocols, and the respective responsibilities of both our company and our customers.
+
+## 2. Service Standards
+
+### 2.1 Activation Timeframes
+- Standard eSIM activation should complete within 15 minutes of customer confirmation
+- Priority handling for business accounts with activation within 10 minutes
+- Maximum resolution time for complex activation issues: 24 hours
+
+### 2.2 Support Availability
+- 24/7 technical support via phone, chat, and mobile app
+- Dedicated eSIM activation specialists available 8AM-10PM local time
+- Emergency support team for critical business customer activation failures
+
+## 3. Maintenance Windows
+
+### 3.1 Scheduled Maintenance
+- Regular eSIM platform maintenance: Tuesdays, 2AM-5AM local time
+- Quarterly system updates: First Sunday of each quarter, 12AM-6AM
+- All scheduled maintenance announced 7 days in advance via account notifications
+
+### 3.2 Emergency Maintenance
+- May occur without prior notice to address critical security or service issues
+- Limited to maximum 2-hour windows when possible
+- Post-maintenance report available within 24 hours of completion
+
+## 4. Customer Notification Protocols
+
+### 4.1 Pre-Activation Communications
+- Confirmation email/SMS with activation instructions sent immediately after eSIM purchase
+- Push notification via mobile app when eSIM is ready for download
+- Reminder notifications if activation not completed within 48 hours
+
+### 4.2 Issue Notifications
+- SMS and email alerts for detected activation failures
+- In-app status updates for ongoing troubleshooting
+- Estimated resolution timeframe provided within 30 minutes of issue identification
+
+## 5. Troubleshooting and Remediation Procedures
+
+### 5.1 First-Level Support
+- Guided troubleshooting via phone, chat, or mobile app
+- Remote diagnostics of device compatibility and network status
+- QR code regeneration if initial code fails
+
+### 5.2 Advanced Support
+- Escalation to specialized eSIM team for issues unresolved within 30 minutes
+- Remote profile management and deletion of corrupted profiles
+- Manual provisioning for persistent activation failures
+
+### 5.3 Compensation Protocol
+- One day of service credit for activations delayed beyond 2 hours
+- Pro-rated refund for activations that cannot be completed due to network issues
+- Alternative physical SIM provided free of charge if eSIM activation cannot be completed
+
+## 6. Customer Responsibilities
+
+### 6.1 Device Requirements
+- Ensure device is eSIM compatible and unlocked
+- Maintain current operating system (minimum iOS 12.1 or Android 10)
+- Have sufficient storage space for eSIM profile installation
+
+### 6.2 Activation Process
+- Follow provided activation instructions completely
+- Connect to stable Wi-Fi network during initial activation
+- Restart device when instructed during troubleshooting
+- Provide accurate IMEI information when requested
+
+### 6.3 Account Requirements
+- Maintain active account in good standing
+- Complete identity verification if required by regulations
+- Report activation issues promptly through official support channels
+
+## 7. Company Obligations
+
+### 7.1 Technical Support
+- Provide clear, step-by-step activation instructions
+- Offer multi-channel support options for all customer segments
+- Maintain trained specialists for complex device-specific issues
+
+### 7.2 System Reliability
+- Maintain 99.9% uptime for eSIM provisioning systems
+- Implement redundant systems to prevent complete service outages
+- Conduct regular testing of activation processes across all supported devices
+
+### 7.3 Privacy and Security
+- Secure transmission of all eSIM profiles using industry-standard encryption
+- No storage of activation data beyond regulatory requirements
+- Compliance with all relevant telecommunications regulations and standards
+
+## 8. Policy Updates
+This policy is subject to change with 30 days' notice to customers. Critical security-related changes may be implemented immediately with subsequent notification.

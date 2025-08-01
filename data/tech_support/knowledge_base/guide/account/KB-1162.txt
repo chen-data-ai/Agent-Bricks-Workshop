@@ -1,0 +1,87 @@
+ID: KB-1162
+Type: Guide
+Category: Account
+Subcategory: Digital account tools
+Title: Digital Account Management Tools: User Guide
+Tags: digital,digital account tools,account,tools,wireless,voice,guide,customer
+Last Updated: 2024-11-22 23:59:47
+Generated: 2025-07-13T23:15:46.825204
+
+---
+
+# Digital Account Management Tools: User Guide
+
+## Introduction
+This guide covers the digital tools available to manage your telecom account, access billing information, make payments, and update your service preferences. Our digital platforms provide 24/7 access to your account from any device.
+
+## Available Digital Account Management Options
+
+### Mobile App
+Our mobile application offers the most comprehensive account management experience:
+
+1. **Download**: Search for "[Company] Mobile" in the App Store (iOS) or Google Play Store (Android)
+2. **Registration**:
+   - Install the app and tap "Register"
+   - Enter your mobile number or account number
+   - Complete the verification process (SMS code or email link)
+   - Create a secure password (8+ characters with numbers and special characters)
+   - Set up biometric authentication (fingerprint/face recognition) if desired
+
+3. **Key Features**:
+   - View and pay bills
+   - Monitor data usage in real-time
+   - Add/remove services
+   - Report technical issues
+   - Chat with customer support
+   - Manage family lines
+
+### Online Account Portal
+For desktop access to your account:
+
+1. **Registration**:
+   - Visit our website and click "My Account"
+   - Select "Register" and enter your account information
+   - Verify your identity via email or SMS
+   - Create your login credentials
+
+2. **Key Features**:
+   - All mobile app features
+   - Download and print billing statements
+   - Schedule automatic payments
+   - Access detailed call/data history
+
+## Security Considerations
+
+- **Authentication**: Two-factor authentication is required for sensitive account changes
+- **Session Timeout**: For your protection, you'll be automatically logged out after 15 minutes of inactivity
+- **Device Management**: View and remove devices currently authorized to access your account
+- **Notification Settings**: Enable alerts for login attempts, payment confirmations, and billing notices
+
+## Account Changes & Documentation Requirements
+
+| Change Type | Required Documentation | Processing Time | Available Channels |
+|------------|------------------------|-----------------|-------------------|
+| Update contact info | None | Immediate | App, Online, Phone, In-store |
+| Change payment method | Credit card/bank details | Immediate | App, Online, Phone, In-store |
+| Add authorized user | ID verification of new user | 24-48 hours | Online, Phone, In-store |
+| Transfer of ownership | ID verification, proof of relationship | 3-5 business days | Phone, In-store |
+| Plan changes | None | Immediate to next billing cycle | App, Online, Phone, In-store |
+
+## Troubleshooting
+
+- **Forgotten Password**: Use the "Forgot Password" link on the login screen
+- **Account Lockout**: After 5 failed login attempts, your account will be temporarily locked for 30 minutes
+- **App Not Loading**: Ensure you have the latest version installed and adequate internet connection
+- **Payment Issues**: Verify your payment information is current and try again or use an alternate payment method
+
+## Alternative Account Management Methods
+
+- **Phone Support**: Call 1-800-XXX-XXXX (available 8AM-8PM local time)
+- **In-Store Assistance**: Visit any retail location with valid photo ID
+- **Interactive Voice Response (IVR)**: Access basic account functions by calling our automated system
+
+## Data Privacy
+
+Your account information is encrypted and protected according to industry standards. We never share your personal information with third parties without your consent.
+
+For additional assistance with digital account tools, contact our support team through any of the channels listed above.

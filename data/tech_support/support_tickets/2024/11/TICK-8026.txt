@@ -1,0 +1,62 @@
+Ticket ID: TICK-8026
+Customer ID: CUS-10708
+Subscription ID: SUB-10001056
+Category: Technical
+Priority: High
+Status: Resolved
+Created: 2024-11-14 20:47:57.345000
+Agent ID: TEC-8210
+Resolved: 2024-11-15 20:47:57.345000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8026 (Created: 2024-11-15 04:48)
+
+I'm beyond frustrated with my service right now. For the past three days, my iPhone 15 Pro keeps showing "No Service" or fluctuating between 1-2 bars in areas where I normally have full coverage. I live in the Brookhaven neighborhood of Atlanta where I've never had issues before, and I'm on your Premium Unlimited Plus plan that I pay $85/month for!
+
+When I do get service, data speeds are crawling - speedtest shows 0.8Mbps download when I usually get 80+. I've tried everything - restarting the phone, toggling airplane mode, resetting network settings, and even removing/reinserting my SIM card. My phone shows error message "Unable to Establish Secure Connection" when trying to use most apps.
+
+This is completely unacceptable! I have important work calls and can't rely on my Apple iPhone 13 . My wife's Galaxy S24 on the same plan works perfectly fine, so it's definitely not an area-wide outage. I need this resolved IMMEDIATELY or I'll be forced to switch carriers. I've been a loyal customer for 6 years but this is pushing me over the edge.
+
+Please don't tell me to just restart my Apple iPhone 13  again. I need a real solution today.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8026 | Agent TEC-8210 | Resolved on 2024-11-16 04:48
+
+Dear Valued Customer,
+
+Thank you for bringing these service issues to our attention. I sincerely apologize for the frustration and inconvenience you've experienced with your iPhone service in the Brookhaven area. I understand how critical reliable connectivity is, especially for your important work calls.
+
+After thorough investigation, I identified that your service disruption was caused by two concurrent issues:
+
+1. There was an unannounced maintenance on the cell tower serving your primary location (Tower ID: ATL-BRK-0842) which was causing intermittent connectivity issues for iPhone devices specifically. This maintenance was scheduled to complete by 2024-11-16 03:00.
+
+2. I detected a provisioning error in our Network Access Database (NAD) that was incorrectly throttling your data speeds. This explains why your wife's Galaxy S24 was unaffected while your iPhone experienced severe speed degradation.
+
+Actions taken to resolve your issue:
+
+- Reset your network profile in our Core Network Management System
+- Manually updated your device provisioning settings in our NAD system
+- Pushed a carrier settings update to your device
+- Verified your Premium Unlimited Plus plan entitlements were properly applied
+- Confirmed tower maintenance completion with our Network Operations Center
+
+As compensation for this disruption, I've applied a $25 service credit to your account per our Service Guarantee Policy (SGP-2024). This credit will appear on your next billing statement.
+
+To ensure everything is working properly:
+1. Please restart your iPhone one final time
+2. Go to Settings > General > About to ensure the carrier settings update is applied (version 56.2 or higher)
+3. Run a speed test to confirm normal data speeds have been restored
+
+I've scheduled a follow-up check on your account for 48 hours from now to ensure service quality remains optimal. If you experience any further issues, please reference this ticket number for expedited assistance.
+
+We truly value your 6 years of loyalty, and I'm committed to ensuring you receive the premium service you deserve. Please don't hesitate to contact us if you need any further assistance.
+
+Best regards,
+Agent TEC-8210
+Technical Support Team

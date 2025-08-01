@@ -1,0 +1,102 @@
+ID: KB-1189
+Type: Guide
+Category: Billing
+Subcategory: Billing error resolution
+Title: How to Resolve Billing Errors on Your Telecom Account
+Tags: payment,text,telecom,billing error resolution,guide,resolution,error,billing
+Last Updated: 2024-10-28 23:59:47
+Generated: 2025-07-13T23:15:39.880026
+
+---
+
+# How to Resolve Billing Errors on Your Telecom Account
+
+This guide will help you identify, report, and resolve billing errors on your telecom account through both the online portal and mobile app.
+
+## Before You Begin
+- Have your account number and PIN/password ready
+- Have a copy of the bill with the error available
+- Note the specific charges you believe are incorrect
+
+## Step 1: Review Your Bill Thoroughly
+1. Log into your account (online portal or mobile app)
+2. Navigate to the "Billing" or "My Bill" section
+3. Open the bill with the suspected error
+
+**Screenshot description:** The billing section showing a list of recent bills with options to view or download.
+
+**Expected outcome:** You should see a detailed breakdown of all charges.
+
+**Troubleshooting tip:** If you can't see your bills online, ensure you're logged into the correct account or try clearing your browser cache.
+
+## Step 2: Document the Billing Error
+1. Identify the specific incorrect charge(s)
+2. Take screenshots or make notes of the error
+3. Calculate the correct amount you believe you should be charged
+
+**Screenshot description:** A bill detail page showing itemized charges with the ability to select specific line items.
+
+**Expected outcome:** You'll have clear documentation of the error to reference during your communication with customer service.
+
+**Troubleshooting tip:** Compare with previous bills to confirm this is not a new legitimate charge (like a plan change or one-time fee).
+
+## Step 3: Check for Known Billing Issues
+1. Visit the "Announcements" or "Service Status" section of the website/app
+2. Look for any notices about billing system issues
+3. Check if there's an automated resolution process already in place
+
+**Screenshot description:** The service status page showing system notifications and known issues.
+
+**Expected outcome:** You'll know if the error is a known system-wide issue being addressed.
+
+**Troubleshooting tip:** If using the app and this section isn't loading, try the website instead as it often has more detailed system status information.
+
+## Step 4: Contact Customer Support
+1. In the app: Tap the "Support" or "Help" icon, then "Contact Us"
+2. On the website: Click "Support" or "Contact Us" (usually in the top menu or footer)
+3. Select "Billing Issue" from the topic options
+
+**Screenshot description:** The contact options screen showing different support channels (chat, call, email).
+
+**Expected outcome:** You'll be connected with a billing specialist who can address your concern.
+
+**Troubleshooting tip:** 
+- iOS users: If in-app support isn't responding, try force-closing and reopening the app
+- Android users: Check that the app has permission to send notifications if waiting for a callback
+
+## Step 5: Explain the Billing Error Clearly
+1. Provide your account details for verification
+2. Explain the specific error with reference to your documentation
+3. State your expected resolution (credit, adjustment, plan change, etc.)
+
+**Expected outcome:** The representative acknowledges your issue and creates a case number.
+
+**Troubleshooting tip:** If the representative doesn't understand the issue, ask to speak with a billing specialist or supervisor.
+
+## Step 6: Track Your Resolution Case
+1. Note the case/ticket number provided
+2. In the app or website, go to "My Support Cases" or "Open Tickets"
+3. Select your billing case to view status updates
+
+**Screenshot description:** The support case tracking page showing the status of open support tickets.
+
+**Expected outcome:** You'll see the current status of your billing dispute.
+
+**Troubleshooting tip:** If your case doesn't appear within 24 hours, contact support again with your case number.
+
+## Step 7: Review the Resolution
+1. Once resolved, check your next bill or account balance
+2. Verify that the correction has been properly applied
+3. Confirm any credits or adjustments match what was agreed upon
+
+**Screenshot description:** The account balance page showing recent adjustments and credits.
+
+**Expected outcome:** Your account balance reflects the agreed-upon resolution.
+
+**Troubleshooting tip:** If the correction doesn't appear on your next bill, it may appear as an adjustment on the following bill. If not resolved after two billing cycles, contact support again.
+
+## Additional Resources
+- Most billing adjustments appear within 1-2 billing cycles
+- Keep all case numbers until the issue is fully resolved
+- For recurring billing issues, request a billing pattern review
+- Consider

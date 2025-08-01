@@ -1,0 +1,60 @@
+ID: KB-1181
+Type: FAQ
+Category: Billing
+Subcategory: Taxes and regulatory fees
+Title: Why are there taxes and regulatory fees on my bill?
+Tags: account,taxes and regulatory fees,taxes,fees,faq,mobile,roaming,billing,regulatory
+Last Updated: 2025-04-02 23:59:47
+Generated: 2025-07-13T23:15:48.125509
+
+---
+
+# Why are there taxes and regulatory fees on my bill?
+
+Your monthly bill includes various taxes and regulatory fees that we're required by law to collect and remit to federal, state, and local governments. These charges aren't part of our revenue and vary based on your location, service type, and current regulations.
+
+## Common taxes and fees you might see:
+
+**Federal Universal Service Fund (FUSF)** - This fee supports providing telecommunications services to rural areas, schools, libraries, and low-income consumers. The rate is adjusted quarterly by the FCC and is currently calculated as approximately 28.9% of interstate and international calls.
+
+**State and Local Taxes** - These vary significantly by location and may include:
+- State telecommunications excise tax (typically 3-7%)
+- Local utility taxes (often 1-5%)
+- 911 emergency services fees (usually $0.50-$2.00 per line)
+- State universal service fees (varies by state)
+
+**Regulatory Cost Recovery Fee** - This helps us recover costs associated with complying with government regulations. For most plans, this ranges from $1.50 to $3.25 per line.
+
+**Administrative Fee** - This fee helps cover costs related to cell site maintenance, interconnection between carriers, and property taxes. Typically $1.99-$3.99 per line.
+
+## Example calculation:
+
+For a customer in Colorado with a $70 monthly plan and one line:
+- Base plan: $70.00
+- Federal Universal Service Fund (28.9% of applicable charges): ~$3.25
+- Colorado Telecommunications Relay Service: $0.10
+- 911 fee: $1.50
+- State sales tax (2.9%): $2.03
+- Local city tax (3.5%): $2.45
+- Regulatory Cost Recovery Fee: $1.99
+- Administrative Fee: $2.99
+- **Total bill: $84.31**
+
+## Frequently asked questions:
+
+**Can these fees change?**
+Yes. Government taxes and fees can change when laws or regulations are updated. We'll always notify you of any changes to carrier-imposed fees.
+
+**Why do taxes and fees vary by location?**
+Different states, counties, and cities set their own tax rates and regulatory fees for telecommunications services.
+
+**Can I see a breakdown of these charges?**
+Yes! You can view a detailed breakdown of all taxes and fees:
+- In our mobile app: Tap "Billing" → "View Bill" → "Taxes & Fees"
+- Online account: Log in and select "Billing History" → select your bill → "View Details"
+- On your PDF bill: Look for the "Taxes, Fees, and Surcharges" section
+
+**Are these fees the same for all carriers?**
+Government-mandated taxes are the same, but carrier-imposed regulatory and administrative fees may vary between providers.
+
+If you have specific questions about any charge on your bill, please contact our customer support team through the mobile app, online chat, or by calling the number on your bill.

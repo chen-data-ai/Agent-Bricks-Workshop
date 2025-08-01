@@ -1,0 +1,120 @@
+ID: KB-1121
+Type: Procedure
+Category: Account
+Subcategory: Port-in process
+Title: Port-In Process Management Procedure
+Tags: payment,data,account,port-in,mobile,procedure,process,port-in process
+Last Updated: 2025-02-24 23:59:47
+Generated: 2025-07-13T23:15:57.619580
+
+---
+
+# Port-In Process Management Procedure
+**Document ID:** PORT-IN-2023-01  
+**Last Updated:** [Current Date]  
+**Classification:** Internal Support Document
+
+## 1. Overview
+
+This document outlines the standardized procedure for managing customer port-in requests, ensuring regulatory compliance, customer satisfaction, and proper system documentation. Port-ins involve transferring a customer's existing phone number from another carrier to our network.
+
+## 2. Pre-Port Verification
+
+### 2.1 Customer Eligibility Verification
+- Confirm customer identity using two forms of identification
+- Verify customer account is in good standing
+- Ensure service address is within our coverage area
+- Check customer credit qualification if applicable
+
+### 2.2 Number Portability Verification
+- Validate that the number is eligible for porting using the Number Portability Administration Center (NPAC) database
+- Confirm the number is active with the current carrier
+- Verify the number is not already in the porting process
+
+### 2.3 Required Documentation
+- Account number from current carrier
+- Account PIN/password from current carrier
+- Customer's billing information matching current carrier records
+- Last 4 digits of account holder's SSN or Tax ID
+- Signed Letter of Authorization (LOA)
+
+## 3. System Processing Steps
+
+### 3.1 Create Port Request
+1. Log into Port Management System (PMS)
+2. Select "New Port Request" from the dashboard
+3. Enter customer information exactly as it appears on current carrier bill
+4. Input the telephone number(s) to be ported
+5. Select appropriate port type (wireless-to-wireless, landline-to-wireless, etc.)
+6. Upload scanned LOA document
+7. Submit request to generate Port Request Number (PRN)
+
+### 3.2 Port Request Tracking
+1. Document PRN in customer's account notes
+2. Set port status to "Submitted"
+3. Schedule follow-up based on estimated completion timeframe:
+   - Wireless-to-wireless: 24-48 hours
+   - Landline-to-wireless: 3-10 business days
+
+### 3.3 System Updates
+1. Create pending service order in Billing System
+2. Provision temporary number if immediate service is required
+3. Flag account for port-in completion notification
+4. Update inventory management system if new SIM/device is provided
+
+## 4. Compliance Requirements
+
+### 4.1 Regulatory Compliance
+- Adhere to FCC Wireless Local Number Portability (WLNP) regulations
+- Follow CTIA Consumer Code for Wireless Service guidelines
+- Document compliance with Truth-in-Billing requirements
+- Maintain records for minimum of 2 years per FCC requirements
+
+### 4.2 Privacy Protection
+- Secure all customer data per company privacy policy
+- Encrypt sensitive information in all communications
+- Obtain explicit consent before initiating port process
+- Document all customer authorizations
+
+## 5. Port Processing
+
+### 5.1 Port Request Monitoring
+1. Check port status daily in PMS
+2. Document all communications with donor carrier
+3. Address any rejections or delays within 2 hours
+4. Escalate unresolved issues after 24 hours
+
+### 5.2 Handling Port Rejections
+1. Identify rejection reason code
+2. Contact customer for corrected information if needed
+3. Update port request with corrected information
+4. Resubmit port request
+5. Document all actions in customer account
+
+## 6. Port Completion
+
+### 6.1 Port Activation
+1. Receive port completion notification from PMS
+2. Verify number is active on our network
+3. Test outbound and inbound calling
+4. Confirm voicemail functionality
+5. Update port status to "Completed"
+
+### 6.2 System Updates
+1. Activate number in billing system
+2. Remove temporary number (if applicable)
+3. Update account status to "Active"
+4. Apply any promotional credits or plans
+5. Set billing cycle start date
+
+## 7. Customer Notification
+
+### 7.1 Notification Methods
+- Send SMS confirmation to ported number
+- Send email confirmation to account email address
+- Update customer account portal status
+- Push notification through mobile app (if installed)
+
+### 7.2 Notification Content
+- Confirmation of successful port completion
+- Instructions for verifying service functionality

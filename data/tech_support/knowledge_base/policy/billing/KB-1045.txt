@@ -1,0 +1,89 @@
+ID: KB-1045
+Type: Policy
+Category: Billing
+Subcategory: Refund policy
+Title: Refund Policy
+Tags: refund,refund policy,wireless,mobile,policy,billing,plan
+Last Updated: 2024-09-26 23:59:47
+Generated: 2025-07-13T23:15:51.738641
+
+---
+
+# Refund Policy
+
+## Overview
+This document outlines our company's refund policy for all telecommunications services and products. It establishes the conditions under which customers may receive refunds, the applicable timeframes, and the procedures for requesting and processing refunds.
+
+## Definitions
+- **Billing Cycle**: The recurring period (typically monthly) for which service charges are applied
+- **Prorated Refund**: A partial refund calculated based on the unused portion of a service
+- **Service Credit**: A credit applied to a customer's account for future services rather than a monetary refund
+- **Chargeback**: A transaction reversal initiated by the customer's bank or credit card company
+
+## Eligibility for Refunds
+
+### Service Interruptions
+Customers may be eligible for refunds when experiencing service outages or significant degradation of service under the following conditions:
+- Outages lasting more than 24 consecutive hours
+- Service performance consistently falling below 50% of advertised speeds for 72 hours or more
+- Refunds are calculated as a prorated daily rate based on the monthly service fee
+
+### Billing Errors
+We will issue full refunds for:
+- Duplicate charges
+- Services not received
+- Incorrect rate application
+- Unauthorized charges
+
+### Device Returns
+Devices may be returned for a refund under these conditions:
+- Within 14 days of purchase (30 days for customers with accessibility needs)
+- Device is in original condition with all included accessories
+- Original receipt or proof of purchase is provided
+- Restocking fee of $35 may apply unless the device is defective
+
+## Refund Timeframes
+- **Online/Mobile App Payment Methods**: 3-5 business days for credit/debit card refunds
+- **In-Store Cash Payments**: Immediate refund if returned to the same store; otherwise, a check will be issued within 10 business days
+- **Bank Account/ACH Payments**: 5-7 business days
+- **Service Credits**: Applied to the account within 1-2 billing cycles
+
+## Requesting a Refund
+Customers may request refunds through:
+1. **Online Account Management**: Log in at our website or mobile app (available for iOS and Android)
+2. **Customer Support**: Call 1-800-XXX-XXXX (available 24/7)
+3. **Retail Locations**: Visit any company store with proper identification and proof of purchase
+
+## Required Documentation
+- Account holder's identification
+- Original receipt or order number
+- Reason for refund request
+- For device returns: all original packaging and accessories
+
+## Non-Refundable Items and Services
+The following are generally not eligible for refunds:
+- Prepaid services after activation or usage
+- Pay-per-use services that have been accessed
+- Third-party charges once delivered (e.g., premium content, app purchases)
+- Installation fees after service has been installed
+- Promotional items received as part of a service bundle
+
+## Special Circumstances
+- **Contract Termination**: Early termination fees are not refundable except where required by law
+- **Account Closure**: Any remaining balance under $1.00 will not be refunded
+- **Deceased Customers**: Executor/administrator of estate may request prorated refund of unused services with proper documentation
+
+## Dispute Resolution
+If a refund request is denied, customers may:
+1. Request a supervisor review within 30 days
+2. Submit a formal appeal through our dispute resolution process
+3. Contact relevant regulatory authorities if the matter remains unresolved
+
+## Policy Changes
+This refund policy may be updated periodically. Customers will be notified of significant changes through billing statements, email notifications, and our website.
+
+## Contact Information
+For questions regarding this policy:
+- Customer Support: 1-800-XXX-XXXX
+- Email: refunds@company.com
+- Online: Access the "Billing Support" section in your online account or mobile app

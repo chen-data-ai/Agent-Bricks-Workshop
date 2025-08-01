@@ -1,0 +1,108 @@
+ID: KB-1131
+Type: Guide
+Category: Billing
+Subcategory: Autopay setup
+Title: How to Set Up Autopay for Your Telecom Bill
+Tags: data,setup,telecom,autopay setup,guide,billing,plan,autopay
+Last Updated: 2025-04-05 23:59:47
+Generated: 2025-07-13T23:15:44.676666
+
+---
+
+# How to Set Up Autopay for Your Telecom Bill
+
+Setting up automatic payments ensures your bill is paid on time every month, helping you avoid late fees and service interruptions. This guide walks you through the process for both our website and mobile app.
+
+## What You'll Need
+- Your account login credentials
+- A valid credit/debit card or bank account information
+- Your billing address
+
+## Website Instructions
+
+1. **Log in to your online account**
+   - Visit our website and click the "Sign In" button in the top right corner
+   - Enter your username/email and password
+   - *Expected outcome:* You'll be directed to your account dashboard
+   
+2. **Navigate to billing section**
+   - Click on "Billing" or "Payment Options" in the main menu
+   - *Expected outcome:* You'll see your current balance, payment history, and payment options
+   - *[Screenshot description: Billing section showing the navigation menu with "Billing" highlighted]*
+
+3. **Select autopay setup**
+   - Look for "Set Up Autopay" or "Automatic Payments" button
+   - Click on this option to begin setup
+   - *Expected outcome:* A form will appear for entering payment details
+   
+4. **Choose payment method**
+   - Select either "Credit/Debit Card" or "Bank Account"
+   - Enter the requested information:
+     - For cards: card number, expiration date, CVV, and billing address
+     - For bank accounts: routing number, account number, and account type
+   - *Expected outcome:* All fields will be validated as you enter information
+   - *[Screenshot description: Payment method selection screen showing card and bank options]*
+
+5. **Set payment preferences**
+   - Choose when you want payments to process:
+     - On the due date
+     - A specific number of days before the due date
+     - On a specific day of the month
+   - Select whether to pay the full balance or a set amount
+   - *Expected outcome:* Your preferences will be saved for future payments
+
+6. **Review and confirm**
+   - Verify all information is correct
+   - Check the authorization agreement box
+   - Click "Confirm" or "Save"
+   - *Expected outcome:* You'll see a confirmation message that autopay is now active
+   - *[Screenshot description: Confirmation screen showing successful autopay enrollment]*
+
+## Mobile App Instructions
+
+1. **Open the mobile app and sign in**
+   - Launch our app on your iOS or Android device
+   - Enter your username/email and password
+   - *Expected outcome:* The app will open to your account dashboard
+
+2. **Access the billing section**
+   - Tap the menu icon (usually in the bottom or top corner)
+   - Select "Billing" or "Payments"
+   - *Expected outcome:* Your current bill and payment options will display
+   - *[Screenshot description: Mobile app menu with billing option highlighted]*
+
+3. **Select autopay option**
+   - Look for "Set Up Autopay" or "Automatic Payments" button
+   - Tap this option to begin setup
+   - *Expected outcome:* The payment setup screen will appear
+
+4. **Enter payment details**
+   - Choose your preferred payment method
+   - Enter the required information
+   - For security, you may need to authenticate with your device's biometric features or PIN
+   - *Expected outcome:* The app will validate your payment information
+   - *[Screenshot description: Mobile payment entry screen showing form fields]*
+
+5. **Set payment preferences**
+   - Configure when and how much to pay automatically
+   - Tap "Save" or "Continue"
+   - *Expected outcome:* Your preferences will be saved
+
+6. **Review and confirm**
+   - Verify all information is correct
+   - Accept the terms and conditions
+   - Tap "Confirm" or "Activate"
+   - *Expected outcome:* A confirmation message will appear and you'll receive a confirmation email
+   - *[Screenshot description: Mobile confirmation screen with success message]*
+
+## Troubleshooting Common Issues
+
+### Payment Method Declined
+- Verify your card hasn't expired and has sufficient funds
+- Ensure billing address matches exactly what's on file with your bank
+- Try a different payment method if problems persist
+
+### Can't Find Autopay Option
+- **Website:** Try clearing your browser cache or using a different browser
+- **Mobile App:** Ensure you're using the latest version of our app
+- **Both:** If

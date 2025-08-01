@@ -1,0 +1,110 @@
+ID: KB-1160
+Type: Procedure
+Category: Technical
+Subcategory: Device setup
+Title: Technical Support Procedure: Device Setup Resolution
+Tags: account,phone,technical,setup,device setup,procedure,roaming,device
+Last Updated: 2024-12-14 23:59:47
+Generated: 2025-07-13T23:15:46.669368
+
+---
+
+# Technical Support Procedure: Device Setup Resolution
+
+## Document Purpose
+This procedure guides support agents through systematic device setup troubleshooting for customer devices. Follow these steps sequentially to efficiently diagnose and resolve setup issues.
+
+## Required Tools/Access
+- Customer account management system
+- Network diagnostic tools
+- Device compatibility database
+- Remote assistance software (when applicable)
+- Knowledge base access for device-specific documentation
+
+## Procedure Steps
+
+### 1. Initial Assessment
+   a. Verify customer identity using account verification protocol
+   b. Document device make, model, OS version, and IMEI/serial number
+   c. Determine setup stage where failure occurred:
+      - Initial power-on
+      - Network connection
+      - Account authentication
+      - Service activation
+      - App installation/configuration
+
+### 2. Device Verification
+   a. Confirm device compatibility with network
+   b. Check if device is carrier-locked
+   c. Verify device is not blacklisted/reported stolen
+   d. Confirm firmware version is current for service compatibility
+   
+### 3. Network Diagnostics
+   a. Verify SIM card is properly inserted and not damaged
+   b. Check network signal strength in customer location
+   c. Confirm appropriate network bands are available
+   d. Test data connectivity if applicable to setup process
+
+### 4. Account Verification
+   a. Confirm account status is active
+   b. Verify service has been properly provisioned
+   c. Check for any account restrictions or billing issues
+   d. Ensure device is properly associated with customer account
+
+### 5. Guided Setup Process
+   a. Power cycle device (document specific timing requirements)
+   b. Guide through manual network selection if automatic fails
+   c. Assist with account login procedures
+   d. Walk through app installation if required for service
+
+## Decision Trees
+
+### Network Connection Issues
+```
+Is SIM properly inserted? → NO → Guide customer through proper insertion
+                         → YES ↓
+Is network detected?     → NO → Try manual network selection
+                         → YES ↓
+Can device register?     → NO → Check account provisioning
+                         → YES ↓
+Data connectivity?       → NO → Verify APN settings
+                         → YES → Proceed to account verification
+```
+
+### Account Authentication Issues
+```
+Credentials accepted?    → NO → Verify username/password
+                         → YES ↓
+Account active?          → NO → Transfer to billing department
+                         → YES ↓
+Service provisioned?     → NO → Initiate provisioning
+                         → YES → Proceed to service activation
+```
+
+## Expected Outcomes
+- Device successfully connects to network
+- Customer can authenticate to account
+- All subscribed services are accessible
+- Device-specific apps function properly
+- Customer can make/receive calls and use data services
+
+## Escalation Criteria
+Escalate to Tier 2 support if:
+- Device passes all diagnostics but still cannot connect
+- Network registration succeeds but authentication repeatedly fails
+- Provisioning shows complete but services remain unavailable
+- Device-specific error codes appear (reference error code database)
+- Setup process fails after 3 complete attempts
+
+## Reference Documentation
+- Device-specific setup guides (KB articles DB-100 through DB-355)
+- Network compatibility matrix (document NET-2023-Q4)
+- Provisioning troubleshooting handbook (document PROV-TS-2023)
+- SIM card diagnostic procedures (document SIM-DIAG-2023)
+
+## Post-Resolution Steps
+1. Verify all services are functioning
+2. Document specific resolution in customer account notes
+3. Inform customer of any pending network/system changes
+4. Schedule follow-up if intermittent issues were reported
+5. Direct customer to self-service resources for future reference

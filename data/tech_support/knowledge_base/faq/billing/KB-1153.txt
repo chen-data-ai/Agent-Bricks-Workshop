@@ -1,0 +1,47 @@
+ID: KB-1153
+Type: FAQ
+Category: Billing
+Subcategory: Third-party charges
+Title: What are third-party charges on my bill?
+Tags: third-party charges,faq,charges,third-party,coverage,phone,billing,customer
+Last Updated: 2024-11-24 23:59:47
+Generated: 2025-07-13T23:15:46.045773
+
+---
+
+# What are third-party charges on my bill?
+
+Third-party charges are fees on your bill for products or services provided by companies other than our telecom service. These charges (sometimes called "cramming") may include premium text message subscriptions, digital content, apps, games, or donations that you authorized—intentionally or unintentionally.
+
+## Common examples of third-party charges:
+
+- Premium text message subscriptions ($4.99-$9.99/month)
+- Mobile games and content purchases ($0.99-$19.99)
+- App store purchases or subscriptions
+- Digital content like ringtones, wallpapers, or horoscopes
+- Charity donations via text message
+- Directory assistance services
+
+## How to identify third-party charges
+
+These charges typically appear in the "Other Charges and Credits" or "Third-Party Charges" section of your bill. Look for company names you don't recognize or services you don't remember signing up for. The charge description usually includes the third-party company name and a customer service number.
+
+## What to do if you find unexpected third-party charges
+
+1. **Check with family members** who share your plan to verify if they authorized the charges
+2. **Contact the third-party company** directly using the number listed on your bill
+3. **Dispute unauthorized charges** through our mobile app (tap Billing > Dispute Charge) or by calling our customer service
+4. **Request a refund** if you believe the charge was unauthorized
+
+## How to prevent unwanted third-party charges
+
+- **Add a purchase block** to your account through our mobile app (Settings > Account Security > Purchase Controls) or online account portal
+- **Be cautious when entering your phone number** on websites
+- **Read the fine print** before signing up for "free" content or trials
+- **Monitor your bill monthly** to catch unexpected charges early
+
+## Will you refund third-party charges?
+
+We can help dispute charges that appear on your bill, but refunds typically come from the third-party provider. For unauthorized charges, we'll work with you to contact the provider and may issue provisional credits while the dispute is investigated.
+
+Need more help? Contact us through the mobile app's chat feature or call customer service at the number on your bill.

@@ -1,0 +1,105 @@
+ID: KB-1195
+Type: FAQ
+Category: Technical
+Subcategory: 5g connection troubleshooting
+Title: Why is my 5G connection not working properly?
+Tags: troubleshooting,technical,service,faq,roaming,5g connection troubleshooting,5g,connection
+Last Updated: 2025-03-18 23:59:47
+Generated: 2025-07-13T23:15:40.267995
+
+---
+
+# Why is my 5G connection not working properly?
+
+## Common Symptoms
+- Your device shows "5G" or "5G UW/UC/+" in the status bar but speeds are slow
+- Your device keeps switching between 5G and 4G LTE
+- You're in a known 5G coverage area but can't connect to 5G
+- Your battery drains quickly when connected to 5G
+- Apps or streaming services buffer despite 5G connection
+
+## Basic Troubleshooting Steps
+
+### Step 1: Check 5G Coverage
+Before troubleshooting your device, verify you're in a 5G coverage area:
+- Open our mobile app and check the coverage map
+- Visit our website's coverage checker tool
+- Remember that 5G signals may not penetrate buildings as effectively as 4G
+
+### Step 2: Restart Your Device
+A simple restart can resolve many connection issues:
+- **Android**: Press and hold the power button, then tap "Restart"
+- **iOS**: Press and hold the side button and either volume button until the slider appears, then drag to power off. After the device turns off, press and hold the side button to restart
+
+### Step 3: Check Mobile Data Settings
+
+**For Android devices:**
+1. Go to Settings > Connections > Mobile Networks
+2. Ensure "Mobile data" is turned on
+3. Tap "Network mode" and select "5G/LTE/3G/2G (auto connect)" or similar option
+4. If you see "5G/LTE/3G/2G (auto connect)" but still have issues, try selecting "LTE/3G/2G (auto connect)" and then switch back
+
+**For iOS devices (iPhone 12 or newer):**
+1. Go to Settings > Cellular > Cellular Data Options
+2. Tap "Voice & Data"
+3. Select "5G Auto" (balances performance and battery life) or "5G On" (maximizes 5G usage)
+4. If experiencing issues, try switching to "LTE" temporarily, then back to 5G
+
+### Step 4: Update Your Device
+
+**For Android devices:**
+1. Go to Settings > System > System update or Software update
+2. Check for and install any available updates
+3. Restart your device after updating
+
+**For iOS devices:**
+1. Go to Settings > General > Software Update
+2. Download and install any available updates
+3. Ensure your carrier settings are updated (a prompt will appear if needed)
+
+### Step 5: Reset Network Settings
+If issues persist, try resetting your network settings:
+
+**For Android devices:**
+1. Go to Settings > System > Reset options
+2. Select "Reset Wi-Fi, mobile & Bluetooth" or "Reset network settings"
+3. Confirm and enter your PIN if prompted
+4. Restart your device
+
+**For iOS devices:**
+1. Go to Settings > General > Transfer or Reset iPhone > Reset
+2. Tap "Reset Network Settings"
+3. Enter your passcode and confirm
+4. Your device will restart
+
+**Note:** This will remove saved Wi-Fi networks and Bluetooth pairings
+
+## Common Error Messages and Solutions
+
+### "5G not available in your area"
+- Move to a different location with confirmed 5G coverage
+- Try going outdoors or near windows for better signal reception
+
+### "SIM card not provisioned for 5G"
+- Ensure your plan includes 5G access (check via our mobile app or online account)
+- Contact customer support to verify your SIM card is 5G-compatible
+
+### "Mobile data cannot be activated" or "No service"
+- Remove and reinsert your SIM card:
+  1. Power off your device
+  2. Use the SIM ejection tool to remove the SIM tray
+  3. Check for any damage to the SIM card
+  4. Reinsert the SIM tray and power on your device
+
+## Advanced Troubleshooting
+
+### Check for App-Specific Issues
+Some apps may not be optimized for 5G:
+1. Update all apps through Google Play Store or App Store
+2. Clear cache for problematic apps (Android only):
+   - Go to Settings > Apps > [App name] > Storage > Clear cache
+
+### Test with Safe Mode (Android)
+1. Press and hold the power button
+2. Touch and hold "Power off" until "Safe mode" appears
+3. Tap "Safe mode" to

@@ -1,0 +1,66 @@
+ID: KB-1032
+Type: FAQ
+Category: Account
+Subcategory: Adding a line
+Title: How do I add a new line to my existing account?
+Tags: payment,account,faq,telecom,adding,mobile,line,adding a line
+Last Updated: 2024-07-05 23:59:47
+Generated: 2025-07-13T23:15:50.772303
+
+---
+
+# How do I add a new line to my existing account?
+
+## Overview
+Adding a new line to your existing account allows you to bring a new device or user onto your current plan. This process can typically be completed through multiple channels including online, via our mobile app, or at a retail location.
+
+## Adding a Line Online or Through Our Mobile App
+
+1. **Sign in to your account**
+   * Website: Visit our official website and log in with your username and password
+   * Mobile app: Open our app on iOS or Android and sign in to your account
+
+2. **Navigate to account management**
+   * Select "Manage Plan" or "Account Settings" from the dashboard
+   * Choose "Add a line" from the available options
+
+3. **Verification requirements**
+   * You'll need to verify your identity as the primary account holder using:
+     - Last 4 digits of your Social Security Number
+     - Account PIN/password
+     - Possible two-factor authentication via text or email
+
+4. **Select your options**
+   * Choose whether you're adding a line with:
+     - A new device purchase
+     - Bringing your own device (BYOD)
+     - Just a SIM card for an existing device
+
+5. **Complete the setup process**
+   * Select a plan for the new line (same as existing lines or different)
+   * Add any features or international options if needed
+   * Review and confirm all charges
+
+## Timeframes and Service Activation
+
+* **Online/app activation**: New lines are typically activated within 30 minutes to 2 hours
+* **In-store activation**: Usually immediate when completed at a retail location
+* **Shipping timeframes**: If ordering a new device, standard shipping takes 2-3 business days; expedited options are available
+
+## Billing Impact
+
+* **Prorated charges**: Your next bill will include prorated charges for the new line from the activation date to the end of your billing cycle
+* **Plan changes**: Adding a line may qualify you for multi-line discounts or require a plan change to accommodate the additional line
+* **One-time fees**: Be aware of potential one-time charges including:
+  - Activation fee ($20-$40 depending on current promotions)
+  - SIM card fee (typically $10-$25)
+  - Device down payment (if applicable)
+
+## Important Considerations
+
+* **Credit check**: A credit check may be required when adding certain types of lines
+* **Account limits**: Standard accounts can have up to 10 voice lines (limits may vary based on your specific plan)
+* **Contract implications**: Adding a line may initiate a new agreement term for that specific line
+* **Family controls**: If adding a line for a child or dependent, parental controls can be set up during or after activation
+
+For additional assistance, please contact our customer support team at 1-800-XXX-XXXX or visit your nearest retail location.

@@ -1,0 +1,88 @@
+ID: KB-1210
+Type: FAQ
+Category: Technical
+Subcategory: Phone not receiving calls
+Title: FAQ: Why is my phone not receiving calls?
+Tags: account,calls,receiving,technical,faq,phone not receiving calls,mobile,voice,phone
+Last Updated: 2025-01-17 23:59:47
+Generated: 2025-07-13T23:15:41.303751
+
+---
+
+# FAQ: Why is my phone not receiving calls?
+
+## Problem Overview
+If your phone isn't receiving incoming calls, this could be due to network issues, device settings, account problems, or hardware malfunctions. This guide will help you identify and resolve the issue.
+
+## Troubleshooting Steps
+
+### 1. Check Network Connection
+- Verify your phone shows adequate signal strength (at least 2-3 bars)
+- Toggle Airplane Mode on for 30 seconds, then off again
+- **iOS**: Go to Settings > Airplane Mode
+- **Android**: Swipe down from the top of your screen and tap the Airplane Mode icon
+
+### 2. Verify Call Forwarding is Disabled
+Call forwarding may redirect your calls to another number.
+- **iOS**: Go to Settings > Phone > Call Forwarding
+- **Android**: Open the Phone app > Tap three dots (⋮) > Settings > Calls > Call Forwarding
+- Ensure all forwarding options are turned off
+
+### 3. Check for Call Blocking/Do Not Disturb
+- **iOS**: 
+  - Check Settings > Focus > Do Not Disturb
+  - Go to Settings > Phone > Blocked Contacts
+- **Android**:
+  - Check Settings > Sound & Vibration > Do Not Disturb
+  - Open Phone app > Three dots (⋮) > Settings > Blocked Numbers
+
+### 4. Restart Your Device
+- **iOS**: Press and hold side button + volume button until slider appears, slide to power off, then press and hold side button to restart
+- **Android**: Press and hold power button, tap Restart
+
+### 5. Check for Software Updates
+- **iOS**: Settings > General > Software Update
+- **Android**: Settings > System > System Update or Settings > Software Update
+
+### 6. Reset Network Settings
+**Warning**: This will remove saved Wi-Fi networks and Bluetooth pairings
+- **iOS**: Settings > General > Reset > Reset Network Settings
+- **Android**: Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+
+### 7. Check SIM Card
+- Power off your device
+- Remove SIM card using SIM ejector tool
+- Check for damage or debris
+- Reinsert properly and power on device
+
+## Common Error Messages
+
+- **"No Service"**: Your phone can't connect to the cellular network
+- **"Call Failed"**: The network rejected the call attempt
+- **"SIM Card Not Detected"**: Your device isn't recognizing the SIM card
+- **"Cellular Network Not Available"**: Network coverage issues in your area
+
+## Check Your Account Status
+
+Use our mobile app or online account management portal to verify:
+- Your account is active and in good standing
+- There are no payment issues affecting service
+- No recent changes to your plan that might impact calling features
+
+**Mobile App**: 
+- Log in to MyAccount app (iOS/Android)
+- Go to Account > Service Status
+
+**Online**:
+- Visit [myaccount.ourcompany.com](http://myaccount.ourcompany.com)
+- Log in and check Account Status
+
+## Contact Customer Support If:
+
+- You've tried all troubleshooting steps and still can't receive calls
+- You see "Emergency Calls Only" for more than 30 minutes
+- Your phone shows full signal but calls go straight to voicemail
+- You receive error messages not listed above
+- The problem started immediately after a billing cycle
+
+Contact us at 1-800-XXX-XXXX or through live chat in our mobile app for further assistance. Please have your account number and device IMEI ready (dial *#06# to find your IMEI).

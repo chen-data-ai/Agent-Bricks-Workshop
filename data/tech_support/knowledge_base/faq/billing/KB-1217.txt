@@ -1,0 +1,46 @@
+ID: KB-1217
+Type: FAQ
+Category: Billing
+Subcategory: Late payment fees
+Title: Why Was I Charged a Late Payment Fee?
+Tags: payment,account,fees,late,faq,late payment fees,billing,plan
+Last Updated: 2024-08-05 23:59:47
+Generated: 2025-07-13T23:15:41.795836
+
+---
+
+# Why Was I Charged a Late Payment Fee?
+
+## Understanding Late Payment Fees
+
+Late payment fees are charges applied to your account when payment for your monthly service isn't received by the due date shown on your bill. These fees help us maintain our billing systems and encourage timely payments.
+
+## How Late Payment Fees Work
+
+- **Standard Late Fee**: A $5 late fee is applied if payment isn't received within 3 days after your due date
+- **Extended Late Fee**: This increases to $10 if payment remains outstanding 10 days after your due date
+- **Maximum Monthly Charge**: You will never be charged more than $15 in late fees per billing cycle
+
+For example, if your bill is due on the 15th of the month:
+- No payment by the 18th: $5 late fee added
+- No payment by the 25th: Additional $5 added (total: $10)
+- Late fees stop accumulating at $15 maximum
+
+## How to Avoid Late Payment Fees
+
+1. **Set up AutoPay**: Enroll through our mobile app or online account portal to have payments automatically deducted on your due date
+2. **Use Payment Reminders**: Enable notifications in our app (available for iOS and Android) to receive alerts 3 days before your payment is due
+3. **Make a Payment Arrangement**: If you know you'll be late, contact us before your due date to discuss payment options
+
+## Frequently Asked Questions
+
+**Can late fees be waived?**
+We may waive late fees as a one-time courtesy for customers with good payment history. Please contact Customer Care to discuss your specific situation.
+
+**Will late payments affect my credit score?**
+Payments more than 30 days late may be reported to credit bureaus. Making at least the minimum payment by the due date helps protect your credit score.
+
+**I paid on the due date but still got charged. Why?**
+Payments made after 8:00 PM EST/5:00 PM PST on the due date or payments made through external bill pay services may take 1-2 business days to process. For immediate payment posting, use our mobile app or website.
+
+Need more help? Contact us through the app's chat feature or call Customer Care at 1-800-XXX-XXXX.

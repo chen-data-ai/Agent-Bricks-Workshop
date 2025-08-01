@@ -1,0 +1,110 @@
+ID: KB-1249
+Type: Procedure
+Category: Services
+Subcategory: Unlimited plan throttling policy
+Title: Unlimited Plan Throttling Policy Management Procedure
+Tags: payment,services,unlimited,procedure,voice,throttling,unlimited plan throttling policy,policy,plan
+Last Updated: 2025-01-04 23:59:47
+Generated: 2025-07-13T23:15:44.091424
+
+---
+
+# Unlimited Plan Throttling Policy Management Procedure
+**Internal Support Document**
+
+## 1. Overview
+
+This document outlines the standard procedure for implementing, managing, and troubleshooting data throttling policies on unlimited plans. Throttling refers to the intentional reduction of data speeds after customers reach predetermined usage thresholds, as specified in their service agreements.
+
+## 2. Provisioning Steps
+
+### 2.1 System Configuration
+1. Access the Network Policy Management System (NPMS) using authorized credentials
+2. Navigate to "Customer Plans" → "Unlimited Plans" → "Policy Management"
+3. Select the appropriate throttling profile based on plan tier:
+   - Premium Unlimited: 50GB threshold, throttled to 3Mbps
+   - Standard Unlimited: 35GB threshold, throttled to 2Mbps
+   - Basic Unlimited: 22GB threshold, throttled to 1.5Mbps
+4. Verify throttling parameters are correctly set in the QoS (Quality of Service) configuration
+5. Confirm policy activation timing (typically at billing cycle reset)
+
+### 2.2 Customer Account Configuration
+1. Access CRM platform and locate customer account
+2. Verify plan eligibility for throttling policy
+3. Apply appropriate throttling profile to account
+4. Document applied policy in customer notes
+5. Set up usage notifications at 75%, 90%, and 100% of threshold
+
+## 3. Compatibility Verification
+
+### 3.1 Device Compatibility
+1. Confirm device IMEI is properly registered in the system
+2. Verify device supports network management protocols
+3. Check for known device-specific throttling issues in knowledge base
+4. Ensure device firmware is compatible with QoS implementations
+
+### 3.2 Network Compatibility
+1. Verify customer's primary usage area supports throttling technology
+2. Confirm throttling policies are properly mapped to all network bands
+3. Check for regional network exceptions or limitations
+4. Validate roaming partner compatibility with throttling policies
+
+## 4. Testing Protocols
+
+### 4.1 Pre-Implementation Testing
+1. Create test account with identical parameters
+2. Simulate data usage to trigger throttling threshold
+3. Measure pre-throttle and post-throttle speeds using network diagnostic tools
+4. Verify throttling activates at correct threshold
+5. Confirm throttling deactivates at billing cycle reset
+
+### 4.2 Post-Implementation Verification
+1. Monitor customer usage for 48 hours after implementation
+2. Perform remote speed tests at regular intervals
+3. Verify usage notifications are delivered properly
+4. Confirm billing system accurately records throttled usage
+5. Document test results in service management system
+
+## 5. Customer Setup Assistance Guidelines
+
+### 5.1 Customer Communication
+1. Provide clear explanation of throttling policy using approved language
+2. Explain threshold limits and expected speed changes
+3. Demonstrate how to monitor data usage via:
+   - Mobile app (iOS and Android)
+   - Online account portal
+   - SMS usage alerts
+4. Set appropriate expectations regarding throttled performance
+
+### 5.2 Usage Management Education
+1. Guide customers on setting up data usage alerts
+2. Demonstrate data-saving features on their specific device
+3. Explain Wi-Fi offloading benefits and setup
+4. Review high-data activities and alternatives during throttling
+
+## 6. Troubleshooting Common Implementation Issues
+
+### 6.1 Throttling Not Activating
+1. Verify threshold calculation is correct in billing system
+2. Check for policy exemptions or promotions on account
+3. Confirm network policy enforcement is active
+4. Validate device is properly registered with correct IMEI
+5. Reset network policy settings if necessary
+
+### 6.2 Excessive Throttling
+1. Verify correct throttling profile is applied
+2. Check for network congestion issues separate from throttling
+3. Confirm usage calculation accuracy
+4. Test with alternate device if available
+5. Review account for multiple-line pooled data issues
+
+### 6.3 Customer Reporting Issues
+1. Perform remote speed test while on call with customer
+2. Verify customer's understanding of expected throttled speeds
+3. Check for environmental factors affecting perceived performance
+4. Review recent network incidents in customer's area
+5. Escalate to network engineering if throttling exceeds policy parameters
+
+## 7. Service Optimization Recommendations
+
+### 7.1 Network Resource Management

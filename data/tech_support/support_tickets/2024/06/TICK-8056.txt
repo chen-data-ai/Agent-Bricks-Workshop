@@ -1,0 +1,57 @@
+Ticket ID: TICK-8056
+Customer ID: CUS-10174
+Subscription ID: SUB-10000273
+Category: Account
+Priority: Critical
+Status: Resolved
+Created: 2024-06-02 21:59:30.182000
+Agent ID: ACC-8982
+Resolved: 2024-06-03 21:59:30.182000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8056 (Created: 2024-06-03 04:59)
+
+I am beyond frustrated with the unexpected charges on my latest bill. I've been a loyal customer for over 5 years on your "Ultimate Unlimited Plus" family plan, and suddenly there's an additional $124.99 charge labeled as "International Roaming - Data Package." I have NOT traveled internationally! My iPhone 15 Pro has not left the Phoenix area, and I've double-checked with everyone on my family plan (4 lines total) - no one has traveled outside the country.
+
+When I checked my usage details in the mobile app, it shows that my daughter's Galaxy S24 Ultra supposedly connected to a network in Canada for 3 days, but she was at ASU the entire time! I even have her location history to prove it. The app keeps showing error code ERR-4029 when I try to dispute the charge.
+
+This needs to be resolved IMMEDIATELY as my autopay is scheduled for tomorrow morning, and I refuse to pay for services we didn't use. I've already spent 45 minutes on hold trying to speak with someone on the phone with no success. Please remove these bogus charges from my account and investigate why your system falsely detected international usage.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8056 | Agent ACC-8982 | Resolved on 2024-06-04 04:59
+
+Dear Valued Customer,
+
+Thank you for bringing this matter to our attention. I sincerely apologize for the frustration caused by the unexpected international roaming charges on your account and the difficulty you experienced when trying to resolve this through our mobile app.
+
+## Investigation Conducted:
+- Accessed your account billing system (BillSys 4.0) and verified the $124.99 charge labeled "International Roaming - Data Package"
+- Reviewed the detailed connection logs for all 4 lines on your "Ultimate Unlimited Plus" family plan
+- Confirmed your daughter's line (Galaxy S24 Ultra) showed connections to Canadian network TELUS from 2024-05-28 to 2024-05-30
+- Investigated error code ERR-4029 in our mobile app system
+
+## Root Cause Identified:
+After thorough investigation, I discovered that your daughter's device experienced what we call "border cell tower bleeding" - a situation where devices connect to international networks near borders despite being physically within the US. In your case, our technical team confirmed that ASU's campus had temporary network maintenance during those dates, causing some devices to inadvertently connect to a stronger Canadian signal being relayed through one of our partner towers experiencing misconfiguration.
+
+## Actions Taken:
+1. Applied a full credit of $124.99 to your account (Credit ID: CR-20240604-8056)
+2. Removed the international roaming package from your account
+3. Added a permanent "North America Border Protection" feature to your account (normally $4.99/month) at no charge
+4. Submitted the tower misconfiguration report to our Network Operations team (Case #NET-2024-6782)
+5. Resolved the ERR-4029 error in your mobile app by clearing the cached data remotely
+
+## Additional Information:
+Per our "Customer Satisfaction Guarantee" policy (Section 3.2), you should never be charged for network errors outside your control. The "North America Border Protection" feature I've added will prevent similar issues in the future by ensuring your devices always prioritize domestic networks even when international signals may be stronger.
+
+Your autopay scheduled for tomorrow will now reflect the corrected amount. The credit has been applied immediately and is visible both on your online account and in the mobile app.
+
+Is there anything else I can assist you with regarding your account? We truly value your 5+ years of loyalty and want to ensure your complete satisfaction.
+
+Sincerely,
+Customer Support Team

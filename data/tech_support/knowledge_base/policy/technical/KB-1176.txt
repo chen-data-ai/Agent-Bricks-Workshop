@@ -1,0 +1,95 @@
+ID: KB-1176
+Type: Policy
+Category: Technical
+Subcategory: Esim activation issues
+Title: eSIM Activation Issues: Policy and Resolution Guidelines
+Tags: subscription,account,activation,technical,esim activation issues,esim,policy,issues,customer
+Last Updated: 2024-06-09 23:59:47
+Generated: 2025-07-13T23:15:47.784083
+
+---
+
+# eSIM Activation Issues: Policy and Resolution Guidelines
+
+## 1. Overview
+
+This document outlines our company's policies and procedures regarding eSIM activation issues. An eSIM (embedded SIM) allows customers to activate a cellular plan without using a physical SIM card. While eSIM technology offers greater convenience, specific issues may arise during the activation process that require standardized resolution approaches.
+
+## 2. Service Standards
+
+### 2.1 Activation Timeframes
+- Standard eSIM activation should complete within 15 minutes of QR code scan or manual entry
+- Business accounts may require up to 2 hours for provisioning
+- International activations may require up to 24 hours due to carrier partnerships
+
+### 2.2 Support Availability
+- eSIM technical support is available 24/7 via phone, chat, and in-app support
+- Tier 2 specialized eSIM support is available 8AM-10PM local time
+- Emergency provisioning support available for critical service restoration
+
+## 3. Common Activation Issues and Company Responsibilities
+
+### 3.1 QR Code/Activation Code Issues
+- Company will provide replacement codes within 10 minutes of issue identification
+- Multiple code generation is permitted up to 3 times per 24-hour period
+- Historical codes will be invalidated when new codes are generated
+
+### 3.2 Network Provisioning Delays
+- Company will provide status updates every 30 minutes for delayed activations
+- Automatic notification will be sent when provisioning completes
+- Service credits apply for activations exceeding standard timeframes
+
+### 3.3 Device Compatibility Issues
+- Company maintains current compatibility database accessible via website/app
+- For unexpected incompatibilities, company will provide alternative connection solutions
+- Technical support will assist with device-specific troubleshooting
+
+## 4. Customer Responsibilities
+
+### 4.1 Device Requirements
+- Ensure device is eSIM compatible and running supported OS version
+- Maintain device connectivity to Wi-Fi during activation process
+- Follow all provided activation instructions completely
+
+### 4.2 Account Verification
+- Provide accurate account credentials when requested
+- Complete any required identity verification steps
+- Ensure account is in good standing (no payment blocks)
+
+### 4.3 Technical Environment
+- Disable VPN services during activation
+- Ensure adequate battery level (minimum 20%)
+- Allow all required permissions for carrier apps
+
+## 5. Maintenance Windows and Service Interruptions
+
+### 5.1 Scheduled Maintenance
+- eSIM provisioning system maintenance occurs weekly: Wednesdays, 2AM-5AM local time
+- Quarterly major system updates: First Sunday of quarter, 12AM-6AM
+- Emergency maintenance as needed with minimum 2-hour advance notice when possible
+
+### 5.2 Customer Notification Protocols
+- Scheduled maintenance posted 72 hours in advance on status page and app
+- Email/SMS notifications sent 24 hours before maintenance to affected customers
+- Push notifications for emergency maintenance when possible
+
+## 6. Remediation Procedures
+
+### 6.1 Escalation Path
+1. Tier 1 Support: Initial troubleshooting (15-minute resolution target)
+2. eSIM Specialist: Advanced troubleshooting (30-minute resolution target)
+3. Network Engineering: System-level resolution (1-hour response time)
+
+### 6.2 Service Recovery
+- One-time $15 service credit for activations exceeding 2 hours
+- Prorated daily credit for multi-day activation issues
+- Expedited shipping of physical SIM if eSIM activation cannot be completed
+
+### 6.3 Alternative Solutions
+- Temporary profile provision while troubleshooting continues
+- Remote support session option for complex device configurations
+- In-store appointment priority scheduling for unresolved issues
+
+## 7. Policy Updates and Communication
+
+This policy is reviewed quarterly and updated as eSIM technology evolves. Customers will be notified of significant policy changes via email and account notifications. The current version is always available in the customer support section of our website and mobile app.

@@ -1,0 +1,114 @@
+ID: KB-1157
+Type: Guide
+Category: Account
+Subcategory: Adding a line
+Title: Adding a Line to Your Account: User Guide
+Tags: payment,account,wireless,adding,guide,line,adding a line
+Last Updated: 2024-09-06 23:59:47
+Generated: 2025-07-13T23:15:46.428296
+
+---
+
+# Adding a Line to Your Account: User Guide
+
+## Overview
+Adding a line to your existing account allows you to connect additional devices or provide service to family members under your main account. This guide explains the process, requirements, and options available.
+
+## Before You Begin
+- Ensure your account is in good standing with no past-due balances
+- Have your account PIN/password ready
+- Prepare identification documents for the new line user
+- Check if you're eligible for any multi-line discounts
+
+## Adding a Line Online
+
+### Steps:
+1. Log in to your account through the website or mobile app
+   - iOS users: Download from App Store
+   - Android users: Download from Google Play Store
+
+2. Navigate to the "Account" or "Plan Management" section
+
+3. Select "Add a Line" or "Add a Device" option
+
+4. Choose the type of line you wish to add:
+   - Smartphone
+   - Tablet
+   - Smartwatch
+   - Mobile hotspot
+
+5. Select a device (if purchasing new) or indicate you'll use an existing device
+
+6. Choose a plan for the new line
+
+7. Complete identity verification (typically last 4 digits of SSN and DOB)
+
+8. Review order details and submit
+
+### Processing Time:
+- Online activation typically completes within 30 minutes to 2 hours
+- Physical SIM cards, if required, arrive within 2-3 business days
+
+## Adding a Line In-Store
+
+### Steps:
+1. Visit any retail location with the following:
+   - Account owner's photo ID
+   - Account PIN/password
+   - ID for the new line user (if different from account owner)
+
+2. Inform the representative you wish to add a line
+
+3. Select device and plan options
+
+4. Complete identity verification process
+
+5. Sign agreement and receive immediate activation
+
+### Processing Time:
+- Immediate activation in most cases
+- Allow 30-60 minutes for the full store visit
+
+## Adding a Line by Phone
+
+### Steps:
+1. Call customer service at the number on your bill or back of your device
+
+2. Verify your identity with the representative
+   - Account PIN/password
+   - Last 4 digits of SSN
+   - Billing address
+
+3. Request to add a line to your account
+
+4. Select plan and device options
+
+5. Complete verification process
+
+### Processing Time:
+- Phone activation typically completes within 1-2 hours
+- Physical SIM cards, if required, arrive within 2-3 business days
+
+## Security Considerations
+- Only the account owner or authorized users can add lines
+- Credit checks may be required for additional lines
+- Fraud prevention measures may include:
+  - Two-factor authentication
+  - Identity verification questions
+  - Temporary holds for suspicious activity
+
+## Documentation Requirements
+- For primary account holder: Government-issued photo ID
+- For new line users: 
+  - Government-issued photo ID
+  - Social Security Number (last 4 digits minimum)
+  - Date of birth
+
+## After Adding a Line
+1. Set up voicemail and security features
+2. Configure data usage alerts
+3. Add the line to any family location services
+4. Review your next bill to ensure proper charges
+
+## Need Help?
+If you encounter any issues during the process, contact customer support through the mobile app's chat feature, call the support number, or visit a store for assistance.

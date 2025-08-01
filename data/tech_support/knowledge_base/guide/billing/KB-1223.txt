@@ -1,0 +1,104 @@
+ID: KB-1223
+Type: Guide
+Category: Billing
+Subcategory: Unexpected charges explanation
+Title: Understanding Unexpected Charges on Your Telecom Bill
+Tags: customer,explanation,charges,roaming,guide,billing,device,unexpected charges explanation,unexpected
+Last Updated: 2025-02-05 23:59:47
+Generated: 2025-07-13T23:15:42.299905
+
+---
+
+# Understanding Unexpected Charges on Your Telecom Bill
+
+This guide will help you identify, understand, and address unexpected charges that may appear on your monthly telecom bill. Follow these steps to investigate charges using either the mobile app or online account management.
+
+## What You'll Need
+- Your account credentials (username/password)
+- Your most recent bill or statement
+- Access to the mobile app or website
+
+## Step 1: Access Your Account
+**Mobile App:**
+1. Open your telecom provider's mobile app
+2. Sign in with your username and password
+3. Navigate to the "Billing" or "My Bill" section
+
+**Online Account:**
+1. Visit your telecom provider's official website
+2. Click on "Sign In" or "My Account" (typically in the top right corner)
+3. Enter your credentials and sign in
+4. Navigate to the "Billing" or "View Bill" section
+
+**Expected Outcome:** You should see a summary of your current bill with the total amount due.
+
+**Troubleshooting:** If you can't sign in, use the "Forgot Password" option or ensure you're using the correct username (which may be your phone number or email address).
+
+## Step 2: Locate the Detailed Bill Breakdown
+**Mobile App:**
+1. In the billing section, look for "Bill Details," "View Full Bill," or "Charges Breakdown"
+2. Tap on this option to see itemized charges
+
+**Online Account:**
+1. Look for "Bill Details," "View PDF Bill," or "See Bill Breakdown"
+2. Click to expand all sections of your bill
+
+**Expected Outcome:** You should now see all charges categorized (e.g., monthly service, one-time charges, taxes and fees).
+
+**Troubleshooting:** If you don't see detailed charges, look for a "Download PDF" option which often contains the complete breakdown.
+
+## Step 3: Identify the Unexpected Charges
+1. Review each section of your bill carefully
+2. Look for charges with unfamiliar names or amounts
+3. Pay special attention to:
+   - One-time charges
+   - Third-party charges
+   - Premium services
+   - Roaming fees
+   - Overage charges
+
+**Expected Outcome:** You should be able to pinpoint the specific charges that are unexpected.
+
+**Troubleshooting:** If the charge description is unclear, note the exact amount and date for reference when contacting customer service.
+
+## Step 4: Check for Service Changes or Usage Spikes
+**Mobile App:**
+1. Navigate to "Usage" or "Data Usage" section
+2. Review data, talk, and text usage for the billing period
+3. Look for any spikes in usage that might explain additional charges
+
+**Online Account:**
+1. Find the "Usage Details" or "Usage History" section
+2. Compare current usage with previous months
+3. Check if you exceeded your plan limits
+
+**Expected Outcome:** You'll see if the unexpected charges correlate with unusual usage patterns.
+
+**Troubleshooting:** If usage data isn't available for the full billing period, check the date ranges shown to ensure they match your bill cycle.
+
+## Step 5: Investigate Third-Party Subscriptions
+**Mobile App:**
+1. Go to "Account Settings" or "Subscriptions"
+2. Look for a section called "Third-Party Services" or "Premium Subscriptions"
+3. Review any active subscriptions linked to your account
+
+**Online Account:**
+1. Navigate to "Account Management" or "Services"
+2. Find "Subscriptions" or "Premium Services"
+3. Check for active subscriptions you don't recognize
+
+**Expected Outcome:** You'll see a list of any premium or third-party services currently active on your account.
+
+**Troubleshooting:** Some older subscriptions may be listed under "Content Purchases" or "App Store Charges" if they were initiated through your device's app store.
+
+## Step 6: Check for Recent Plan or Feature Changes
+1. Go to "Plan Details" or "My Plan" section
+2. Review any recent changes to your service plan
+3. Check for recently added features or services
+4. Look for confirmation emails about plan changes in your inbox
+
+**Expected Outcome:** You'll see if your plan was recently modified or if features were added that could explain the charges.
+
+**Troubleshooting:** Plan changes sometimes take effect on a different date than your regular billing cycle, which can result in prorated charges.
+
+## Step 7

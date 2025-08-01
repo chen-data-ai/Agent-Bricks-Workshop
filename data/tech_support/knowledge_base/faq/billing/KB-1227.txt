@@ -1,0 +1,58 @@
+ID: KB-1227
+Type: FAQ
+Category: Billing
+Subcategory: Refund policy
+Title: What is the refund policy for charges on my bill?
+Tags: troubleshooting,refund,text,refund policy,faq,policy,billing
+Last Updated: 2024-12-27 23:59:47
+Generated: 2025-07-13T23:15:42.563787
+
+---
+
+# What is the refund policy for charges on my bill?
+
+When you see unexpected charges on your bill or need to request a refund, we want to make the process as straightforward as possible. Here's everything you need to know about our refund policy:
+
+## General Refund Guidelines
+
+* **Service Plan Charges**: Refunds for monthly service plans are prorated based on when you cancel. For example, if you cancel on the 15th day of a 30-day billing cycle, you'll receive approximately 50% of your monthly plan charge as a refund.
+
+* **One-Time Charges**: Activation fees, upgrade fees, or other one-time charges may be eligible for refund within 14 days of the charge appearing on your bill.
+
+* **Equipment Purchases**: Devices returned within our 30-day satisfaction guarantee period will be fully refunded, minus any restocking fees (typically $35 for phones and $15 for accessories).
+
+* **Add-On Features**: Data add-ons, international passes, or premium features are refundable if unused. For example, if you purchased a $10 international calling package but didn't make any international calls, you can request a full refund.
+
+## How Refunds Are Processed
+
+Refunds are typically issued to your original payment method:
+* Credit/debit card refunds: 3-5 business days
+* Bank account refunds: 5-7 business days
+* Bill credits: Applied to your next bill immediately
+
+## Common Refund Scenarios
+
+**Example 1:** If you were charged $15 for data overage but believe you were within your plan limits, we'll investigate your data usage. If we confirm the error, you'll receive the full $15 refund.
+
+**Example 2:** If you upgraded to our Premium Plan ($75/month) from our Basic Plan ($50/month) but decide to revert back after 10 days in a 30-day cycle, you would receive approximately $25 (the difference between plans) × (20 days ÷ 30 days) = $16.67 as a refund.
+
+## How to Request a Refund
+
+1. **Mobile App**: Log into our app (available on iOS and Android), select "Billing," then "Dispute Charge" for the specific item.
+
+2. **Online Account**: Visit the billing section of your account at our website and select "Request Refund" next to the relevant charge.
+
+3. **Customer Service**: Call our support team at 1-800-XXX-XXXX with your account information ready.
+
+## Frequently Asked Questions
+
+**How long do I have to request a refund?**
+You can dispute charges within 60 days of the bill issue date.
+
+**Will requesting a refund affect my service?**
+No, your service will continue uninterrupted while we process your refund request.
+
+**Can I get a refund for partial usage of data add-ons?**
+For data add-ons, refunds are typically prorated based on actual usage. For example, if you used 2GB of a 5GB add-on package, you may receive a 60% refund.
+
+Need more help understanding your bill or requesting a refund? Contact our customer support team or use the "Chat with Us" feature in our mobile app for immediate assistance.

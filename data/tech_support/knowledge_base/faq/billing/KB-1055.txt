@@ -1,0 +1,53 @@
+ID: KB-1055
+Type: FAQ
+Category: Billing
+Subcategory: Late payment fees
+Title: Why was I charged a late payment fee?
+Tags: payment,troubleshooting,fees,late,faq,late payment fees,support,phone,billing
+Last Updated: 2024-12-19 23:59:47
+Generated: 2025-07-13T23:15:52.510911
+
+---
+
+# Why was I charged a late payment fee?
+
+When your account payment isn't received by the due date shown on your bill, a late payment fee may be applied to your next statement. This fee helps cover the additional costs associated with processing overdue accounts and encouraging timely payments.
+
+## How late payment fees work
+
+Late payment fees are typically $5-$10 per line, depending on your service plan:
+- Individual plans: $5 late fee
+- Family plans: $5 for the first line plus $2 for each additional line (capped at $15 total)
+- Business accounts: $10 per line (capped at $50 total)
+
+The fee appears on your next bill as "Late Payment Fee" in the "Other Charges and Credits" section.
+
+## Example calculation
+
+If you have a family plan with 4 lines and your payment due on May 15th isn't received until May 20th, your next bill would include:
+- $5 (first line fee)
+- $6 ($2 × 3 additional lines)
+- $11 total late payment fee
+
+## How to avoid late payment fees
+
+1. **Set up AutoPay**: Enroll through our mobile app or online account portal to have payments automatically deducted from your preferred payment method on the due date.
+
+2. **Use the mobile app**: Make immediate payments through our app (available for iOS and Android) even if you're past the due date—this may help you avoid the fee if done within 48 hours of the due date.
+
+3. **Set reminders**: Create calendar alerts 2-3 days before your bill is due.
+
+4. **Update payment information**: Ensure your credit card expiration date and billing address are current in your account settings.
+
+## Frequently asked questions
+
+**Can a late payment fee be waived?**
+We may waive the fee as a one-time courtesy for customers with good payment history. Contact customer service through the app, online chat, or by calling the number on your bill to discuss your situation.
+
+**Will a late payment affect my credit score?**
+Payments less than 30 days late typically aren't reported to credit bureaus. However, accounts more than 30 days past due may be reported, potentially affecting your credit score.
+
+**I'm experiencing financial hardship. What are my options?**
+We offer payment arrangements for customers facing temporary financial difficulties. Contact our customer support team to discuss flexible payment options that can help you avoid late fees while keeping your service active.
+
+Need more help? Chat with us in the mobile app or call customer service at the number listed on your bill.

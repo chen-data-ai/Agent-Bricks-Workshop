@@ -1,0 +1,133 @@
+ID: KB-1091
+Type: Procedure
+Category: Technical
+Subcategory: Network coverage
+Title: Network Coverage Issue Resolution Procedure
+Tags: payment,network coverage,troubleshooting,technical,wireless,procedure,network,coverage
+Last Updated: 2024-12-28 23:59:47
+Generated: 2025-07-13T23:15:55.513393
+
+---
+
+# Network Coverage Issue Resolution Procedure
+**Document ID:** NW-COV-TS-001  
+**Last Updated:** [Current Date]  
+**Classification:** Internal Support Document
+
+## 1. Overview
+This document outlines the systematic approach for diagnosing and resolving network coverage issues reported by customers. Following these steps will ensure consistent troubleshooting and efficient resolution of coverage-related problems.
+
+## 2. Required Tools/System Access
+- Customer account management system
+- Network coverage mapping tool
+- Network status dashboard
+- Tower maintenance schedule database
+- Device diagnostics platform
+- Ticket management system
+- Knowledge base access
+
+## 3. Procedure Steps
+
+### 3.1 Initial Assessment
+1. Verify customer identity using standard authentication protocol
+2. Confirm the following details:
+   - Device make and model
+   - Current location of service issue
+   - Duration of the problem (intermittent vs. persistent)
+   - Recent device changes (software updates, SIM changes)
+   - Number of devices affected (single device vs. multiple)
+
+### 3.2 Network Status Verification
+1. Check network status dashboard for known outages in customer's area
+   - If outage exists → Proceed to section 4.1
+   - If no outage → Continue to next step
+2. Verify tower maintenance schedule for planned work
+   - If scheduled maintenance → Proceed to section 4.2
+   - If no maintenance → Continue to next step
+
+### 3.3 Coverage Analysis
+1. Access coverage mapping tool
+2. Input customer's location coordinates
+3. Verify expected signal strength for the area
+   - Strong expected coverage → Proceed to section 3.4
+   - Weak/borderline coverage → Proceed to section 4.3
+   - No expected coverage → Proceed to section 4.4
+
+### 3.4 Device Diagnostics
+1. Guide customer to access device settings:
+   - **Android:** Settings > Network & Internet > Mobile Network
+   - **iOS:** Settings > Cellular > Cellular Data Options
+2. Verify network mode settings (5G/4G/3G/Auto)
+3. Request customer perform the following:
+   - Toggle Airplane mode on/off
+   - Restart device
+   - Check for carrier settings updates
+4. Instruct customer to manually select network operator
+5. Check device signal metrics:
+   - Signal strength (dBm)
+   - Band/frequency
+   - Network registration status
+6. Verify SIM card status and proper installation
+
+### 3.5 Advanced Troubleshooting
+1. Reset network settings on device
+   - **Android:** Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+   - **iOS:** Settings > General > Reset > Reset Network Settings
+2. Check for device software updates
+3. Test with alternate SIM card if available
+4. Perform network settings refresh from backend system
+5. Check for network congestion indicators in the area
+
+## 4. Decision Trees
+
+### 4.1 Known Network Outage
+```
+IF outage resolution time available:
+    Inform customer of expected resolution time
+    Create monitoring ticket with callback after estimated resolution
+    Offer SMS notification when service is restored
+ELSE:
+    Create priority ticket for network operations
+    Schedule customer callback within 4 hours
+    Offer temporary solutions (Wi-Fi calling, call forwarding)
+```
+
+### 4.2 Scheduled Maintenance
+```
+IF maintenance ending within 2 hours:
+    Inform customer of timeframe
+    No ticket required
+    Offer temporary solutions
+ELSE:
+    Create informational ticket
+    Schedule callback after maintenance window
+    Offer service credits per compensation policy
+```
+
+### 4.3 Weak Coverage Area
+```
+IF signal booster eligible:
+    Initiate signal booster qualification process
+    Create equipment request ticket
+ELSE IF Wi-Fi calling capable:
+    Configure Wi-Fi calling on device
+    Verify functionality
+ELSE:
+    Document coverage feedback
+    Submit to network planning team
+    Offer alternative service options
+```
+
+### 4.4 No Coverage Area
+```
+IF recent coverage change:
+    Create network investigation ticket
+    Escalate to Tier 2 support
+ELSE:
+    Explain coverage limitations
+    Offer roaming options if available
+    Discuss contract options if service inadequate
+```
+
+## 5. Escalation Criteria
+Escalate to Tier

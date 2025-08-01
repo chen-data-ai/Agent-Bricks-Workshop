@@ -1,0 +1,63 @@
+Ticket ID: TICK-8051
+Customer ID: CUS-11159
+Subscription ID: SUB-10001711
+Category: Technical
+Priority: Medium
+Status: Closed
+Created: 2024-08-12 21:57:55.888000
+Agent ID: TEC-1959
+Resolved: 2024-08-14 21:57:55.888000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8051 (Created: 2024-08-13 04:58)
+
+I'm beyond frustrated with my home internet service right now. For the third time this week, my connection has completely dropped while I'm in the middle of important work meetings. I have your Premium Fiber 1Gig plan that I'm paying $89.99/month for, and this is unacceptable. The router (your company's NetStream Pro X5) keeps showing a blinking red light with error code E-4032 on the display panel. When I try to reconnect through the ConnectEasy app on my iPhone 15 Pro, it just says "Authentication Failed - Error 2201" and forces me to restart the entire router.
+
+I've already tried power cycling the router multiple times, resetting to factory settings once, and even moved it away from other electronics as suggested in your troubleshooting guide. Nothing helps! The connection works for maybe 2-3 hours then crashes again. My neighbors with the same service don't have this issue, so I don't think it's an area outage.
+
+I work from home in the Riverside Heights neighborhood of Portland and absolutely need reliable internet. I have an important client presentation tomorrow and cannot risk another disconnection. Please send a technician TODAY if possible. This needs immediate attention.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8051 | Agent TEC-1959 | Resolved on 2024-08-15 04:58
+
+Dear Valued Customer,
+
+Thank you for bringing your internet connectivity issues to our attention. I sincerely apologize for the frustration and inconvenience you've experienced with your Premium Fiber 1Gig service, especially during your important work meetings. I understand how critical reliable internet is for your work-from-home needs.
+
+Actions Taken:
+1. Reviewed your account history and confirmed your Premium Fiber 1Gig subscription ($89.99/month)
+2. Accessed NetStream Pro X5 router diagnostics remotely and identified firmware corruption causing the E-4032 error code
+3. Dispatched technician ID FT-2845 to your Riverside Heights location on 2024-08-13 at 15:30 as requested
+4. Technician performed the following on-site:
+   - Replaced defective NetStream Pro X5 router with new unit
+   - Updated firmware to version 12.3.7 (latest stable release)
+   - Conducted signal strength testing showing optimal fiber light levels (>-15dBm)
+   - Reconfigured WiFi channels to avoid interference from neighboring networks
+   - Verified Authentication Error 2201 was resolved in ConnectEasy app
+
+5. Applied service credit of $17.99 to your account (prorated for 6 days of intermittent service) per our Service Reliability Guarantee policy
+6. Scheduled 7-day follow-up monitoring of your connection with automated alerts
+
+Troubleshooting Findings:
+Our diagnostic tests revealed that your router was experiencing hardware failure in the authentication module, causing the intermittent disconnections and Error 2201 in the ConnectEasy app. This was not related to the neighborhood network infrastructure, which explains why your neighbors weren't experiencing similar issues.
+
+Recommendations:
+1. Download the latest version of our ConnectEasy app (v5.2.1) for improved connection monitoring
+2. Consider enabling push notifications for service status updates
+3. For future reference, you can access real-time connection statistics through your online account portal at my.account.com or through the ConnectEasy app's "Network Health" section
+
+I've personally monitored your connection since the technician's visit and can confirm it has remained stable with consistent speeds matching your Premium Fiber 1Gig plan specifications. Should you experience any further issues, please reference this ticket number, and we'll prioritize your case based on your service history.
+
+Is there anything else I can assist you with regarding your internet service?
+
+Thank you for your patience throughout this resolution process.
+
+Sincerely,
+Agent TEC-1959
+Technical Support Team

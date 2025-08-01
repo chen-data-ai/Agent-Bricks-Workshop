@@ -1,0 +1,56 @@
+ID: KB-1194
+Type: Policy
+Category: Billing
+Subcategory: Service interruption credits
+Title: Service Interruption Credit Policy
+Tags: interruption,troubleshooting,account,service interruption credits,service,credits,wireless,policy,billing
+Last Updated: 2025-04-17 23:59:47
+Generated: 2025-07-13T23:15:40.204685
+
+---
+
+# Service Interruption Credit Policy
+
+## Overview
+This policy outlines the terms and conditions under which customers may receive bill credits for service interruptions. Our commitment is to provide reliable service, but when interruptions occur, we offer appropriate compensation according to the guidelines below.
+
+## Definitions
+- **Service Interruption**: A complete loss of service or significant degradation that renders the service unusable for its intended purpose
+- **Planned Maintenance**: Scheduled network updates announced at least 48 hours in advance
+- **Force Majeure Event**: Circumstances beyond our control including natural disasters, acts of terrorism, or government actions
+
+## Eligibility Criteria
+Customers may qualify for service interruption credits when:
+1. The interruption lasts for 4 or more consecutive hours
+2. The issue is within our network control (not customer equipment failure)
+3. The interruption is reported within 7 days of occurrence
+4. The customer account is in good standing (not past due)
+
+## Credit Calculation
+Credits are calculated as follows:
+- 4-24 hours: One day's service charge (1/30 of monthly fee)
+- 24-48 hours: Two days' service charge
+- 48-72 hours: Three days' service charge
+- 72+ hours: Prorated based on duration (up to 100% of monthly fee)
+
+## Requesting Credits
+To request a service interruption credit:
+1. Report the outage via our mobile app, online account portal, or customer service (1-800-XXX-XXXX)
+2. Provide the date, time, and duration of the interruption
+3. Submit requests within 30 days of the interruption
+
+Credits will appear on your next billing statement following approval.
+
+## Exclusions
+Credits will not be issued for:
+- Planned maintenance announced 48+ hours in advance
+- Force majeure events
+- Issues caused by customer equipment or actions
+- Service suspensions due to violations of Terms of Service
+- Interruptions lasting less than 4 hours
+
+## Customer Rights
+This policy does not limit any legal rights customers may have under applicable telecommunications regulations. Customers retain the right to file complaints with relevant regulatory authorities.
+
+## Policy Updates
+This policy may be updated periodically. Current versions are available on our website, in our mobile apps (iOS and Android), and upon request from customer service.

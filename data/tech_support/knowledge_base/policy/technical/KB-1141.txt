@@ -1,0 +1,96 @@
+ID: KB-1141
+Type: Policy
+Category: Technical
+Subcategory: Data throttling
+Title: Data Throttling Policy
+Tags: payment,data throttling,technical,network,throttling,data,policy,device
+Last Updated: 2025-02-01 23:59:47
+Generated: 2025-07-13T23:15:45.270234
+
+---
+
+# Data Throttling Policy
+
+## Overview
+This policy document outlines our approach to data throttling, which is the temporary reduction of data speeds after a customer reaches certain usage thresholds. This practice helps us manage network congestion, ensure fair access to all customers, and maintain overall service quality.
+
+## Data Management Standards
+
+### Throttling Thresholds
+- Standard mobile plans: Data speeds may be reduced after 22GB of usage in a billing cycle
+- Unlimited plans: Priority data allocation varies by plan tier (typically 50GB-100GB)
+- Home internet services: Throttling may apply after 1TB of monthly data usage
+
+### Reduced Speed Expectations
+When throttling is applied, customers can expect:
+- Standard throttled speeds of 2G-3G equivalent (128Kbps-512Kbps)
+- Sufficient speeds for basic web browsing and messaging
+- Potential limitations for streaming, gaming, and large file transfers
+
+## Customer Notification Protocols
+
+### Pre-Throttling Notifications
+- SMS alerts at 75%, 90%, and 100% of high-speed data allocation
+- Email notifications for account holders
+- In-app notifications through our mobile application (iOS and Android)
+- Usage tracking available through online account management portal
+
+### During-Throttling Communication
+- Banner notification in customer account portal indicating throttled status
+- Throttling status visible in mobile app dashboard
+- Option to receive SMS confirmation when throttling begins
+
+## Service Maintenance Windows
+
+### Scheduled Network Maintenance
+- Network optimization occurs between 2:00 AM and 5:00 AM local time
+- Maintenance schedules posted 7 days in advance on our website
+- Critical maintenance notifications sent via SMS and email 48 hours in advance
+
+### Throttling Implementation Timing
+- Throttling typically activates within 1 hour of threshold being reached
+- Throttling status resets at the beginning of each billing cycle
+- System-wide throttling checks occur hourly
+
+## Remediation Procedures
+
+### Customer Options
+- Purchase data add-ons through mobile app, website, or customer service
+- Upgrade to higher-tier plans with increased high-speed data allocation
+- One-time courtesy speed restoration available once per 12-month period (upon request)
+
+### Dispute Resolution
+- Customers may dispute throttling through customer service channels
+- Usage disputes must be submitted within 30 days of throttling event
+- Technical review will be completed within 48 business hours
+
+## Customer Responsibilities
+
+### Usage Monitoring
+- Customers are responsible for monitoring their own data usage
+- Tools provided: mobile app usage tracker, SMS alerts, online dashboard
+- Setting personal usage alerts is recommended
+
+### Network Etiquette
+- Customers should avoid tethering devices in congested areas during peak hours
+- Automatic app updates should be scheduled during off-peak hours
+- Streaming quality settings should be adjusted based on network conditions
+
+## Company Obligations
+
+### Transparency
+- All throttling policies clearly disclosed in Terms of Service
+- Real-time network status updates available on company website
+- Annual disclosure of network management practices
+
+### Service Guarantees
+- Throttled speeds will never fall below minimum advertised rates
+- Essential services (emergency calling, text messaging) never throttled
+- Financial credits available for verified cases of incorrect throttling
+
+### Privacy Protection
+- Usage data collected solely for network management purposes
+- Individual usage patterns never shared with third parties
+- Anonymized aggregate data used for network planning
+
+For additional information or assistance managing your data usage, please contact Customer Support through our mobile app, website, or by calling 1-800-XXX-XXXX.

@@ -1,0 +1,54 @@
+Ticket ID: TICK-8067
+Customer ID: CUS-10817
+Subscription ID: SUB-10001206
+Category: Billing
+Priority: High
+Status: Closed
+Created: 2024-07-31 22:03:22.973000
+Agent ID: BIL-4860
+Resolved: 2024-08-03 22:03:22.973000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8067 (Created: 2024-08-01 05:03)
+
+I am beyond frustrated with my latest bill which shows a $49.99 "Premium Content Access" charge that I NEVER authorized! I've been a loyal customer on your Ultimate Unlimited Family Plan for over 3 years and have never seen this charge before. I checked my iPhone 15 Pro settings and there are no subscriptions active in my Apple account that would explain this.
+
+When I tried to dispute this through the MyTelecom app, I kept getting Error Code BIL-4032 "Unable to process billing inquiry at this time." I've already spent 45 minutes on hold trying to speak with someone about this!
+
+To make matters worse, my autopay went through yesterday, so I've already paid for something I didn't authorize. I need this charge removed IMMEDIATELY and refunded to my account. This is completely unacceptable, especially since I just added my daughter to our family plan last month and am already paying more.
+
+I'm in the Denver area and have never had billing issues before. Please resolve this ASAP or I'll be forced to file a complaint with the FCC and consider switching to another carrier. My account number is 8872345109.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8067 | Agent BIL-4860 | Resolved on 2024-08-04 05:03
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration you've experienced regarding the unauthorized "Premium Content Access" charge of $49.99 on your account, as well as the difficulties you encountered when attempting to resolve this through our MyTelecom app.
+
+After a thorough investigation of your account #8872345109, I can confirm that the $49.99 charge was erroneously applied to your Ultimate Unlimited Family Plan. I accessed our billing system (BillingPro) and traced the charge to a third-party content provider integration error that affected a small number of our Denver area customers during the last billing cycle.
+
+Actions taken:
+1. Removed the $49.99 "Premium Content Access" charge from your current bill
+2. Processed a refund of $49.99 to your original payment method, which should appear within 3-5 business days
+3. Added a one-time $15 account credit as a goodwill gesture for the inconvenience (per our Customer Retention Policy #CR-103)
+4. Documented this incident in our system to prevent similar issues on future bills
+5. Submitted the Error Code BIL-4032 to our Technical Support team for resolution (Reference #TS-20240804-1142)
+
+I've also confirmed that your family plan structure is correct following the recent addition of your daughter to your account. No additional unauthorized charges were found during my review.
+
+We truly value your loyalty as a customer of over 3 years, and I understand how concerning unexpected charges can be. Rest assured that this matter has been fully resolved, and you will not see this charge on future bills.
+
+If you have any further questions or concerns, please don't hesitate to contact us directly. You can reach me at extension 4860 during business hours, or use the direct messaging feature in your MyTelecom app, which should now be functioning properly for billing inquiries.
+
+Thank you for your patience throughout this resolution process.
+
+Sincerely,
+Agent BIL-4860
+Billing Resolution Team

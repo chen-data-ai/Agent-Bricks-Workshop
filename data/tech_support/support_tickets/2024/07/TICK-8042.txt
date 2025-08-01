@@ -1,0 +1,67 @@
+Ticket ID: TICK-8042
+Customer ID: CUS-10942
+Subscription ID: SUB-10001389
+Category: Technical
+Priority: Critical
+Status: Closed
+Created: 2024-07-29 21:54:24.611000
+Agent ID: TEC-6345
+Resolved: 2024-07-30 21:54:24.611000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8042 (Created: 2024-07-30 04:54)
+
+I've been trying to use my new Galaxy S24 Ultra on your network for the past 3 hours and I'm beyond frustrated at this point. After switching from my old carrier yesterday, my Apple MiFi 5 keeps showing "Emergency Calls Only" even though I've inserted your SIM card correctly. I've already tried rebooting multiple times, toggling airplane mode, and even reset network settings as suggested on your website.
+
+When I try to manually select networks, your company name appears but then I get error code "MM#2" when trying to connect. I'm on your Unlimited Premium 5G plan that I JUST signed up for, and I can't even make a basic call! I've already missed two important work calls because of this.
+
+I'm in downtown Seattle where your coverage map shows "excellent" 5G coverage, so that's clearly not the issue. My IMEI number was verified as compatible during signup, and the APN settings match exactly what your setup guide shows.
+
+This is absolutely unacceptable service for a new customer. I need this resolved IMMEDIATELY as I rely on my Apple MiFi 5 for work. If this can't be fixed today, I'll have no choice but to cancel within my 14-day window and go back to my previous carrier.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8042 | Agent TEC-6345 | Resolved on 2024-07-31 04:54
+
+Dear Customer,
+
+Thank you for bringing this urgent connectivity issue to our attention. I sincerely apologize for the frustration you've experienced with your new service, especially as a new customer who should be enjoying a seamless transition to our network.
+
+After reviewing your case, I identified a device-network compatibility issue between your Apple MiFi 5 and our network configuration. Here's what I found and the actions taken to resolve your issue:
+
+**Issue Identified:**
+The "MM#2" error code indicates a SIM authentication problem. Upon checking our provisioning system (NetCore), I discovered that while your SIM was properly activated, there was a mismatch between the device type registered in our system and your actual Apple MiFi 5 device. Our system incorrectly provisioned your line for a smartphone rather than a mobile hotspot device.
+
+**Actions Taken:**
+1. Accessed our NetCore provisioning system and updated your device profile to correctly identify as an Apple MiFi 5 hotspot
+2. Manually adjusted the APN configuration settings specific to mobile hotspot devices
+3. Reset the network authentication parameters on your account
+4. Pushed a carrier settings update to your device remotely
+5. Verified proper IMEI registration in our Equipment Registry database
+
+**Resolution Confirmation:**
+After implementing these changes, I contacted you via phone to confirm the device was now connecting properly to our network. You confirmed full 5G connectivity was established with appropriate signal strength for your downtown Seattle location.
+
+**Additional Actions:**
+1. Applied a $25.00 service credit to your account as compensation for the inconvenience (per our New Customer Service Guarantee policy)
+2. Provided detailed instructions on optimizing your Apple MiFi 5 settings for our network
+3. Added a 30-day network performance monitoring flag to your account to ensure continued stability
+
+**Recommendations:**
+To maintain optimal performance with your Apple MiFi 5 on our network, I recommend:
+- Downloading our Mobile Account Management app to monitor your data usage and connection quality
+- Enabling "Network Selection Mode" to "Automatic" in your device settings
+- Performing a monthly restart of your device to clear any cached network data
+
+Please note that your 14-day satisfaction guarantee remains in effect until August 13th, though I'm confident the issue has been fully resolved. Should you experience any further connectivity issues, please contact us immediately and reference this ticket number for expedited support.
+
+Thank you for your patience while we resolved this matter. We value your business and are committed to providing you with reliable service.
+
+Best regards,
+Agent TEC-6345
+Technical Support Team

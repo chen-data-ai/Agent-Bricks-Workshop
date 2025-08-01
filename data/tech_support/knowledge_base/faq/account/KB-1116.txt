@@ -1,0 +1,73 @@
+ID: KB-1116
+Type: FAQ
+Category: Account
+Subcategory: Account suspension process
+Title: What happens during an account suspension and how can I reinstate my service?
+Tags: data,account,service,faq,telecom,process,account suspension process,suspension
+Last Updated: 2024-06-10 23:59:47
+Generated: 2025-07-13T23:15:57.229535
+
+---
+
+# What happens during an account suspension and how can I reinstate my service?
+
+## Account Suspension Process
+
+When your account is suspended, your service is temporarily disabled but your account remains active in our system. This typically occurs due to non-payment, violation of our Acceptable Use Policy, or at your request (voluntary suspension).
+
+### Types of Suspensions
+
+1. **Payment-Related Suspension**
+   - Occurs when payment is not received by the due date plus the grace period (typically 7 days)
+   - Limited functionality remains (ability to receive incoming calls and make emergency calls only)
+   - Late payment fees may apply ($15 per line)
+
+2. **Policy Violation Suspension**
+   - Occurs when our systems detect unusual usage patterns or violations of our Terms of Service
+   - Service is completely restricted until the issue is resolved
+   - No fees are charged if the investigation determines no violation occurred
+
+3. **Voluntary Suspension**
+   - Available once per 12-month period for up to 90 days
+   - Reduced monthly fee applies ($10 per line)
+   - All services are paused but your number is reserved
+
+### Verification Requirements
+
+To reinstate service, we require:
+- Account owner verification (last 4 digits of SSN or Tax ID)
+- Photo ID if reinstating in-store
+- Security PIN if reinstating via phone support
+- Account password if reinstating through the mobile app or online portal
+
+### Timeframes
+
+- **Payment-related suspensions**: Service typically restores within 1 hour of payment receipt
+- **Policy violation suspensions**: 24-48 hours after resolution of the issue
+- **Voluntary suspensions**: Service restores on the scheduled end date or within 2 hours of your reinstatement request
+
+### Billing Impact
+
+- Your billing cycle remains unchanged during suspension
+- For involuntary suspensions, full charges apply during the suspended period
+- For voluntary suspensions, reduced monthly charges apply
+- Any service credits or promotions may be paused during suspension periods
+
+### How to Reinstate Service
+
+1. **Via Mobile App** (fastest method):
+   - Log in to our mobile app (iOS/Android)
+   - Navigate to "Account" → "Service Status"
+   - Select "Reinstate Service" and follow the prompts
+
+2. **Online Account Management**:
+   - Visit our website and log in to your account
+   - Go to "Account Settings" → "Service Management"
+   - Choose "Reinstate Suspended Service"
+
+3. **Customer Support**:
+   - Call 1-800-XXX-XXXX
+   - Provide required verification information
+   - Request service reinstatement
+
+**Note**: Multiple suspensions within a 12-month period may result in a reinstatement fee ($25) and could affect your account standing or eligibility for certain promotions.

@@ -1,0 +1,65 @@
+Ticket ID: TICK-8073
+Customer ID: CUS-10759
+Subscription ID: SUB-10001126
+Category: Technical
+Priority: High
+Status: Resolved
+Created: 2024-10-27 22:05:57.194000
+Agent ID: TEC-1920
+Resolved: 2024-10-29 22:05:57.194000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8073 (Created: 2024-10-28 05:06)
+
+I'm beyond frustrated with my internet connection right now. For the third time this week, my home WiFi keeps dropping every 15-20 minutes. I have the Premium Fiber 1Gig plan that I'm paying $89.99/month for, and this is unacceptable! My router (Netgear Nighthawk RAX80) shows all green lights, but devices keep disconnecting. My iPhone 15 Pro shows "Connected, No Internet" and my Samsung Galaxy S24 Ultra won't stay connected at all. 
+
+When I try to reconnect, I get the error message "DNS_PROBE_FINISHED_NO_INTERNET" on Chrome. I've already tried rebooting the router multiple times, resetting network settings on my Apple iPhone 15 Pro Maxs, and even called in yesterday where the agent had me do a factory reset on the router. Nothing has fixed it!
+
+I work from home and have important Zoom meetings starting at 8:00 AM. I need this resolved IMMEDIATELY. My address is 1432 Oakwood Drive in Portland, and my account number is ending in 4721. Please send a technician today if needed - I'll be home all day and cannot afford another day of disconnections.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8073 | Agent TEC-1920 | Resolved on 2024-10-30 05:06
+
+Dear Valued Customer,
+
+Thank you for bringing your internet connectivity issues to our attention. I sincerely apologize for the frustration and inconvenience you've experienced with your Premium Fiber 1Gig service, especially given your work-from-home requirements.
+
+## Diagnostic Actions Taken:
+- Accessed your account (#xxx4721) and reviewed service history
+- Performed remote diagnostics on your fiber terminal (ONT)
+- Analyzed signal strength and packet loss metrics via NetOps platform
+- Reviewed router logs from your Netgear Nighthawk RAX80
+- Identified intermittent DNS resolution failures and signal degradation
+
+## Resolution Steps Completed:
+1. Dispatched field technician (Tech ID: FT-3892) to your location on 2024-10-29
+2. Technician discovered damaged fiber splice point at junction box near your property
+3. Replaced degraded fiber optic segment (3.2m section)
+4. Recalibrated ONT signal levels to optimal parameters (verified -18.2 dBm)
+5. Updated firmware on your ONT to version 2.9.7
+6. Performed comprehensive connection stability test (100% uptime over 4-hour monitoring period)
+
+## Additional Actions:
+- Applied service credit of $17.99 to your account per our Service Guarantee Policy (Section 4.3) for the outage period
+- Added 30 days of Premium Technical Support at no charge
+- Scheduled automatic follow-up check of your connection stability for 2024-11-06
+
+## Recommendations:
+1. No router reconfiguration is needed as the issue was external to your home network
+2. Your current Netgear Nighthawk RAX80 is compatible with our Fiber 1Gig service
+3. For optimal WiFi coverage, maintain router placement in central location away from walls and metal objects
+4. Download our MyConnect mobile app (available for both iOS and Android) to monitor your connection status and receive real-time alerts
+
+Please don't hesitate to contact us if you experience any further connectivity issues. You can reach our Premium Technical Support team 24/7 at 1-800-555-0123 or through the live chat feature in your online account portal.
+
+We value your business and appreciate your patience while we resolved this issue.
+
+Sincerely,
+Agent TEC-1920
+Premium Technical Support Team

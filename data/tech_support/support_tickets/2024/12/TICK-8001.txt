@@ -1,0 +1,54 @@
+Ticket ID: TICK-8001
+Customer ID: CUS-10496
+Subscription ID: SUB-10000730
+Category: Billing
+Priority: High
+Status: Resolved
+Created: 2024-12-30 20:42:08.320000
+Agent ID: BIL-5139
+Resolved: 2024-12-31 20:42:08.320000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8001 (Created: 2024-12-31 04:42)
+
+Customer requests bill credit due to 23 hour service outage in North Judithbury; confirm eligibility and apply compensation.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8001 | Agent BIL-5139 | Resolved on 2025-01-01 04:42
+
+Dear Valued Customer,
+
+Thank you for reporting the service outage in North Judithbury. I sincerely apologize for the inconvenience this 23-hour service disruption has caused you.
+
+Actions Taken:
+1. Verified the reported outage in our Network Operations Center (NOC) system, confirming a major service disruption in the North Judithbury area from December 30, 2024, 05:30 to December 31, 2024, 04:30.
+2. Accessed your account in our Billing Management System (BMS) to review your current service plan and billing cycle.
+3. Confirmed your eligibility for compensation under our Service Level Agreement Policy #SLA-2024-11, which entitles customers to prorated credit for outages exceeding 4 consecutive hours.
+
+Resolution Details:
+- Applied a service credit of $28.76 to your account, calculated as follows:
+  * Monthly service charge: $89.99
+  * Daily rate: $2.99 (monthly charge ÷ 30 days)
+  * Hourly rate: $0.125 (daily rate ÷ 24 hours)
+  * Credit amount: $28.76 (23 hours × hourly rate × 10, with the multiplier reflecting our enhanced compensation for extended outages)
+
+- This credit will appear on your next billing statement as "Service Outage Compensation - Ticket TICK-8001"
+- The credit has been processed immediately and will reduce your next bill accordingly
+
+Additional Information:
+- You can view this credit by logging into your online account through our mobile app (available on iOS and Android) or website
+- Our technical team has resolved the underlying infrastructure issue that caused this outage and implemented additional monitoring to prevent similar disruptions
+
+We value your business and understand how critical our services are to your daily activities. If you experience any further issues or have questions about the applied credit, please don't hesitate to contact us.
+
+Thank you for your patience and understanding during this service disruption.
+
+Best regards,
+Agent BIL-5139
+Customer Billing Support Team

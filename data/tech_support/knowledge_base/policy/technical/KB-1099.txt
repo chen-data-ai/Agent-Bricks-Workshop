@@ -1,0 +1,105 @@
+ID: KB-1099
+Type: Policy
+Category: Technical
+Subcategory: Device setup
+Title: Device Setup Policy
+Tags: technical,setup,device setup,telecom,roaming,policy,device
+Last Updated: 2024-11-21 23:59:47
+Generated: 2025-07-13T23:15:56.036686
+
+---
+
+# Device Setup Policy
+
+## 1. Overview
+This policy outlines the standards, procedures, and responsibilities related to device setup services provided by our company. It establishes clear guidelines for both customers and our technical support team to ensure a smooth setup experience for all mobile devices, tablets, home internet equipment, and other connected devices.
+
+## 2. Service Standards
+
+### 2.1 In-Store Setup Services
+- Complimentary basic setup available for all devices purchased directly from our company
+- Setup includes: account activation, network connection, essential apps installation, data transfer (up to 5GB), and basic feature demonstration
+- Premium setup services available for a fee as outlined in our current rate card
+- Wait times not to exceed 45 minutes during standard business hours
+
+### 2.2 Remote Setup Assistance
+- Available via phone support (24/7) and video assistance (8AM-10PM local time)
+- Screen sharing capabilities available with customer consent
+- Step-by-step guidance through our mobile app's "Setup Wizard" feature
+- Virtual appointments available with 2-hour scheduling windows
+
+### 2.3 Home Installation Services
+- Professional installation required for fiber internet and advanced home networking solutions
+- Standard installation appointments scheduled within 5 business days of request
+- 2-hour arrival windows provided with SMS/email notifications
+- Post-installation quality check including speed verification and device connectivity testing
+
+## 3. Maintenance Windows
+
+### 3.1 Scheduled System Maintenance
+- Routine maintenance conducted between 1AM-5AM local time
+- Major system updates scheduled quarterly with minimum 7-day advance notice
+- Emergency maintenance may occur with limited notice during critical situations
+- Maintenance calendar viewable through online account management portal
+
+### 3.2 Service Continuity
+- Temporary workarounds provided during extended maintenance periods
+- Backup connectivity options available for business customers
+- Service credits applied automatically for maintenance exceeding published timeframes
+
+## 4. Customer Notification Protocols
+
+### 4.1 Pre-Installation Communications
+- Confirmation email/SMS sent immediately upon appointment scheduling
+- Reminder notification 24 hours before scheduled appointment
+- Technician information and estimated arrival time provided 1 hour before appointment
+
+### 4.2 Service Updates
+- Push notifications available through our mobile app
+- SMS alerts for critical service-affecting maintenance
+- Email notifications for non-critical updates and enhancements
+- Customer preference center available to customize notification frequency and channels
+
+## 5. Remediation Procedures
+
+### 5.1 Setup Failure Resolution
+- Same-day troubleshooting for failed device setups
+- Replacement devices provided within 24 hours if hardware issues identified
+- Escalation to specialized technical support for complex issues
+- Service credits applied for repeat setup attempts
+
+### 5.2 Post-Setup Support
+- 30-day complimentary premium support following new device setup
+- Follow-up satisfaction survey with direct access to resolution team
+- Video tutorial library accessible through online account or mobile app
+
+## 6. Customer Responsibilities
+
+### 6.1 Pre-Setup Requirements
+- Provide valid ID and account verification information
+- Ensure access to existing accounts and passwords
+- Back up important data before setup appointment
+- Ensure adequate power and internet connectivity at installation location
+- Clear physical access to installation areas
+
+### 6.2 Appointment Management
+- Provide minimum 24-hour notice for appointment cancellations
+- Ensure an adult (18+) is present during home installation appointments
+- Communicate special requirements or accessibility needs in advance
+
+## 7. Company Obligations
+
+### 7.1 Technical Expertise
+- All technicians certified on current devices and systems
+- Regular training updates as new technologies emerge
+- Specialized support teams available for complex setups
+- Knowledge base maintained with current procedures
+
+### 7.2 Quality Assurance
+- Post-setup verification of device functionality
+- Security verification of all connected accounts
+- Documentation provided for all completed work
+- Customer satisfaction confirmation before closing service tickets
+
+## 8. Policy Updates
+This policy is reviewed quarterly and updated as needed to reflect current technologies, services, and industry standards. The current version is always available through our website, mobile app, and upon request at any retail location.

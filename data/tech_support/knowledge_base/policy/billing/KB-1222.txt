@@ -1,0 +1,77 @@
+ID: KB-1222
+Type: Policy
+Category: Billing
+Subcategory: Refund policy
+Title: Telecom Refund Policy
+Tags: subscription,refund,refund policy,data,policy,billing,customer
+Last Updated: 2024-08-26 23:59:47
+Generated: 2025-07-13T23:15:42.225739
+
+---
+
+# Telecom Refund Policy
+
+## Overview
+This policy outlines the terms and conditions under which customers may receive refunds for services, equipment, and charges from [Company Name]. Our goal is to ensure fair and transparent billing practices while providing clear procedures for resolving billing disputes.
+
+## Definitions
+- **Billing Cycle**: The recurring period (typically monthly) for which service charges are applied
+- **Prorated Refund**: A partial refund calculated based on the unused portion of a service period
+- **Service Credit**: An amount applied to a customer's account for future services rather than refunded directly
+- **Disputed Charge**: Any charge formally contested by a customer through our dispute resolution process
+
+## Eligibility for Refunds
+
+### Service Charges
+1. **Service Cancellation**: Customers who cancel services before the billing cycle ends are eligible for prorated refunds of unused service days.
+2. **Service Outages**: Refunds may be issued for verified service outages exceeding 24 consecutive hours at a rate of 1/30th of the monthly charge per day of outage.
+3. **Plan Changes**: When downgrading to a lower-cost plan, the difference will be prorated and applied as credit to the next bill.
+
+### Equipment Returns
+1. **New Devices**: Devices may be returned within 14 days of purchase for a full refund, provided they are in original condition with all accessories.
+2. **Restocking Fee**: A $35 restocking fee applies to all returned devices unless they are defective.
+3. **Defective Equipment**: Defective equipment reported within 30 days of receipt qualifies for free replacement or full refund without restocking fees.
+
+### Billing Errors
+1. **Overcharges**: Verified billing errors resulting in overcharges will be refunded in full to the original payment method.
+2. **Duplicate Charges**: Duplicate charges will be refunded within 5 business days of verification.
+
+## Refund Processing Timeframes
+- **Credit/Debit Card Refunds**: 3-5 business days to process; 5-10 business days to appear on customer's statement
+- **Bank Account/ACH Refunds**: 7-10 business days
+- **Service Credits**: Applied within 1-2 billing cycles
+- **Check Refunds**: Processed within 15 business days for amounts exceeding $100 when other refund methods are unavailable
+
+## How to Request a Refund
+1. **Online**: Log into your account through our website or mobile app (available for iOS and Android) and select "Billing" > "Request Refund"
+2. **Phone**: Contact Customer Support at [phone number] during business hours
+3. **In-Store**: Visit any retail location with a valid ID and account information
+
+## Required Documentation
+- Proof of payment (receipt or statement)
+- Account information
+- Reason for refund request
+- For equipment returns: original packaging and all accessories
+
+## Exclusions
+Refunds will not be issued for:
+- Services used or consumed, even if usage was less than plan allowances
+- Late payment fees or reconnection charges
+- Third-party charges that have been authorized by the customer
+- Equipment damaged by customer misuse
+- Services canceled after the stated cancellation window
+
+## Dispute Resolution
+If a refund request is denied, customers may:
+1. Request a formal review by submitting a Billing Dispute Form within 60 days of the charge
+2. Receive a written decision within 30 days of submission
+3. Appeal denied disputes to the Billing Resolution Department within 14 days of receiving the decision
+
+## Policy Changes
+[Company Name] reserves the right to modify this refund policy with 30 days' notice to customers. Changes will be communicated via email and posted on our website.
+
+## Contact Information
+For questions regarding this policy:
+- Email: billing@[companyname].com
+- Phone: [Customer Support Number]
+- Online: Chat support available through our website or mobile app

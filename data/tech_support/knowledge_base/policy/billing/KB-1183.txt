@@ -1,0 +1,103 @@
+ID: KB-1183
+Type: Policy
+Category: Billing
+Subcategory: Paper bill vs. electronic billing
+Title: Billing Policy: Paper Bills vs. Electronic Billing
+Tags: troubleshooting,bill,paper,telecom,paper bill vs. electronic billing,support,policy,electronic,billing
+Last Updated: 2025-04-08 23:59:47
+Generated: 2025-07-13T23:15:48.291465
+
+---
+
+# Billing Policy: Paper Bills vs. Electronic Billing
+
+## Overview
+This policy outlines the procedures, options, and customer rights regarding paper and electronic billing services. Our company is committed to providing flexible, transparent billing solutions while promoting environmentally sustainable practices.
+
+## Billing Options
+
+### Electronic Billing
+Electronic billing (e-billing) is our standard billing method, providing customers with secure, immediate access to their monthly statements through:
+- Online Account Portal
+- Mobile App (iOS and Android)
+- Email delivery (PDF format)
+
+### Paper Billing
+Paper billing delivers a physical copy of the monthly statement to the customer's registered mailing address. This service may incur an additional fee as specified in the current fee schedule.
+
+## Timeframes and Delivery
+
+### Electronic Bills
+- Generated on the customer's regular billing date
+- Available in the Online Account Portal and Mobile App immediately upon generation
+- Email notifications sent within 24 hours of bill generation
+- Accessible for a minimum of 24 months in the customer's online account
+
+### Paper Bills
+- Generated on the customer's regular billing date
+- Mailed within 2 business days of generation
+- Delivery typically occurs within 3-7 business days, depending on postal service
+- Duplicate copies available upon request (fees may apply)
+
+## Customer Rights and Choices
+
+### Enrollment and Changes
+- Customers may select their preferred billing method during service activation
+- Billing preferences can be changed at any time through:
+  * Online Account Portal
+  * Mobile App
+  * Customer Service (phone, chat, or in-store)
+- Changes to billing method take effect on the next billing cycle
+
+### Fees and Waivers
+- Electronic billing is provided at no additional cost
+- Paper billing fee: $2.99 per monthly statement
+- Fee waivers available for:
+  * Customers aged 65 and older
+  * Customers with documented disabilities
+  * Customers without reliable internet access (subject to verification)
+
+## Technical Requirements
+
+### Electronic Billing
+- Valid email address required for email delivery
+- Compatible devices for Mobile App access:
+  * iOS 12.0 or later
+  * Android 8.0 or later
+- Supported browsers for Online Account Portal:
+  * Chrome (latest 2 versions)
+  * Safari (latest 2 versions)
+  * Firefox (latest 2 versions)
+  * Edge (latest 2 versions)
+
+## Privacy and Security
+
+### Electronic Bills
+- All electronic statements are protected with industry-standard encryption
+- Two-factor authentication available for account access
+- Automatic logout after 15 minutes of inactivity
+- Data retention complies with applicable regulations
+
+### Paper Bills
+- Contains only the minimum necessary account information
+- Delivered in secure, opaque envelopes
+- Customers responsible for secure disposal
+
+## Environmental Impact
+Our company is committed to reducing environmental impact through:
+- Promotion of electronic billing to reduce paper consumption
+- Use of recycled materials for necessary paper bills
+- Carbon offset programs for mail delivery services
+
+## Definitions
+- **Billing Cycle**: The period between consecutive bills, typically 30 days
+- **Electronic Billing (e-billing)**: Delivery of bills through digital channels
+- **Two-Factor Authentication**: Security process requiring two distinct forms of identification
+- **Fee Schedule**: Current list of charges for optional services
+
+## Contact Information
+For questions or assistance regarding billing options:
+- Phone: 1-800-XXX-XXXX
+- Email: billing@company.com
+- Live Chat: Available 24/7 through our website or Mobile App
+- In-store: Visit any retail location during business hours

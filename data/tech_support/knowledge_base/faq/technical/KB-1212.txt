@@ -1,0 +1,96 @@
+ID: KB-1212
+Type: FAQ
+Category: Technical
+Subcategory: Wifi optimization
+Title: How Can I Optimize My Home WiFi Network for Better Performance?
+Tags: data,technical,text,faq,voice,wifi,optimization,wifi optimization
+Last Updated: 2024-10-10 23:59:47
+Generated: 2025-07-13T23:15:41.442624
+
+---
+
+# How Can I Optimize My Home WiFi Network for Better Performance?
+
+## Common Issues
+Poor WiFi performance can manifest as:
+* Slow internet speeds
+* Frequent disconnections
+* "Weak signal" or "Unable to connect to network" error messages
+* Buffering during streaming
+* Lag during online gaming
+* "Connected but no internet" notifications
+
+## Basic Optimization Steps
+
+### 1. Check Your Router Placement
+* Position your router in a central location in your home
+* Keep it elevated (on a shelf or desk) rather than on the floor
+* Avoid placing near metal objects, thick walls, fish tanks, or appliances that emit electromagnetic waves (microwaves, baby monitors)
+* Maintain at least 3-5 feet of clearance around the router
+
+### 2. Update Your Router's Firmware
+1. Access your router's admin panel by typing its IP address in your browser (typically 192.168.0.1 or 192.168.1.1)
+2. Log in using your admin credentials
+3. Navigate to "Settings," "Advanced," or "Administration" section
+4. Look for "Firmware Update" or "Router Update"
+5. Follow the on-screen instructions to check for and install updates
+
+### 3. Optimize Your WiFi Channel Settings
+1. Access your router's admin panel
+2. Navigate to "Wireless Settings" or "WiFi Configuration"
+3. Look for "Channel Selection" or "Channel Width"
+4. For 2.4GHz networks: Set to channels 1, 6, or 11 (these have minimal overlap)
+5. For 5GHz networks: Use Auto or scan for the least congested channel
+6. Consider using channel width of 20MHz for 2.4GHz and 40MHz or 80MHz for 5GHz
+
+### 4. Device-Specific WiFi Optimization
+
+#### For Android Devices:
+1. Go to Settings > Connections > WiFi
+2. Tap the gear icon next to your connected network
+3. Select "Advanced"
+4. Ensure "Switch to mobile data" is disabled if you want consistent WiFi
+5. Toggle on "Auto reconnect" for better stability
+
+#### For iOS Devices:
+1. Go to Settings > WiFi
+2. Tap the "i" icon next to your connected network
+3. Toggle on "Auto-Join"
+4. Go to Settings > Cellular and scroll down to ensure apps you primarily use on WiFi don't have cellular data enabled unnecessarily
+
+### 5. Use Our Mobile App for Network Analysis
+1. Download our mobile app from the App Store (iOS) or Google Play Store (Android)
+2. Log in to your account
+3. Navigate to "Home Network"
+4. Use the "WiFi Analyzer" tool to:
+   * Check signal strength throughout your home
+   * Identify network congestion
+   * Receive personalized optimization recommendations
+
+## Advanced Optimization
+
+### 1. Consider a Mesh Network
+If you have a large home or multiple floors, consider upgrading to a mesh network system for better coverage.
+
+### 2. Separate 2.4GHz and 5GHz Networks
+1. Access your router's admin panel
+2. Navigate to "Wireless Settings"
+3. Ensure both bands have distinct names (e.g., "HomeNetwork_2.4" and "HomeNetwork_5")
+4. Connect devices that need range to 2.4GHz and devices that need speed to 5GHz
+
+### 3. Enable Quality of Service (QoS)
+1. Access your router's admin panel
+2. Navigate to "QoS" or "Traffic Management"
+3. Enable QoS and prioritize applications or devices according to your needs
+
+## When to Contact Support
+Please contact our technical support team if:
+
+* You've tried all the steps above and still experience poor WiFi performance
+* Your router's admin panel is inaccessible
+* You receive error messages like "DHCP configuration failed" or "IP conflict detected"
+* Your network shows "Limited connectivity" despite following troubleshooting steps
+* You notice unauthorized devices connected to your network
+* Your router frequently needs to be restarted (more than once per week)
+
+Contact our 24/7 technical support through the mobile app's chat feature, by calling 1-800-XXX-XXXX, or by logging into your online account at www.ourcompany.com/support.

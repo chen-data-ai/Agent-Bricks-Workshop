@@ -1,0 +1,116 @@
+ID: KB-1140
+Type: Policy
+Category: Billing
+Subcategory: Prepaid vs. postpaid billing differences
+Title: Billing Policy: Prepaid vs. Postpaid Service Comparison
+Tags: payment,prepaid,differences,telecom,prepaid vs. postpaid billing differences,postpaid,coverage,policy,billing
+Last Updated: 2025-04-10 23:59:47
+Generated: 2025-07-13T23:15:45.209626
+
+---
+
+# Billing Policy: Prepaid vs. Postpaid Service Comparison
+
+## Introduction
+This document outlines the key differences between prepaid and postpaid billing options offered by our telecommunications company. Understanding these differences will help customers select the billing method that best suits their needs and usage patterns.
+
+## Definitions
+**Prepaid Service**: A payment model where customers pay for telecommunications services in advance of usage.
+
+**Postpaid Service**: A payment model where customers use telecommunications services and are billed afterward based on their usage and plan.
+
+## Prepaid Service Policies
+
+### Payment Structure
+- Service is paid for in advance through account recharges
+- No monthly bills or contracts required
+- Service is available until credit is depleted or expires
+
+### Recharge Requirements
+- Minimum recharge: $10
+- Maximum single recharge: $200
+- Recharges can be processed at any time before credit expiration
+- Credit must be maintained to continue service
+
+### Credit Expiration
+- Standard credit validity: 30 days from recharge date
+- Extended validity options available with higher recharge amounts:
+  * $30+ recharge: 45 days validity
+  * $50+ recharge: 90 days validity
+  * $100+ recharge: 365 days validity
+
+### Service Suspension
+- Service automatically suspends when credit is depleted
+- 14-day grace period provided after credit expiration during which incoming calls/texts remain active
+- Account remains eligible for reactivation for 90 days after credit expiration
+- Account termination occurs after 90 days of inactivity
+
+## Postpaid Service Policies
+
+### Billing Cycle
+- Monthly billing cycle based on activation date
+- Bills generated within 3 business days after cycle completion
+- Payment due within 21 days of bill issuance
+
+### Payment Methods
+- Automatic payment options available via credit/debit card or bank account
+- Manual payment through our mobile app, website, customer service centers, or authorized payment partners
+- Late payment fee of $5 or 1.5% of outstanding balance (whichever is greater) applies after due date
+
+### Credit Requirements
+- Credit check required for new postpaid accounts
+- Security deposit may be required based on credit assessment:
+  * Tier 1 credit: No deposit required
+  * Tier 2 credit: $100 deposit
+  * Tier 3 credit: $200 deposit
+- Deposits are refundable after 12 consecutive on-time payments
+
+### Service Suspension
+- Late payment warning issued 3 days after missed payment
+- Service restriction (outgoing calls/data) applied 7 days after missed payment
+- Full service suspension after 14 days of non-payment
+- $25 reconnection fee applies after suspension
+- Account termination and collections process begins after 45 days of non-payment
+
+## Customer Rights and Responsibilities
+
+### All Customers
+- Access to detailed usage information through mobile app or online account
+- Right to dispute charges within 60 days of bill issuance or recharge
+- Responsibility to maintain current contact information
+- Protection under applicable telecommunications consumer protection laws
+
+### Prepaid Customers
+- Right to request refund of unused balance within 30 days of recharge (10% processing fee applies)
+- Responsibility to monitor credit balance and expiration dates
+- Auto-recharge options available but not required
+
+### Postpaid Customers
+- Right to receive itemized billing statements
+- Right to set usage alerts at customizable thresholds
+- Responsibility to report billing discrepancies within billing cycle
+- Option to implement spending caps to prevent overages
+
+## Plan Changes and Migrations
+
+### Prepaid to Postpaid
+- Requires credit approval
+- Unused prepaid balance transferred to postpaid account as credit
+- Process takes 1-2 business days to complete
+- New billing cycle begins on migration date
+
+### Postpaid to Prepaid
+- Account must be in good standing with no outstanding balance
+- No credit check required
+- Service transitions immediately upon completion
+- Initial recharge required at time of conversion
+
+## Contact Information
+For questions regarding billing policies or to request assistance with your account:
+- Mobile App: Account Management section
+- Online: www.ourcompany.com/support
+- Phone: 1-800-555-0123
+- Email: billing@ourcompany.com
+- In-store: Visit any retail location during business hours
+
+This policy was last updated on [Current Date]

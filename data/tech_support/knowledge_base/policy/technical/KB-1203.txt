@@ -1,0 +1,98 @@
+ID: KB-1203
+Type: Policy
+Category: Technical
+Subcategory: Network outages
+Title: Network Outage Policy
+Tags: technical,outages,telecom,network,support,policy,phone,network outages
+Last Updated: 2024-09-25 23:59:47
+Generated: 2025-07-13T23:15:40.859324
+
+---
+
+# Network Outage Policy
+
+## Purpose
+This document outlines our company's policies and procedures regarding network outages, including our service commitments, maintenance practices, notification protocols, and remediation procedures.
+
+## Service Standards
+
+### Uptime Commitment
+- We strive to maintain 99.9% network availability for all services
+- This equates to less than 8.76 hours of total downtime per year
+- Uptime calculations exclude scheduled maintenance windows
+- Service Level Agreements (SLAs) for business customers may specify different uptime guarantees
+
+### Outage Classification
+1. **Critical Outage**: Complete loss of service affecting multiple areas
+2. **Major Outage**: Significant service degradation or loss affecting a specific area
+3. **Minor Outage**: Limited impact on specific services with minimal customer effect
+
+## Scheduled Maintenance
+
+### Maintenance Windows
+- Routine maintenance: Tuesdays and Thursdays, 1:00 AM - 5:00 AM local time
+- Quarterly system updates: First Sunday of each quarter, 12:00 AM - 6:00 AM local time
+- Emergency maintenance: As required, with best-effort notification
+
+### Customer Notification
+- Routine maintenance: Notification 5 business days in advance
+- Quarterly updates: Notification 14 calendar days in advance
+- Emergency maintenance: Notification as soon as reasonably possible
+
+## Unplanned Outage Protocols
+
+### Detection and Response
+- 24/7 network monitoring through automated systems
+- Technical response team available at all hours
+- Initial assessment within 15 minutes of detected outage
+- Regular status updates throughout resolution process
+
+### Customer Notification
+- In-app notifications through our mobile application (iOS and Android)
+- SMS alerts for customers who have opted in
+- Email communications for all affected customers
+- Website and social media updates for widespread outages
+- Customer support IVR system updated with outage information
+
+## Remediation Procedures
+
+### Resolution Timeframes
+- Critical outages: Target resolution within 4 hours
+- Major outages: Target resolution within 8 hours
+- Minor outages: Target resolution within 24 hours
+
+### Service Credits
+- Automatic service credits applied when outages exceed SLA commitments
+- Credit amount based on outage duration and severity
+- Business customers: Credits as specified in individual SLAs
+- Residential customers: Pro-rated daily credit for outages exceeding 24 hours
+
+## Customer Responsibilities
+
+### Reporting Outages
+- Check service status via mobile app or website before reporting
+- Report persistent issues through customer support channels
+- Provide accurate location information when reporting outages
+- Follow troubleshooting steps as directed by support personnel
+
+### Equipment Maintenance
+- Maintain customer-owned equipment according to guidelines
+- Perform basic troubleshooting steps when requested
+- Allow access for technicians when on-premises service is required
+- Keep contact information updated for outage notifications
+
+## Company Obligations
+
+### Transparency
+- Provide honest, timely updates about outage causes and resolution progress
+- Maintain an outage history log accessible through online account management
+- Publish quarterly network reliability reports
+- Notify customers of systemic issues that may affect service quality
+
+### Continuous Improvement
+- Review all major outages to identify preventative measures
+- Invest in network infrastructure upgrades to minimize future disruptions
+- Update this policy annually to reflect current best practices
+- Solicit and incorporate customer feedback regarding outage handling
+
+For current network status, please check the Network Status page in our mobile app or visit our website. You can manage your notification preferences through your online account settings.

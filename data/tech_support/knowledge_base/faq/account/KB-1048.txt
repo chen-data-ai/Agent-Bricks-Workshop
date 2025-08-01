@@ -1,0 +1,60 @@
+ID: KB-1048
+Type: FAQ
+Category: Account
+Subcategory: Account pins and passwords
+Title: What are account PINs and passwords and how do I manage them?
+Tags: payment,subscription,account,account pins and passwords,faq,roaming,pins,passwords
+Last Updated: 2024-07-18 23:59:47
+Generated: 2025-07-13T23:15:51.992455
+
+---
+
+# What are account PINs and passwords and how do I manage them?
+
+## Overview
+Your account PIN and password are essential security measures that protect your telecom account from unauthorized access. While they serve similar purposes, they function differently within our systems and are used in different contexts.
+
+## Account PIN
+Your account PIN is a 4-6 digit numerical code that serves as a verbal verification method when you contact our customer service representatives by phone. This PIN helps us confirm your identity before discussing sensitive account information or making changes to your service.
+
+### Setting up or changing your PIN
+- **Online**: Log into your account at MyAccount.com or through our mobile app (available on iOS and Android), navigate to "Account Settings" > "Security" > "Change PIN"
+- **Phone**: Call our customer service at 1-800-XXX-XXXX and follow the automated prompts to change your PIN
+- **In-store**: Visit any of our retail locations with a valid government-issued photo ID
+
+Changes to your PIN take effect immediately across all platforms.
+
+### PIN requirements
+- Must be 4-6 digits (numbers only)
+- Cannot be sequential numbers (e.g., 1234, 5678)
+- Cannot be repetitive digits (e.g., 1111, 2222)
+- Cannot match the last 4 digits of your phone number or Social Security Number
+
+## Account Password
+Your account password is used to access your online account through our website and mobile app. This alphanumeric password provides security for digital account management.
+
+### Setting up or changing your password
+- **Online**: Visit the "Forgot Password" link on the login page or go to "Account Settings" > "Security" > "Change Password" if already logged in
+- **Mobile App**: Navigate to "Settings" > "Security" > "Change Password"
+
+Password changes take effect immediately, but you may need to log out and log back in on all devices.
+
+### Password requirements
+- Minimum 8 characters
+- Must include at least one uppercase letter, one lowercase letter, one number, and one special character
+- Cannot contain your username, first name, or last name
+- Expires every 90 days for enhanced security
+
+## Important considerations
+- **Account access**: If you forget both your PIN and password, you'll need to visit a store with a government-issued photo ID for account recovery
+- **Billing impact**: There's no direct impact on billing when changing your PIN or password
+- **Service interruption**: Incorrect PIN entries (3+ attempts) may temporarily lock your account for 24 hours as a security measure
+- **Multiple lines**: If you manage multiple lines, your PIN provides access to all lines on the account
+- **Automatic payments**: Changing your password will not affect any automatic payment arrangements
+
+## Additional security options
+- Enable two-factor authentication (2FA) through our mobile app for additional account security
+- Set up biometric login (fingerprint or facial recognition) on compatible devices
+- Consider using a password manager to maintain strong, unique passwords
+
+For further assistance with account security, contact our customer support team at 1-800-XXX-XXXX or visit your nearest retail location.

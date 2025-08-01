@@ -1,0 +1,98 @@
+ID: KB-1207
+Type: Policy
+Category: Technical
+Subcategory: Bluetooth connectivity problems
+Title: Bluetooth Connectivity Support Policy
+Tags: bluetooth connectivity problems,troubleshooting,technical,problems,connectivity,coverage,policy,bluetooth,customer
+Last Updated: 2024-10-11 23:59:47
+Generated: 2025-07-13T23:15:41.102589
+
+---
+
+# Bluetooth Connectivity Support Policy
+
+## 1. Overview
+This policy outlines our approach to addressing Bluetooth connectivity issues experienced by customers. It defines the scope of technical support provided, maintenance procedures, and the respective responsibilities of both the company and customers.
+
+## 2. Service Standards
+
+### 2.1 Support Coverage
+- We provide troubleshooting assistance for Bluetooth connectivity issues between our network devices and customer equipment
+- Support extends to company-provided equipment (routers, set-top boxes, IoT hubs) with Bluetooth capabilities
+- Basic guidance for connecting third-party Bluetooth devices to our equipment is available
+- Support hours: 24/7 via online channels, 8AM-8PM local time for phone support
+
+### 2.2 Response Times
+- Initial response to Bluetooth connectivity issues: within 4 hours
+- Resolution target for standard issues: 24-48 hours
+- Complex issues requiring device replacement: 3-5 business days
+
+## 3. Maintenance Windows
+
+### 3.1 Scheduled Maintenance
+- Firmware updates affecting Bluetooth functionality: 2AM-5AM local time
+- Quarterly maintenance windows for system-wide Bluetooth stack updates
+- Emergency patches may be deployed outside standard windows when security vulnerabilities are identified
+
+### 3.2 Service Impact
+- Most Bluetooth updates are non-disruptive and occur in the background
+- Updates requiring device restart will be scheduled during low-usage hours
+- Temporary Bluetooth disconnections during updates typically last 3-5 minutes
+
+## 4. Customer Notification Protocols
+
+### 4.1 Planned Changes
+- Maintenance affecting Bluetooth services: minimum 72-hour advance notice
+- Notifications delivered via:
+  - Account alerts in our mobile app (iOS and Android)
+  - Email to registered account address
+  - SMS notification (if opted in)
+  - Service status page at support.ourcompany.com
+
+### 4.2 Unplanned Disruptions
+- Initial notification within 30 minutes of confirmed Bluetooth service disruption
+- Status updates every 60 minutes until resolution
+- Post-incident summary within 24 hours of resolution
+
+## 5. Remediation Procedures
+
+### 5.1 Troubleshooting Process
+1. Remote diagnostics via customer's online account or mobile app
+2. Guided troubleshooting with technical support
+3. Remote firmware reset/update when applicable
+4. Dispatch of technician if issue persists (service charges may apply)
+
+### 5.2 Equipment Replacement
+- Defective company equipment with Bluetooth issues will be replaced at no cost during warranty period
+- Expedited shipping available for premium service subscribers
+- Temporary workarounds will be provided during replacement period
+
+## 6. Customer Responsibilities
+
+### 6.1 Required Actions
+- Ensure Bluetooth devices are within recommended range (typically 30 feet/10 meters)
+- Keep company equipment in well-ventilated areas away from interference sources
+- Apply recommended updates when prompted
+- Maintain compatible Bluetooth versions on personal devices
+- Report persistent issues through official support channels
+
+### 6.2 Limitations
+- Customer-owned Bluetooth device compatibility is not guaranteed
+- Customers are responsible for maintaining their personal devices' software/firmware
+- Environmental factors affecting Bluetooth signals (concrete walls, interference) are beyond company control
+
+## 7. Company Obligations
+
+### 7.1 Technical Commitments
+- Maintain Bluetooth functionality on company equipment as advertised
+- Provide timely firmware/software updates addressing known Bluetooth issues
+- Offer reasonable troubleshooting assistance for connecting customer devices
+- Document common Bluetooth issues and solutions in our knowledge base
+
+### 7.2 Service Recovery
+- Service credits available when Bluetooth functionality is unavailable for >24 consecutive hours
+- Replacement of company equipment with persistent Bluetooth issues
+- Escalation path for unresolved Bluetooth problems affecting critical services
+
+## 8. Policy Updates
+This policy is reviewed quarterly and may be updated to reflect technological changes, service improvements, or regulatory requirements. Customers will be notified of significant policy changes 30 days in advance through their online account dashboard and email.

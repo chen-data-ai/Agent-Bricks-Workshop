@@ -1,0 +1,88 @@
+ID: KB-1151
+Type: Guide
+Category: Technical
+Subcategory: Wi-fi calling setup
+Title: Setting Up Wi-Fi Calling: Complete Technical Guide
+Tags: account,technical,calling,setup,wireless,guide,support,wi-fi,wi-fi calling setup
+Last Updated: 2025-01-25 23:59:47
+Generated: 2025-07-13T23:15:45.934698
+
+---
+
+# Setting Up Wi-Fi Calling: Complete Technical Guide
+
+## Introduction
+Wi-Fi calling allows you to make and receive calls and texts over a Wi-Fi network instead of using your cellular connection. This feature is particularly useful in areas with weak cellular coverage but strong Wi-Fi signals. This guide will walk you through setting up Wi-Fi calling on various devices and troubleshooting common issues.
+
+## Prerequisites
+Before setting up Wi-Fi calling, ensure:
+- Your device supports Wi-Fi calling
+- You have an active cellular plan that includes Wi-Fi calling
+- You're connected to a stable Wi-Fi network
+- Your device software is up to date
+- You have emergency address information ready (required by carriers for 911 services)
+
+## Setup Instructions by Device Type
+
+### For iPhone (iOS)
+1. **Access Settings**: Tap the Settings app on your home screen
+   - *Expected result*: The Settings menu opens
+
+2. **Navigate to Phone settings**: Scroll down and tap "Phone"
+   - *Expected result*: Phone settings menu appears
+
+3. **Select Wi-Fi Calling**: Tap "Wi-Fi Calling"
+   - *Expected result*: Wi-Fi Calling options screen appears
+
+4. **Enable the feature**: Toggle "Wi-Fi Calling on This iPhone" to ON (green)
+   - *Expected result*: You may see a prompt to enter or confirm your emergency address
+
+5. **Verify activation**: Look for "Wi-Fi" next to your carrier name in the status bar
+   - *Success indicator*: "Wi-Fi" appears next to your carrier name when connected
+
+### For Android Devices
+1. **Open Settings**: Tap the Settings app
+   - *Expected result*: Settings menu opens
+
+2. **Access Network settings**: Tap "Connections," "Network & Internet," or similar (varies by manufacturer)
+   - *Expected result*: Network settings appear
+
+3. **Select Mobile network**: Tap "Mobile network," "Cellular," or similar
+   - *Expected result*: Cellular network options appear
+
+4. **Enable Wi-Fi Calling**: Find and toggle "Wi-Fi Calling" to ON
+   - *Expected result*: You'll be prompted to enter emergency address information
+   - *Note*: On Samsung devices, this may be under "Mobile Networks" > "Wi-Fi Calling"
+
+5. **Verify activation**: Look for a Wi-Fi calling icon in your status bar
+   - *Success indicator*: Wi-Fi calling icon appears when connected to Wi-Fi
+
+### For Carrier Apps
+Many carriers offer dedicated apps for managing services:
+1. **Open your carrier app**: Launch your carrier's mobile app
+2. **Navigate to services**: Find "Services," "Features," or "Account Settings"
+3. **Locate Wi-Fi Calling**: Enable the feature and follow prompts
+4. **Enter emergency address**: Provide required information
+5. **Verify in device settings**: Confirm the feature is active in your phone's settings
+
+## Troubleshooting Common Issues
+
+### Wi-Fi Calling Option Missing
+1. **Check carrier support**: Contact your carrier to confirm your plan includes Wi-Fi calling
+2. **Update device software**: Go to Settings > System > Software Update (Android) or Settings > General > Software Update (iOS)
+3. **Update carrier settings**: For iPhone, go to Settings > General > About to trigger carrier settings updates
+4. **Reset network settings**: As a last resort, reset network settings (note: this will remove saved Wi-Fi passwords)
+
+### Wi-Fi Calling Won't Enable
+1. **Restart your device**: Power off completely, wait 30 seconds, then power on
+2. **Check Wi-Fi connection**: Ensure you're connected to a stable Wi-Fi network
+3. **Toggle Airplane Mode**: Turn on Airplane Mode, wait 30 seconds, turn it off
+4. **Remove and reinsert SIM**: Power off device, remove SIM card, reinsert, power on
+   - *Expected result after each step*: Try enabling Wi-Fi calling again
+
+### Call Quality Issues
+1. **Check Wi-Fi signal**: Move closer to your router for better signal strength
+2. **Test network speed**: Use a speed test app to verify adequate bandwidth (minimum 1Mbps)
+3. **Restart router**: Power cycle your Wi-Fi router
+4. **Reduce network congestion**: Disconnect unused devices from your network
+   - *Expected improvement*: Clearer audio, fewer

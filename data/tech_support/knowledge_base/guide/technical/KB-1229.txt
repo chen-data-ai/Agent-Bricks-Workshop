@@ -1,0 +1,105 @@
+ID: KB-1229
+Type: Guide
+Category: Technical
+Subcategory: Data throttling
+Title: Understanding and Managing Data Throttling: A Technical Guide
+Tags: technical,coverage,wireless,guide,roaming,throttling,data,data throttling
+Last Updated: 2025-05-10 23:59:47
+Generated: 2025-07-13T23:15:42.716679
+
+---
+
+# Understanding and Managing Data Throttling: A Technical Guide
+
+## What is Data Throttling?
+
+Data throttling is the intentional slowing down of your internet connection speed by your mobile carrier. This typically occurs when you've reached your plan's high-speed data limit. Instead of completely cutting off your data access, carriers reduce your connection speed (often to 2G or 3G levels) until your next billing cycle begins.
+
+## How to Identify Data Throttling
+
+### Symptoms of Data Throttling:
+- Significantly slower loading times for websites and apps
+- Buffering or low quality when streaming video
+- Delayed sending/receiving of media in messaging apps
+- Downloads taking much longer than usual
+- Video calls becoming pixelated or disconnecting
+
+### Prerequisite Checks:
+1. Verify you're experiencing slow speeds across multiple apps (not just one service)
+2. Check that you're in an area with normally good coverage
+3. Confirm other devices on the same network (if applicable) are experiencing normal speeds
+
+## Checking Your Data Usage Status
+
+### For Android Devices:
+1. Open the "Settings" app
+2. Tap on "Network & Internet" or "Connections" (varies by device)
+3. Select "Data usage" or "Mobile data"
+4. Look for indicators showing how much of your data plan you've used
+   - *Expected result*: You'll see your current billing cycle and data consumption
+
+### For iOS Devices:
+1. Open the "Settings" app
+2. Tap on "Cellular" or "Mobile Data"
+3. Scroll down to view your current period's data usage
+   - *Expected result*: You'll see data usage statistics for the current period
+
+### Using Your Carrier's App:
+1. Download and install your carrier's official mobile app if not already installed
+2. Log in with your account credentials
+3. Navigate to the data usage or account overview section
+   - *Expected result*: You'll see detailed information about your data plan, usage, and any throttling status
+
+## Resolving Data Throttling Issues
+
+### Option 1: Purchase Additional High-Speed Data
+1. Open your carrier's app or website
+2. Log into your account
+3. Navigate to the "Add Data" or "Data Boost" section
+4. Select and purchase additional data
+   - *Success indicator*: You'll receive a confirmation message and speeds should return to normal within 5-15 minutes
+
+### Option 2: Connect to Wi-Fi
+1. Open your device's Settings app
+2. Tap on "Wi-Fi" or "Connections" > "Wi-Fi"
+3. Enable Wi-Fi and connect to an available network
+4. Enter password if required
+   - *Success indicator*: A Wi-Fi icon appears in your status bar and data-intensive activities work normally again
+
+### Option 3: Adjust App Data Usage
+1. Identify non-essential apps consuming background data
+2. For Android:
+   - Go to Settings > Apps > [Select App] > Mobile data
+   - Disable "Background data" for high-consumption apps
+3. For iOS:
+   - Go to Settings > Cellular
+   - Toggle off cellular data access for specific apps
+   - *Expected result*: Remaining high-speed data will last longer
+
+## Preventing Future Data Throttling
+
+1. **Set Data Warnings**:
+   - Android: Settings > Network & Internet > Data usage > Data warning & limit
+   - iOS: Use the carrier app as iOS doesn't have built-in warnings
+   - *Expected outcome*: You'll receive notifications before reaching your limit
+
+2. **Enable Data Saver/Low Data Mode**:
+   - Android: Settings > Network & Internet > Data Saver
+   - iOS: Settings > Cellular > Cellular Data Options > Low Data Mode
+   - *Expected outcome*: Apps will use less data when running in the background
+
+3. **Monitor Usage Regularly**:
+   - Check your data usage weekly through your carrier's app
+   - Review which apps consume the most data
+   - *Expected outcome*: Better awareness of consumption patterns
+
+## When to Contact Your Carrier
+
+If you've confirmed you're experiencing data throttling but:
+- You haven't exceeded your data limit
+- You've purchased additional data but speeds haven't improved after 30 minutes
+- Throttling is occurring much earlier than your plan's stated threshold
+
+Contact customer support with the following information:
+1. Your account details
+2. When you first noticed the thrott

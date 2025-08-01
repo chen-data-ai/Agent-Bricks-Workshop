@@ -1,0 +1,68 @@
+ID: KB-1175
+Type: FAQ
+Category: Account
+Subcategory: Account merger process
+Title: How Do I Merge Multiple Accounts Under My Name?
+Tags: troubleshooting,account,faq,mobile,merger,network,account merger process,process
+Last Updated: 2024-07-10 23:59:47
+Generated: 2025-07-13T23:15:47.705458
+
+---
+
+# How Do I Merge Multiple Accounts Under My Name?
+
+## Overview
+You can request to merge multiple telecom accounts under your name to simplify billing and management. This process combines separate accounts into a single account while maintaining all services.
+
+## Eligibility Requirements
+- You must be the primary account holder on all accounts being merged
+- All accounts must be in good standing with no past-due balances
+- Accounts must be under the same legal name and tax ID/SSN
+- Business and personal accounts cannot be merged together
+
+## Verification Process
+To protect your security, we require comprehensive verification:
+- Government-issued photo ID (driver's license, passport, or state ID)
+- The last 4 digits of your SSN or full Tax ID for business accounts
+- Account PINs/passwords for all accounts being merged
+- Verification of authorized users on each account (if applicable)
+
+## Step-by-Step Process
+1. **Initiate request**: Contact Customer Support through our mobile app, online account portal, or by calling 1-800-XXX-XXXX
+2. **Verification**: Complete identity verification for all accounts
+3. **Account review**: Our team will review your accounts for eligibility
+4. **Confirmation**: You'll receive a merger agreement outlining all terms
+5. **Approval**: Digitally sign the agreement through our secure portal
+6. **Implementation**: Technical merger of accounts begins
+
+## Timeframes
+- Initial verification: 1-2 business days
+- Account review: 2-3 business days
+- Implementation: 3-5 business days after approval
+- Total process: Typically 7-10 business days
+
+## Billing Impact
+- Your billing cycle may change to align all services
+- A prorated final bill will be generated for closed accounts
+- Any autopay settings must be reconfigured on the new merged account
+- Existing promotions and discounts will transfer to the new account
+
+## Service Impact
+- No service interruption during the merger process
+- Device payment plans will transfer with their current terms
+- Phone numbers remain unchanged
+- Service addresses may need verification in our system
+
+## Managing Your New Account
+After merger completion, you can manage all services through:
+- Our mobile app (iOS and Android)
+- Online account portal at www.ourcompany.com/myaccount
+- Customer service at 1-800-XXX-XXXX
+
+## Important Notes
+- Account mergers cannot be partially reversed
+- You'll receive a new account number for the merged account
+- Save your final bills from previous accounts for your records
+- Update any third-party payment services with your new account information
+
+For additional assistance with account mergers, please contact our dedicated Account Services team.

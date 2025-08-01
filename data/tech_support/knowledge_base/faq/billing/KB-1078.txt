@@ -1,0 +1,74 @@
+ID: KB-1078
+Type: FAQ
+Category: Billing
+Subcategory: Autopay setup
+Title: How do I set up autopay for my monthly bill?
+Tags: account,setup,faq,voice,autopay setup,roaming,billing,autopay
+Last Updated: 2025-05-09 23:59:47
+Generated: 2025-07-13T23:15:54.567019
+
+---
+
+# How do I set up autopay for my monthly bill?
+
+Setting up autopay is a convenient way to ensure your bill is paid on time each month, helping you avoid late fees and service interruptions. Here's everything you need to know about our autopay service:
+
+## How to Set Up Autopay
+
+You can set up autopay through multiple channels:
+
+**Mobile App (fastest method)**:
+1. Download our app from the App Store (iOS) or Google Play Store (Android)
+2. Log in to your account
+3. Tap "Billing" or "Payments"
+4. Select "Autopay Settings" or "Payment Methods"
+5. Choose your preferred payment method (credit/debit card or bank account)
+6. Verify your information and tap "Enable Autopay"
+
+**Online Account**:
+1. Visit our website and log in to your account
+2. Navigate to "Billing" or "Payment Options"
+3. Select "Set Up Autopay"
+4. Enter your payment information
+5. Choose your autopay date (if applicable)
+6. Confirm your selection
+
+**Customer Service**:
+Call our support team at 1-800-XXX-XXXX, and a representative will assist you with setting up autopay.
+
+## Important Details About Autopay
+
+- **Payment Timing**: Your payment will be automatically processed on your bill's due date, typically 15-20 days after your bill is generated.
+
+- **Payment Methods**: We accept major credit/debit cards (Visa, Mastercard, American Express, Discover) and direct bank account withdrawals.
+
+- **Confirmation**: You'll receive an email confirmation when autopay is set up and another notification before each payment is processed.
+
+- **Variable Billing**: If your bill amount varies (for example, if you have usage-based charges), autopay will withdraw the exact amount due each month. For instance, if your base plan is $70/month but you incur $15 in international calls, autopay will withdraw $85.
+
+- **Insufficient Funds**: If your payment method has insufficient funds, we'll attempt to process the payment again within 48 hours. A failed payment fee of $25 may apply after multiple unsuccessful attempts.
+
+## Managing Your Autopay
+
+You can make changes to your autopay settings at any time:
+- Update payment method
+- Temporarily pause autopay
+- Cancel autopay entirely
+
+All changes must be made at least 2 business days before your payment due date to take effect for the current billing cycle.
+
+## Common Questions About Autopay
+
+**Q: Will I still receive a monthly bill?**  
+Yes, you'll continue to receive your monthly bill via email or paper (based on your preferences) so you can review charges before payment is processed.
+
+**Q: Can I set a maximum autopay amount?**  
+Yes, you can set a maximum payment limit. If your bill exceeds this amount, you'll receive a notification and will need to approve the payment manually.
+
+**Q: What if I want to dispute a charge?**  
+If you notice an incorrect charge, contact customer service immediately. We can place a hold on specific charges while still processing autopay for the undisputed portion of your bill.
+
+**Q: Is there a discount for using autopay?**  
+Many of our plans offer a $5 monthly discount when you enroll in both autopay and paperless billing. This discount will appear as "Autopay & Paperless Discount" on your monthly statement.
+
+Need additional help? Contact our support team at 1-800-XXX-XXXX or chat with us through the mobile app.

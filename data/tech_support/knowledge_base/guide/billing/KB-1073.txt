@@ -1,0 +1,98 @@
+ID: KB-1073
+Type: Guide
+Category: Billing
+Subcategory: Refund policy
+Title: Understanding Your Telecom Refund Policy: A Step-by-Step Guide
+Tags: refund,text,refund policy,support,guide,policy,device,billing
+Last Updated: 2024-08-22 23:59:47
+Generated: 2025-07-13T23:15:54.244521
+
+---
+
+# Understanding Your Telecom Refund Policy: A Step-by-Step Guide
+
+## Introduction
+This guide explains how to request and track refunds on your telecom account. Our refund policy typically covers billing errors, service outages, returned equipment, and canceled services. Follow these steps to navigate the refund process through either your online account or mobile app.
+
+## Step 1: Review Your Bill for Refund Eligibility
+1. Log into your account (online or mobile app)
+2. Navigate to "Billing" or "My Bill" section
+3. Review your current and previous statements
+
+**Screenshot description:** The billing section showing recent statements with transaction history and balance information.
+
+**Expected outcome:** You'll identify specific charges you believe qualify for a refund.
+
+**Troubleshooting tip:** If you can't access billing history, try clearing your browser cache or updating your mobile app to the latest version.
+
+## Step 2: Check Refund Eligibility Requirements
+1. Go to "Support" or "Help" section
+2. Search for "Refund Policy" or "Billing Disputes"
+3. Review eligibility criteria for your specific situation
+
+**Screenshot description:** Support page showing refund policy information with eligibility requirements highlighted.
+
+**Expected outcome:** Understanding if your situation qualifies for a refund (service outage, billing error, etc.).
+
+**Troubleshooting tip:** If you can't find the refund policy, check the "Legal" or "Terms of Service" sections, or use the search function with terms like "credit policy" or "billing adjustments."
+
+## Step 3: Gather Supporting Documentation
+1. Collect relevant information (dates of service issues, confirmation numbers, etc.)
+2. Take screenshots or save emails related to your refund request
+3. Note any reference numbers from previous communications
+
+**Screenshot description:** Example of organized documentation showing service outage alerts or billing discrepancies.
+
+**Expected outcome:** A complete set of evidence supporting your refund request.
+
+**Troubleshooting tip:** For service outages, check the "Network Status" page in your account for official outage records.
+
+## Step 4: Submit Your Refund Request
+### Online Method:
+1. Go to "Contact Us" or "Support"
+2. Select "Billing Issue" or "Request Refund" option
+3. Complete the refund request form
+4. Upload any supporting documentation
+5. Submit your request
+
+### Mobile App Method:
+1. Tap the "Support" or "Help" icon
+2. Select "Billing" category
+3. Choose "Request Refund" option
+4. Complete required fields
+5. Attach supporting documentation using your device's file system
+6. Submit your request
+
+**Screenshot description:** Refund request form with fields for entering refund reason, amount, and documentation upload area.
+
+**Expected outcome:** Confirmation message with a reference number for your refund request.
+
+**Troubleshooting tip:** 
+- iOS users: If attachment upload fails, try reducing image size or using the "Files" app to manage documents
+- Android users: If the app crashes during submission, try using the "Share" function from your gallery to attach files
+
+## Step 5: Track Your Refund Request
+1. Go to "Support History" or "My Requests" section
+2. Locate your refund request using the reference number
+3. Check the status (Submitted, Under Review, Approved, or Denied)
+
+**Screenshot description:** Support ticket tracking page showing status of the refund request with timeline indicators.
+
+**Expected outcome:** Current status of your refund request with estimated processing time.
+
+**Troubleshooting tip:** If your request doesn't appear in the tracking system after 24 hours, contact customer support with your reference number.
+
+## Step 6: Receive and Verify Your Refund
+1. Once approved, check your preferred refund method (account credit or original payment method)
+2. For account credits: Check your next bill or account balance
+3. For payment method refunds: Check your credit card or bank statement
+
+**Screenshot description:** Account page showing refund credit applied or payment processing confirmation.
+
+**Expected outcome:** Confirmation that the refund has been processed and applied correctly.
+
+**Troubleshooting tip:** Refunds to original payment methods typically take 3-5 business days to appear. Account credits should appear immediately after approval.
+
+## Common Refund Issues and Solutions
+
+* **Refund Denied:** Review the specific reason provided. You may need to submit additional documentation or escal

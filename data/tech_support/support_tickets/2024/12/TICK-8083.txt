@@ -1,0 +1,59 @@
+Ticket ID: TICK-8083
+Customer ID: CUS-11348
+Subscription ID: SUB-10001986
+Category: Billing
+Priority: Critical
+Status: Closed
+Created: 2024-12-29 21:09:22.616000
+Agent ID: BIL-2463
+Resolved: 2024-12-30 21:09:22.616000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8083 (Created: 2024-12-30 05:09)
+
+I am absolutely FURIOUS about my latest bill! I've been a loyal customer for over 5 years on your "Ultimate Unlimited Plus" family plan, and suddenly my December bill is $247.89 higher than normal with no explanation. I checked my account on the MyTelecom app on my iPhone 15 Pro and saw multiple charges labeled "International Data Roaming - Canada" even though I haven't left Florida! 
+
+My Galaxy S24 Ultra (primary line) shows these roaming charges, but I was nowhere near the Canadian border. The app shows these charges occurred while I was at home in Tampa. When I tried using the "Dispute Charge" feature in the app, I kept getting error code BIL-4072 saying "Unable to process dispute at this time."
+
+This is completely unacceptable! I need these charges removed IMMEDIATELY as my autopay is scheduled for tomorrow morning and I cannot afford this incorrect bill. I've already spent 45 minutes on hold trying to speak with someone on the phone with no success.
+
+Please fix this TODAY or I'll be forced to file a complaint with the FCC and consider switching carriers after being a loyal customer for so many years.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8083 | Agent BIL-2463 | Resolved on 2024-12-31 05:09
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration you've experienced with the unexpected international roaming charges on your December bill and the difficulties you encountered when attempting to dispute these charges through our MyTelecom app.
+
+Actions Taken:
+1. I thoroughly reviewed your account history and confirmed you have indeed been a loyal customer with our Ultimate Unlimited Plus family plan for over 5 years.
+
+2. I accessed our Billing Management System (BMS) and examined the disputed charges on your Galaxy S24 Ultra primary line. I verified that the "International Data Roaming - Canada" charges totaling $247.89 were incorrectly applied to your account.
+
+3. Upon investigation with our Network Operations team, we identified that a cell tower near your Tampa location was misconfigured following a recent system update, causing it to register as a Canadian roaming partner network. This technical error affected several customers in your area.
+
+4. I have processed a full credit of $247.89 to your account under adjustment code BIL-ROAM-ERR, which has been applied immediately. This credit will appear on your next statement as "Billing Adjustment - Incorrect Roaming Charges."
+
+5. I have also placed a temporary hold on your scheduled autopay to ensure you have time to verify the corrected balance before payment processing. Per our Billing Dispute Resolution Policy (Section 4.3), your autopay will resume with the corrected amount in 48 hours unless you request otherwise.
+
+6. The error code BIL-4072 you encountered in our app has been reported to our Technical Support team. They've identified this as part of a known issue affecting our dispute system that has now been resolved.
+
+Additional Information:
+• I've added a 20% loyalty discount ($25 value) to your next bill as a goodwill gesture for the inconvenience caused, in accordance with our Customer Retention Protocol.
+• Our engineering team has confirmed the tower misconfiguration has been corrected, so this issue should not recur.
+• I've updated your account with a note about this incident to ensure any future concerns are addressed with proper context.
+
+I understand how concerning unexpected charges can be, especially with automated payments scheduled. Please verify your account balance through the MyTelecom app or online portal to confirm the adjustments. If you have any questions or notice any discrepancies, please contact us immediately.
+
+We truly value your loyalty over the past 5 years and are committed to providing you with reliable service and accurate billing. Thank you for your patience while we resolved this matter.
+
+Sincerely,
+Agent BIL-2463
+Billing Resolution Team

@@ -1,0 +1,105 @@
+ID: KB-1211
+Type: Guide
+Category: Technical
+Subcategory: Volte configuration
+Title: VoLTE Configuration Guide
+Tags: technical,volte,wireless,volte configuration,configuration,roaming,guide,customer
+Last Updated: 2024-09-28 23:59:47
+Generated: 2025-07-13T23:15:41.388920
+
+---
+
+# VoLTE Configuration Guide
+
+## What is VoLTE?
+Voice over LTE (VoLTE) allows you to make high-quality voice calls over your 4G LTE network instead of using the traditional cellular voice network. This provides clearer calls, faster connection times, and the ability to use data simultaneously while on a call.
+
+## Prerequisites
+Before configuring VoLTE:
+- Confirm your device supports VoLTE
+- Verify your service plan includes VoLTE capability
+- Ensure you have active 4G LTE coverage
+- Check that your device has the latest software update
+
+## General Configuration Steps
+
+### 1. Check if VoLTE is Available on Your Network
+**Action:** Open your phone's dialer and make a test call while observing the network indicator
+**Expected Result:** If the 4G/LTE icon remains visible during the call, VoLTE is already working
+**Troubleshooting:** If the icon changes to 3G/H+ during calls, VoLTE needs to be enabled
+
+### 2. Enable VoLTE in Device Settings
+
+#### For Android Devices:
+1. Open **Settings**
+2. Tap **Connections** or **Network & Internet**
+3. Select **Mobile Networks** or **Cellular Networks**
+4. Find and toggle on **VoLTE calls** or **Enhanced 4G LTE Mode**
+**Expected Result:** The toggle should turn blue/green when enabled
+
+#### For iPhone:
+1. Go to **Settings**
+2. Tap **Cellular** or **Mobile Data**
+3. Select **Cellular Data Options**
+4. Tap **Voice & Data**
+5. Enable **VoLTE**
+**Expected Result:** The toggle should turn green when enabled
+
+### 3. Restart Your Device
+**Action:** Power off your device completely, wait 10 seconds, then turn it back on
+**Expected Result:** This allows network settings to properly update
+
+### 4. Verify VoLTE Activation
+**Action:** Make a test call in an area with good 4G LTE coverage
+**Expected Result:** The 4G/LTE icon should remain visible during the call, and call quality should be clearer
+
+## Device-Specific Variations
+
+### Samsung Galaxy Devices
+1. Open **Settings**
+2. Tap **Connections**
+3. Select **Mobile Networks**
+4. Toggle on **VoLTE calls**
+5. If prompted, select **On** for VoLTE call mode
+
+### Google Pixel Devices
+1. Open **Settings**
+2. Tap **Network & Internet**
+3. Select **Mobile Network**
+4. Toggle on **Advanced Calling** or **Enhanced 4G LTE Mode**
+
+### Xiaomi/Redmi Devices
+1. Open **Settings**
+2. Go to **SIM cards & mobile networks**
+3. Select your SIM card
+4. Toggle on **VoLTE**
+
+## Troubleshooting Common Issues
+
+### VoLTE Option Missing
+1. Check if your device model supports VoLTE
+2. Ensure your SIM card is properly inserted
+3. Update your device to the latest software version
+4. Contact customer support to verify your account is VoLTE-provisioned
+
+### VoLTE Enabled But Not Working
+1. Reset network settings:
+   - **Android:** Settings > System > Reset options > Reset network settings
+   - **iPhone:** Settings > General > Reset > Reset Network Settings
+2. Remove and reinsert your SIM card
+3. Try a manual network selection
+4. Ensure you're in an area with strong 4G LTE coverage
+
+### Call Quality Issues
+1. Check your signal strength (should show at least 3-4 bars)
+2. Move to an area with better coverage
+3. Disable Wi-Fi Calling temporarily to test pure VoLTE performance
+4. If issues persist, contact technical support
+
+## Success Indicators
+- 4G/LTE icon remains visible during calls
+- Faster call connection times (typically 1-2 seconds)
+- Ability to use data while on a call
+- Clearer voice quality with less background noise
+
+For additional assistance, contact customer support through our mobile app or call our technical support line at the number listed on your account.

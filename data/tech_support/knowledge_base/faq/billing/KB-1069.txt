@@ -1,0 +1,59 @@
+ID: KB-1069
+Type: FAQ
+Category: Billing
+Subcategory: Payment methods
+Title: What payment methods can I use to pay my bill?
+Tags: payment,payment methods,methods,faq,support,billing,plan,customer
+Last Updated: 2024-08-15 23:59:47
+Generated: 2025-07-13T23:15:53.594170
+
+---
+
+# What payment methods can I use to pay my bill?
+
+We offer multiple convenient ways to pay your monthly bill to suit your preferences:
+
+## Online Payment Options
+- **Credit/Debit Cards**: We accept Visa, MasterCard, American Express, and Discover
+- **Bank Account**: Set up direct payments from your checking or savings account
+- **Digital Wallets**: Apple Pay, Google Pay, PayPal, and Venmo are available for quick payments
+
+## Automatic Payment Options
+- **AutoPay**: Enroll in AutoPay to have your bill amount automatically charged to your preferred payment method on your due date. You'll never miss a payment and can receive a $5 monthly discount on select plans.
+
+## In-Person Payment Options
+- **Retail Stores**: Pay at any of our store locations using cash, check, or card
+- **Payment Kiosks**: Self-service payment kiosks are available 24/7 at select locations
+- **Authorized Payment Centers**: Third-party retailers like Walmart, Western Union, or CheckFreePay (fees may apply)
+
+## Other Payment Methods
+- **By Phone**: Call our automated payment system at 1-800-XXX-XXXX (service fees may apply)
+- **By Mail**: Send a check or money order to the address printed on your bill
+
+## Payment Examples
+
+If your monthly plan is $75.99 and you have device payments of $25.00, your total bill would be $100.99 plus applicable taxes and fees. With AutoPay enrollment on eligible plans, this could reduce to $95.99 plus taxes and fees.
+
+## Managing Your Payments
+
+You can manage all payment methods through:
+- Our mobile app (available on iOS and Android)
+- Your online account at www.ourcompany.com/myaccount
+- Customer service at 1-800-XXX-XXXX
+
+## Frequently Asked Questions
+
+**When will my payment post to my account?**
+- Online and phone payments typically post within 24 hours
+- In-store payments post immediately
+- Mailed payments may take 5-7 business days to process
+
+**Is there a fee for making payments?**
+- No fees for online payments through our website or app
+- Some payment centers may charge a processing fee
+- Express payment by phone with agent assistance incurs a $10 convenience fee
+
+**What if I can't pay my full bill?**
+We offer payment arrangements that can be set up through your online account or by calling customer service.
+
+Need more help with your bill or payment options? Chat with us in the mobile app or call customer service at 1-800-XXX-XXXX.

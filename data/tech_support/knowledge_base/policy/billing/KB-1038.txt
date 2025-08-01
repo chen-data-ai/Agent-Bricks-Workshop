@@ -1,0 +1,88 @@
+ID: KB-1038
+Type: Policy
+Category: Billing
+Subcategory: Unexpected charges explanation
+Title: Understanding Unexpected Charges on Your Bill
+Tags: explanation,coverage,charges,voice,roaming,unexpected,policy,unexpected charges explanation,billing
+Last Updated: 2024-12-09 23:59:47
+Generated: 2025-07-13T23:15:51.180918
+
+---
+
+# Understanding Unexpected Charges on Your Bill
+
+## Introduction
+This document explains how [Company Name] handles unexpected or unfamiliar charges that may appear on your monthly bill. We are committed to billing transparency and providing you with clear information about all charges on your account.
+
+## Types of Unexpected Charges
+
+### One-Time Charges
+* **Activation Fees**: Applied when activating a new line or device ($20-45 depending on service type)
+* **Equipment Charges**: One-time costs for purchased devices, accessories, or equipment
+* **Installation or Setup Fees**: For professional installation or service setup ($50-150)
+* **Service Change Fees**: Charges for plan changes or service modifications ($15-25)
+
+### Third-Party Charges
+* **Premium Content**: Subscriptions, downloads, or premium SMS services
+* **App Store/Google Play Purchases**: Digital content purchased through your device
+* **Third-Party Subscriptions**: Services billed through your telecom account
+
+### Regulatory Fees and Taxes
+* **Government Mandated Fees**: Universal Service Fund, E911 fees
+* **Local/State/Federal Taxes**: Telecommunications taxes that vary by location
+* **Regulatory Recovery Fees**: Costs associated with regulatory compliance
+
+## Customer Rights and Protections
+
+### Bill Inquiry Period
+You have 60 days from the bill issue date to dispute any unexpected charges. After this period, charges are considered accepted.
+
+### Dispute Resolution Process
+1. You have the right to dispute any charge you believe is incorrect
+2. We will investigate all disputes within 10 business days
+3. Disputed charges will not incur late fees during investigation
+4. You will receive written notification of the resolution
+
+## Company Procedures for Unexpected Charges
+
+### Investigation Process
+1. Customer reports unexpected charge via phone, app, or online account
+2. Customer service creates a case number for tracking
+3. Investigation team reviews account activity and charge origin
+4. Resolution is provided within 10 business days
+
+### Refund Policy
+* Valid disputed charges will be refunded within 1-2 billing cycles
+* Refunds appear as bill credits or can be issued to original payment method
+* Historical refunds (beyond 90 days) require additional documentation
+
+## Prevention Measures
+
+### Account Monitoring
+* Set up spending alerts through our mobile app or online account portal
+* Review your bill monthly for unfamiliar charges
+* Monitor data usage through our mobile app (iOS and Android)
+
+### Third-Party Billing Protection
+* Enable Purchase Authorization in your account settings
+* Set up PIN protection for premium services
+* Request third-party billing block to prevent all third-party charges
+
+## Definitions
+
+**Bill Cycle**: The monthly period for which services are billed, typically 30 days.
+
+**Third-Party Billing**: Charges from companies other than [Company Name] that appear on your telecom bill.
+
+**Regulatory Fees**: Government-mandated fees that telecom providers must collect and remit.
+
+**Usage-Based Charges**: Fees based on actual usage beyond your plan's allowances (data, minutes, etc.).
+
+## Contact Information
+For questions about unexpected charges:
+* Call Customer Support: [phone number]
+* Use our mobile app's "Dispute Charge" feature
+* Log in to your online account at [website]
+* Visit any retail location
+
+We are committed to billing transparency and resolving any concerns promptly and fairly.

@@ -1,0 +1,91 @@
+ID: KB-1122
+Type: Guide
+Category: Technical
+Subcategory: Network outages
+Title: Understanding and Troubleshooting Network Outages: A Customer Guide
+Tags: technical,outages,coverage,network,guide,device,network outages,customer
+Last Updated: 2024-11-16 23:59:47
+Generated: 2025-07-13T23:15:57.702292
+
+---
+
+# Understanding and Troubleshooting Network Outages: A Customer Guide
+
+## Introduction
+Network outages can disrupt your mobile service, internet connectivity, or both. This guide will help you identify whether you're experiencing a network outage and provide steps to troubleshoot and resolve common issues while waiting for service restoration.
+
+## Prerequisites Before Troubleshooting
+- Ensure your device is charged (at least 20% battery)
+- Have access to an alternative communication method if possible
+- Know your account details for potential customer service contact
+
+## Identifying a Network Outage
+
+### Step 1: Check for service indicators
+**Action:** Look at your device's status bar for signal strength indicators.
+- **iOS devices:** Check the signal bars in the top-right corner
+- **Android devices:** Check the signal bars in the top-right corner
+**Expected result:** No bars or a "No Service" message may indicate an outage
+
+### Step 2: Verify with multiple devices
+**Action:** Check if other devices on the same network are experiencing similar issues.
+**Expected result:** If all devices show the same problem, it's more likely a network outage rather than a device issue
+
+### Step 3: Check the carrier's outage reporting tools
+**Action:** Use your carrier's mobile app or website to check for reported outages.
+- Open your carrier's app
+- Navigate to the "Network Status" or "Service Status" section
+- Alternatively, visit your carrier's website on another device with internet access
+**Expected result:** The app or website will display any known outages in your area
+
+## Troubleshooting Steps
+
+### Step 1: Toggle Airplane Mode
+**Action:** Turn Airplane Mode on for 30 seconds, then turn it off.
+- **iOS:** Swipe down from the top-right corner (or up from bottom on older models) → tap the airplane icon
+- **Android:** Swipe down from the top of the screen → tap the airplane icon
+**Expected result:** Your device will attempt to reconnect to the network
+**Success indicator:** Signal bars reappear and service is restored
+
+### Step 2: Restart your device
+**Action:** Perform a complete device restart.
+- **iOS:** Press and hold the side button and either volume button → slide to power off → wait 30 seconds → press and hold the side button to restart
+- **Android:** Press and hold the power button → tap "Restart" or "Power off" (then power back on)
+**Expected result:** Your device will perform a fresh connection to available networks
+**Success indicator:** Full connectivity returns after startup
+
+### Step 3: Check for carrier settings updates
+**Action:** Verify if carrier settings need updating.
+- **iOS:** Go to Settings → General → About (your device will automatically check)
+- **Android:** Go to Settings → System → Advanced → System update → Check for update
+**Expected result:** If updates are available, you'll be prompted to install them
+**Success indicator:** Updated carrier settings may resolve connectivity issues
+
+### Step 4: Reset network settings
+**Action:** Reset your network settings (note: this will remove saved Wi-Fi passwords).
+- **iOS:** Go to Settings → General → Reset → Reset Network Settings
+- **Android:** Go to Settings → System → Advanced → Reset options → Reset Wi-Fi, mobile & Bluetooth
+**Expected result:** All network connections will be reset to factory defaults
+**Success indicator:** Device successfully reconnects to the network after reset
+
+## Confirming an Actual Network Outage
+
+### Step 1: Check the carrier's status page
+**Action:** Visit your carrier's official website on another device with internet access.
+**Expected result:** Official information about any ongoing outages
+
+### Step 2: Use outage reporting websites
+**Action:** Visit third-party outage reporting sites like Downdetector.com or search social media for reports.
+**Expected result:** Multiple reports may confirm a widespread outage
+
+### Step 3: Contact customer support
+**Action:** Call your carrier's support number (often from another phone if yours has no service).
+**Expected result:** Confirmation of outage status and estimated restoration time
+
+## During an Outage: Alternative Communication Methods
+
+1. **Wi-Fi Calling:** If you have Wi-Fi access, enable Wi-Fi calling
+   - **iOS:** Settings → Phone → Wi-Fi Calling
+   - **Android:** Settings → Network & Internet → Calls → Wi-Fi calling
+
+2. **Messaging apps:** Use WhatsApp, Facebook Messenger, or other internet-based messaging services over Wi-Fi

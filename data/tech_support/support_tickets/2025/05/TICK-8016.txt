@@ -1,0 +1,62 @@
+Ticket ID: TICK-8016
+Customer ID: CUS-10583
+Subscription ID: SUB-10000862
+Category: Technical
+Priority: Medium
+Status: Closed
+Created: 2025-05-12 21:44:43.046000
+Agent ID: TEC-6744
+Resolved: 2025-05-13 21:44:43.046000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8016 (Created: 2025-05-13 04:44)
+
+I'm beyond frustrated with my internet connection right now. For the third time this week, my home WiFi keeps dropping every 15-20 minutes. I have the UltraFiber 1GB plan that I'm paying $89.99/month for, and this is unacceptable! I work from home and have important video meetings, but my Galaxy S24 Ultra keeps showing "WiFi connection lost" and my laptop disconnects completely. The router (your company's NetWave 6E model) shows all green lights, but the connection still fails.
+
+I've already tried rebooting the router multiple times, resetting it to factory settings, and even moved it to a more central location in my house. Nothing helps! The error message on my laptop says "DNS_PROBE_FINISHED_NO_INTERNET" when it happens. My neighbors with the same service don't have this issue.
+
+I need this fixed IMMEDIATELY. I have a critical presentation tomorrow morning and cannot risk losing connection. I've been a loyal customer for 6 years and expect better service. Please send a technician today if possible - I'm in the Riverdale neighborhood of Portland. This is urgent!
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8016 | Agent TEC-6744 | Resolved on 2025-05-14 04:44
+
+Dear Valued Customer,
+
+Thank you for bringing your connectivity issues to our attention. I sincerely apologize for the frustration you've experienced with your UltraFiber 1GB service, especially given your work-from-home requirements and upcoming presentation.
+
+## Diagnostic Actions Taken:
+- Performed remote diagnostic on your NetWave 6E router (SN: NW6E-2024-78934)
+- Analyzed signal strength and stability metrics from our Network Operations Center
+- Reviewed area outage reports for the Riverdale neighborhood in Portland
+- Conducted packet loss and latency tests to your premises
+
+## Issue Identified:
+Our diagnostics revealed intermittent signal interference on channel 36 (5GHz band) which your router was defaulting to. Additionally, we detected firmware version NW6E-2.4.7 was installed, which has a known bug affecting DNS resolution that matches your "DNS_PROBE_FINISHED_NO_INTERNET" error.
+
+## Resolution Steps Completed:
+1. Remotely updated your router firmware to version NW6E-3.1.2 which addresses the DNS resolution issue
+2. Configured your router to use channels 44-48 on the 5GHz band to avoid detected interference
+3. Adjusted QoS settings to prioritize video conferencing traffic
+4. Performed stability testing for 45 minutes post-changes with 0% packet loss
+
+## Additional Actions:
+- Applied a service credit of $15.00 to your account per our Service Guarantee Policy (SGP-2025-04) for the connectivity disruption
+- Scheduled a complimentary signal strength assessment with one of our field technicians for 2025-05-17 (appointment #FSA-89045) to ensure optimal placement of your equipment
+- Added a 30-day service monitor flag to your account for proactive monitoring
+
+## Recommendations:
+1. Download our TeleCare mobile app (available for both Android and iOS) to monitor your connection status and receive real-time alerts
+2. Consider our WiFi Mesh Extender system if you need coverage in areas further from your main router
+3. For immediate assistance during your presentation tomorrow, please use our Priority Support line at 888-555-7890
+
+I've verified your connection is now stable, but please don't hesitate to contact us if you experience any further issues. As a loyal customer of 6 years, your satisfaction is extremely important to us.
+
+Sincerely,
+Agent TEC-6744
+Technical Support Team

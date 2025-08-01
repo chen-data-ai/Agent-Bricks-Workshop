@@ -1,0 +1,74 @@
+Ticket ID: TICK-8028
+Customer ID: CUS-10329
+Subscription ID: SUB-10000498
+Category: Technical
+Priority: High
+Status: Resolved
+Created: 2025-01-07 20:48:35.113000
+Agent ID: TEC-4366
+Resolved: 2025-01-09 20:48:35.113000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8028 (Created: 2025-01-08 04:48)
+
+I'm beyond frustrated with my internet connection right now. For the third time this week, my home WiFi keeps dropping every 15-20 minutes, and I have to restart my TG3482 modem each time to get it working again. I'm on the GigaSpeed Pro plan that I'm paying $89.99/month for, but I'm only getting around 45Mbps when I run speed tests on my iPhone 15 Pro and my work laptop.
+
+The error message on my modem shows "T3 Timeout - Cable Modem Not Synchronized" before it disconnects. I've already tried power cycling multiple times, checked all cable connections, and even tried connecting directly via ethernet cable with the same results. This is completely unacceptable as I work from home and have important video conferences scheduled today. My neighbors on the same street don't seem to be having any issues.
+
+I'm in the Oakridge neighborhood of Portland, and I need someone to either fix this remotely or send a technician TODAY. I've been a loyal customer for 6 years, but I'm seriously considering switching to Fiber One if this can't be resolved immediately. Please help!
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8028 | Agent TEC-4366 | Resolved on 2025-01-10 04:48
+
+Dear Valued Customer,
+
+Thank you for your patience while we addressed the connectivity issues you've been experiencing with your TG3482 modem and GigaSpeed Pro service. I sincerely apologize for the frustration and inconvenience this has caused, especially given your work-from-home requirements and the importance of having a reliable connection for your video conferences.
+
+## Issue Diagnosis & Resolution Steps Taken:
+
+1. **Remote Diagnostics (2025-01-08):**
+   - Accessed your account in our NetOps system and ran comprehensive signal diagnostics
+   - Identified significant upstream signal fluctuations and T3 timeouts in your area
+   - Confirmed a localized node issue affecting several households in the Oakridge neighborhood
+
+2. **Network Maintenance (2025-01-09):**
+   - Dispatched a field technician team to your neighborhood node
+   - Discovered damaged splitter equipment and signal interference on the main line
+   - Replaced damaged hardware and recalibrated signal levels for your service area
+
+3. **Account-Specific Actions (2025-01-10):**
+   - Remotely updated your modem's firmware to version 02.02.049.03 (latest stable release)
+   - Performed remote reset and reconfiguration of your TG3482 modem
+   - Verified stable connection with consistent signal levels within optimal range
+   - Conducted speed tests showing 945Mbps download/38Mbps upload (within GigaSpeed Pro specifications)
+
+## Compensation:
+
+As per our Service Guarantee Policy (SGP-2024-01), I've applied a service credit of $17.99 to your account, representing 6 days of service disruption. This credit will appear on your next billing statement.
+
+## Recommendations:
+
+1. Your modem is now stable, but I recommend performing a factory reset if you experience any future issues:
+   - Press and hold the reset button on the back of your TG3482 for 30 seconds
+   - Allow 3-5 minutes for complete reboot and reconfiguration
+
+2. For optimal WiFi performance:
+   - Position your modem centrally in your home, away from other electronic devices
+   - Consider using the 5GHz band for video conferencing and high-bandwidth activities
+   - Download our MyConnection mobile app (available on iOS and Android) to monitor your network health
+
+## Follow-up:
+
+I've scheduled an automated check of your connection stability for the next 72 hours. Should any anomalies be detected, our system will automatically create a priority follow-up ticket.
+
+Please don't hesitate to contact us if you experience any further issues. We value your 6 years of loyalty and are committed to providing you with the reliable service you deserve.
+
+Sincerely,
+Agent TEC-4366
+Technical Support Team

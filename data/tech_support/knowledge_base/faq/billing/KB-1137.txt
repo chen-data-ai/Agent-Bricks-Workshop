@@ -1,0 +1,63 @@
+ID: KB-1137
+Type: FAQ
+Category: Billing
+Subcategory: Family plan billing
+Title: How Does Family Plan Billing Work?
+Tags: troubleshooting,account,faq,family plan billing,family,data,billing,plan
+Last Updated: 2024-11-10 23:59:47
+Generated: 2025-07-13T23:15:45.056556
+
+---
+
+# How Does Family Plan Billing Work?
+
+Family plans allow multiple lines to share a single account with potential savings compared to individual plans. Here's a comprehensive breakdown of how family plan billing works:
+
+## Basic Structure
+
+Your monthly bill consists of:
+- Base plan charge (covers the primary line and shared features)
+- Per-line access fees (for each additional line)
+- Any add-ons or premium features
+- Taxes and regulatory fees
+
+## Example Calculation
+
+For our Popular Family Share plan with 4 lines:
+- Base plan: $70/month (includes 1st line and 30GB shared data)
+- Additional lines: $20 each × 3 lines = $60
+- Total before taxes/fees: $130/month
+
+This averages to $32.50 per line compared to $60 for a single-line plan with similar features.
+
+## Common Billing Questions
+
+**How is data usage billed?**
+Data is shared from a common pool. If your family has a 30GB plan, all lines draw from this total. You can monitor individual usage in our mobile app under "Account" → "Data Usage."
+
+**What happens if we exceed our data limit?**
+Depending on your plan, you'll either:
+- Experience reduced speeds (throttling) until the next billing cycle
+- Automatically receive data add-ons ($15 per 2GB on most plans)
+- Have unlimited data with premium speeds up to a threshold, then reduced speeds
+
+**Can I set usage limits for individual lines?**
+Yes! Through our mobile app (iOS and Android), you can:
+- Set data usage alerts
+- Implement spending caps
+- Restrict premium content purchases
+- Limit international calling/texting
+
+**How are one-time purchases billed?**
+Any premium content, international calls, or other one-time charges appear as separate line items on your bill, clearly labeled with the responsible line number.
+
+## Managing Your Family Plan
+
+You can make changes to your family plan anytime through:
+- Your online account at myaccount.ourcompany.com
+- Our mobile app
+- Customer service (800-555-1234)
+
+Changes typically take effect immediately, with prorated charges or credits appearing on your next bill.
+
+Need more help understanding your specific bill? Contact us or use the bill explainer tool in our mobile app for a personalized breakdown.

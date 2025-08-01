@@ -1,0 +1,69 @@
+Ticket ID: TICK-8065
+Customer ID: CUS-10691
+Subscription ID: SUB-10001029
+Category: Account
+Priority: Medium
+Status: Resolved
+Created: 2024-09-28 22:02:38.946000
+Agent ID: ACC-4029
+Resolved: 2024-10-01 22:02:38.946000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8065 (Created: 2024-09-29 05:02)
+
+I am beyond frustrated with the unexpected charges on my latest bill. I've been a loyal customer for over 5 years on your "Unlimited Plus" family plan, and suddenly there's an additional $45.99 charge labeled as "International Data Roaming." I have NOT left the country! I was in Denver visiting my sister last weekend, but that's still in the US!
+
+My iPhone 15 Pro has been acting strange lately - sometimes showing "Roaming" in the status bar even when I'm at home in Phoenix. I've restarted my Samsung Galaxy S24 Edge multiple times and even toggled airplane mode on/off as suggested in your app's troubleshooting section, but the issue persists.
+
+This is completely unacceptable. I need these charges removed immediately and an explanation for why my Samsung Galaxy S24 Edge thinks I'm international when I'm clearly not. I've already spent 45 minutes on hold trying to resolve this through your automated system with no success.
+
+Please fix this ASAP as my payment is due in 3 days and I refuse to pay for services I didn't use. If this isn't resolved quickly, I'll be forced to consider switching carriers after all these years.
+
+- Michael Thornton
+Account #: 8876542310
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8065 | Agent ACC-4029 | Resolved on 2024-10-02 05:02
+
+Dear Mr. Thornton,
+
+Thank you for bringing this matter to our attention. I sincerely apologize for the frustration caused by the unexpected international roaming charges on your account and the issues with your device incorrectly displaying roaming status.
+
+## Investigation and Actions Taken:
+
+1. Accessed your account #8876542310 in our billing system and confirmed the $45.99 charge labeled as "International Data Roaming" on your current bill
+2. Reviewed your device location history which confirmed you have remained within the continental United States during the billing period in question
+3. Identified a network configuration issue affecting certain towers in the Denver and Phoenix areas that incorrectly registered some devices as international roaming
+4. Consulted with our Network Operations team (case reference: NET-2024-09875) who confirmed this is a known issue affecting some iPhone 15 Pro users
+
+## Resolution:
+
+1. Applied a full credit of $45.99 to your account to remove the incorrect international roaming charges
+2. Added a billing protection note to prevent similar charges from appearing on future bills
+3. Pushed a network settings update to your device which should resolve the incorrect roaming status display
+4. Confirmed your "Unlimited Plus" family plan benefits remain unchanged and in good standing
+
+## Additional Information:
+
+This issue stemmed from a recent network update that affected signal tower identification for certain device models. I notice there appears to be confusion in your ticket as you mentioned both an iPhone 15 Pro and a Samsung Galaxy S24 Edge. According to our records, your primary device is an iPhone 15 Pro. The network settings update I've pushed should resolve the issue regardless of device type.
+
+To ensure the fix has been successful, please:
+1. Power cycle your device (turn completely off, then back on)
+2. Go to Settings > General > About to ensure carrier settings are updated
+3. Monitor your status bar over the next 24-48 hours to confirm "Roaming" no longer appears inappropriately
+
+## Follow-up:
+
+I've scheduled a courtesy follow-up for 2024-10-09 to ensure this issue has been fully resolved and no further incorrect charges have appeared. You'll receive a text message confirmation when the credit has been applied to your account, which should appear within the next 24 hours.
+
+We truly value your 5+ years of loyalty, Mr. Thornton, and I apologize again for this inconvenience. If you experience any further issues or have additional questions, please don't hesitate to contact us directly at our priority customer service line: 1-800-555-2399.
+
+Sincerely,
+Agent ACC-4029
+Customer Resolution Team

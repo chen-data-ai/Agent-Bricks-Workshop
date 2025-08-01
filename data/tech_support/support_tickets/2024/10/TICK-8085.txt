@@ -1,0 +1,63 @@
+Ticket ID: TICK-8085
+Customer ID: CUS-10913
+Subscription ID: SUB-10001346
+Category: Billing
+Priority: High
+Status: Closed
+Created: 2024-10-29 22:10:14.858000
+Agent ID: BIL-3346
+Resolved: 2024-11-01 22:10:14.858000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8085 (Created: 2024-10-30 05:10)
+
+I am absolutely FURIOUS about my latest bill! I just opened my October statement and discovered I've been charged $249.99 for "International Data Roaming" when I haven't even left the country! I was in Denver for a business trip last week, but that's still in the United States! I have the Unlimited Elite Family Plan that's supposed to include North American coverage anyway.
+
+I checked my iPhone 15 Pro settings and data roaming is turned OFF. I even called your customer service line before my trip to confirm I wouldn't incur extra charges. The representative assured me my Basic Individual plan covered everything I needed.
+
+To make matters worse, there's also a $14.99 charge for "Premium Content Subscription" that I never signed up for. I've been a loyal customer for 8 years and this is unacceptable. My account shows I'm already paying $224.99 for my family plan with 4 lines, so with these incorrect charges, my bill is nearly $500!
+
+I need these charges removed IMMEDIATELY. I've already had to put off paying my electric bill because of this unexpected expense. Please resolve this within 24 hours or I'll be forced to file a complaint with the FCC and consider switching carriers.
+
+- Michael Donovan
+Account #: 8872553901
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8085 | Agent BIL-3346 | Resolved on 2024-11-02 05:10
+
+Dear Mr. Donovan,
+
+Thank you for bringing these billing concerns to our attention. I sincerely apologize for the frustration and financial strain these unexpected charges have caused you. I've thoroughly investigated your account and have taken the following actions to resolve these issues:
+
+## International Data Roaming Charge ($249.99)
+After reviewing your account activity and location data in our CRM system, I can confirm you were indeed in Denver, Colorado during the specified period. I've identified that your device connected to a tower near the Denver International Airport that was incorrectly coded in our system as an international roaming point. This is a technical error on our end.
+
+I've removed the $249.99 International Data Roaming charge from your October statement. Per our Billing Error Correction Policy (Section 4.2), I've also applied a $25 service credit to your account as compensation for this inconvenience.
+
+## Premium Content Subscription ($14.99)
+I've investigated the $14.99 Premium Content Subscription charge and found this was erroneously activated during a system update on October 15th. Our records show no consent or activation request from your account. This charge has been removed in full, and I've flagged your account to prevent any similar subscriptions from being automatically added in the future.
+
+## Plan Discrepancy
+I noticed a discrepancy between the plan you mentioned being on (Basic Individual) and what our system shows (Unlimited Elite Family Plan with 4 lines). After checking your account history, I can confirm you are correctly enrolled in the Unlimited Elite Family Plan at $224.99/month, which does include North American coverage as you mentioned.
+
+## Total Adjustments
+- Removed: $249.99 International Data Roaming charge
+- Removed: $14.99 Premium Content Subscription charge
+- Added: $25.00 service credit for the inconvenience
+- Total credit applied to your account: $289.98
+
+Your revised October statement balance is now $224.99. These adjustments have been processed immediately, and you should see the updated balance reflected in your online account within 24 hours. You can verify these changes through our mobile app or online portal.
+
+I've also added a 3-month billing guarantee to your account (Reference: BG-2024-8872553901), which will trigger an automatic review if any unusual charges appear on your next three statements.
+
+Mr. Donovan, we truly value your 8 years of loyalty, and I apologize again for this negative experience. If you have any further questions or concerns about your bill or service, please don't hesitate to contact us directly. I've added a note to your account about this incident to ensure any future representatives are aware of what occurred.
+
+Sincerely,
+Agent BIL-3346
+Billing Resolution Team

@@ -1,0 +1,106 @@
+ID: KB-1239
+Type: FAQ
+Category: Technical
+Subcategory: Device setup
+Title: How Do I Set Up My New Mobile Device?
+Tags: payment,technical,setup,faq,device setup,mobile,voice,device
+Last Updated: 2024-07-07 23:59:47
+Generated: 2025-07-13T23:15:43.378376
+
+---
+
+# How Do I Set Up My New Mobile Device?
+
+Setting up your new mobile device should be straightforward, but sometimes you may encounter challenges. Follow these step-by-step instructions to get your device activated and connected to our network.
+
+## Initial Setup
+
+1. **Charge your device** to at least 50% before beginning setup
+2. **Insert your SIM card**:
+   - Power off your device
+   - Locate the SIM tray (typically on the side of your device)
+   - Use the SIM ejector tool (included in the box) to open the tray
+   - Place your SIM card in the tray with the gold contacts facing down
+   - Reinsert the tray completely
+
+3. **Power on your device** by pressing and holding the power button
+
+## Activation Process
+
+### For Android Devices
+1. Connect to Wi-Fi when prompted
+2. Follow the on-screen instructions to:
+   - Select language and region
+   - Accept terms and conditions
+   - Sign in with or create a Google account
+3. When prompted about transferring data, you can choose:
+   - "Set up as new" for a fresh start
+   - "Restore from backup" if you have a Google backup
+   - "Copy apps and data" if transferring from another Android device
+
+### For iOS Devices
+1. Turn on your iPhone and follow the Hello screen prompts
+2. Connect to Wi-Fi
+3. Set up Face ID/Touch ID when prompted
+4. Choose to:
+   - "Set up as new iPhone"
+   - "Restore from iCloud Backup"
+   - "Restore from Mac or PC"
+   - "Move data from Android"
+
+## Network Connection Troubleshooting
+
+If your device shows "No Service" or "Searching for Network":
+
+1. **Verify SIM activation**:
+   - Open our mobile app or visit [account.ourcompany.com](http://account.ourcompany.com)
+   - Navigate to "Devices" and confirm your SIM shows "Active" status
+
+2. **Reset network settings**:
+   - **Android**: Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+   - **iOS**: Go to Settings > General > Reset > Reset Network Settings
+
+3. **Update carrier settings**:
+   - **Android**: Go to Settings > Network & Internet > Mobile network > Advanced > Carrier settings
+   - **iOS**: If a "Carrier Settings Update" appears, tap Update
+
+4. **Manual network selection**:
+   - **Android**: Settings > Network & Internet > Mobile network > Automatically select network (toggle off) > Select network manually
+   - **iOS**: Settings > Cellular > Network Selection > Turn off Automatic and select our network
+
+## Common Error Messages
+
+| Error Message | Possible Solution |
+|---------------|-------------------|
+| "SIM not provisioned" | SIM may not be activated. Verify activation status in your account. |
+| "Invalid SIM" | Ensure SIM is properly inserted and not damaged. |
+| "Registration failed" | Try restarting your device or reset network settings. |
+| "No service in this area" | Check our coverage map in the mobile app to verify service availability. |
+
+## Mobile App Setup
+
+Download our mobile app for additional setup assistance:
+- **Android**: Search for "[Company] Mobile" on Google Play Store
+- **iOS**: Search for "[Company] Mobile" on App Store
+
+The app provides:
+- Visual SIM installation guides
+- Network connectivity tests
+- Automated troubleshooting tools
+- Live chat with technical support
+
+## When to Contact Support
+
+Contact our technical support team if:
+- Your device shows "No Service" after trying all troubleshooting steps
+- You receive persistent error messages during activation
+- Your device recognizes the SIM but cannot connect to data services
+- You're unable to make or receive calls after activation
+
+Contact methods:
+- In-app support chat
+- Call 1-800-XXX-XXXX
+- Text "HELP" to XXXXX
+- Visit your nearest retail store
+
+Our technical support team is available 24/7 to assist with your device setup needs.

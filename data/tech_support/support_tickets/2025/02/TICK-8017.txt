@@ -1,0 +1,64 @@
+Ticket ID: TICK-8017
+Customer ID: CUS-11487
+Subscription ID: SUB-10002200
+Category: Account
+Priority: Medium
+Status: Closed
+Created: 2025-02-12 20:45:06.701000
+Agent ID: ACC-5740
+Resolved: 2025-02-14 20:45:06.701000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8017 (Created: 2025-02-13 04:45)
+
+I am extremely frustrated with the unexpected charges on my latest bill. I've been a loyal customer for over 5 years on your "Ultimate Family Share" plan, and this month my bill is suddenly $78.43 higher than normal. I checked my account through the MyTelecom app on my iPhone 15 Pro and see something called "International Data Roaming" charges, but I HAVE NOT LEFT THE COUNTRY! 
+
+My entire family was in Phoenix the whole time, and we never even went near the Mexican border. My husband's Galaxy S24 Ultra shows the same charges. When I tried to dispute this through the chat function, I kept getting Error Code BIL-4023 and the chat disconnected. This is completely unacceptable!
+
+I need these charges removed immediately as my autopay is scheduled to process tomorrow morning, and I refuse to pay for services we didn't use. I've already spent 45 minutes trying to resolve this through your automated system with no success. Please have someone call me back ASAP to fix this billing error before my payment processes.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8017 | Agent ACC-5740 | Resolved on 2025-02-15 04:45
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration you've experienced with the unexpected international roaming charges and the difficulties you encountered when attempting to resolve this through our chat service.
+
+## Investigation and Actions Taken:
+
+1. I thoroughly reviewed your "Ultimate Family Share" plan details and billing history in our CRM system (BillingPlus v4.2).
+
+2. Upon examination of your account activity between your last billing cycle dates, I confirmed that both your iPhone 15 Pro and your husband's Galaxy S24 Ultra devices were indeed located within Phoenix, AZ during the entire period in question.
+
+3. I identified the source of the error: Your devices connected to a cell tower near Phoenix Sky Harbor International Airport that was experiencing a network identification issue, incorrectly registering connections as international roaming.
+
+4. This is a known issue documented in our Technical Bulletin TB-2025-017 affecting certain towers in the Phoenix metropolitan area during system upgrades.
+
+## Resolution:
+
+1. I have removed all international data roaming charges totaling $78.43 from your current bill.
+
+2. Applied a one-time courtesy credit of $15.00 to your account (Credit ID: CR-78921) as compensation for the inconvenience, in accordance with our Customer Satisfaction Policy.
+
+3. Updated your account with a note to prevent similar mischarges in the next billing cycle while our network team addresses the tower identification issue.
+
+4. Paused your scheduled autopay for 24 hours to ensure the updated, correct amount will be processed.
+
+5. Submitted an Error Report (ERR-4023) regarding the chat disconnection issue you experienced to our Technical Support team for investigation.
+
+Your revised bill has been generated and is now available to view in your MyTelecom app. The new total reflects the removal of the incorrect charges and the courtesy credit.
+
+We value your 5+ years of loyalty and understand how concerning unexpected charges can be. Please rest assured that we've taken steps to prevent this from happening again. If you notice any further discrepancies on future bills, please contact us immediately.
+
+Is there anything else I can assist you with regarding your account?
+
+Best regards,
+
+Agent ACC-5740
+Customer Account Resolution Team

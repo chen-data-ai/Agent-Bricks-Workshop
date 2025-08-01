@@ -1,0 +1,91 @@
+ID: KB-1087
+Type: Procedure
+Category: Billing
+Subcategory: Billing cycle changes
+Title: Procedure: Managing Customer Billing Cycle Change Requests
+Tags: payment,billing cycle changes,procedure,support,billing,changes,cycle
+Last Updated: 2024-10-14 23:59:47
+Generated: 2025-07-13T23:15:55.225537
+
+---
+
+# Procedure: Managing Customer Billing Cycle Change Requests
+
+## Purpose
+This procedure outlines the step-by-step process for customer service representatives to handle billing cycle change requests from customers while maintaining compliance with company policies and ensuring customer satisfaction.
+
+## Procedure
+
+### 1. Initial Request Handling
+1. Acknowledge the customer's request to change their billing cycle date
+2. Verify the customer's identity using at least two authentication methods:
+   - Account PIN/password
+   - Last 4 digits of SSN or Tax ID
+   - Recent transaction details
+   - Answers to security questions
+
+### 2. Account Assessment
+1. Review the customer's account status in the Billing Management System (BMS)
+2. Confirm the account is in good standing (no outstanding balance over 30 days)
+3. Verify the customer has not changed their billing cycle in the past 6 months
+4. Check if the account is under contract with specific billing terms that may restrict changes
+
+### 3. Explaining Options & Implications
+1. Inform the customer of available billing cycle dates (1st, 5th, 10th, 15th, 20th, or 25th of each month)
+2. Explain potential implications of changing the billing cycle:
+   - Prorated charges on the next bill
+   - Possible one-time shorter/longer billing period during transition
+   - Changes to autopay scheduling if enabled
+   - Updated due dates for future payments
+
+### 4. Processing the Change
+1. Access the "Billing Configuration" module in the BMS
+2. Select "Modify Billing Cycle" from the dropdown menu
+3. Enter the customer's account number
+4. Select the requested new billing date
+5. Review the system-calculated proration details with the customer
+6. Confirm the customer accepts any prorated charges or adjustments
+7. Submit the change request in the system
+
+### 5. Authorization & Approval
+1. For changes within standard parameters:
+   - Process immediately if within your authorization level ($50 proration threshold)
+2. For changes requiring approval:
+   - Submit request through the Approval Queue System if proration exceeds $50
+   - Inform customer of approval timeline (24-48 hours)
+
+### 6. Documentation Requirements
+1. Document the interaction in the Customer Relationship Management (CRM) system:
+   - Original billing cycle date
+   - New billing cycle date
+   - Reason for change request
+   - Confirmation of customer's understanding of implications
+   - Any special circumstances or exceptions applied
+
+### 7. Customer Confirmation
+1. Provide the customer with a confirmation number for the change request
+2. Explain when the new billing cycle will take effect (typically next billing period)
+3. Inform the customer they will receive an email/SMS confirmation
+4. Direct the customer to verify the change in their online account or mobile app (available for both iOS and Android)
+
+### 8. Follow-up Actions
+1. Set a task reminder to verify the billing cycle change was successfully implemented
+2. For high-value accounts (>$100/month), schedule a courtesy follow-up call after the first new bill
+
+### 9. Escalation Path
+1. If the system shows restrictions on billing cycle changes:
+   - Escalate to Billing Team Lead for review
+2. If the customer is dissatisfied with available options:
+   - Escalate to Customer Retention Specialist
+3. For system technical issues:
+   - Create an IT support ticket and provide the customer with an estimated resolution timeframe
+
+### 10. Quality Assurance
+1. Complete the Billing Change Request Checklist in the CRM
+2. Flag any unusual circumstances for supervisor review
+3. Submit case for random quality assurance review if applicable
+
+## Related Resources
+- Billing Cycle Change Policy (Document #BIL-2023-42)
+- Proration Calculator Tool
+- Customer Communication Templates for Billing Changes

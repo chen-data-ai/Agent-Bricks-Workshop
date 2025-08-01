@@ -1,0 +1,75 @@
+ID: KB-1172
+Type: FAQ
+Category: Account
+Subcategory: Adding a line
+Title: How do I add a new line to my existing account?
+Tags: payment,account,faq,adding,phone,line,plan,adding a line
+Last Updated: 2024-12-01 23:59:47
+Generated: 2025-07-13T23:15:47.535060
+
+---
+
+# How do I add a new line to my existing account?
+
+## Overview
+Adding a new line to your existing account allows you to include additional phones or devices under your current plan. This process can be completed through multiple channels and typically takes effect within 24 hours.
+
+## How to Add a New Line
+
+You can add a new line to your account through any of these methods:
+
+1. **Mobile App**: 
+   - Log in to our mobile app (available on iOS App Store and Google Play)
+   - Navigate to "Account" → "Plan Management" → "Add a Line"
+   - Follow the on-screen instructions to select a device and plan
+
+2. **Online Account Portal**:
+   - Visit our website and sign in to your account
+   - Select "Manage Plan" and then "Add a Line"
+   - Complete the guided process
+
+3. **Customer Support**:
+   - Call our support team at 1-800-XXX-XXXX
+   - Visit any retail location with valid ID
+
+## Verification Requirements
+
+For security purposes, you'll need to provide:
+
+- Account owner's photo ID (if in-store)
+- Account PIN/password
+- Last 4 digits of account owner's SSN
+- Billing address verification
+
+If you're not the account owner, you must be an authorized user on the account with proper documentation.
+
+## Timeframes
+
+- **Activation**: New lines are typically activated within 1-2 hours after completion
+- **Online visibility**: The new line will appear in your account within 24 hours
+- **eSIM activation**: Immediate to 30 minutes
+- **Physical SIM delivery**: 2-3 business days via standard shipping
+
+## Billing Impact
+
+- Your bill will be prorated for the new line from the activation date
+- The first bill after adding a line will show:
+  - Any one-time activation fees ($30 per line)
+  - Prorated monthly charges for the new line
+  - Any device payments if purchasing a new phone
+- Your billing cycle date will remain unchanged
+
+## Service Considerations
+
+- Adding a line may affect your current plan pricing or eligibility
+- Family/shared data plans may require adjustments to accommodate additional usage
+- If you're near your billing cycle end, consider timing the addition to avoid partial month charges
+- Promotional rates may apply when adding lines during special offers
+
+## Additional Information
+
+- New lines are eligible for BYOD (Bring Your Own Device) or new device purchases
+- Number porting from another carrier typically takes 2-24 hours to complete
+- Device protection plans can be added within 30 days of adding a new line
+
+For assistance with specific account situations, please contact customer support.

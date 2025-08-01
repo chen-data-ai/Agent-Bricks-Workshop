@@ -1,0 +1,57 @@
+ID: KB-1094
+Type: FAQ
+Category: Account
+Subcategory: Port-out requirements
+Title: What are the requirements for porting my number to another carrier?
+Tags: account,faq,requirements,port-out requirements,data,port-out,billing
+Last Updated: 2024-07-04 23:59:47
+Generated: 2025-07-13T23:15:55.734676
+
+---
+
+# What are the requirements for porting my number to another carrier?
+
+## Port-Out Requirements and Process
+
+When you request to transfer your phone number from our network to another service provider (known as a "port-out"), certain requirements must be met to ensure a smooth transition and protect your account security.
+
+### Verification Requirements
+
+To initiate a port-out, you'll need to provide the following to your new carrier:
+- Account number (found on your monthly bill or in your online account)
+- Account PIN/password
+- The phone number(s) you wish to port
+- Name of the primary account holder
+- Billing address associated with your account
+
+**Important:** For security purposes, we verify that the information provided to the new carrier exactly matches what's in our records. Even minor discrepancies can cause port-out delays.
+
+### Authorization Process
+
+1. **Request verification:** We'll send a one-time verification code to your device or email address on file
+2. **Identity confirmation:** You may be asked to provide a government-issued ID if the port request is made in-store
+3. **Account standing verification:** Your account must be in good standing with no past-due balance
+
+### Timeframes
+
+- **Simple ports** (single line, residential accounts): Typically completed within 24-48 hours
+- **Complex ports** (business accounts, multiple lines): May take 3-5 business days
+- **Emergency ports:** Contact Customer Support directly at 1-800-XXX-XXXX for expedited processing
+
+You can track your port status through our mobile app (iOS and Android) or your online account portal.
+
+### Billing and Service Impacts
+
+- Your service with us remains active until the port is complete
+- Final bill will be prorated to the completion date of the port
+- Any contract termination fees will apply if you're still within your agreement period
+- Equipment installment plans must be paid in full upon port completion
+- Autopay settings will need to be canceled manually through your online account
+
+### Additional Considerations
+
+- Port requests submitted after 7 PM or on weekends/holidays will begin processing the next business day
+- If you have bundled services (internet, TV), porting your phone number will not affect these services
+- To protect against unauthorized ports, consider adding Port Freeze protection through your online account or our mobile app
+
+For assistance with port-out requests, contact our Port Center at 1-800-XXX-XXXX or use the "Transfer My Number" section in our mobile app.

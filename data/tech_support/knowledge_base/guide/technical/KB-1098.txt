@@ -1,0 +1,118 @@
+ID: KB-1098
+Type: Guide
+Category: Technical
+Subcategory: International roaming setup
+Title: International Roaming Setup Guide
+Tags: international,subscription,account,technical,international roaming setup,setup,wireless,roaming,guide
+Last Updated: 2025-05-10 23:59:47
+Generated: 2025-07-13T23:15:55.963681
+
+---
+
+# International Roaming Setup Guide
+
+## Introduction
+International roaming allows you to use your mobile service while traveling abroad. This guide will help you properly set up roaming on your device to avoid unexpected charges and ensure continuous connectivity during your travels.
+
+## Prerequisites
+Before setting up international roaming:
+- Verify your account is in good standing with no past-due balances
+- Confirm your device is compatible with international networks
+- Check if your current plan includes international roaming or if add-ons are required
+- Have your account credentials ready to access your online account or mobile app
+
+## Step-by-Step Setup Process
+
+### Step 1: Contact Your Service Provider
+**Action:** Notify your carrier about your travel plans.
+- **Online:** Log into your account through the carrier's website or mobile app
+- **Phone:** Call the customer service number on your bill or the back of your SIM card
+- **In-store:** Visit a retail location
+
+**Expected Result:** Your account will be flagged for international use, preventing automatic service blocks when unusual foreign activity is detected.
+
+### Step 2: Choose the Right International Plan
+**Action:** Select an appropriate international plan based on your destination and usage needs.
+- Review available options for your destination countries
+- Consider data, talk, and text requirements
+- Compare daily pass vs. monthly plan options
+
+**Expected Result:** The selected international plan will appear on your account, either immediately or starting on your specified date.
+
+### Step 3: Enable Data Roaming on Your Device
+
+**For iPhone/iOS:**
+1. Go to Settings
+2. Tap Cellular (or Mobile Data)
+3. Tap Cellular Data Options (or Mobile Data Options)
+4. Toggle "Data Roaming" to ON
+
+**For Android (may vary by manufacturer):**
+1. Go to Settings
+2. Tap Connections or Network & Internet
+3. Tap Mobile Networks
+4. Toggle "Data Roaming" to ON
+
+**Expected Result:** Your device will display connectivity to a foreign carrier when you arrive at your destination.
+
+### Step 4: Configure Network Selection Settings
+
+**For iPhone/iOS:**
+1. Go to Settings
+2. Tap Carrier
+3. Turn OFF "Automatic" carrier selection
+4. Wait for the list of available networks to appear
+5. Select a partner network from the list
+
+**For Android:**
+1. Go to Settings
+2. Tap Connections or Network & Internet
+3. Tap Mobile Networks
+4. Tap Network Operators
+5. Tap Search Networks
+6. Select a partner network from the list
+
+**Expected Result:** Your device connects to the selected network with proper signal strength indicators.
+
+### Step 5: Set Data Usage Alerts
+
+**Action:** Configure usage alerts to avoid bill shock.
+- In your carrier's mobile app, set data usage notifications
+- On iPhone, go to Settings > Cellular > Cellular Data Usage to monitor consumption
+- On Android, go to Settings > Network & Internet > Data Usage to set alerts
+
+**Expected Result:** You'll receive notifications when approaching data limits.
+
+## Troubleshooting Common Issues
+
+### No Service After Arrival
+1. Restart your device
+2. Ensure airplane mode is OFF
+3. Manually select a different available network
+4. Verify your SIM card is properly inserted
+
+**Expected Result:** Your device should connect to an available network.
+
+### Unable to Make Calls
+1. Dial with the full international format (+country code-number)
+2. Check if your international plan includes voice calling
+3. Try enabling WiFi calling if available
+
+**Expected Result:** Calls should connect properly when using the correct format.
+
+### Excessive Data Usage
+1. Disable automatic app updates
+2. Turn off background app refresh
+3. Use Data Saver mode (Android) or Low Data Mode (iOS)
+4. Connect to WiFi whenever possible
+
+**Expected Result:** Reduced data consumption and lower risk of overage charges.
+
+## Success Indicators
+You've successfully set up international roaming when:
+- Your device shows connection to a foreign carrier
+- You can make and receive calls
+- Data services work for web browsing and apps
+- Text messages send and receive properly
+
+Remember to turn off data roaming upon returning home to prevent unnecessary charges.

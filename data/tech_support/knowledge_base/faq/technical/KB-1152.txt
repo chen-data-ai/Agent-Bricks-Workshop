@@ -1,0 +1,99 @@
+ID: KB-1152
+Type: FAQ
+Category: Technical
+Subcategory: Phone not receiving calls
+Title: Why is my phone not receiving calls?
+Tags: calls,receiving,technical,faq,phone not receiving calls,roaming,mobile,coverage,phone
+Last Updated: 2024-08-06 23:59:47
+Generated: 2025-07-13T23:15:46.002267
+
+---
+
+# Why is my phone not receiving calls?
+
+## Common symptoms
+- Incoming calls go straight to voicemail
+- Callers hear "The person you are calling is unavailable"
+- Missed call notifications appear without the phone ringing
+- No incoming call screen displays for incoming calls
+
+## Basic troubleshooting steps
+
+### 1. Check your network connection
+- Verify you have adequate signal strength (at least 2-3 bars)
+- Check if the mobile data or Wi-Fi icon appears in your status bar
+- Try toggling Airplane Mode on for 30 seconds, then off again
+- If using Wi-Fi Calling, ensure your Wi-Fi connection is stable
+
+### 2. Verify call settings
+**For Android devices:**
+- Go to Settings > Network & Internet > Mobile network > Advanced > Call settings
+- Ensure Call Forwarding is disabled or not forwarding to another number
+- Check that Call Barring is not enabled
+- Verify Do Not Disturb mode is turned off (check Quick Settings panel)
+
+**For iPhone:**
+- Go to Settings > Phone > Call Forwarding and ensure it's turned off
+- Check Settings > Focus to ensure Do Not Disturb is disabled
+- Verify that Silence Unknown Callers is off (Settings > Phone)
+
+### 3. Restart your device
+- Android: Press and hold the power button, then tap "Restart"
+- iPhone: Press and hold side button and volume button until the slider appears, slide to power off, then press and hold the side button to restart
+
+### 4. Check for blocked numbers
+**For Android devices:**
+- Open the Phone app > More (three dots) > Settings > Blocked numbers
+- Remove any numbers that shouldn't be blocked
+
+**For iPhone:**
+- Go to Settings > Phone > Blocked Contacts
+- Review the list and unblock any contacts as needed
+
+### 5. Update your carrier settings and software
+**For Android devices:**
+- Go to Settings > System > System update
+- Check for carrier settings updates in Settings > Network & Internet > Mobile network > Advanced > Carrier settings
+
+**For iPhone:**
+- Go to Settings > General > Software Update
+- If a carrier settings update is available, you'll be prompted to update
+
+### 6. Check your SIM card
+- Power off your device
+- Remove your SIM card using the ejector tool
+- Check for any damage or debris
+- Reinsert the SIM card properly
+- Power on your device
+
+## Common error messages and their meanings
+
+| Error Message | Meaning | Solution |
+|---------------|---------|----------|
+| "No Service" | Your device cannot connect to the cellular network | Move to an area with better coverage or try steps 1 and 3 above |
+| "Call Forwarding Active" | Your calls are being redirected to another number | Follow step 2 to disable call forwarding |
+| "SIM Not Provisioned" | Your SIM card is not properly activated | Contact customer support |
+| "Emergency Calls Only" | Your device can only make emergency calls | Check your account status or contact support |
+
+## Using our mobile app for additional diagnostics
+
+1. Download our support app from the App Store (iOS) or Google Play Store (Android)
+2. Log in with your account credentials
+3. Navigate to "Network & Connectivity" > "Diagnostics"
+4. Run the "Call Services Test" to identify specific issues
+
+## When to contact customer support
+
+Contact our technical support team if:
+- You've tried all troubleshooting steps and still cannot receive calls
+- Your device displays "Emergency Calls Only" for more than 30 minutes
+- You see "SIM Not Provisioned" or "Invalid SIM" errors
+- Call forwarding is disabled but calls still go to voicemail
+- You notice unusual account activity or suspect fraud
+
+**Contact methods:**
+- Call: 1-800-XXX-XXXX
+- Chat: Available in our mobile app or website
+- Online: Submit a support ticket through your account portal
+
+Our technical support team is available 24/7 to assist with complex calling issues.

@@ -1,0 +1,89 @@
+ID: KB-1200
+Type: FAQ
+Category: Technical
+Subcategory: Esim activation issues
+Title: FAQ: Why is my eSIM not activating properly?
+Tags: payment,account,activation,technical,faq,esim activation issues,esim,support,issues
+Last Updated: 2024-10-07 23:59:47
+Generated: 2025-07-13T23:15:40.567265
+
+---
+
+# FAQ: Why is my eSIM not activating properly?
+
+## Common Symptoms
+- "eSIM profile download failed" message
+- Unable to connect to mobile network after eSIM installation
+- "Invalid QR code" or "Expired activation code" errors
+- Device shows "No service" with eSIM selected
+- Cellular data not working despite successful eSIM installation
+
+## Troubleshooting Steps
+
+### Step 1: Verify Basic Requirements
+- Ensure your device is eSIM compatible (most flagship phones from 2018 onward)
+- Confirm your device is connected to a stable Wi-Fi network
+- Check that your account is in good standing with no payment issues
+- Verify the eSIM activation code or QR code hasn't expired (typically valid for 14 days)
+
+### Step 2: Restart Your Device
+A simple restart can resolve many activation issues:
+1. Power off your device completely
+2. Wait 30 seconds
+3. Power it back on
+4. Try the eSIM activation process again
+
+### Step 3: Device-Specific Solutions
+
+**For iPhone (iOS 13 or later):**
+1. Go to Settings > General > About and check for a carrier settings update
+2. If prompted, tap "Update" and wait for completion
+3. Go to Settings > Cellular > Add Cellular Plan
+4. Try scanning your QR code again or manually enter the activation details
+5. If you receive "Cellular Plan Cannot Be Added" error, go to Settings > General > Reset > Reset Network Settings (note: this will remove saved Wi-Fi passwords)
+
+**For Android (version 10 or later):**
+1. Go to Settings > Network & Internet > Mobile Network > + Add > Download a SIM instead?
+2. Scan the QR code or enter details manually
+3. If you receive "Couldn't download your eSIM" error, clear cache for the "SIM Manager" app:
+   - Go to Settings > Apps > SIM Manager > Storage > Clear Cache
+4. Try activation again
+
+### Step 4: Check for Common Error Messages
+
+**"Profile Download Failed"**
+- Ensure airplane mode is OFF during activation
+- Try using a different Wi-Fi network
+- Check if your device has the latest software update
+
+**"QR Code Invalid or Expired"**
+- Request a new eSIM activation code through our mobile app or online account
+- Ensure you're scanning the correct QR code (not a previous or expired one)
+
+**"Network Not Available"**
+- Check if your device is in a coverage area
+- Toggle airplane mode on and off
+- Remove and re-add the eSIM profile
+
+### Step 5: Using Our Mobile App for Assistance
+1. Download our official mobile app from the App Store or Google Play Store
+2. Log in to your account
+3. Navigate to "Account" > "Manage SIM"
+4. Select "Troubleshoot eSIM" for guided assistance
+5. The app can automatically detect some common issues and offer specific solutions
+
+## When to Contact Customer Support
+
+Contact our technical support team if:
+- You've tried all steps above and your eSIM still won't activate
+- You receive error messages not covered in this guide
+- Your eSIM was working but suddenly stopped functioning
+- You need a new eSIM activation code
+- Your device is compatible but doesn't show eSIM as an option
+
+**Contact options:**
+- Chat with us through our mobile app (fastest option)
+- Call customer service at 1-800-XXX-XXXX
+- Visit a retail store for in-person assistance
+
+Our technical support team can remotely diagnose eSIM issues and may be able to push a new eSIM profile to your device.

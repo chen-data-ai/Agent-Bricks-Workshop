@@ -1,0 +1,60 @@
+Ticket ID: TICK-8031
+Customer ID: CUS-10147
+Subscription ID: SUB-10000232
+Category: Billing
+Priority: High
+Status: Resolved
+Created: 2024-09-11 21:49:41.967000
+Agent ID: BIL-5546
+Resolved: 2024-09-12 21:49:41.967000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8031 (Created: 2024-09-12 04:49)
+
+I am absolutely FURIOUS about my latest bill! I just opened my September statement and discovered I've been charged $149.99 for "Premium Content Services" that I NEVER authorized! I've been a loyal customer on your Ultimate Unlimited Family Plan for over 4 years and have never had issues until now.
+
+I checked all three lines on my account (mine is a Galaxy S24 Ultra, my husband has an iPhone 15 Pro, and my daughter has the iPhone 14) and none of us have subscribed to any premium services. The charge appeared right after I upgraded my Apple MiFi 5 last month at your Westfield Mall location in San Diego.
+
+The MyMobile app shows the charge originated from something called "MobiStream+" but I've never heard of this service! When I tried calling the billing department, I was on hold for 45 minutes before being disconnected. This is completely unacceptable.
+
+I need this charge reversed IMMEDIATELY and confirmation that these unauthorized services have been removed from my account. My autopay is scheduled for tomorrow, and I refuse to pay for services I didn't request. If this isn't resolved today, I will be filing a complaint with the FCC and considering switching carriers after being a loyal customer for years.
+
+Please call me back ASAP at the number on my account.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8031 | Agent BIL-5546 | Resolved on 2024-09-13 04:49
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration caused by the unauthorized "Premium Content Services" charge of $149.99 on your September statement and for the difficulty you experienced when attempting to contact our billing department.
+
+## Actions Taken:
+1. Accessed your account in our Billing Management System (BMS) and confirmed the presence of the $149.99 charge from "MobiStream+" on your September statement
+2. Investigated the service activation history and verified that no authorized opt-in was recorded for this service on any of your three lines
+3. Identified that the MobiStream+ service was incorrectly added to your account during your Apple MiFi 5 upgrade process at our Westfield Mall location in San Diego
+4. Immediately removed the MobiStream+ service subscription from your account to prevent future charges
+5. Applied a full credit of $149.99 to your account (Credit Reference: CR-09132024-8031)
+6. Placed a "Premium Services Block" on all three lines to prevent any third-party services from being added without explicit verification
+
+## Account Status:
+- The $149.99 charge has been fully reversed and will be reflected in your account within 24 hours
+- Your autopay scheduled payment has been adjusted to reflect the corrected balance
+- All three lines on your Ultimate Unlimited Family Plan remain active with no changes to your core services
+
+Per our Third-Party Billing Protection Policy, customers must provide explicit consent before premium services can be added to their account. Our investigation confirmed this protocol wasn't followed during your device upgrade.
+
+I've also added detailed notes to your account regarding this incident to prevent similar issues in the future. Additionally, I've submitted feedback to our training team about the improper service addition at our Westfield Mall location.
+
+Should you wish to monitor your account for any changes, I recommend using the "Subscriptions" section in your MyMobile app (available on both your Galaxy S24 Ultra and your family's iPhones), which allows you to view and manage all active services.
+
+We truly value your 4+ years of loyalty and sincerely apologize for this experience. If you have any further questions or concerns, please don't hesitate to contact us directly.
+
+Respectfully,
+Agent BIL-5546
+Customer Billing Support Team

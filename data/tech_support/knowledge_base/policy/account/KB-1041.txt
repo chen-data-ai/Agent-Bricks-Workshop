@@ -1,0 +1,122 @@
+ID: KB-1041
+Type: Policy
+Category: Account
+Subcategory: Closing an account
+Title: Account Closure Policy
+Tags: payment,troubleshooting,account,closing an account,support,policy,closing
+Last Updated: 2024-12-25 23:59:47
+Generated: 2025-07-13T23:15:51.461018
+
+---
+
+# Account Closure Policy
+
+## Purpose
+This document outlines the procedures and requirements for closing a customer account with [Company Name]. These policies ensure proper identity verification, data protection, and compliance with regulatory requirements while providing customers with a clear process for terminating services.
+
+## Account Closure Eligibility
+
+### Contract Status
+- Accounts under contract may incur early termination fees as specified in the service agreement
+- Month-to-month accounts can be closed at any time without early termination penalties
+- Business accounts require additional documentation as outlined in section 5
+
+### Outstanding Balances
+- All outstanding balances must be paid in full before account closure
+- Final bill will be generated within 30 days of closure request
+- Equipment return credits will be applied to the final bill or refunded to the customer
+
+## Identity Verification Requirements
+
+### Primary Account Holder
+- Government-issued photo ID required (driver's license, passport, or state ID)
+- Verification of at least two account identifiers:
+  * Account PIN/password
+  * Last 4 digits of SSN/Tax ID
+  * Billing address
+  * Recent transaction details
+
+### Authorized Users
+- Must be listed on the account with proper authorization level
+- Subject to same verification standards as primary account holder
+- Limited to actions permitted by their authorization level
+
+## Closure Request Methods
+
+### Online
+- Available through secure account portal at [website]
+- Requires two-factor authentication
+- Digital signature confirmation required
+- Confirmation email sent to account email address
+
+### Mobile App
+- Available on iOS and Android platforms
+- Requires biometric or PIN verification
+- Step-by-step guided process with confirmation screens
+- Digital receipt provided upon completion
+
+### Customer Service
+- Available via phone at [phone number]
+- Subject to comprehensive identity verification
+- Call recording maintained for quality assurance
+- Confirmation number provided for reference
+
+### In-Store
+- Photo ID verification required
+- Account verification questions administered
+- Written signature required on closure form
+- Copy of closure documentation provided to customer
+
+## Data Protection and Retention
+
+### Customer Data
+- Personal information retained according to our Privacy Policy
+- Call records and messaging data deleted within 90 days
+- Account history maintained for 7 years per regulatory requirements
+- Customer may request data export prior to closure
+
+### Security Measures
+- Account access terminated within 24 hours of closure
+- Two-factor authentication required for any post-closure inquiries
+- Secure disposal of physical documents through certified shredding
+- Encrypted storage of retained digital records
+
+## Regulatory Compliance
+
+### Communications Act Requirements
+- Compliance with Section 222 regarding Customer Proprietary Network Information (CPNI)
+- Records maintained in accordance with FCC retention requirements
+- Number portability rights preserved per FCC regulations
+
+### State-Specific Requirements
+- Additional documentation required in [specific states]
+- Extended cooling-off periods apply in [specific states]
+- Special notification requirements for [specific circumstances]
+
+## Escalation Procedures
+
+### Dispute Resolution
+- Initial review by account specialist
+- Escalation to account management team within 48 hours if unresolved
+- Final review by customer relations department
+- External mediation options provided if necessary
+
+### Special Circumstances
+- Deceased account holder procedures outlined in separate policy
+- Legal power of attorney requirements for incapacitated customers
+- Business dissolution requirements for corporate accounts
+- Military deployment accommodations per SCRA guidelines
+
+## Equipment Return Process
+
+### Return Methods
+- Prepaid return shipping label available through online account or mobile app
+- In-store returns accepted at any retail location
+- Third-party authorized return centers listed on website
+- Special arrangements available for customers with accessibility needs
+
+### Deadlines and Penalties
+- Equipment must be returned within 30 days of account closure
+- Late returns subject to equipment replacement fees
+- Damaged equipment assessed according to condition policy
+- Return confirmation provided via email or text message

@@ -1,0 +1,64 @@
+Ticket ID: TICK-8072
+Customer ID: CUS-10121
+Subscription ID: SUB-10000192
+Category: Account
+Priority: Critical
+Status: Closed
+Created: 2025-01-11 21:05:15.324000
+Agent ID: ACC-4734
+Resolved: 2025-01-11 21:05:15.324000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8072 (Created: 2025-01-12 05:05)
+
+I'm extremely frustrated with the unexpected charges on my latest bill. I've been a loyal customer for over 5 years on your "Ultimate Unlimited Plus" family plan, and suddenly there's an additional $45.99 charge labeled as "International Data Roaming." I have NEVER left the country! I was in Denver visiting my sister last weekend, but that's still in the US!
+
+I checked my iPhone 15 Pro settings and international roaming is definitely turned OFF. My husband's Galaxy S24 Ultra shows the same settings. When I tried to dispute this through the MyTelecom app, I kept getting Error Code TR-4029 "Unable to process billing dispute at this time."
+
+This is completely unacceptable. I need this resolved IMMEDIATELY as my autopay is scheduled to process in 48 hours, and I refuse to pay for services I didn't use. I've already spent 35 minutes on hold trying to speak with someone on the phone before giving up and submitting this ticket.
+
+Please remove these bogus charges from my account #87291-553 right away. I expect a response within 24 hours or I'll be filing a complaint with the FCC.
+
+- Melissa Thornton
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8072 | Agent ACC-4734 | Resolved on 2025-01-12 05:05
+
+Dear Ms. Thornton,
+
+Thank you for bringing this matter to our attention. I sincerely apologize for the frustration you've experienced regarding the unexpected international roaming charges on your account and the difficulty you encountered when attempting to resolve this through our MyTelecom app.
+
+## Investigation Conducted:
+- Accessed your account #87291-553 in our Billing Management System (BMS)
+- Reviewed your "Ultimate Unlimited Plus" family plan details and usage history
+- Analyzed the data usage patterns during your Denver trip (January 3-5)
+- Verified roaming settings on both devices (iPhone 15 Pro and Galaxy S24 Ultra)
+- Investigated Error Code TR-4029 in our app reporting system
+
+## Root Cause Identified:
+Upon thorough investigation, I discovered that your devices connected to our partner tower near the Denver International Airport which was incorrectly configured in our system as an international roaming zone due to a recent system update. This technical error affected approximately 250 customers in that area during the same timeframe.
+
+## Actions Taken:
+1. Removed the erroneous $45.99 "International Data Roaming" charge from your current bill
+2. Applied a $15.00 service inconvenience credit to your account as per our Customer Satisfaction Policy (CSP-2024-11)
+3. Submitted the tower misconfiguration to our Network Operations team (Case #NET-25011205)
+4. Resolved the Error Code TR-4029 in your MyTelecom app by clearing the cached dispute attempt
+
+## Confirmation:
+Your revised bill total is now $142.50 (reduced from $188.49). This change has been processed immediately, and your scheduled autopay will reflect the corrected amount. You can verify these changes by logging into your MyTelecom app or online account within the next 2-3 hours.
+
+I want to assure you that we value your loyalty as a 5+ year customer and take full responsibility for this error. We're implementing additional verification protocols to prevent similar issues in the future.
+
+Should you have any further questions or concerns, please don't hesitate to contact me directly at extension 4734. I've also added a note to your account to prioritize any future inquiries.
+
+Thank you for your patience while we resolved this matter.
+
+Sincerely,
+Agent ACC-4734
+Customer Advocacy Team

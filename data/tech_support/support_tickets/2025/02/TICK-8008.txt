@@ -1,0 +1,60 @@
+Ticket ID: TICK-8008
+Customer ID: CUS-10966
+Subscription ID: SUB-10001426
+Category: Technical
+Priority: Low
+Status: Resolved
+Created: 2025-02-22 20:43:03.219000
+Agent ID: TEC-5560
+Resolved: 2025-02-25 20:43:03.219000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8008 (Created: 2025-02-23 04:43)
+
+Customer's iPhone 15 Pro eSIM activation failed with error code E8365; need assistance completing setup.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8008 | Agent TEC-5560 | Resolved on 2025-02-26 04:43
+
+Dear Customer,
+
+Thank you for your patience while we resolved your iPhone 15 Pro eSIM activation issue with error code E8365. I understand how frustrating it can be when you're unable to complete your device setup, and I appreciate the opportunity to assist you.
+
+## Actions Taken:
+1. Accessed our eSIM Management System (EMS) to investigate the error code E8365, which indicates an incomplete carrier profile download
+2. Verified your account eligibility for eSIM activation in our Customer Account Management System (CAMS)
+3. Cleared the pending eSIM profile from your account using our backend provisioning tool
+4. Generated a new eSIM QR code and activation token through our Secure Digital Profile Generator (SDPG)
+5. Guided you through the proper eSIM installation process via iOS Settings > Cellular > Add Cellular Plan
+
+## Root Cause:
+The investigation revealed that your initial eSIM activation attempt was interrupted during the carrier profile download phase, likely due to network connectivity fluctuations. This left your account with a partially downloaded eSIM profile that prevented subsequent activation attempts.
+
+## Resolution Details:
+Following our troubleshooting session, we successfully:
+- Removed the corrupted eSIM profile from your account
+- Provisioned a new eSIM profile according to procedure TS-eSIM-2025-01
+- Verified successful activation of your new eSIM profile
+- Confirmed full network connectivity with successful test calls and data usage
+- Applied a $15.00 service credit to your account (per our Activation Issue Compensation Policy) which will appear on your next bill
+
+## Additional Information:
+To avoid similar issues in the future, please ensure you:
+1. Have a stable Wi-Fi or cellular connection during eSIM activation
+2. Keep your iPhone updated to the latest iOS version
+3. Use our mobile app's "eSIM Setup Assistant" feature for guided activation
+
+If you experience any further issues with your eSIM or cellular service, please don't hesitate to contact us. Your satisfaction is our priority.
+
+Thank you for your patience throughout this process and for choosing our service.
+
+Best regards,
+
+Agent TEC-5560
+Technical Support Team

@@ -1,0 +1,73 @@
+ID: KB-1224
+Type: FAQ
+Category: Account
+Subcategory: Primary account holder changes
+Title: How Do I Change the Primary Account Holder on My Account?
+Tags: primary,account,holder,primary account holder changes,faq,network,support,device,changes
+Last Updated: 2025-01-23 23:59:47
+Generated: 2025-07-13T23:15:42.367097
+
+---
+
+# How Do I Change the Primary Account Holder on My Account?
+
+## Overview
+Changing the primary account holder transfers account ownership and responsibility to another person. This process requires specific documentation and verification steps to protect your account security.
+
+## Requirements for Primary Account Holder Changes
+
+To change the primary account holder, you'll need:
+
+* Government-issued photo ID for both current and new account holders
+* The last 4 digits of the current account holder's Social Security Number
+* Account PIN/password
+* Completed Account Transfer Authorization form (available in our mobile app or online account portal)
+* Both parties must consent to the transfer
+
+## Process Steps
+
+1. **Initiate the request** through one of these methods:
+   * In our mobile app: Navigate to Account → Settings → Account Ownership
+   * Online: Log in to My Account portal and select "Transfer Account Ownership"
+   * Visit a retail store with both parties present
+   * Call Customer Support at 1-800-XXX-XXXX
+
+2. **Verification process**:
+   * The current account holder must verify their identity
+   * The new account holder must pass a credit check (if applicable)
+   * Both parties must e-sign the transfer agreement
+
+3. **Documentation submission**:
+   * Upload required documents through the app/website or
+   * Present documents in-store or
+   * Email documents to accounttransfers@provider.com
+
+## Timeframes
+
+* **In-store transfers**: Can typically be completed same-day
+* **Online/app transfers**: 1-3 business days for processing
+* **Phone-initiated transfers**: 3-5 business days for processing
+
+## Impact on Services and Billing
+
+* The new account holder assumes financial responsibility for all charges
+* Existing autopay settings will be canceled and need to be re-established
+* The billing cycle date may change
+* Contract terms remain in effect and transfer to the new account holder
+* Device payment plans will transfer to the new account holder
+* Loyalty rewards and account history will transfer to the new account holder
+
+## Special Considerations
+
+* **For Android users**: You may need to re-sync your Google Play account for purchased content
+* **For iOS users**: App Store purchases will remain tied to the original Apple ID
+* **Family plans**: Line ownership will transfer but individual line users remain unchanged
+* **Business to consumer transfers**: Additional documentation may be required
+
+## Restrictions
+
+* Accounts with past-due balances must be brought current before transfer
+* Accounts in collections cannot be transferred
+* Promotional pricing may be affected by ownership changes
+
+For additional assistance, contact Customer Support or visit your nearest retail location.

@@ -1,0 +1,134 @@
+ID: KB-1014
+Type: Procedure
+Category: Technical
+Subcategory: Device blacklist removal
+Title: Technical Procedure: Device Blacklist Removal
+Tags: account,technical,removal,device blacklist removal,wireless,procedure,device,plan,blacklist
+Last Updated: 2025-01-24 23:59:47
+Generated: 2025-07-13T23:15:49.512743
+
+---
+
+# Technical Procedure: Device Blacklist Removal
+**Document ID:** BL-REM-2023-01  
+**Last Updated:** [Current Date]  
+**Classification:** Internal Support Document - Level 2 Technical Support
+
+## 1. Overview
+
+This document outlines the procedure for verifying and removing devices from the national blacklist database (IMEI blacklist). Blacklisted devices are typically those reported lost, stolen, or with outstanding financial obligations.
+
+## 2. Required Access & Tools
+
+* Customer account management system (CAS)
+* IMEI verification portal
+* National Equipment Identity Register (NEIR) access
+* Blacklist removal authorization form
+* Device payment verification system
+* Photo ID verification capability
+* Case management system
+
+## 3. Procedure Steps
+
+### 3.1 Initial Verification
+
+1. Authenticate the customer using standard verification protocol
+   * Verify account ownership with at least two forms of identification
+   * Confirm the customer is an authorized account manager
+
+2. Obtain and validate the device IMEI
+   * Request IMEI from customer (dial *#06# on device)
+   * Alternatively, locate IMEI in account history
+   * Verify IMEI format (15-17 digit numerical string)
+
+3. Check blacklist status
+   * Enter IMEI in NEIR portal
+   * Document current blacklist status and reason code
+   * Verify blacklist originator (our carrier vs. other carrier)
+
+### 3.2 Eligibility Assessment
+
+1. Determine reason for blacklisting:
+   * **Code 1**: Lost/Stolen → Proceed to section 3.3
+   * **Code 2**: Fraud → Proceed to section 3.4
+   * **Code 3**: Non-payment → Proceed to section 3.5
+   * **Code 4**: Other carrier blacklist → Proceed to section 3.6
+
+2. Verify device ownership
+   * Match IMEI to customer's account history
+   * Confirm purchase date and location
+   * If device ownership cannot be verified → ESCALATE to Fraud Department
+
+### 3.3 Lost/Stolen Device Recovery Process
+
+1. Verify the customer is the original reporter of lost/stolen status
+   * Check case history in CAS
+   * Confirm date of original report
+
+2. Complete recovery verification form
+   * Document customer explanation for recovery
+   * Record recovery date
+   * Obtain customer acknowledgment signature (digital or physical)
+
+3. Update device status in NEIR
+   * Change status from "Lost/Stolen" to "Recovered"
+   * Document case number and agent ID
+   * Submit change request
+
+### 3.4 Fraud Resolution Process
+
+> **NOTE:** Only Fraud Department can remove Code 2 blacklist flags
+
+1. Document customer claim
+2. Create escalation ticket to Fraud Department
+3. Provide customer with escalation reference number
+4. Inform customer of 24-48 hour investigation timeframe
+
+### 3.5 Non-payment Resolution Process
+
+1. Check outstanding balance in payment verification system
+   * Verify device payment plan status
+   * Calculate remaining balance
+
+2. If balance exists:
+   * Collect full payment
+   * Process payment confirmation
+   * Document payment transaction ID
+
+3. Update financial status in CAS
+   * Mark device as "Financially Cleared"
+   * Submit blacklist removal request
+   * Document authorization code
+
+### 3.6 Other Carrier Blacklist Process
+
+1. Inform customer that blacklist originated from another carrier
+2. Provide blacklist originator information to customer
+3. Document external carrier code
+4. Provide customer with:
+   * Originating carrier contact information
+   * Required documentation list for external removal
+   * Our case reference number
+
+## 4. Blacklist Removal Execution
+
+1. Access NEIR blacklist management tool
+   * Enter administrator credentials
+   * Select "Blacklist Modification" module
+
+2. Submit removal request
+   * Enter IMEI
+   * Select appropriate removal reason code
+   * Attach supporting documentation
+   * Enter supervisor authorization code (if required)
+
+3. Verify removal status
+   * Perform IMEI check after 15 minutes
+   * Confirm status shows "Clear" or "No Record Found"
+   * Document final status in case notes
+
+## 5. Decision Tree for Troubleshooting
+
+```
+START
+├── Is customer

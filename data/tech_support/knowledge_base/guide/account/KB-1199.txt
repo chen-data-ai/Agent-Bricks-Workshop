@@ -1,0 +1,93 @@
+ID: KB-1199
+Type: Guide
+Category: Account
+Subcategory: Adding a line
+Title: User Guide: Adding a Line to Your Telecom Account
+Tags: account,wireless,adding,voice,guide,phone,line,adding a line
+Last Updated: 2024-09-16 23:59:47
+Generated: 2025-07-13T23:15:40.517349
+
+---
+
+# User Guide: Adding a Line to Your Telecom Account
+
+## Overview
+Adding a new line to your existing account allows you to connect additional devices or provide service to family members under one convenient billing plan. This guide walks you through the process, security requirements, and what to expect.
+
+## Before You Begin
+- Ensure your account is in good standing with no past-due balances
+- Have your account PIN/password ready
+- Prepare identification documents for the new line user
+- Check if you're eligible for any multi-line discounts
+
+## Adding a Line: Online Method
+
+### Steps:
+1. Log in to your account through the mobile app or website
+2. Navigate to "Account Management" or "Plan Options"
+3. Select "Add a Line" or "Add a Device"
+4. Choose the type of line you want to add (smartphone, tablet, smartwatch, etc.)
+5. Select a device (if purchasing a new one) or indicate you'll use an existing device
+6. Choose a plan for the new line
+7. Complete identity verification for the new user
+8. Review and confirm your order
+
+### Security Verification:
+- You'll need to enter your account PIN or password
+- For new users, you may need to provide their:
+  * Full name
+  * Date of birth
+  * Last four digits of SSN or government ID number
+  * Address (if different from primary account holder)
+
+## Adding a Line: In-Store Method
+
+### Steps:
+1. Visit any retail store location with your photo ID
+2. Inform the representative you want to add a line
+3. Provide your account information and complete verification
+4. Select device and plan options with representative assistance
+5. Complete paperwork and identity verification for the new user
+6. Pay any applicable fees and receive your new device (if applicable)
+
+### Required Documentation:
+- Primary account holder's government-issued photo ID
+- Account PIN/password
+- New user's government-issued photo ID (if they're present)
+- New user's personal information (if they're not present)
+
+## Adding a Line: Phone Method
+
+### Steps:
+1. Call customer service at your provider's support number
+2. Authenticate your identity with the representative
+3. Request to add a new line to your account
+4. Follow the representative's guidance to select plans and devices
+5. Complete verbal identity verification for the new user
+6. Confirm shipping details if a new device is being sent
+
+## Processing Times & Activation
+
+### Online/Phone Orders:
+- Device shipping: Typically 1-3 business days
+- SIM card shipping: Typically 3-5 business days
+- Activation: Usually immediate once SIM is inserted or eSIM is configured
+
+### In-Store:
+- Activation: Usually immediate
+- Device setup assistance: Available in-store
+
+## Important Considerations
+
+- **Billing Impact**: Adding a line will prorate charges for the remainder of your billing cycle
+- **Credit Check**: A credit check may be required for certain device financing options
+- **Plan Compatibility**: Some plans have limitations on the number of lines that can be added
+- **eSIM vs. Physical SIM**: Determine which type your device supports before completing your order
+- **Number Portability**: If transferring a number from another carrier, have the account number and transfer PIN ready
+
+## Additional Resources
+- Device setup guides in our Support section
+- Mobile app tutorials for managing your new line
+- Family plan sharing features and parental controls
+
+For further assistance, contact customer support or visit your nearest retail location.

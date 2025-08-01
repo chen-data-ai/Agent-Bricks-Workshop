@@ -1,0 +1,106 @@
+ID: KB-1166
+Type: Policy
+Category: Account
+Subcategory: Account security
+Title: Account Security Policy
+Tags: troubleshooting,account,security,policy,network,account security
+Last Updated: 2025-02-14 23:59:47
+Generated: 2025-07-13T23:15:47.147539
+
+---
+
+# Account Security Policy
+
+## Purpose and Scope
+This policy establishes the standards and procedures for maintaining the security of customer accounts at [Company Name]. It applies to all customer accounts and the employees who manage them, ensuring compliance with telecommunications industry regulations and data protection laws.
+
+## Identity Verification Standards
+
+### Customer Authentication Requirements
+* All account access requires multi-factor authentication (MFA)
+* Minimum of two identity verification factors before account changes
+* Acceptable verification methods include:
+  - Government-issued photo ID
+  - Account PIN/password
+  - One-time verification codes sent via SMS or email
+  - Biometric verification through our mobile app (iOS and Android)
+
+### Remote Authentication
+* Video verification available for major account changes
+* Knowledge-based authentication questions based on account history
+* Device recognition technology to identify trusted devices
+
+## Data Protection Measures
+
+### Personal Information Handling
+* All customer data encrypted at rest and in transit using AES-256 encryption
+* Personal Identifiable Information (PII) masked for customer service representatives
+* Compliance with GDPR, CCPA, and telecommunications-specific regulations (e.g., FCC CPNI rules)
+
+### Access Controls
+* Role-based access control (RBAC) for internal systems
+* Automatic session timeouts after 10 minutes of inactivity
+* Audit logging of all account access and changes
+
+## Authorized Account Changes
+
+### Permitted Changes by Authentication Level
+| Authentication Level | Permitted Changes |
+|----------------------|-------------------|
+| Basic (1-factor) | View bill, check usage, technical support |
+| Standard (2-factor) | Update contact info, payment methods |
+| Enhanced (3-factor) | Add/remove services, port numbers, close account |
+
+### Delegation of Authority
+* Account holders may designate authorized users
+* Authorized user capabilities can be customized by the primary account holder
+* Business accounts require written authorization for designated administrators
+
+## Security Breach Response
+
+### Detection and Notification
+* Automated systems monitor for suspicious account activity
+* Customers notified within 24 hours of confirmed security incidents
+* Mandatory reporting to relevant regulatory authorities as required by law
+
+### Remediation Steps
+* Immediate account freeze upon detection of unauthorized access
+* Guided account recovery process with enhanced verification
+* Free security audit and consultation following any breach
+
+## Customer Self-Service Security Tools
+
+### Mobile App and Online Security Features
+* Security dashboard in My Account portal and mobile app
+* Real-time login notifications
+* Ability to view and manage trusted devices
+* Security settings management for both iOS and Android devices
+
+### Education and Resources
+* Security best practices available in knowledge base
+* Quarterly security bulletin for customers
+* Free security webinars for business customers
+
+## Escalation Paths
+
+### Internal Escalation
+* Tiered support structure for security concerns
+* Dedicated security team for complex issues
+* Executive escalation for unresolved security matters
+
+### External Reporting
+* Clear process for reporting suspected fraud
+* Direct channels to security team for urgent concerns
+* Cooperation with law enforcement for criminal activities
+
+## Regulatory Compliance
+
+This policy adheres to the following regulatory requirements:
+* Federal Communications Commission (FCC) Customer Proprietary Network Information (CPNI) rules
+* Telecommunications Consumer Protection Act (TCPA)
+* General Data Protection Regulation (GDPR) for EU customers
+* California Consumer Privacy Act (CCPA) and other state-specific regulations
+* Payment Card Industry Data Security Standard (PCI DSS) for billing information
+
+## Policy Review and Updates
+This policy is reviewed quarterly and updated as needed to reflect changes in technology, threats, and regulatory requirements. All updates will be communicated to customers through account notifications, email, and our website.

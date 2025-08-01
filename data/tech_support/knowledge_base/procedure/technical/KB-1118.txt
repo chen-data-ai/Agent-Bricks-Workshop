@@ -1,0 +1,124 @@
+ID: KB-1118
+Type: Procedure
+Category: Technical
+Subcategory: International roaming setup
+Title: Technical Procedure: International Roaming Setup Resolution
+Tags: international,account,technical,text,international roaming setup,setup,wireless,procedure,roaming
+Last Updated: 2024-07-24 23:59:47
+Generated: 2025-07-13T23:15:57.396452
+
+---
+
+# Technical Procedure: International Roaming Setup Resolution
+
+## Document Purpose
+This procedure guides support agents through diagnosing and resolving international roaming issues for customers. Follow these steps sequentially to ensure efficient troubleshooting and resolution.
+
+## Required Tools/System Access
+- Customer account management system (CAMS)
+- Roaming partner database (RPD)
+- Network provisioning system (NPS)
+- Line testing tool (LTT)
+- Knowledge base access
+- Ticket management system
+
+## Procedure Overview
+
+### 1. Initial Assessment
+1. Verify customer identity using standard authentication protocol
+2. Confirm travel dates and destination country/countries
+3. Verify device IMEI through CAMS
+4. Check device compatibility with destination networks using RPD
+5. Confirm account status and eligibility for international services
+
+### 2. Account Verification
+1. Access customer account in CAMS
+2. Verify account is in good standing (no payment blocks)
+3. Check for existing international plan activation
+4. Confirm roaming capability is not restricted on the account
+5. Verify line has been active for minimum required period (30 days for prepaid, 90 days for new postpaid)
+
+### 3. Device Configuration Assessment
+1. Determine device make and model
+2. Verify device is unlocked (if applicable)
+3. Check if device supports bands/frequencies used in destination country
+4. Confirm device has latest firmware/carrier settings
+5. Document current network settings configuration
+
+### 4. Network Provisioning Verification
+1. Access NPS
+2. Verify IMSI and MSISDN are properly mapped
+3. Check HLR/HSS records for roaming permissions
+4. Verify roaming agreements exist with carriers in destination country
+5. Confirm data roaming APN settings are correctly provisioned
+
+## Diagnostic Decision Tree
+
+### A. If Account Issue Detected:
+1. Is account suspended or restricted?
+   - YES → Resolve account standing issues first
+   - NO → Proceed to step 2
+
+2. Is international roaming feature active?
+   - YES → Proceed to step 3
+   - NO → Add feature using procedure IR-ADD-001
+
+3. Is customer on compatible rate plan?
+   - YES → Proceed to Device Configuration Assessment
+   - NO → Recommend plan change using procedure IR-PLAN-002
+
+### B. If Device Configuration Issue Detected:
+1. Is device locked to home network?
+   - YES → Initiate unlock procedure IR-UNLOCK-003
+   - NO → Proceed to step 2
+
+2. Are device bands compatible with destination?
+   - YES → Proceed to step 3
+   - NO → Document incompatibility, offer loaner device option
+
+3. Are APN settings correct?
+   - YES → Proceed to Network Provisioning Verification
+   - NO → Configure using procedure IR-APN-004
+
+### C. If Network Provisioning Issue Detected:
+1. Is IMSI properly provisioned?
+   - YES → Proceed to step 2
+   - NO → Create provisioning ticket using IR-PROV-005
+
+2. Do roaming agreements exist with destination carriers?
+   - YES → Proceed to step 3
+   - NO → Document limitations, offer alternative solutions
+
+3. Is there a network outage or known issue?
+   - YES → Create ticket referencing outage ID
+   - NO → Proceed to Final Configuration
+
+## Final Configuration
+
+1. Configure device settings:
+   - Enable Data Roaming: Settings > Cellular/Mobile Data > Data Roaming ON
+   - Set Network Selection to Automatic
+   - Reset Network Settings if persistent issues exist
+
+2. Verify SMS capability:
+   - Send test SMS to customer's alternative number
+   - Confirm receipt of welcome SMS from partner network
+
+3. Verify data connectivity:
+   - Instruct customer to disable Wi-Fi temporarily
+   - Confirm data connection using mobile data test
+
+4. Document configuration in customer notes:
+   - Record all settings changed
+   - Note any specific carrier recommendations for destination
+
+## Expected Outcomes
+- Customer device connects to partner networks in destination country
+- Voice calls function properly (incoming and outgoing)
+- SMS messages can be sent and received
+- Data connectivity works at expected speeds
+- Customer receives appropriate usage notifications
+
+## Escalation Criteria
+Escalate to Tier 2 Support if:
+- Account shows proper provisioning but device fails to connect after all

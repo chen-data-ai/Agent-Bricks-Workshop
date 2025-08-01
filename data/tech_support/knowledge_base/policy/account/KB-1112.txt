@@ -1,0 +1,76 @@
+ID: KB-1112
+Type: Policy
+Category: Account
+Subcategory: Adding a line
+Title: Account Management Policy: Adding a Line to Existing Service
+Tags: subscription,account,adding,mobile,policy,line,adding a line
+Last Updated: 2025-04-26 23:59:47
+Generated: 2025-07-13T23:15:56.979427
+
+---
+
+# Account Management Policy: Adding a Line to Existing Service
+
+## Purpose
+This policy document outlines the standard procedures, requirements, and safeguards for adding a new line of service to an existing customer account. These guidelines ensure consistent customer experience while maintaining security, regulatory compliance, and data protection standards.
+
+## Eligibility Requirements
+- Account must be in good standing with no past-due balance exceeding 30 days
+- Primary account holder or authorized user must initiate the request
+- Account must not have reached maximum line capacity (typically 10 lines for consumer accounts, varies for business accounts)
+- Credit requirements must be met for additional line(s)
+
+## Identity Verification Standards
+- **Primary Account Holder**: Must provide government-issued photo ID and at least two of the following:
+  - Last 4 digits of Social Security Number
+  - Account PIN/password
+  - Answers to security questions
+  - Recent payment information
+
+- **Authorized Users**: Must provide verification of authorized user status plus government-issued photo ID and at least one additional verification element
+
+- **Remote Verification**: For requests via phone or online, multi-factor authentication is required, including temporary one-time passcode sent to the account's verified contact method
+
+## Data Protection Measures
+- All personal information collected during the process is subject to our Privacy Policy and protected under applicable data protection laws
+- Customer data is encrypted during transmission and storage according to industry standards
+- Access to customer account information is restricted to authorized personnel with appropriate clearance levels
+- All account access and modifications are logged for security audit purposes
+- Retention of verification documents limited to periods required by regulatory standards
+
+## Authorization for Account Changes
+- Only the primary account holder may add lines without additional verification
+- Authorized users may add lines only if specifically granted this permission by the primary account holder
+- Business accounts require signature from authorized representative as designated on the business service agreement
+- Power of Attorney documentation required for representatives acting on behalf of incapacitated account holders
+
+## Implementation Process
+1. Verification of identity and authorization
+2. Review of account standing and eligibility
+3. Credit check if applicable
+4. Selection of device and service plan
+5. Disclosure of terms, conditions, and applicable fees
+6. Documentation of consent for new line addition
+7. Activation of service
+8. Confirmation of successful addition sent to primary account contact method
+
+## Fees and Charges
+- Activation fee: As specified in current rate plans
+- Additional deposits may be required based on credit assessment
+- Prorated service charges will apply from activation date
+- Equipment charges as applicable based on selected device payment option
+
+## Escalation Path
+1. **First Level**: Customer Service Representative
+2. **Second Level**: Account Management Specialist
+3. **Third Level**: Customer Relations Manager
+4. **Final Level**: Office of the President/Executive Customer Relations
+
+## Regulatory Compliance
+- All identity verification procedures comply with FCC Customer Proprietary Network Information (CPNI) rules
+- Account modifications adhere to Electronic Communications Privacy Act standards
+- Records maintained in accordance with state-specific telecommunications regulations and federal requirements
+- Compliance with Truth in Billing requirements for disclosure of all applicable charges
+
+## Policy Review
+This policy is subject to annual review and may be updated to reflect changes in regulatory requirements, security best practices, or company procedures.

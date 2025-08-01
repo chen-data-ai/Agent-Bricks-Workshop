@@ -1,0 +1,96 @@
+ID: KB-1076
+Type: Policy
+Category: Billing
+Subcategory: Refund policy
+Title: Refund Policy
+Tags: refund,service,refund policy,wireless,mobile,policy,billing
+Last Updated: 2025-02-27 23:59:47
+Generated: 2025-07-13T23:15:54.458858
+
+---
+
+# Refund Policy
+
+## Overview
+This document outlines our company's refund policy for telecommunications services, equipment purchases, and related charges. It explains customer eligibility for refunds, processing timeframes, and procedures for submitting refund requests.
+
+## Definitions
+- **Billing Cycle**: The period between billing statements, typically 30 days
+- **Prorated Refund**: A partial refund calculated based on the unused portion of a service
+- **Service Credit**: A credit applied to a customer's account for future services rather than returned as a monetary refund
+- **Early Termination Fee (ETF)**: A charge for canceling service before the contract term ends
+
+## Service Refund Eligibility
+
+### Monthly Service Plans
+- Customers may receive a prorated refund for unused service if cancellation occurs before the billing cycle ends
+- Refunds will be calculated from the date of service cancellation request to the end of the billing cycle
+- No refunds will be issued for partial-month usage if cancellation occurs after the 15th day of the billing cycle
+
+### Prepaid Services
+- Prepaid services are generally non-refundable once activated
+- Unused prepaid cards or codes may be eligible for refund within 14 days of purchase if not activated, subject to a 15% processing fee
+
+### Add-On Features
+- One-time add-on features (e.g., international calling packages) are refundable if canceled within 24 hours of activation
+- Monthly add-on features follow the same prorated refund policy as the main service plan
+
+## Equipment Refund Policy
+
+### New Devices
+- New devices may be returned within 30 days of purchase with original packaging and all included accessories
+- A restocking fee of 10% applies to opened devices returned after 14 days
+- Devices showing signs of physical damage or excessive use are not eligible for refund
+
+### Accessories
+- Unopened accessories may be returned within 14 days for a full refund
+- Opened accessories may be returned within 7 days, subject to a 20% restocking fee
+
+## Refund Processing
+
+### Timeframes
+- Credit card refunds will be processed within 3-5 business days
+- Bank account refunds may take 7-10 business days to appear
+- Service credits will be applied to the customer's account within 1-2 billing cycles
+
+### Method of Refund
+- Refunds will be issued using the original payment method when possible
+- Payments made by cash or check over 90 days ago will be refunded via company check
+- Customers may opt to receive a service credit instead of a monetary refund
+
+## Requesting a Refund
+
+### Required Information
+- Account number and account holder's name
+- Service or product to be refunded
+- Date of purchase or service activation
+- Reason for refund request
+- Preferred refund method
+
+### Submission Methods
+- Online: Submit through My Account portal in our mobile app (iOS and Android)
+- Phone: Contact Customer Support at 1-800-XXX-XXXX
+- In-Store: Visit any retail location with valid ID and proof of purchase
+
+## Exceptions and Special Circumstances
+
+### Billing Errors
+- Billing errors reported within 60 days will be investigated and refunded in full if verified
+- Errors reported after 60 days may be refunded at the company's discretion
+
+### Service Outages
+- Service outages exceeding 24 continuous hours may qualify for prorated service credits
+- Outage credits are automatically applied and do not require customer action
+
+### Contract Termination
+- Early termination fees are non-refundable except in cases of documented service quality issues
+- Customers relocating to areas without service coverage may request ETF waiver with proof of new address
+
+## Dispute Resolution
+If a refund request is denied, customers may escalate through the following channels:
+1. Request supervisor review through Customer Support
+2. Submit a formal appeal through the online account management system
+3. Contact the Consumer Resolution Department at consumer.resolution@company.com
+
+## Policy Updates
+This refund policy may be updated periodically. The current version is always available at www.company.com/refund-policy or through our mobile app.

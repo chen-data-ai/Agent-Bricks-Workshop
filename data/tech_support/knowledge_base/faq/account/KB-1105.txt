@@ -1,0 +1,76 @@
+ID: KB-1105
+Type: FAQ
+Category: Account
+Subcategory: Multi-line account management
+Title: How Do I Manage Multiple Lines on My Account?
+Tags: account,management,text,faq,network,multi-line,support,multi-line account management
+Last Updated: 2024-07-16 23:59:47
+Generated: 2025-07-13T23:15:56.499854
+
+---
+
+# How Do I Manage Multiple Lines on My Account?
+
+## Managing Your Multi-Line Account
+
+Managing multiple lines on your account allows you to control phone numbers for family members or employees under a single billing account. As the primary account holder, you have several options for managing these lines efficiently.
+
+### Access Options for Multi-Line Management
+
+You can manage your multiple lines through:
+
+- **Mobile App**: The most convenient option available 24/7 on iOS and Android devices
+- **Online Account Portal**: Complete management tools at myaccount.provider.com
+- **Customer Care**: Call 1-800-XXX-XXXX for assisted service (Monday-Saturday, 8AM-9PM)
+- **Retail Locations**: In-person support with proper identification
+
+### Verification Requirements
+
+For security purposes, the following verification is required when making changes to multi-line accounts:
+
+- **Primary Account Holder**: Government-issued photo ID and account PIN
+- **Authorized Users**: Must be listed on the account with their own PIN
+- **Online/App Changes**: Secure login plus two-factor authentication
+- **Major Account Changes**: May require the primary account holder's presence regardless of who initiates the request
+
+### Common Multi-Line Management Functions
+
+**Adding a New Line**
+- Processing time: 1-2 hours for activation
+- Requires credit check for new lines (unless prepaid)
+- May adjust your billing cycle date
+- New lines prorated to your existing bill cycle
+
+**Removing a Line**
+- Takes effect at the end of the current billing cycle
+- Early termination fees may apply for lines under contract
+- Device payment plans must be paid in full or transferred
+
+**Transferring Line Ownership**
+- Requires consent from both parties
+- Credit check required for the receiving account
+- Processing time: 24-48 hours
+- May result in number transfer fees ($20 per line)
+
+**Setting Line-Specific Controls**
+- Data usage limits can be set per line
+- Content filters and purchase authorizations
+- Time-of-day usage restrictions
+- Changes take effect within 15 minutes
+
+### Billing Considerations
+
+- Adding/removing lines may change plan eligibility and pricing
+- Multi-line discounts typically apply to 2+ lines (saving $5-$25 per line)
+- Data sharing pools adjust automatically when lines are added/removed
+- Mid-cycle changes are prorated on your next bill
+
+### Troubleshooting Tips
+
+If changes aren't appearing across all lines:
+1. Allow up to 4 hours for system updates
+2. Restart devices on affected lines
+3. Verify changes in your online account or mobile app
+4. Contact Customer Care if issues persist after 24 hours
+
+For immediate assistance with multi-line management, chat with a representative through the mobile app or call Customer Care.

@@ -1,0 +1,80 @@
+ID: KB-1080
+Type: FAQ
+Category: Technical
+Subcategory: Wi-fi calling setup
+Title: How Do I Set Up and Troubleshoot Wi-Fi Calling?
+Tags: technical,calling,service,setup,faq,roaming,wi-fi calling setup,device,wi-fi
+Last Updated: 2025-03-21 23:59:47
+Generated: 2025-07-13T23:15:54.702232
+
+---
+
+# How Do I Set Up and Troubleshoot Wi-Fi Calling?
+
+## What is Wi-Fi Calling?
+Wi-Fi Calling allows you to make and receive calls and text messages over a Wi-Fi network when cellular coverage is limited or unavailable. This service is included in your plan at no additional cost and uses your regular phone number.
+
+## Setting Up Wi-Fi Calling
+
+### For iPhone (iOS):
+1. Ensure your iPhone is running iOS 8.0 or later
+2. Go to **Settings** > **Phone** > **Wi-Fi Calling**
+3. Toggle on **Wi-Fi Calling on This iPhone**
+4. You may be prompted to enter or verify your emergency address
+5. When successfully activated, you'll see "Wi-Fi" next to your carrier name in the status bar
+
+### For Android:
+1. Go to **Settings** > **Network & Internet** > **Calls & SMS** (or **Mobile network** depending on your device)
+2. Tap **Wi-Fi Calling**
+3. Toggle the switch to **On**
+4. Enter your emergency address when prompted
+5. When active, you'll see a Wi-Fi calling indicator in your status bar
+
+## Common Error Messages and Solutions
+
+### "Wi-Fi Calling Activation Failed"
+* Restart your device and try again
+* Ensure you have the latest software update installed
+* Check that your account is eligible for Wi-Fi Calling (contact support if unsure)
+
+### "Emergency Address Required"
+* You must provide a valid physical address for emergency services
+* Ensure all fields are completed correctly without abbreviations
+* If the address verification fails repeatedly, contact customer support
+
+### "Connection Error" or "Unable to Establish Connection"
+* Check that your Wi-Fi connection is working properly
+* Try connecting to a different Wi-Fi network
+* Reset your network settings (Note: this will remove saved Wi-Fi passwords)
+
+## Troubleshooting Steps
+
+1. **Verify device compatibility**
+   * Not all devices support Wi-Fi Calling. Check our mobile app or website for a list of compatible devices
+
+2. **Check your Wi-Fi connection**
+   * Ensure you're connected to a stable Wi-Fi network
+   * Wi-Fi Calling works best with download speeds of at least 2 Mbps
+
+3. **Update your device**
+   * Install the latest operating system update for your device
+   * For iPhones: Settings > General > Software Update
+   * For Android: Settings > System > System update (may vary by manufacturer)
+
+4. **Reset network settings**
+   * For iPhone: Settings > General > Reset > Reset Network Settings
+   * For Android: Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+
+5. **Check account status**
+   * Log into your account via our mobile app or website to verify Wi-Fi Calling is enabled on your plan
+
+## When to Contact Support
+
+Contact our technical support team if:
+* You've verified your device is compatible but still can't enable Wi-Fi Calling
+* You receive error messages not listed above
+* Wi-Fi Calling was working previously but suddenly stopped
+* You can make Wi-Fi calls but not receive them (or vice versa)
+* The Wi-Fi Calling indicator appears but calls fail consistently
+
+Our support team is available 24/7 through the mobile app chat feature, by calling *611 from your device, or by texting HELP to 611611.

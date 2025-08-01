@@ -1,0 +1,116 @@
+ID: KB-1047
+Type: FAQ
+Category: Technical
+Subcategory: Network coverage
+Title: Why is my network coverage poor or unavailable?
+Tags: subscription,network coverage,technical,faq,wireless,network,coverage
+Last Updated: 2024-08-15 23:59:47
+Generated: 2025-07-13T23:15:51.939449
+
+---
+
+# Why is my network coverage poor or unavailable?
+
+## Understanding the Issue
+
+Poor network coverage can manifest as dropped calls, slow data speeds, delayed text messages, or complete service unavailability. This can be caused by various factors including your location, device settings, network congestion, or temporary outages.
+
+## Common Error Messages You May See
+
+- "No Service" or "Emergency Calls Only"
+- "Unable to connect to mobile network"
+- "Limited connectivity" or "Weak signal"
+- "LTE/4G/5G unavailable"
+- "SOS Only" (iOS) or "Emergency Calls Only" (Android)
+
+## Troubleshooting Steps
+
+### 1. Check Network Status
+
+**First, verify if there's a known outage in your area:**
+- Open our mobile app and check the "Network Status" section
+- Visit our website's service status page at [company.com/network-status]
+- If an outage is confirmed, service will typically be restored within 2-4 hours
+
+### 2. Restart Your Device
+
+**For Android:**
+- Press and hold the power button
+- Select "Restart" or "Reboot"
+- Wait for your device to completely restart and reconnect to the network
+
+**For iOS:**
+- Press and hold the side button and either volume button until the slider appears
+- Drag the slider to turn off your device
+- After the device turns off, press and hold the side button to restart
+
+### 3. Check Airplane Mode
+
+**For Android:**
+- Swipe down from the top of your screen to open Quick Settings
+- Ensure Airplane Mode is turned OFF (icon should not be highlighted)
+- If it's ON, tap to disable it
+
+**For iOS:**
+- Swipe down from the top-right corner (or up from the bottom on older models)
+- Ensure Airplane Mode is turned OFF (orange icon means it's ON)
+- If it's ON, tap to disable it
+
+### 4. Update Network Settings
+
+**For Android:**
+1. Go to Settings > Connections > Mobile Networks
+2. Tap "Network Operators"
+3. Select "Search networks" or "Select automatically"
+4. Wait for your phone to find and connect to the strongest network
+
+**For iOS:**
+1. Go to Settings > General > Reset
+2. Tap "Reset Network Settings" (Note: This will reset Wi-Fi networks and passwords)
+3. Enter your passcode if prompted
+4. Confirm by tapping "Reset Network Settings"
+
+### 5. Check SIM Card
+
+1. Power off your device
+2. Remove your SIM card using the SIM ejector tool
+3. Check for any damage or dirt on the SIM card
+4. Reinsert the SIM card properly
+5. Power on your device
+
+### 6. Update Your Device
+
+**For Android:**
+1. Go to Settings > System > System update or Software update
+2. Check for and install any available updates
+
+**For iOS:**
+1. Go to Settings > General > Software Update
+2. Download and install any available updates
+
+### 7. Test in Different Locations
+
+- Move to a different room or outside
+- Move away from potential sources of interference (microwave ovens, thick walls, metal objects)
+- Check if the issue persists in multiple locations
+
+## When to Contact Support
+
+Contact our technical support team if:
+
+- You've tried all troubleshooting steps and still have no service
+- Your coverage has suddenly decreased in an area where you normally have good reception
+- You see "Emergency Calls Only" for more than 24 hours
+- Your device shows full signal bars but you cannot make calls or use data
+- You consistently experience dropped calls in areas with reported good coverage
+
+## Contact Options
+
+- Chat with support through our mobile app
+- Call customer service at [phone number]
+- Visit your nearest retail store for in-person assistance
+- Submit a coverage issue report through your online account management portal
+
+## Additional Information
+
+Coverage can vary based on your service plan, device capabilities, and geographical location. Check our coverage map in the mobile app or website to verify expected service levels in your area.

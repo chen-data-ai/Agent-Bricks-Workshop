@@ -1,0 +1,106 @@
+ID: KB-1124
+Type: FAQ
+Category: Technical
+Subcategory: International roaming setup
+Title: How Do I Set Up International Roaming on My Device?
+Tags: international,troubleshooting,subscription,technical,text,international roaming setup,setup,faq,roaming
+Last Updated: 2025-01-08 23:59:47
+Generated: 2025-07-13T23:15:57.822016
+
+---
+
+# How Do I Set Up International Roaming on My Device?
+
+International roaming allows you to use your mobile service while traveling abroad. This guide will help you properly configure your device for international travel to avoid unexpected charges and ensure connectivity.
+
+## Before You Travel
+
+1. **Check your plan compatibility**
+   * Log into your account through our mobile app or website
+   * Navigate to "Plan Details" > "International Services"
+   * Verify if international roaming is included or needs to be added
+
+2. **Activate international roaming**
+   * If not already included, add international roaming through:
+     * Mobile app: "Services" > "Add Features" > "International"
+     * Online account: "Manage Plan" > "Add-ons" > "International Services"
+     * Customer Support: Call 1-800-XXX-XXXX
+   * Activation typically processes within 2 hours but may take up to 24 hours
+
+3. **Consider a travel pass or international data package**
+   * Daily travel passes often provide better value than pay-as-you-go rates
+   * Data-only packages are available for tablet/hotspot devices
+
+## Device Setup Instructions
+
+### Android Devices
+
+1. **Enable data roaming**
+   * Go to Settings > Connections/Network & Internet > Mobile Network
+   * Toggle "Data Roaming" to ON
+   * Select "International" when prompted about roaming charges
+
+2. **Set network selection to automatic**
+   * Go to Settings > Connections/Network & Internet > Mobile Network
+   * Tap "Network Operators" or "Carrier"
+   * Select "Choose Automatically"
+
+3. **Configure APN settings if needed**
+   * Go to Settings > Connections/Network & Internet > Mobile Network > Access Point Names
+   * Ensure the default APN is selected
+   * If connectivity issues persist, contact support for country-specific APN settings
+
+### iOS Devices (iPhone/iPad)
+
+1. **Enable data roaming**
+   * Go to Settings > Cellular/Mobile Data
+   * Tap "Cellular/Mobile Data Options"
+   * Toggle "Data Roaming" to ON
+
+2. **Set network selection to automatic**
+   * Go to Settings > Carrier/Mobile Data
+   * Turn off "Automatic" temporarily
+   * Wait for available networks to appear
+   * Turn "Automatic" back ON
+
+3. **Reset network settings if experiencing issues**
+   * Go to Settings > General > Reset
+   * Select "Reset Network Settings"
+   * Note: This will remove saved WiFi passwords
+
+## Common Error Messages and Solutions
+
+### "No Service" or "Searching"
+* Wait 5 minutes after landing for the device to connect
+* Toggle Airplane Mode ON and OFF
+* Restart your device
+* Ensure data roaming is enabled in settings
+
+### "Registration Failed" or "Network Unavailable"
+* Try manual network selection:
+  * Android: Settings > Connections > Mobile Networks > Network Operators > Search Networks
+  * iOS: Settings > Carrier > Turn off Automatic and select an available network
+* If multiple failed attempts, contact customer support
+
+### "Unable to Activate International Services"
+* Verify your account is in good standing (no past due payments)
+* Check if there are restrictions on your line
+* Ensure you've had service for at least 60 days (new customers)
+
+## When to Contact Support
+
+Contact our International Support team if:
+
+* Your device shows "Emergency Calls Only" for more than 1 hour
+* You've tried all troubleshooting steps and still cannot connect
+* You need country-specific APN settings
+* You receive unexpected roaming charges
+* Your device connects but data/calls/texts don't work
+
+**International Support Contact:**
+* From your device: Dial *611
+* From any phone: 1-800-XXX-XXXX
+* Via app: Chat support available 24/7
+* Email: international@provider.com
+
+**Note:** Have your account details, device model, current location, and troubleshooting steps already attempted ready when contacting support.

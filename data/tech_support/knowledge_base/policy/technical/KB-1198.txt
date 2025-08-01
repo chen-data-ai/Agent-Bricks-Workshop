@@ -1,0 +1,103 @@
+ID: KB-1198
+Type: Policy
+Category: Technical
+Subcategory: Esim activation issues
+Title: eSIM Activation Policy and Troubleshooting Guidelines
+Tags: activation,technical,esim activation issues,esim,policy,billing,plan,issues,customer
+Last Updated: 2024-08-27 23:59:47
+Generated: 2025-07-13T23:15:40.455068
+
+---
+
+# eSIM Activation Policy and Troubleshooting Guidelines
+
+## 1. Overview
+
+This document outlines our company's policies and procedures regarding eSIM activation issues, including service standards, troubleshooting protocols, and the respective responsibilities of customers and our technical support team.
+
+## 2. Service Standards for eSIM Activation
+
+### 2.1 Activation Timeframes
+- Standard eSIM activation: Within 2 hours of request submission
+- Priority activations: Within 30 minutes for business accounts
+- Bulk activations: Within 24 hours for 10+ lines
+
+### 2.2 Compatibility Requirements
+- Devices must be eSIM-compatible and unlocked
+- Operating systems must meet minimum requirements (iOS 12.1+, Android 10+)
+- Customer accounts must be in good standing with no payment blocks
+
+## 3. Common Activation Issues and Resolution Protocols
+
+### 3.1 QR Code Scanning Problems
+- QR codes remain valid for 7 days from issuance
+- Customers may request up to 3 new QR codes within a 30-day period at no charge
+- Technical support will provide alternative activation methods (manual entry) when necessary
+
+### 3.2 Profile Download Failures
+- Our systems automatically retry failed downloads up to 3 times
+- Maintenance windows may temporarily affect activation success (see Section 4)
+- Network congestion may delay activations by up to 4 additional hours
+
+## 4. Maintenance Windows and Service Availability
+
+### 4.1 Scheduled Maintenance
+- Regular maintenance: Tuesdays, 2:00 AM - 4:00 AM local time
+- Quarterly system updates: First Sunday of each quarter, 12:00 AM - 6:00 AM
+- During these windows, eSIM activation may be delayed or unavailable
+
+### 4.2 Service Availability Targets
+- 99.9% availability for eSIM activation services outside maintenance windows
+- Status updates available at status.ourcompany.com
+
+## 5. Customer Notification Protocols
+
+### 5.1 Planned Disruptions
+- Email notification 72 hours before scheduled maintenance
+- In-app and SMS notifications 24 hours before scheduled maintenance
+- Updates posted on company website and mobile app
+
+### 5.2 Unplanned Disruptions
+- Initial notification within 30 minutes of identified issue
+- Status updates every 60 minutes until resolution
+- Post-incident summary within 24 hours of resolution
+
+## 6. Customer Responsibilities
+
+### 6.1 Device and Account Preparation
+- Ensure device meets compatibility requirements before requesting eSIM
+- Maintain active Wi-Fi or cellular data connection during activation
+- Complete account verification steps before activation attempt
+- Back up existing device data before switching to eSIM
+
+### 6.2 Troubleshooting Cooperation
+- Follow provided activation instructions completely
+- Provide accurate device information when requesting support
+- Perform basic troubleshooting steps as directed by support team
+- Allow remote diagnostics when applicable
+
+## 7. Company Obligations
+
+### 7.1 Technical Support
+- 24/7 availability via phone, chat, and mobile app
+- Specialized eSIM support team available 8:00 AM - 10:00 PM daily
+- Step-by-step activation guidance through preferred communication channel
+- Device-specific instructions for all supported models
+
+### 7.2 Remediation Procedures
+- Service credits for activations exceeding standard timeframes (upon request)
+- Expedited activation for customers experiencing multiple failures
+- Alternative connectivity solutions during extended activation issues
+- Escalation path for complex technical problems
+
+## 8. Contact Information
+
+For eSIM activation support:
+- Phone: 1-800-XXX-XXXX
+- Mobile app: "Support" → "eSIM Help"
+- Online: www.ourcompany.com/esim-support
+- Email: esim@ourcompany.com
+
+## 9. Policy Updates
+
+This policy was last updated on [Current Date]. We reserve the right to modify these procedures as technology and services evolve. Customers will be notified of significant changes via email and account notifications.

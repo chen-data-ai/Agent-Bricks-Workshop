@@ -1,0 +1,53 @@
+ID: KB-1104
+Type: FAQ
+Category: Account
+Subcategory: Port-out requirements
+Title: What are the requirements for porting my number to another carrier?
+Tags: account,faq,requirements,telecom,port-out requirements,roaming,voice,port-out
+Last Updated: 2024-10-07 23:59:47
+Generated: 2025-07-13T23:15:56.447602
+
+---
+
+# What are the requirements for porting my number to another carrier?
+
+When you decide to transfer your phone number to a different service provider (known as "porting out"), there are several important requirements and procedures to be aware of:
+
+## Verification Requirements
+
+* **Account Information**: You'll need to provide your new carrier with:
+  - The phone number you wish to port
+  - Your full name as it appears on your current account
+  - Your account number (found on your bill or in your online account)
+  - Your account PIN or password
+  - The billing address associated with your account
+
+* **Account Standing**: Your account must be active and in good standing with no past-due balances to complete a port-out.
+
+* **Identity Verification**: For security purposes, we may contact you to verify your port-out request before approving the transfer.
+
+## Timeframes
+
+* **Mobile Numbers**: Typically complete within 1-3 business days after all information is correctly submitted.
+* **Landline Numbers**: May take 3-10 business days to complete.
+* **Port-Out Validation**: Initial validation of your request usually occurs within 24 hours.
+
+You can check your port status through our mobile app (available on iOS and Android) or by logging into your online account.
+
+## Billing and Service Impacts
+
+* **Final Bill**: You'll receive a final bill from us after the port is complete, which may include:
+  - Any remaining device payments
+  - Early termination fees (if applicable)
+  - Prorated service charges up to the port completion date
+
+* **Service Continuity**: To minimize service interruption, we recommend:
+  - Not canceling your service with us before the port is complete
+  - Having your new device/SIM activated and ready
+  - Initiating ports during business hours when support teams are available
+
+* **Automatic Cancellation**: Once your number is successfully ported out, your service with us for that line will automatically cancel.
+
+* **Additional Services**: Any additional services tied to your phone number (voicemail, text messaging) will also transfer to your new carrier.
+
+If you need assistance with a port-out request or have questions about the process, please contact our Customer Support team through the mobile app, online chat, or by calling the number on your bill.

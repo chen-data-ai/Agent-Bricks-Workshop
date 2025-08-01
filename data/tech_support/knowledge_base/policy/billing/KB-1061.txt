@@ -1,0 +1,114 @@
+ID: KB-1061
+Type: Policy
+Category: Billing
+Subcategory: Understanding your bill
+Title: Understanding Your Bill: Customer Guide
+Tags: payment,your,bill,policy,service,data,understanding your bill,understanding,billing
+Last Updated: 2025-01-04 23:59:47
+Generated: 2025-07-13T23:15:52.891329
+
+---
+
+# Understanding Your Bill: Customer Guide
+
+## Introduction
+This document explains how to read and interpret your monthly telecommunications bill, outlines payment procedures, and details your rights regarding billing inquiries. Our commitment is to provide transparent, accurate, and timely billing information to all customers.
+
+## Billing Cycle and Delivery
+
+### Billing Period
+Your bill covers service from the 1st to the last day of each month. Charges for new services may be prorated from the activation date to the end of the billing cycle.
+
+### Bill Delivery
+Bills are generated within 3 business days after your billing cycle closes and are delivered according to your selected preference:
+- Digital bills: Available immediately in your online account and mobile app (iOS/Android)
+- Paper bills: Mailed within 5 business days of generation
+- Email notifications: Sent within 24 hours of bill generation
+
+## Understanding Your Bill Components
+
+### Account Summary
+The first section provides a snapshot of your previous balance, payments received, new charges, and total amount due.
+
+### Service Charges
+This section details recurring monthly charges for each service on your account:
+- Base plan charges
+- Equipment installments
+- Add-on features
+- Promotional discounts (with expiration dates clearly indicated)
+
+### Usage-Based Charges
+Details any charges based on consumption:
+- Voice minutes exceeding plan allowance
+- Data usage beyond plan limits
+- International calling/roaming fees
+- Premium service charges
+
+### One-Time Charges and Credits
+Non-recurring items appearing on your current bill:
+- Activation fees
+- Equipment purchases
+- Service change fees
+- Account credits or adjustments
+
+### Taxes and Regulatory Fees
+Itemized government-mandated charges:
+- Federal Universal Service Fee
+- State and local taxes
+- 911 service fees
+- Regulatory cost recovery charges
+
+## Payment Terms and Options
+
+### Due Date
+Payment is due 21 days after bill generation. The specific due date appears prominently on your bill.
+
+### Payment Methods
+- Online: Through your account portal or mobile app
+- Automatic payment: Set up recurring payments via credit card or bank account
+- Phone: Pay through our automated system at [phone number]
+- In-store: At any company retail location
+- Mail: Send check or money order to the address on your bill
+
+### Late Payment Policy
+- Payments received after the due date incur a late fee of $5 or 1.5% of the unpaid balance, whichever is greater
+- Service interruption may occur if payment is more than 30 days past due
+- Reconnection fee of $25 applies if service is suspended for non-payment
+
+## Billing Inquiries and Dispute Resolution
+
+### Review Period
+You have 60 days from the bill date to review and dispute any charges.
+
+### How to Submit a Dispute
+1. Contact customer service via phone, chat, or in-store
+2. Specify the disputed amount and reason for dispute
+3. Continue paying undisputed portions of your bill while the investigation proceeds
+
+### Resolution Timeline
+- Acknowledgment of dispute: Within 48 hours
+- Investigation period: Up to 30 days
+- Resolution notification: By phone, email, or letter
+- Adjustments: Applied to your account within 1-2 billing cycles if dispute is resolved in your favor
+
+## Accessing Your Billing History
+
+### Online Account Management
+Access up to 12 months of billing history through:
+- Web portal: View, download, and print bills
+- Mobile app: View bill summaries and payment history
+
+### Extended History Requests
+Bills older than 12 months can be requested by contacting customer service. Processing may take up to 5 business days.
+
+## Glossary of Billing Terms
+
+**Prorated Charges**: Partial charges calculated based on the number of days a service was active during a billing cycle.
+
+**Regulatory Cost Recovery Fee**: A non-government-mandated fee that helps recover costs associated with complying with government regulations.
+
+**Service Credit**: An adjustment that reduces the amount owed on your bill.
+
+**Usage-Based Billing**: Charges that vary based on your consumption of services beyond plan allowances.
+
+**Billing Cycle**: The recurring period (typically monthly) for which services are billed.

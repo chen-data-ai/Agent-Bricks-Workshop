@@ -1,0 +1,109 @@
+ID: KB-1051
+Type: Policy
+Category: Technical
+Subcategory: Sim card issues
+Title: Technical Services Policy: SIM Card Issues
+Tags: card,sim card issues,technical,mobile,voice,policy,billing,issues
+Last Updated: 2025-04-15 23:59:47
+Generated: 2025-07-13T23:15:52.275005
+
+---
+
+# Technical Services Policy: SIM Card Issues
+
+## 1. Overview
+This policy document outlines our company's approach to managing SIM card-related issues, including our service standards, troubleshooting protocols, and the respective responsibilities of both our company and our customers.
+
+## 2. Service Standards
+
+### 2.1 SIM Card Functionality
+We guarantee that all SIM cards provided by our company will:
+- Be compatible with all certified devices on our network
+- Support 4G/5G connectivity where network coverage permits
+- Enable voice, SMS, and data services as per the customer's subscription plan
+- Meet industry security standards for authentication and encryption
+
+### 2.2 Response Times
+- Critical SIM issues (complete service loss): Initial response within 2 hours
+- Standard SIM issues (partial functionality): Initial response within 24 hours
+- SIM replacement requests: Processing within 1 business day
+
+## 3. Maintenance Windows
+
+### 3.1 Scheduled Maintenance
+- SIM provisioning system maintenance occurs monthly on the second Tuesday, 2:00-5:00 AM local time
+- During this period, new SIM activations and certain SIM management functions may be unavailable
+- Emergency SIM services will remain operational through backup systems
+
+### 3.2 Emergency Maintenance
+- In rare cases, unscheduled maintenance may be required to address security vulnerabilities
+- These interventions will be limited to the minimum duration necessary
+
+## 4. Customer Notification Protocols
+
+### 4.1 Maintenance Notifications
+- Scheduled maintenance: Notification via SMS and account app 72 hours in advance
+- Emergency maintenance: Notification via SMS and app push notification as soon as possible
+
+### 4.2 SIM Issue Alerts
+- Service-impacting SIM platform issues will be communicated via:
+  - Company service status page
+  - Mobile app notifications
+  - SMS (when feasible)
+  - Customer support channels
+
+## 5. Troubleshooting and Remediation Procedures
+
+### 5.1 Initial Troubleshooting
+For SIM-related issues, customers should:
+1. Restart the device
+2. Verify the SIM is properly inserted
+3. Test the SIM in another compatible device (if available)
+4. Check for available software/carrier updates
+5. Contact customer support if issues persist
+
+### 5.2 Remote Remediation
+Our technical support can perform the following remote actions:
+- SIM refresh/reset signals
+- Network registration reset
+- APN configuration updates
+- Service provisioning verification
+
+### 5.3 SIM Replacement
+- Free replacement for defective SIMs under normal usage conditions
+- Expedited shipping available for critical service needs
+- Self-service SIM swap available through our mobile app and online account portal
+
+## 6. Customer Responsibilities
+
+Customers are responsible for:
+- Protecting the SIM card from physical damage, extreme temperatures, and moisture
+- Not tampering with or attempting to modify the SIM card
+- Promptly reporting lost or stolen SIM cards through the mobile app, online account, or customer service
+- Following proper SIM installation procedures for their specific device
+- Maintaining current contact information for service notifications
+- Securing their PIN/PUK codes
+
+## 7. Company Obligations
+
+Our company commits to:
+- Providing fully functional SIM cards that meet industry standards
+- Maintaining the SIM provisioning infrastructure with 99.9% uptime
+- Offering 24/7 support for critical SIM issues via phone, app, and online channels
+- Protecting customer data stored on SIM cards in accordance with privacy laws
+- Supporting both iOS and Android devices with appropriate troubleshooting guidance
+- Providing clear instructions for SIM activation and usage through our mobile app
+
+## 8. Special Circumstances
+
+### 8.1 Lost/Stolen SIMs
+- Immediate suspension available 24/7 through our mobile app, online account, or customer service
+- No charge for service suspension due to lost/stolen SIMs
+- New SIM fees may apply per current pricing schedule
+
+### 8.2 International Travel
+- SIM functionality in international locations depends on roaming agreements
+- Customers should verify compatibility before travel through our mobile app or website
+- Special roaming SIMs available upon request for extended international stays
+
+For assistance with any SIM card issues, please contact customer support through our mobile app, website, or by calling our technical support line.

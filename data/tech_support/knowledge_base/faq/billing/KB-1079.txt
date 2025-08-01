@@ -1,0 +1,60 @@
+ID: KB-1079
+Type: FAQ
+Category: Billing
+Subcategory: Credit application
+Title: What is a credit application and how does it affect my account?
+Tags: subscription,faq,credit,application,mobile,roaming,credit application,billing
+Last Updated: 2024-10-28 23:59:47
+Generated: 2025-07-13T23:15:54.648101
+
+---
+
+# What is a credit application and how does it affect my account?
+
+A credit application is a process we use to evaluate your creditworthiness when you're opening a new account or requesting certain services with us. This helps us determine your eligibility for postpaid service plans, device financing, and the amount of any security deposit that may be required.
+
+## How the credit application process works:
+
+When you apply for our services, we'll ask for personal information including:
+- Full legal name
+- Current address
+- Social Security Number or Tax ID
+- Date of birth
+- Employment information (in some cases)
+
+We use this information to perform a credit check through national credit bureaus. This creates what's called a "soft inquiry" on your credit report, which doesn't affect your credit score.
+
+## How credit affects your account options:
+
+Based on your credit assessment, you may:
+
+1. **Qualify for services with no deposit** - If you have strong credit, you'll typically be approved for services without any security deposit.
+
+2. **Need to pay a security deposit** - Deposits typically range from $50 to $500 depending on your credit and the services requested. For example:
+   - Basic single line: $50-$150 deposit
+   - Family plan with 4 lines: $200-$400 deposit
+   - Premium plans with device financing: $300-$500 deposit
+
+3. **Have device financing limits** - Your credit may determine how many devices you can finance simultaneously and your maximum financing amount.
+
+## Frequently asked follow-up questions:
+
+**Will I get my deposit back?**
+Yes! Security deposits are fully refundable after 12 consecutive months of on-time payments, or when you close your account in good standing. The deposit appears as a credit on your final bill or is refunded via check.
+
+**Can I still get service if I have poor credit?**
+Absolutely! If you don't qualify for postpaid service based on credit, you can:
+- Choose a prepaid plan with no credit check required
+- Add a co-signer with established credit
+- Start with a higher security deposit
+
+**Can I check my application status?**
+You can check your application status by:
+- Logging into our mobile app and checking the "Applications" section
+- Visiting your online account portal at our website
+- Calling customer support at our toll-free number
+
+**How can I improve my credit options in the future?**
+Maintaining 12 months of on-time payments with us helps establish positive payment history. You can request a credit re-evaluation after 12 months to potentially reduce or eliminate your deposit requirement.
+
+Need more help understanding your credit application? Contact our customer support team through the mobile app, online chat, or by calling our customer service number.

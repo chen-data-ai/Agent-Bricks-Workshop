@@ -1,0 +1,124 @@
+ID: KB-1180
+Type: Procedure
+Category: Technical
+Subcategory: Esim activation issues
+Title: Technical Procedure: Resolving eSIM Activation Issues
+Tags: subscription,activation,technical,esim activation issues,procedure,esim,device,plan,issues
+Last Updated: 2024-08-02 23:59:47
+Generated: 2025-07-13T23:15:48.076005
+
+---
+
+# Technical Procedure: Resolving eSIM Activation Issues
+
+**Document ID:** TP-ESIM-001  
+**Version:** 2.3  
+**Last Updated:** [Current Date]  
+**Department:** Technical Support  
+
+## 1. Overview
+
+This document provides a systematic approach for diagnosing and resolving eSIM activation issues. Follow these procedures to efficiently troubleshoot customer problems with eSIM provisioning, activation, and functionality.
+
+## 2. Required Tools/System Access
+
+- Customer account management system (CAMS)
+- eSIM provisioning platform (EPP)
+- Network provisioning system (NPS)
+- Device compatibility database
+- Remote diagnostic tools
+- Ticket management system
+
+## 3. Preliminary Assessment
+
+### 3.1 Verify Account Status
+- Confirm customer identity using standard verification protocol
+- Check account standing (active/suspended/past due)
+- Verify customer has eSIM-eligible rate plan
+- Confirm eSIM feature is properly added to customer account
+
+### 3.2 Device Verification
+- Confirm device model and OS version
+- Verify device is eSIM compatible using device compatibility database
+- Check if device is carrier locked/unlocked
+- Verify device IMEI is properly registered in our systems
+
+## 4. Diagnostic Procedure
+
+### 4.1 Initial Diagnostics
+1. Verify eSIM order status in EPP
+2. Check for pending or failed provisioning requests
+3. Confirm QR code/activation code was generated correctly
+4. Verify activation code has not expired (valid for 14 days)
+5. Check network logs for failed activation attempts
+
+### 4.2 Device-Side Verification
+1. Confirm device has latest OS version
+2. Verify Wi-Fi or cellular data connection is active and stable
+3. Check for any conflicting profiles on device
+4. Verify device storage has adequate space
+5. Confirm device is not in airplane mode or restricted mode
+
+## 5. Resolution Procedures
+
+### 5.1 QR Code/Activation Code Issues
+1. Delete failed activation attempt in EPP
+2. Generate new eSIM activation code
+3. Send new QR code via preferred customer channel (email/SMS/app)
+4. Guide customer through proper scanning procedure
+5. Verify activation success in real-time
+
+### 5.2 Profile Download Issues
+1. Instruct customer to:
+   - Ensure stable Wi-Fi connection
+   - Disable VPN if active
+   - Clear cache in cellular settings (device-specific steps)
+2. Manually push profile from EPP
+3. Monitor download progress in real-time
+4. Verify profile installation status
+
+### 5.3 Network Registration Issues
+1. Check network registration status in NPS
+2. Verify IMSI is properly provisioned
+3. Reset network settings on device (provide device-specific instructions)
+4. Perform OTA update to refresh network parameters
+5. Verify signal acquisition and service functionality
+
+## 6. Decision Tree
+
+```
+START
+├── Is account in good standing?
+│   ├── NO → Resolve account issues first
+│   └── YES → Continue
+├── Is device eSIM compatible?
+│   ├── NO → Recommend compatible device or physical SIM
+│   └── YES → Continue
+├── Was QR code/activation code generated?
+│   ├── NO → Generate new code
+│   └── YES → Continue
+├── Was QR code scanned successfully?
+│   ├── NO → Troubleshoot scanning issues
+│   └── YES → Continue
+├── Did profile download complete?
+│   ├── NO → Troubleshoot download issues
+│   └── YES → Continue
+├── Is profile showing as active on device?
+│   ├── NO → Verify profile status
+│   └── YES → Continue
+├── Is device registering on network?
+│   ├── NO → Troubleshoot network registration
+│   └── YES → Activation successful
+END
+```
+
+## 7. Escalation Criteria
+
+Escalate to Tier 2 Support if:
+- Multiple activation attempts have failed
+- Profile downloads but fails to register on network after all troubleshooting steps
+- System shows successful activation but device cannot connect to network
+- Incompatibility between account configuration and device capabilities
+- Suspected network provisioning issue
+
+Escalate to

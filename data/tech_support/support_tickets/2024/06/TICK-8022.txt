@@ -1,0 +1,75 @@
+Ticket ID: TICK-8022
+Customer ID: CUS-11160
+Subscription ID: SUB-10001713
+Category: Technical
+Priority: Medium
+Status: Closed
+Created: 2024-06-13 21:46:46.299000
+Agent ID: TEC-8479
+Resolved: 2024-06-16 21:46:46.299000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8022 (Created: 2024-06-14 04:46)
+
+I'm extremely frustrated with my internet connection right now. I've been a loyal customer for 3 years on your Ultimate Fiber 1Gbps plan, but for the past week, my speeds have been absolutely terrible. My Galaxy S24 Ultra is showing download speeds of only 12-15 Mbps when connected to my home WiFi, and my laptop is even worse at 8 Mbps. I've restarted my router (the TG3482 gateway you provided) multiple times, and I keep getting the blinking amber light followed by the "Limited Connectivity" error message.
+
+I work from home and have important video meetings throughout the day. I've already had to apologize to clients twice today because my connection kept dropping during calls. The error code ERR-4032 keeps appearing on my router's admin page when I try to run diagnostics.
+
+I've tried everything in your troubleshooting guide - power cycling, checking cables, even resetting to factory settings. Nothing helps! I'm in the Oakridge neighborhood of Portland where you advertise "99.9% reliability" for fiber service. This is unacceptable service for what I'm paying ($89.99/month).
+
+I need this fixed TODAY. If a technician needs to come out, I'm available anytime. If this isn't resolved immediately, I'll have no choice but to switch providers. Please help!
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8022 | Agent TEC-8479 | Resolved on 2024-06-17 04:46
+
+Dear Valued Customer,
+
+Thank you for your patience while we addressed the connectivity issues with your Ultimate Fiber 1Gbps service. I sincerely apologize for the frustration and inconvenience this has caused, especially considering your work-from-home requirements and the impact on your client meetings.
+
+## Issue Diagnosis
+After reviewing your ticket details and the ERR-4032 error code from your TG3482 gateway, I identified that the issue was related to a damaged fiber optic terminal at the neighborhood junction box serving the Oakridge area. This damage was affecting multiple customers in your vicinity and causing the severe speed degradation and intermittent connectivity you experienced.
+
+## Actions Taken
+1. Remotely accessed your gateway (TG3482) and confirmed signal degradation at -28dBm (below our minimum threshold of -24dBm)
+2. Dispatched field technician #FT-392 to your location on 2024-06-15 at your requested earliest availability
+3. Technician replaced the damaged fiber optic terminal and verified clean connections at both the junction box and your premises
+4. Performed full system reset and reconfiguration of your gateway
+5. Conducted comprehensive speed tests across multiple devices:
+   - Your Galaxy S24 Ultra: 947 Mbps download / 912 Mbps upload
+   - Your laptop: 962 Mbps download / 928 Mbps upload
+   - Additional devices in your home network showing similar performance
+
+## Service Credits
+In accordance with our Service Level Agreement policy (SLA-2024-01) for Premium Fiber customers, I've applied the following to your account:
+- 3-day service credit: $8.99
+- Inconvenience compensation credit: $15.00
+- Total credit applied: $23.99
+
+These credits will appear on your next billing statement.
+
+## Preventative Measures
+To prevent similar issues in the future, I've:
+1. Added your account to our Priority Monitoring program for the next 30 days
+2. Scheduled an automatic follow-up check on your connection quality in 7 days
+3. Updated your account with a direct escalation path should you experience any further issues
+
+## Additional Recommendations
+For optimal performance with your Ultimate Fiber 1Gbps plan:
+- Consider updating your WiFi router firmware through our mobile app (available on both iOS and Android)
+- For your work-from-home needs, I recommend using our Network Priority feature in the account portal to prioritize your video conferencing applications
+- Enable push notifications in our mobile app to receive real-time alerts about any service disruptions in your area
+
+Please don't hesitate to contact us if you experience any further issues. Your satisfaction is our priority, and we value your continued loyalty as a customer of three years.
+
+Thank you for your patience throughout this resolution process.
+
+Best regards,
+
+Agent TEC-8479
+Technical Support Team

@@ -1,0 +1,53 @@
+ID: KB-1159
+Type: FAQ
+Category: Billing
+Subcategory: Service interruption credits
+Title: How Do Service Interruption Credits Work on My Bill?
+Tags: interruption,service interruption credits,service,credits,faq,network,phone,billing
+Last Updated: 2024-11-20 23:59:47
+Generated: 2025-07-13T23:15:46.581825
+
+---
+
+# How Do Service Interruption Credits Work on My Bill?
+
+## Overview
+When you experience a service outage or interruption that's our fault, you may be eligible for a credit on your bill. Service interruption credits compensate you for the time you couldn't use the service you're paying for.
+
+## How Credits Are Calculated
+Credits are typically calculated based on your daily service rate. For example:
+- If your monthly plan costs $60 (equivalent to about $2 per day) and you experience a 2-day outage, you may receive approximately $4 in credit
+- For home internet services priced at $80/month, a 12-hour outage might result in a $1.33 credit ([$80 ÷ 30 days] ÷ 2)
+
+## When Credits Are Applied
+Credits are automatically applied for widespread outages affecting your area. For individual service issues, you'll need to report the problem through our mobile app, online account portal, or by contacting customer support.
+
+## How to Request a Credit
+If you've experienced a service interruption:
+1. Document when the outage began and ended
+2. Contact us within 30 days of the interruption
+3. Provide your account information and outage details
+
+You can request credits through:
+- Our mobile app (iOS and Android): Navigate to "Support" → "Report an Issue" → "Service Outage"
+- Online account: Log in at our website, select "Billing" → "Request Credit"
+- Customer service: Call the number on your bill
+
+## When Credits Appear on Your Bill
+Approved credits typically appear on your next bill as a line item labeled "Service Interruption Credit" or "Outage Credit." If the credit is approved after your billing cycle has closed, it will appear on the following month's statement.
+
+## Common Questions
+
+**Q: Is there a minimum outage duration to qualify for credit?**
+A: Yes, most service interruptions must last at least 4 consecutive hours to qualify for credit.
+
+**Q: Do I get credit for planned maintenance outages?**
+A: Typically no, as these are scheduled and communicated in advance.
+
+**Q: What if I have bundled services?**
+A: Credits are applied only to the specific service that experienced the outage. For example, if only your TV service was affected in a triple-play package, the credit would be calculated based on the TV portion of your bill.
+
+**Q: How do I know if a reported outage affected my area?**
+A: Check the "Outage Map" in our mobile app or online account portal, or enable outage notifications in your account settings to receive automated alerts.
+
+If you have additional questions about service interruption credits on your bill, please contact our customer support team.

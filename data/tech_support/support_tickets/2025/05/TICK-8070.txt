@@ -1,0 +1,64 @@
+Ticket ID: TICK-8070
+Customer ID: CUS-11251
+Subscription ID: SUB-10001840
+Category: Technical
+Priority: Medium
+Status: Resolved
+Created: 2025-05-22 22:04:23.440000
+Agent ID: TEC-2641
+Resolved: 2025-05-26 22:04:23.440000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8070 (Created: 2025-05-23 05:04)
+
+I'm beyond frustrated with my service right now. For the past three days, my iPhone 15 Pro keeps showing "No Service" or fluctuating between 1-2 bars in areas where I've always had full coverage. I live in downtown Portland and work in Beaverton - both areas where I've never had issues before. My wife's phone (also on our Family Unlimited Plus plan) works perfectly fine in the same locations with full 5G.
+
+I've already tried restarting my Apple MiFi 5, toggling airplane mode, resetting network settings, and even removed/reinserted my SIM card. Nothing helps! When I try to make calls, they either fail immediately or drop after 30 seconds. I keep getting error message "Call Failed: Network connection lost" when trying to dial out.
+
+This is completely unacceptable - I'm paying $89.99/month for "premium nationwide coverage" and can't even make basic calls. I have important work calls tomorrow and need this fixed IMMEDIATELY. I've been a loyal customer for 7 years and never had issues like this.
+
+Is there an outage in my area? Or is something wrong with my specific line? Please help ASAP before I'm forced to switch carriers.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8070 | Agent TEC-2641 | Resolved on 2025-05-27 05:04
+
+Dear Valued Customer,
+
+Thank you for your patience while we addressed the connectivity issues you've been experiencing with your iPhone 15 Pro. I sincerely apologize for the frustration and inconvenience this has caused, especially given your 7-year loyalty to our service.
+
+## Issue Investigation & Resolution:
+
+After reviewing your account and the Portland/Beaverton service areas, I identified that your line was affected by an eSIM profile corruption issue that occurred during our recent network enhancement in the Portland metro area. This explains why your wife's device on the same Family Unlimited Plus plan was functioning normally while yours was experiencing the "No Service" errors and call failures.
+
+## Actions Taken:
+
+1. Performed a comprehensive diagnostic on your line using our NetTrack system
+2. Identified the corrupted eSIM profile associated with your iPhone 15 Pro
+3. Remotely deprovisioned and reprovisioned a new eSIM profile to your device
+4. Verified successful connection to our network with full 5G capability
+5. Conducted test calls to confirm voice service restoration
+6. Applied a service credit of $17.99 to your account (representing 6 days of service) per our Service Guarantee Policy (SGP-2025-04)
+
+## Additional Information:
+
+The network enhancement that caused this issue has been completed, and your service should now be fully restored to our premium nationwide coverage standards. Your iPhone 15 Pro should maintain consistent 5G connectivity in both Portland and Beaverton locations.
+
+## Follow-up Actions:
+
+1. I've scheduled a courtesy call for 48 hours from now to ensure your service remains stable
+2. Added a note to your account regarding this incident to expedite any future support needs
+3. Sent troubleshooting steps to your registered email address should you experience any similar issues in the future
+
+If you notice any further connectivity problems, please contact us immediately through our Priority Support line at 800-555-1234 or through the "Support" section of our mobile app. As a 7-year customer, your satisfaction remains our top priority.
+
+Thank you again for your patience and for bringing this matter to our attention.
+
+Sincerely,
+Agent TEC-2641
+Technical Support Team

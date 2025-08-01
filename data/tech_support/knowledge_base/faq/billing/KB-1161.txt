@@ -1,0 +1,53 @@
+ID: KB-1161
+Type: FAQ
+Category: Billing
+Subcategory: Prorated billing
+Title: What is prorated billing and how does it appear on my bill?
+Tags: subscription,troubleshooting,faq,prorated,data,prorated billing,billing
+Last Updated: 2025-05-06 23:59:47
+Generated: 2025-07-13T23:15:46.741663
+
+---
+
+# What is prorated billing and how does it appear on my bill?
+
+When you make changes to your service in the middle of your billing cycle, we use prorated billing to ensure you only pay for the services you actually used. This means we calculate charges based on the exact number of days you had each service, rather than charging full monthly fees.
+
+## How prorated billing works
+
+Prorated charges are calculated using this formula:
+* (Monthly fee ÷ Days in billing cycle) × Number of days service was active
+
+For example, if you:
+- Have a $60 monthly plan
+- Upgrade to an $80 plan on day 15 of a 30-day billing cycle
+- You'll pay $30 for the first half of the month ($60 ÷ 30 × 15)
+- And $40 for the second half ($80 ÷ 30 × 15)
+
+## Common scenarios where you'll see prorated charges
+
+- **Adding or removing a line**: If you add a new line on day 20 of a 30-day cycle, you'll be charged for just those 10 days.
+- **Changing your data plan**: Upgrading from a 5GB plan to an unlimited plan mid-cycle means you'll pay the lower rate until the change date, then the higher rate afterward.
+- **Adding features**: Adding international calling halfway through your cycle means you'll only pay half the monthly feature price.
+- **Device installment plans**: These typically start on the date of purchase, regardless of your billing cycle.
+
+## How to identify prorated charges on your bill
+
+Look for:
+- Partial charges listed as "Prorated" or "Partial Month Charge"
+- Date ranges next to service charges (e.g., "5GB Data Plan 3/1-3/15")
+- Credit amounts for unused service portions
+- Multiple entries for the same service with different date ranges
+
+## Frequently asked follow-up questions
+
+**Will my bill be higher when I have prorated charges?**
+Your bill might be temporarily higher if you're upgrading services, as you may see charges for both your old and new services. However, you're only paying for what you actually used.
+
+**When will my billing cycle normalize?**
+Your bill will return to showing standard monthly charges in the billing cycle following any changes.
+
+**Can I change my service date to avoid prorated charges?**
+You can request to change your billing cycle date through our mobile app or online account management. While this won't eliminate prorated charges for the transition month, it can help align future bills with your preferred payment timing.
+
+Need more help understanding your specific prorated charges? You can view a detailed breakdown in our mobile app (iOS and Android) or by logging into your online account.

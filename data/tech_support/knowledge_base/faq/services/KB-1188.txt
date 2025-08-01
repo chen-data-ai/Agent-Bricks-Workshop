@@ -1,0 +1,75 @@
+ID: KB-1188
+Type: FAQ
+Category: Services
+Subcategory: Reward programs
+Title: How Do Our Reward Programs Work?
+Tags: programs,reward,services,faq,voice,coverage,reward programs,phone
+Last Updated: 2025-03-13 23:59:47
+Generated: 2025-07-13T23:15:39.766548
+
+---
+
+# How Do Our Reward Programs Work?
+
+## Overview
+Our reward programs are designed to thank you for your loyalty and provide additional value beyond your regular service. These programs allow you to earn points for various activities that can be redeemed for discounts, free services, device upgrades, and more.
+
+## Program Eligibility & Compatibility
+
+**Plan Compatibility:**
+- Available on all postpaid individual and family plans
+- Prepaid customers can participate with limited benefits
+- Business accounts with 5+ lines qualify for enhanced business rewards
+
+**Device Compatibility:**
+- Program accessible on all smartphones (iOS and Android)
+- Tablet users can access rewards through our mobile app or website
+- Basic phone users can manage rewards by calling customer service or using our website
+
+## How to Enroll
+
+1. **Mobile App:** Open our app, navigate to the "Rewards" section and tap "Join Now"
+2. **Online:** Log into your account at myaccount.ourcompany.com and select "Rewards Program" 
+3. **In Store:** Ask any representative to enroll you during your visit
+4. **Phone:** Call customer service at 1-800-XXX-XXXX and request enrollment
+
+Enrollment is free and takes effect immediately.
+
+## Earning Points
+
+Points are earned through:
+
+- **Monthly Bill Payment:** 1 point per $1 spent on services
+- **On-time Payments:** 50 bonus points for each on-time payment
+- **Service Anniversaries:** 100 points for each year with our service
+- **Referrals:** 500 points when a referred friend activates service
+- **Digital Activities:** 25 points for paperless billing enrollment, 10 points for using the mobile app to pay bills
+
+## Redeeming Rewards
+
+Rewards can be redeemed through our mobile app or website by navigating to the "Rewards" section:
+
+**Popular Redemption Options:**
+- 500 points: $5 off your monthly bill
+- 1,000 points: 1GB additional data for one month
+- 2,500 points: Free premium service feature for three months
+- 5,000 points: $50 device upgrade credit
+- 10,000 points: $100 bill credit
+
+## Maximizing Your Rewards
+
+**Example Strategies:**
+1. **New Customer:** Enroll in paperless billing (+25 points), download our app (+10 points), and refer two friends (+1,000 points) to earn enough for a $10 bill credit in your first month.
+
+2. **Family Plan:** With 4 lines averaging $160/month, you'll earn approximately 160 points monthly from spending alone. Add on-time payment bonuses (+50 points) to earn over 2,500 points annually—enough for three months of premium features.
+
+3. **Long-term Customer:** Combine your anniversary bonus (100 points) with regular monthly spending points and on-time payment bonuses to earn approximately 3,000 points annually, which could be used for device upgrade credits.
+
+## Additional Information
+
+- Points expire 24 months after being earned
+- Points balance is visible in our mobile app and online account portal
+- Special promotions offering bonus points are announced via email and in-app notifications
+- Customer service representatives can assist with point discrepancies or redemption issues
+
+For specific questions about your rewards account, please contact customer service or visit your nearest store location.

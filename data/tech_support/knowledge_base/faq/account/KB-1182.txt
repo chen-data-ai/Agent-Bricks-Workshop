@@ -1,0 +1,81 @@
+ID: KB-1182
+Type: FAQ
+Category: Account
+Subcategory: Authorized user management
+Title: How Do I Add or Remove Authorized Users on My Account?
+Tags: account,management,authorized user management,user,faq,roaming,device,billing,authorized
+Last Updated: 2024-11-23 23:59:47
+Generated: 2025-07-13T23:15:48.180028
+
+---
+
+# How Do I Add or Remove Authorized Users on My Account?
+
+## Overview
+Authorized users are individuals you designate to make certain changes to your account. They can access account information, make payments, and request some service changes, but cannot cancel the account or add additional authorized users.
+
+## Adding an Authorized User
+
+### Requirements
+- Only the primary account holder can add authorized users
+- You'll need to provide the following for each authorized user:
+  * Full legal name
+  * Date of birth
+  * Email address
+  * Last 4 digits of SSN (for identity verification)
+  * Custom 4-digit PIN (optional)
+
+### Process
+1. **Online**: Log into your account at MyAccount.com or through our mobile app (available on iOS and Android)
+   - Navigate to "Account Settings" > "Authorized Users" > "Add User"
+   - Complete the required fields and set permissions
+
+2. **By Phone**: Call Customer Support at 1-800-XXX-XXXX
+   - You'll need to pass security verification
+   - Our representative will collect the authorized user's information
+
+3. **In Store**: Visit any retail location with your government-issued photo ID
+
+### Verification
+- The primary account holder must verify identity through:
+  * Account PIN/password
+  * Last 4 digits of SSN
+  * Photo ID (in-store only)
+
+## Removing an Authorized User
+
+### Process
+1. **Online**: Log into your account and navigate to "Account Settings" > "Authorized Users"
+   - Select the user and click "Remove Access"
+   
+2. **By Phone/In Store**: Follow the same contact methods as adding a user
+
+## Important Information
+
+### Timeframes
+- Online changes typically take effect immediately
+- Phone/in-store changes may take up to 24 hours to fully process
+- System maintenance periods (typically 12am-4am local time on Sundays) may delay processing
+
+### Billing & Service Impacts
+- Adding/removing users does not affect your monthly bill
+- Authorized users cannot:
+  * Change your rate plan
+  * Cancel lines or services
+  * Add new lines
+  * Request equipment upgrades that require new financing
+  * Port numbers to another carrier
+
+### Security Best Practices
+- Review your authorized users list quarterly
+- Update PINs every 6 months
+- Remove authorized users immediately when access is no longer needed
+- Set appropriate permission levels for each authorized user
+
+### Troubleshooting
+If an authorized user is having trouble accessing the account, verify:
+- Their information was entered correctly
+- 24 hours have passed since adding them
+- They are using the correct login credentials
+
+For additional assistance, contact Customer Support at 1-800-XXX-XXXX.

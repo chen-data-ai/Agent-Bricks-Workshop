@@ -1,0 +1,52 @@
+Ticket ID: TICK-8050
+Customer ID: CUS-11329
+Subscription ID: SUB-10001954
+Category: Billing
+Priority: High
+Status: Resolved
+Created: 2025-04-27 21:57:04.352000
+Agent ID: BIL-7266
+Resolved: 2025-04-27 21:57:04.352000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8050 (Created: 2025-04-28 04:57)
+
+I am beyond frustrated with my latest bill. I just upgraded to your "Ultimate Unlimited Plus" family plan last month after your representative PROMISED me it would save me money, but my bill is now $47.83 higher than before! I specifically switched from the "Family Share 20GB" plan because I was told the new plan would be better for my family of 4 with unlimited data AND cost less per month.
+
+To make matters worse, I see charges for "Device Protection Premium" on all four lines ($17.99 each!) which I NEVER authorized. I use an iPhone 15 Pro, my husband has a Galaxy S24 Ultra, and my teenagers both have iPhone 14s. When I try to view the detailed bill breakdown in your mobile app on my iPhone, I keep getting an "Error 3075: Unable to retrieve billing details" message.
+
+This is completely unacceptable. I need these unauthorized insurance charges removed immediately and my bill adjusted to reflect what I was promised when I switched plans. I'm in the Phoenix area and have been a loyal customer for over 7 years, but I'm seriously considering switching carriers if this isn't resolved quickly. Please call me back ASAP as I need to pay this bill soon but refuse to pay for services I didn't request.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8050 | Agent BIL-7266 | Resolved on 2025-04-28 04:57
+
+Dear Valued Customer,
+
+Thank you for bringing these billing concerns to our attention. I sincerely apologize for the frustration you've experienced with your recent plan change and the unexpected charges on your bill.
+
+Actions taken:
+1. Accessed billing system (ATLAS) to review your account history and recent plan change from "Family Share 20GB" to "Ultimate Unlimited Plus"
+2. Confirmed unauthorized "Device Protection Premium" charges ($17.99 x 4 lines = $71.96) were added during the plan transition without proper consent
+3. Removed all Device Protection Premium services from all four lines effective immediately
+4. Applied a credit of $71.96 to your account for the unauthorized insurance charges
+5. Applied an additional courtesy credit of $47.83 to match the previous plan pricing as promised by our representative
+6. Total credit applied: $119.79
+7. Submitted IT ticket #IT-3075 to resolve the mobile app error you encountered when trying to view billing details
+
+I've also reviewed the plan comparison between your previous "Family Share 20GB" and current "Ultimate Unlimited Plus" plan. While the base price of the Unlimited plan is higher, I've applied the appropriate promotional discount (Loyalty7+ discount) that should have been included during your upgrade. This discount will remain on your account for the next 12 months, ensuring your monthly bill matches what was promised during your plan change conversation.
+
+Regarding the mobile app error, our technical team is working to resolve this issue. In the meantime, you can access your complete bill details through our website at my.account.company.com or request a detailed PDF bill via email through your online account.
+
+I've scheduled a follow-up call with you within 48 hours to ensure you're satisfied with these adjustments and to answer any additional questions. Your revised bill with all credits applied will be available to view within 24 hours.
+
+As a loyal customer of 7+ years, we truly value your business and apologize for this negative experience. If you have any further questions before our follow-up call, please don't hesitate to contact us directly at our priority customer service line: 1-800-XXX-XXXX.
+
+Sincerely,
+Agent BIL-7266
+Customer Billing Resolution Team

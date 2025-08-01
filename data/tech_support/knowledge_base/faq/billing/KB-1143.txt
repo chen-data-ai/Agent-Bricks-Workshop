@@ -1,0 +1,51 @@
+ID: KB-1143
+Type: FAQ
+Category: Billing
+Subcategory: Payment due dates
+Title: When is my bill payment due?
+Tags: payment,subscription,payment due dates,faq,wireless,phone,billing,dates
+Last Updated: 2024-10-29 23:59:47
+Generated: 2025-07-13T23:15:45.395675
+
+---
+
+# When is my bill payment due?
+
+Your bill payment is due by the date clearly marked as "Payment Due Date" on your monthly statement, typically 21-25 days after your billing cycle closes. This gives you adequate time to review your charges and arrange payment.
+
+## Understanding Your Payment Timeline
+
+- **Bill Generation Date**: Your billing cycle closes and we generate your statement
+- **Bill Available Date**: Your bill becomes available online (1-2 days after generation)
+- **Payment Due Date**: The date by which payment must be received to avoid late fees
+
+For example, if your billing cycle ends on the 5th of each month, your bill might be generated on the 6th, available online by the 8th, and payment would be due around the 28th.
+
+## Payment Options
+
+You can pay your bill through multiple convenient channels:
+- Our mobile app (available on iOS and Android)
+- Online account portal at myaccount.ourcompany.com
+- Automated phone system (800-555-1234)
+- In-person at any of our retail locations
+- By mail (allow 5-7 business days for processing)
+
+## Late Payment Information
+
+If payment isn't received by the due date:
+- A late fee of $5 or 1.5% of the unpaid balance (whichever is greater) may be applied
+- For example, on an unpaid balance of $100, the late fee would be $5
+- On an unpaid balance of $400, the late fee would be $6 (1.5% of $400)
+
+## Frequently Asked Questions
+
+**Q: Can I change my payment due date?**
+A: Yes! You can request a permanent due date change through your online account or by contacting customer service. You can select a date that better aligns with your personal finances.
+
+**Q: What if my payment due date falls on a weekend or holiday?**
+A: Your payment will still be considered on time if received on the next business day. However, our automated payment systems are available 24/7.
+
+**Q: Will I receive a reminder before my payment is due?**
+A: Yes, we send payment reminders via email and/or text message 5 days before your due date. You can manage notification preferences in your account settings.
+
+Need more help? Contact our billing department at 800-555-1234 or chat with us through the mobile app or website.

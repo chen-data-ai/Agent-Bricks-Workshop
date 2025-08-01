@@ -1,0 +1,116 @@
+ID: KB-1030
+Type: Guide
+Category: Technical
+Subcategory: Wi-fi calling setup
+Title: Complete Guide to Wi-Fi Calling Setup
+Tags: account,technical,calling,setup,roaming,guide,support,wi-fi,wi-fi calling setup
+Last Updated: 2025-03-20 23:59:47
+Generated: 2025-07-13T23:15:50.650262
+
+---
+
+# Complete Guide to Wi-Fi Calling Setup
+
+## What is Wi-Fi Calling?
+
+Wi-Fi Calling allows you to make and receive calls and texts over a Wi-Fi network instead of using your cellular connection. This feature is especially useful in areas with weak cellular coverage but strong Wi-Fi signal.
+
+## Prerequisites
+
+Before setting up Wi-Fi Calling, ensure:
+
+- Your device supports Wi-Fi Calling
+- You have an active cellular plan that includes Wi-Fi Calling
+- You're connected to a stable Wi-Fi network
+- Your emergency address is registered with your carrier (for 911 calls)
+- Your device software is up to date
+
+## Setup Instructions by Device Type
+
+### For iPhone (iOS)
+
+1. **Access Settings**
+   - Open the Settings app on your iPhone
+   - _Expected result:_ Settings menu appears
+
+2. **Navigate to Phone Settings**
+   - Scroll down and tap "Phone"
+   - _Expected result:_ Phone settings menu opens
+
+3. **Enable Wi-Fi Calling**
+   - Tap "Wi-Fi Calling"
+   - Toggle "Wi-Fi Calling on This iPhone" to ON (green)
+   - _Expected result:_ A popup will appear asking to confirm activation
+
+4. **Confirm Emergency Address**
+   - Enter or confirm your emergency address when prompted
+   - Tap "Submit" or "Continue"
+   - _Expected result:_ Address is saved and Wi-Fi Calling is activated
+
+5. **Verify Activation**
+   - Check your status bar for "Wi-Fi" or carrier name with "Wi-Fi" next to the signal bars
+   - _Success indicator:_ "Wi-Fi" appears next to your carrier name in the status bar
+
+### For Android Devices
+
+1. **Access Settings**
+   - Open the Settings app
+   - _Expected result:_ Settings menu appears
+
+2. **Navigate to Network Settings**
+   - Tap "Connections," "Network & Internet," or "Mobile Network" (varies by device)
+   - _Expected result:_ Network settings menu opens
+
+3. **Access Calling Settings**
+   - Tap "Mobile network," "Calls," or "Wi-Fi Calling" (varies by device)
+   - _Expected result:_ Calling options appear
+
+4. **Enable Wi-Fi Calling**
+   - Toggle "Wi-Fi Calling" to ON
+   - _Expected result:_ A popup appears for confirmation or address entry
+
+5. **Confirm Emergency Address**
+   - Enter your emergency address when prompted
+   - Tap "Save" or "Continue"
+   - _Expected result:_ Address is saved and Wi-Fi Calling is activated
+
+6. **Verify Activation**
+   - Look for a Wi-Fi Calling icon in your status bar
+   - _Success indicator:_ Wi-Fi Calling icon appears in status bar or notification area
+
+## Troubleshooting Common Issues
+
+### Wi-Fi Calling Option Not Available
+
+1. **Check Carrier Support**
+   - Verify your plan includes Wi-Fi Calling through your carrier's app or website
+   - _Expected result:_ Confirmation that your plan supports Wi-Fi Calling
+
+2. **Update Device Software**
+   - Go to Settings > System > Software Update (Android) or Settings > General > Software Update (iOS)
+   - Install any available updates
+   - _Expected result:_ Device software is current
+
+3. **Reset Network Settings**
+   - iOS: Settings > General > Reset > Reset Network Settings
+   - Android: Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+   - _Expected result:_ Network settings return to default configuration
+   - _Note:_ This will remove saved Wi-Fi networks and passwords
+
+### Wi-Fi Calling Not Working
+
+1. **Check Wi-Fi Connection**
+   - Ensure you're connected to a stable Wi-Fi network
+   - Try connecting to a different Wi-Fi network if available
+   - _Expected result:_ Strong Wi-Fi connection established
+
+2. **Toggle Airplane Mode**
+   - Turn on Airplane Mode for 30 seconds, then turn it off
+   - _Expected result:_ Network connections refresh
+
+3. **Restart Your Device**
+   - Power off your device completely, wait 30 seconds, then power it back on
+   - _Expected result:_ All services restart properly
+
+4. **Contact Your Carrier**
+   - If issues persist, contact your carrier's technical support

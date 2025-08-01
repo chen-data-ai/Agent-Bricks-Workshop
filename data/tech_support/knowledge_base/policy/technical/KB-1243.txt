@@ -1,0 +1,91 @@
+ID: KB-1243
+Type: Policy
+Category: Technical
+Subcategory: Network coverage
+Title: Network Coverage Policy
+Tags: payment,network coverage,troubleshooting,technical,voice,network,coverage,policy
+Last Updated: 2025-05-21 23:59:47
+Generated: 2025-07-13T23:15:43.644247
+
+---
+
+# Network Coverage Policy
+
+## 1. Overview
+This policy outlines our commitment to providing reliable network coverage while establishing clear expectations for both our company and customers. It defines our service standards, maintenance procedures, and the protocols we follow to ensure transparent communication regarding network coverage.
+
+## 2. Service Standards
+
+### 2.1 Coverage Commitments
+- We strive to maintain 99.9% network availability in urban areas and 98% in rural areas.
+- Coverage maps available on our website and mobile app represent expected service areas based on technical analysis and field testing.
+- Signal strength may vary based on environmental factors, building materials, weather conditions, and network congestion.
+
+### 2.2 Performance Metrics
+- Minimum download speeds: 5 Mbps (4G), 50 Mbps (5G) under normal network conditions
+- Maximum latency: 100ms (4G), 30ms (5G)
+- Call quality measured using Mean Opinion Score (MOS) with target rating of 3.5+
+
+## 3. Network Maintenance
+
+### 3.1 Scheduled Maintenance Windows
+- Routine maintenance: Tuesdays and Thursdays, 1:00 AM - 5:00 AM local time
+- Quarterly system upgrades: First Sunday of each quarter, 12:00 AM - 6:00 AM local time
+- Emergency maintenance: As required, with best efforts to minimize service impact
+
+### 3.2 Maintenance Notifications
+- Scheduled maintenance: Minimum 72-hour advance notice
+- Emergency maintenance: As much advance notice as circumstances permit
+- Notifications delivered via SMS, email, account alerts, and the service status page
+
+## 4. Customer Notification Protocols
+
+### 4.1 Coverage Changes
+- Planned coverage expansions: 30-day advance notice
+- Coverage reductions: 60-day advance notice
+- Temporary outages: Immediate notification for widespread issues affecting >1,000 customers
+
+### 4.2 Notification Methods
+- Service status page (updated in real-time)
+- Mobile app push notifications (opt-in required via app settings)
+- SMS alerts to affected customers
+- Email communications
+- Social media updates for widespread issues
+
+## 5. Service Remediation Procedures
+
+### 5.1 Outage Response
+- Initial response time: Within 30 minutes of confirmed outage
+- Regular status updates: Every 2 hours until resolution
+- Post-incident report: Within 48 hours of major outages
+
+### 5.2 Service Credits
+- Outages exceeding 4 consecutive hours: Pro-rated service credit
+- Recurring issues (3+ in 30 days): Additional compensation as determined by customer care
+- Claims must be submitted within 30 days via account portal, mobile app, or customer service
+
+## 6. Customer Responsibilities
+
+### 6.1 Equipment Requirements
+- Devices must be compatible with our network technology (list available online)
+- Firmware/software should be kept current for optimal performance
+- Signal boosters must comply with FCC regulations and be registered with our network
+
+### 6.2 Reasonable Usage
+- Service is subject to our Fair Usage Policy
+- Customers should report persistent coverage issues via the mobile app's network feedback tool or customer service
+
+## 7. Company Obligations
+
+### 7.1 Coverage Transparency
+- Maintain accurate coverage maps on website and in mobile apps (iOS and Android)
+- Provide tools for customers to check expected coverage at specific addresses
+- Disclose known coverage limitations during the sales process
+
+### 7.2 Continuous Improvement
+- Regular network testing and optimization
+- Annual infrastructure investment plan published on our website
+- Consideration of customer-reported coverage issues in network expansion planning
+
+## 8. Policy Updates
+This policy may be updated periodically. Customers will be notified of significant changes 30 days prior to implementation through their preferred communication channel as specified in account settings.

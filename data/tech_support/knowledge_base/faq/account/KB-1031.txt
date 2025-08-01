@@ -1,0 +1,67 @@
+ID: KB-1031
+Type: FAQ
+Category: Account
+Subcategory: Multi-line account management
+Title: How do I manage multiple lines on my account?
+Tags: payment,account,management,service,faq,multi-line,device,multi-line account management
+Last Updated: 2024-09-11 23:59:47
+Generated: 2025-07-13T23:15:50.718586
+
+---
+
+# How do I manage multiple lines on my account?
+
+## Overview
+Managing multiple lines on your account allows you to control all your family or business connections from a single account. As the primary account holder, you can add, remove, or modify lines, adjust service plans, and monitor usage across all lines.
+
+## Account Access & Verification
+To manage multiple lines, you'll need:
+- Primary account holder credentials (username/password)
+- Account PIN or last 4 digits of SSN for verification
+- Government-issued photo ID for in-store changes
+- Two-factor authentication completion when prompted
+
+For security reasons, only the primary account holder can make significant changes to the account structure. Authorized users can only manage their assigned line unless specifically granted additional permissions.
+
+## Adding New Lines
+1. Log into your account via our mobile app (available on iOS and Android) or website
+2. Navigate to "Account" → "Manage Lines" → "Add a Line"
+3. Select the desired plan for the new line
+4. Complete identity verification if required
+5. Choose a new device or select "Bring Your Own Device"
+6. Follow the prompts to complete setup
+
+New lines typically activate within 30 minutes to 2 hours. Expedited activation is available in-store.
+
+## Removing Lines
+1. Access your account through any supported channel
+2. Select "Manage Lines" and choose the line to remove
+3. Select "Remove Line" and confirm your decision
+4. Return any leased equipment if applicable
+
+**Important:** Line removals take effect at the end of your current billing cycle unless otherwise specified. Early termination fees may apply for lines under contract.
+
+## Billing Considerations
+- Adding lines mid-cycle typically results in prorated charges
+- Plan changes may trigger immediate billing adjustments
+- Family/shared plans may offer discounts for multiple lines
+- Data usage limits apply collectively to shared plans
+- Individual line usage details are viewable in your account dashboard
+
+## Service Impacts
+When modifying multiple lines, be aware that:
+- Number transfers (ports) may take 1-3 business days to complete
+- Service interruptions are possible during line transfers (typically less than 30 minutes)
+- Device payment plans remain active even if lines are removed
+- Promotional discounts may be affected by line changes
+
+## Managing Line-Specific Features
+Each line on your account can have customized:
+- Data caps and usage alerts
+- Content filters and parental controls
+- International calling/roaming options
+- Premium service subscriptions
+
+Access these options by selecting the specific line in your account dashboard and navigating to "Line Settings."
+
+For additional assistance with multi-line management, contact our support team at 1-800-XXX-XXXX or use the live chat feature in our mobile app.

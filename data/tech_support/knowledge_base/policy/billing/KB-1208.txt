@@ -1,0 +1,79 @@
+ID: KB-1208
+Type: Policy
+Category: Billing
+Subcategory: Billing error resolution
+Title: Billing Error Resolution Policy
+Tags: resolution,roaming,billing error resolution,policy,device,error,billing
+Last Updated: 2025-03-12 23:59:47
+Generated: 2025-07-13T23:15:41.167659
+
+---
+
+# Billing Error Resolution Policy
+
+## Overview
+This policy outlines the procedures for identifying, reporting, and resolving billing errors on your telecommunications account. We are committed to fair and transparent billing practices and to resolving any discrepancies promptly and efficiently.
+
+## Definitions
+- **Billing Error**: Any discrepancy between the services you receive and the charges on your bill, including incorrect rates, unauthorized charges, or missing credits.
+- **Dispute**: A formal challenge to a charge on your bill that you believe is incorrect.
+- **Adjustment**: A credit or debit applied to your account to correct a billing error.
+
+## Customer Rights
+As our customer, you have the right to:
+- Review your bill for accuracy
+- Dispute any charge you believe is incorrect
+- Receive a timely and thorough investigation of your dispute
+- Obtain a detailed explanation of our findings
+- Appeal our decision if you disagree with the resolution
+
+## Reporting a Billing Error
+### Timeframe for Reporting
+- Billing errors must be reported within 60 days from the bill issue date
+- While we may investigate errors reported after 60 days, we cannot guarantee adjustments for disputes filed outside this timeframe
+
+### How to Report
+1. **Online**: Log into your account through our website or mobile app (available on iOS and Android) and submit a billing dispute through the "Billing Support" section
+2. **Phone**: Contact Customer Care at the number listed on your bill
+3. **In Person**: Visit any of our retail locations with a copy of your bill
+
+## Our Investigation Process
+Upon receiving your dispute, we will:
+1. Acknowledge receipt of your dispute within 2 business days
+2. Assign a unique case number for tracking purposes
+3. Conduct a thorough investigation within 30 calendar days
+4. Temporarily suspend collection activities on the disputed amount during investigation
+5. Notify you of our findings and proposed resolution
+
+## Resolution Timeframes
+- **Standard Investigations**: Completed within 30 calendar days
+- **Complex Investigations**: May require up to 45 calendar days (you will be notified if additional time is needed)
+- **Adjustments**: Applied to your account within 1-2 billing cycles after resolution
+
+## Types of Resolutions
+- **Full Adjustment**: Complete removal of incorrect charges
+- **Partial Adjustment**: Correction of partially incorrect charges
+- **Explanation**: Verification that charges are correct with supporting documentation
+- **Payment Plan**: If charges are correct but create hardship, we may offer payment arrangements
+
+## Appeals Process
+If you disagree with our resolution:
+1. Submit an appeal within 30 days of receiving our decision
+2. Include your case number and any additional supporting documentation
+3. Appeals are reviewed by a senior billing specialist not involved in the original investigation
+4. Appeal decisions are typically provided within 15 business days
+
+## Preventive Measures
+To help avoid future billing errors:
+- Review your bill monthly
+- Set up billing alerts through our mobile app
+- Ensure we have your current contact information
+- Consider enrolling in paperless billing for faster access to your statements
+
+## Contact Information
+- Billing Support: [Phone Number]
+- Email: billing@[companyname].com
+- Mobile App: Download from the App Store or Google Play Store
+- Online Account Management: www.[companyname].com/myaccount
+
+This policy was last updated on [Current Date] and is subject to change with appropriate notice to customers.

@@ -1,0 +1,94 @@
+ID: KB-1003
+Type: Policy
+Category: Account
+Subcategory: Changing account details
+Title: Account Management Policy: Changing Account Details
+Tags: account,details,service,telecom,policy,device,changing account details,changing
+Last Updated: 2024-12-06 23:59:47
+Generated: 2025-07-13T23:15:48.697363
+
+---
+
+# Account Management Policy: Changing Account Details
+
+## 1. Purpose and Scope
+
+This policy outlines the procedures and requirements for modifying customer account information within our telecommunications services. It applies to all account changes requested through any service channel including in-store, phone support, online portals, and mobile applications.
+
+## 2. Identity Verification Standards
+
+### 2.1 Required Identification
+All account modifications require verification of the account owner's identity through at least two of the following methods:
+- Government-issued photo ID (required for in-store changes)
+- Account PIN/password
+- Responses to security questions
+- One-time verification code sent to the registered mobile number or email
+- Biometric verification (via mobile app where available)
+
+### 2.2 Enhanced Verification
+Changes to primary account information (billing address, account ownership, payment methods) require enhanced verification:
+- Photo ID matching the name on the account
+- Additional security questions
+- Recent transaction details
+
+## 3. Data Protection Measures
+
+### 3.1 Information Security
+- All account modifications are logged with timestamp, agent ID, verification method used, and specific changes made
+- Customer data is processed in compliance with GDPR, CCPA, and other applicable data protection regulations
+- All transmitted data is encrypted using industry-standard protocols
+
+### 3.2 Retention Policies
+- Change request documentation is retained for 24 months
+- Verification materials are securely stored for the duration required by law
+- Customers may request access to their change history through formal channels
+
+## 4. Authorized Changes
+
+### 4.1 Self-Service Changes
+Customers may update the following information via online account portal or mobile app:
+- Contact email address
+- Marketing preferences
+- Password/PIN
+- Usage alerts
+- Plan add-ons (subject to terms)
+
+### 4.2 Agent-Assisted Changes
+The following changes require agent assistance:
+- Billing address changes
+- Legal name changes
+- Account ownership transfers
+- Primary account holder information
+- Credit check-related information
+
+## 5. Escalation Paths
+
+### 5.1 Dispute Resolution
+If a customer disputes an account change:
+1. First-level support will verify the change history
+2. Unresolved issues escalate to the Account Security team
+3. Final review by Customer Relations Management
+
+### 5.2 Unauthorized Changes
+If unauthorized changes are detected:
+1. Immediate account freeze
+2. Security investigation initiated
+3. Customer notification within 24 hours
+4. Restoration of previous settings pending investigation
+
+## 6. Regulatory Compliance
+
+This policy adheres to:
+- Telecommunications Act requirements for customer data management
+- Electronic Communications Privacy Act
+- FCC Customer Proprietary Network Information (CPNI) rules
+- State-specific consumer protection regulations
+
+## 7. Policy Review
+
+This Account Management Policy is reviewed quarterly and updated as needed to reflect regulatory changes, emerging security threats, and evolving industry best practices.
+
+---
+
+*For internal use: Policy ID: AM-CAD-2023-V2*
+*Last updated: [Current Date]*

@@ -1,0 +1,54 @@
+Ticket ID: TICK-8084
+Customer ID: CUS-11002
+Subscription ID: SUB-10001480
+Category: Billing
+Priority: High
+Status: Resolved
+Created: 2024-11-19 21:09:48.591000
+Agent ID: BIL-8736
+Resolved: 2024-11-19 21:09:48.591000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8084 (Created: 2024-11-20 05:10)
+
+I am absolutely FURIOUS about my latest bill! I've been a loyal customer for over 5 years on your "Ultimate Unlimited Plus" family plan, and suddenly my November bill is $147.32 higher than usual with no explanation. I checked my account through the MyTelecom app on my iPhone 15 Pro and see charges for "International Data Roaming" but I HAVE NOT LEFT THE COUNTRY! 
+
+My phone shows I've been in Phoenix the entire billing cycle, and I even have the "International Travel Block" feature enabled on all lines. When I tap on the charge details in the app, I get an error message saying "Error code BL-4029: Unable to display itemized charges at this time."
+
+This is completely unacceptable. I need these charges removed immediately and an explanation for why this happened. I've already spent 45 minutes trying to resolve this through your automated chat system with no success. If this isn't resolved within 24 hours, I'll be filing a complaint with the FCC and considering switching all 4 lines on my account to your competitor.
+
+Please call me back ASAP at the number on my account. I work from home and am available anytime.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8084 | Agent BIL-8736 | Resolved on 2024-11-20 05:10
+
+Dear Valued Customer,
+
+I sincerely apologize for the frustration you've experienced regarding the unexpected international roaming charges on your November bill. I understand how concerning it is to see charges for services you didn't use, especially as a loyal customer of over 5 years.
+
+After thoroughly investigating your account in our billing system (BillingPro), I've confirmed that the International Data Roaming charges totaling $147.32 were incorrectly applied to your account due to a system error with our tower identification protocols. Your device was indeed in Phoenix as you stated, but one of our local towers was misconfigured following a recent network update and incorrectly tagged your data usage as international.
+
+Actions taken:
+1. Verified your location data through our Network Activity Monitor system, confirming you remained in Phoenix during the entire billing period
+2. Confirmed the "International Travel Block" feature was properly enabled on all lines as you mentioned
+3. Issued a full credit of $147.32 to your account, which will appear as "Billing Adjustment - Erroneous Roaming Charge" on your next statement
+4. Submitted Error Report #ERR-20241120-4029 to our Network Operations team regarding the tower misconfiguration issue
+5. Added a 3-month "Billing Protection Flag" to your account to prevent similar issues in future billing cycles
+
+Per our Billing Dispute Resolution Policy (Section 5.3), when incorrect charges are applied due to network configuration errors, customers are entitled to immediate credit without waiting for the next billing cycle. I've applied this policy to ensure you don't have to pay for these erroneous charges.
+
+The error message you encountered (BL-4029) in the MyTelecom app has also been reported to our technical team. This appears to be related to the same system issue and should be resolved within 48 hours.
+
+I've added detailed notes to your account regarding this incident. Should you notice any similar issues in the future, please reference this ticket number for expedited assistance.
+
+Is there anything else I can assist you with regarding your "Ultimate Unlimited Plus" family plan? We truly value your loyalty and want to ensure your continued satisfaction with our service.
+
+Best regards,
+Agent BIL-8736
+Customer Billing Resolution Team

@@ -1,0 +1,109 @@
+ID: KB-1009
+Type: Guide
+Category: Technical
+Subcategory: Wifi optimization
+Title: Wi-Fi Optimization Guide: Improving Your Home Network Performance
+Tags: technical,text,service,wifi optimization,wifi,optimization,guide,billing
+Last Updated: 2024-08-02 23:59:47
+Generated: 2025-07-13T23:15:49.168627
+
+---
+
+# Wi-Fi Optimization Guide: Improving Your Home Network Performance
+
+## Introduction
+This guide will help you optimize your Wi-Fi network for better speed, coverage, and reliability. Follow these step-by-step instructions to diagnose and resolve common Wi-Fi issues.
+
+## Prerequisites
+Before starting optimization:
+- Confirm your internet service is active (check other devices or contact your provider)
+- Ensure your router is powered on (look for illuminated indicator lights)
+- Have your network name (SSID) and password available
+- Know your router's admin credentials (typically found on the router label)
+
+## Step 1: Position Your Router Optimally
+**Action:** Place your router in a central location, elevated off the floor, away from metal objects, appliances, and thick walls.
+
+**Device Variations:**
+- Mesh systems: Position satellite units within range of the main router but far enough to extend coverage
+- External antenna routers: Point antennas in different directions for better coverage
+
+**Expected Result:** Improved signal strength in more areas of your home.
+
+**Success Indicator:** Wi-Fi signal bars increase on your devices in previously weak coverage areas.
+
+## Step 2: Update Router Firmware
+**Action:**
+1. Open a web browser and enter your router's IP address (typically 192.168.0.1 or 192.168.1.1)
+2. Log in with admin credentials
+3. Navigate to "Administration," "System," or "Firmware" section
+4. Select "Check for Updates" or similar option
+5. If available, download and install the update
+
+**Device Variations:**
+- Provider-supplied routers: May update automatically or through provider's app
+- Modern routers: Often have companion mobile apps for updates (Netgear Nighthawk, TP-Link Tether, etc.)
+
+**Expected Result:** Latest security patches and performance improvements installed.
+
+**Success Indicator:** Router firmware version number increases and router restarts successfully.
+
+## Step 3: Select Optimal Wi-Fi Channels
+**Action:**
+1. Access router settings as in Step 2
+2. Find "Wireless Settings" or "Wi-Fi Setup"
+3. For 2.4GHz network: Select channels 1, 6, or 11 (these don't overlap)
+4. For 5GHz network: Choose a channel with least interference
+
+**Device Variations:**
+- Dual-band routers: Configure both 2.4GHz and 5GHz bands
+- Smart routers: May have "Auto" channel selection that works effectively
+
+**Expected Result:** Reduced interference from neighboring networks.
+
+**Success Indicator:** More stable connection and fewer disconnections.
+
+## Step 4: Enable Quality of Service (QoS)
+**Action:**
+1. Access router settings
+2. Find "QoS," "Traffic Management," or "Bandwidth Control"
+3. Enable QoS feature
+4. Prioritize applications based on your needs (video calls, gaming, streaming)
+
+**Device Variations:**
+- Gaming routers: May have game-specific QoS presets
+- Basic routers: Might only offer simple bandwidth allocation
+
+**Expected Result:** Critical applications receive bandwidth priority during congestion.
+
+**Success Indicator:** Video calls remain clear and games responsive even when others are streaming.
+
+## Step 5: Secure Your Network
+**Action:**
+1. Access router settings
+2. Navigate to "Wireless Security" or similar
+3. Select WPA3 encryption (or WPA2 if WPA3 unavailable)
+4. Create a strong, unique password
+5. Change the default network name (SSID)
+
+**Expected Result:** Improved security and potentially better performance by keeping unauthorized users off your network.
+
+**Success Indicator:** Only authorized devices can connect to your network.
+
+## Step 6: Manage Connected Devices
+**Action:**
+1. Access router settings
+2. Find "Connected Devices," "Client List," or similar
+3. Identify and remove unauthorized devices
+4. Consider setting up a guest network for visitors
+
+**Device Variations:**
+- iOS: Use the Apple Home app for HomeKit-enabled routers
+- Android: Use manufacturer apps like Google Home for Nest Wifi
+
+**Expected Result:** Network resources dedicated only to your authorized devices.
+
+**Success Indicator:** Improved performance when multiple devices are connected.
+
+## Step 7: Consider a Wi-Fi Extender or Mesh System
+**Action:** For large homes or areas with persistent dead zones

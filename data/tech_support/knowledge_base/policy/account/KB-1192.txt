@@ -1,0 +1,101 @@
+ID: KB-1192
+Type: Policy
+Category: Account
+Subcategory: Port-in process
+Title: Port-In Process Policy
+Tags: account,policy,port-in,roaming,process,port-in process,plan
+Last Updated: 2024-12-26 23:59:47
+Generated: 2025-07-13T23:15:40.075728
+
+---
+
+# Port-In Process Policy
+
+## Overview
+This policy outlines the procedures and requirements for porting phone numbers from another carrier to our network. The port-in process allows customers to retain their existing phone numbers when switching service providers, in accordance with FCC Local Number Portability (LNP) regulations.
+
+## Eligibility Requirements
+- The phone number must be active with the current service provider
+- The account with the current provider must be in good standing with no outstanding balance
+- The customer must be the authorized account holder or have proper authorization
+- The phone number must be portable as determined by industry databases and geographic limitations
+
+## Identity Verification Standards
+To protect customer information and prevent unauthorized ports, we require:
+
+1. **Primary Account Holder Verification**
+   - Government-issued photo ID (driver's license, passport, or state ID)
+   - The last four digits of Social Security Number (SSN) or Tax ID
+   - Current billing address that matches account records
+
+2. **Authorized Representatives**
+   - Written authorization from the primary account holder
+   - Notarized Power of Attorney or equivalent legal documentation
+   - Representative's government-issued photo ID
+
+3. **Business Accounts**
+   - Business verification through Tax ID/EIN
+   - Proof of authorization from a company officer
+   - Business documentation (business license, articles of incorporation)
+
+## Required Documentation
+- Completed Port-In Authorization Form
+- Copy of most recent bill from current provider showing:
+  - Account number
+  - Phone number(s) to be ported
+  - Account holder name
+  - Billing address
+- Account PIN or password from current provider (if applicable)
+
+## Data Protection Measures
+- All customer information is encrypted during transmission and storage
+- Access to porting systems is restricted to authorized personnel only
+- Customer information is handled in compliance with our Privacy Policy and applicable laws
+- Documentation containing sensitive information is securely stored and disposed of according to retention policies
+- Regular security audits of the porting system
+
+## Port-In Process Timeline
+1. **Application Submission**: 1-2 business days for verification
+2. **Processing Time**:
+   - Simple ports: 2-4 business days
+   - Complex ports (multiple lines, business accounts): 5-7 business days
+3. **Port Completion**: Typically occurs between 7am-7pm on the scheduled date
+
+## Authorized Changes During Port-In
+- Correction of typographical errors in customer information
+- Updating contact information (email, alternate phone)
+- Adding or removing features/services on the new account
+- Device changes or upgrades
+
+Changes to the following require a new port request:
+- Account holder name
+- Phone number to be ported
+- Service address changes outside the original rate center
+
+## Service Continuity
+- Customers should maintain service with their current provider until the port is complete
+- A temporary number may be provided while the port is in process
+- Our mobile app and online account center provide real-time status updates on port progress
+
+## Escalation Path
+1. **First Level**: Customer Support Specialist (available 24/7 via phone, chat, or in-app support)
+2. **Second Level**: Port Center Specialist (available 8am-8pm local time)
+3. **Third Level**: Account Services Manager
+4. **Final Escalation**: Office of the President
+
+## Regulatory Compliance
+This policy adheres to:
+- FCC Wireless Local Number Portability (WLNP) requirements
+- CPNI (Customer Proprietary Network Information) protection rules
+- The Telecommunications Act provisions on number portability
+- State-specific telecommunications regulations where applicable
+
+## Dispute Resolution
+If a port-in is rejected or delayed:
+1. Contact Customer Support for clarification
+2. Provide any additional documentation requested
+3. For unresolved issues, file a formal dispute through our Resolution Center
+4. External escalation to FCC or state regulatory agencies if necessary
+
+## Policy Updates
+This policy is reviewed quarterly and updated as needed to reflect regulatory changes and process improvements. The current version is available in our online Customer Support Knowledge Base and through our mobile app's Help section.

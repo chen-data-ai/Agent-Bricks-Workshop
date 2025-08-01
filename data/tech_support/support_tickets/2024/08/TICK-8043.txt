@@ -1,0 +1,61 @@
+Ticket ID: TICK-8043
+Customer ID: CUS-10480
+Subscription ID: SUB-10000708
+Category: Billing
+Priority: High
+Status: Closed
+Created: 2024-08-02 21:54:57.756000
+Agent ID: BIL-8404
+Resolved: 2024-08-03 21:54:57.756000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8043 (Created: 2024-08-03 04:55)
+
+I am absolutely FURIOUS about my latest bill! I just received my August statement and it shows $249.87 in "international roaming charges" that I NEVER authorized! I have the Family Share Plus plan with 4 lines and we've NEVER gone over our data limits before.
+
+My iPhone 15 Pro was in airplane mode the ENTIRE time I was in Vancouver last week except when connected to hotel WiFi. I specifically purchased your "North America Travel Pass" for $10/day before my trip to avoid these exact charges! The app confirmation number was TRP-29384 when I added it.
+
+When I check my usage details in the MyNetwork app, it shows data usage from my Apple iPhone 16  between 2am-4am every night while I was asleep with my Apple iPhone 16  charging and NOT being used! This is clearly an error in your system.
+
+I need these charges removed IMMEDIATELY as my autopay is scheduled in 3 days and I cannot afford this incorrect bill. I've been a loyal customer for 7+ years and have never had billing issues before. Please escalate this if needed - I'm not paying for services I didn't use!
+
+- Michael Donovan
+Account #: 8872-4519-03
+Phone: (503) 555-8176
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8043 | Agent BIL-8404 | Resolved on 2024-08-04 04:55
+
+Dear Mr. Donovan,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration this has caused you, especially as a loyal customer of 7+ years.
+
+After thoroughly investigating your account #8872-4519-03, I've taken the following actions:
+
+1. Verified your North America Travel Pass purchase (confirmation #TRP-29384) was properly applied to your account during your Vancouver trip.
+
+2. Accessed our billing system and reviewed the detailed data usage logs for your iPhone 15 Pro. I confirmed unusual data activity between 2am-4am during your stay that appears inconsistent with your device being in airplane mode.
+
+3. Consulted with our Technical Billing Department who identified that background app refresh and iCloud backup processes may have bypassed airplane mode when connected to hotel WiFi, triggering international data charges instead of routing through your Travel Pass.
+
+4. Applied a full credit of $249.87 to your account to remove all contested international roaming charges. This credit will appear on your next statement as "Billing Adjustment - International Data Charges."
+
+5. Added a note to your account confirming the North America Travel Pass was properly purchased and should have covered all usage.
+
+To prevent this issue in future travels:
+- When using hotel WiFi internationally, consider enabling "WiFi Assist" in your iPhone settings (Settings > Cellular) to prevent cellular data usage when on WiFi
+- Our MyNetwork app now offers a "Travel Mode" toggle that provides additional protection against unexpected roaming charges
+
+I've also applied our "Loyal Customer Courtesy Credit" of $25 to your account for the inconvenience this situation has caused. Your adjusted balance is now $124.13, which will be processed through your scheduled autopay.
+
+Please feel free to contact us if you notice any further discrepancies on your bill. We value your continued business and are committed to ensuring your satisfaction.
+
+Sincerely,
+Agent BIL-8404
+Billing Resolution Team

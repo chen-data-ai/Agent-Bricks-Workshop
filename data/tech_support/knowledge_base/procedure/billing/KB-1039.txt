@@ -1,0 +1,69 @@
+ID: KB-1039
+Type: Procedure
+Category: Billing
+Subcategory: Unexpected charges explanation
+Title: Procedure: Handling Unexpected Charges Inquiries
+Tags: data,text,explanation,charges,procedure,unexpected,support,unexpected charges explanation,billing
+Last Updated: 2024-12-18 23:59:47
+Generated: 2025-07-13T23:15:51.292271
+
+---
+
+# Procedure: Handling Unexpected Charges Inquiries
+
+## Purpose
+This procedure guides customer support representatives through the process of investigating, explaining, and resolving unexpected charges on customer accounts while maintaining compliance with company policies and ensuring customer satisfaction.
+
+## Procedure Steps
+
+### Initial Assessment
+1. Greet the customer professionally and acknowledge their concern about unexpected charges.
+2. Verify the customer's identity using at least two authentication methods (account PIN, last 4 digits of SSN, billing address, or security questions).
+3. Document the inquiry in the customer relationship management (CRM) system, creating a new case with category "Billing Inquiry - Unexpected Charges."
+4. Ask the customer to specify which charges they are questioning and note their explanation.
+
+### Investigation
+5. Access the customer's billing history in the billing system and locate the specific charges in question.
+6. Review the customer's service plan, add-ons, and recent account changes that might explain the charges.
+7. Check for system notifications, rate changes, or promotional period expirations that may have affected the account.
+8. Examine usage patterns (data, minutes, messages) that could have triggered overage charges.
+9. Verify if any third-party charges appear on the bill and their authorization status.
+
+### Explanation and Resolution
+10. Provide a clear, jargon-free explanation of each charge to the customer.
+11. If charges are legitimate:
+    - Explain the source of the charges with reference to the customer's plan terms
+    - Discuss options to prevent similar charges in the future
+    - Offer to set up usage alerts through the mobile app (iOS/Android) or online account
+12. If charges are erroneous:
+    - Process an immediate adjustment for amounts under $50
+    - Submit for supervisor approval for adjustments between $50-$150
+    - Escalate to billing department for amounts exceeding $150
+13. If charges are from third parties:
+    - Explain the third-party billing process
+    - Assist with disputing unauthorized charges
+    - Offer to enable third-party billing blocks
+
+### Documentation and Follow-up
+14. Document all findings and explanations provided in the CRM case notes.
+15. Summarize the resolution reached and any credits applied to the account.
+16. Inform the customer of when adjustments will appear on their bill or account.
+17. Send a confirmation email or SMS summarizing the discussion and resolution.
+18. Schedule a follow-up if complex adjustments require processing time (typically 1-3 billing cycles).
+
+### Escalation Path
+19. Escalate to a supervisor if:
+    - The customer remains dissatisfied after explanation
+    - The adjustment amount exceeds your authorization threshold
+    - The issue involves repeated billing errors
+    - The situation involves potential fraud
+20. For regulatory or legal concerns, escalate to the compliance team with complete documentation.
+
+### Closing
+21. Ask if the customer has questions about their current plan or if they would like to review plan options.
+22. Confirm the customer understands the resolution and next steps.
+23. Thank the customer for their patience and for bringing the matter to your attention.
+24. Complete all case documentation before closing the interaction.
+
+## Quality Assurance
+All calls regarding unexpected charges are subject to quality review to ensure compliance with this procedure and to identify potential systemic billing issues.

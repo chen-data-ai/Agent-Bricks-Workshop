@@ -1,0 +1,67 @@
+ID: KB-1107
+Type: FAQ
+Category: Account
+Subcategory: Authorized user management
+Title: How do I add or remove authorized users on my account?
+Tags: subscription,account,management,authorized user management,user,faq,device,authorized,customer
+Last Updated: 2024-07-03 23:59:47
+Generated: 2025-07-13T23:15:56.624982
+
+---
+
+# How do I add or remove authorized users on my account?
+
+## Adding Authorized Users
+
+Authorized users are individuals you designate to make changes to your account, including purchasing new devices, changing service plans, or accessing account information. Here's how to manage authorized users:
+
+### Adding an Authorized User
+1. **Online Management**: 
+   - Log into your account via our website or mobile app (available on iOS and Android)
+   - Navigate to "Account Settings" > "Account Users" > "Add Authorized User"
+   - Complete the required information form
+
+2. **Verification Requirements**:
+   - The account owner must provide their PIN/password
+   - The new authorized user's full legal name
+   - Their date of birth
+   - Last 4 digits of their Social Security Number (for identity verification)
+   - Contact phone number and email address
+
+3. **Permission Levels**:
+   You can customize access levels for each authorized user:
+   - Full access (equivalent to account owner)
+   - Billing access only
+   - Technical support access only
+   - View-only access
+
+## Removing Authorized Users
+
+1. **Removal Process**:
+   - Log into your account via website or mobile app
+   - Go to "Account Settings" > "Account Users"
+   - Select the user you wish to remove
+   - Click "Remove User" and confirm your decision
+
+2. **In-Store or Phone Support**:
+   Authorized users can also be added or removed by visiting a retail store or calling Customer Care at 1-800-XXX-XXXX. The account owner must be present or on the call with:
+   - Government-issued photo ID
+   - Account PIN/password
+
+## Important Information
+
+- **Processing Time**: Changes to authorized users typically take effect immediately online, but may take 24-48 hours to fully propagate across all systems.
+
+- **Billing Impact**: Authorized users cannot change the billing address or payment method unless granted full access permissions.
+
+- **Service Impact**: When an authorized user is removed, any device upgrades or plan changes they initiated will remain in effect. Their removal does not cancel any services or orders they placed.
+
+- **Security Considerations**: All authorized users can access sensitive account information. We recommend:
+   - Only adding trusted individuals
+   - Regularly reviewing the list of authorized users
+   - Changing your account PIN when removing users
+   - Enabling notifications for account changes
+
+- **Business Accounts**: Corporate accounts have different authorized user management procedures. Please contact your Business Account Manager for details.
+
+If you need additional assistance managing authorized users, please contact Customer Care or visit your nearest retail location.

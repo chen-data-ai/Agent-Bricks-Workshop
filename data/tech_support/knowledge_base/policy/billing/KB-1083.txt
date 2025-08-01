@@ -1,0 +1,78 @@
+ID: KB-1083
+Type: Policy
+Category: Billing
+Subcategory: Taxes and regulatory fees
+Title: Taxes and Regulatory Fees Policy
+Tags: taxes and regulatory fees,taxes,fees,voice,coverage,policy,device,billing,regulatory
+Last Updated: 2025-03-19 23:59:47
+Generated: 2025-07-13T23:15:54.942719
+
+---
+
+# Taxes and Regulatory Fees Policy
+
+## Overview
+This document outlines our company's policies regarding taxes and regulatory fees applied to customer bills. These charges are mandated by federal, state, and local governments and regulatory agencies, and we are required to collect and remit them accordingly.
+
+## Types of Taxes and Regulatory Fees
+
+### Government-Mandated Taxes
+* **Federal Universal Service Fund (FUSF)**: A federal fee that supports telecommunications services in schools, libraries, rural healthcare facilities, and low-income households.
+* **State and Local Sales Tax**: Varies by location and is calculated based on applicable tax rates in your service area.
+* **911 Fees**: Support emergency services infrastructure in your community.
+* **State Universal Service Funds**: Similar to FUSF but administered at the state level.
+
+### Regulatory Fees
+* **Federal Regulatory Recovery Fee**: Recovers costs associated with complying with government regulations.
+* **Administrative Cost Recovery Fee**: Covers costs related to regulatory compliance and network administration.
+* **Property Tax Allotment**: Recovers a portion of property taxes assessed on network equipment and facilities.
+
+## Calculation and Application
+
+Taxes and regulatory fees are calculated based on:
+* Your service address
+* Types of services on your account
+* Current tax rates and regulatory requirements
+
+These charges appear as separate line items on your monthly bill and are applied after any promotional discounts or credits.
+
+## Changes to Taxes and Fees
+
+* We will implement changes to tax rates and regulatory fees within 30 days of their effective date as mandated by the relevant authority.
+* Customers will be notified of significant changes to regulatory fees via bill messages, email, or SMS at least one billing cycle before implementation.
+* Tax rate changes imposed by government entities may be implemented without prior notice as they are outside our control.
+
+## Customer Rights and Responsibilities
+
+### Customer Rights
+* You have the right to request an itemized explanation of all taxes and regulatory fees on your bill.
+* You may submit tax exemption certificates if you qualify for specific exemptions.
+* You may dispute any tax or fee you believe has been incorrectly applied within 60 days of the bill issue date.
+
+### Customer Responsibilities
+* Provide accurate service address information to ensure proper tax calculation.
+* Submit valid tax exemption documentation if claiming exempt status.
+* Update your address information promptly when relocating to ensure appropriate tax application.
+
+## Dispute Resolution Process
+
+1. **Initial Review**: Contact Customer Support within 60 days of the bill issue date to report a potential error in tax or fee application.
+2. **Investigation**: We will investigate your claim within 10 business days.
+3. **Resolution**: If an error is confirmed, we will issue appropriate credits within one billing cycle and correct future bills.
+4. **Appeal**: If you disagree with our findings, you may request escalation to a billing specialist for further review.
+
+## Definitions
+
+* **Surcharge**: A fee added to recover costs imposed by regulatory requirements.
+* **Tax Jurisdiction**: The governmental authority (federal, state, county, city) with the power to impose taxes on telecommunications services.
+* **Tax Exemption**: A legal exception from paying certain taxes based on qualifying criteria.
+* **Regulatory Assessment**: A fee imposed by government agencies to fund specific programs or services.
+
+## Additional Resources
+
+For more information about specific taxes and fees on your bill, you can:
+* Review the "Understanding Your Bill" section in our mobile app (iOS and Android)
+* Log into your online account management portal at [company website]
+* Contact Customer Support at [phone number]
+
+This policy was last updated on [current date] and is subject to change in accordance with regulatory requirements and company policies.

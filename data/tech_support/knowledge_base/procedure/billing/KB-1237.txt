@@ -1,0 +1,102 @@
+ID: KB-1237
+Type: Procedure
+Category: Billing
+Subcategory: Late payment fees
+Title: Late Payment Fee Management Procedure
+Tags: payment,account,fees,late,procedure,voice,late payment fees,billing,customer
+Last Updated: 2025-03-05 23:59:47
+Generated: 2025-07-13T23:15:43.256601
+
+---
+
+# Late Payment Fee Management Procedure
+
+## Purpose
+This procedure outlines the standardized process for handling late payment fee inquiries, waiver requests, and adjustments to ensure consistent customer service while maintaining compliance with company policies.
+
+## Procedure
+
+### 1. Verify Customer Identity
+1. Request the account holder's full name and phone number
+2. Verify at least two additional identifiers:
+   - Last 4 digits of SSN/Tax ID
+   - Account PIN/Password
+   - Billing address
+3. Confirm the verification meets security protocols before proceeding
+
+### 2. Review Account Payment History
+1. Access the customer's billing history in the Account Management System
+2. Note the following key information:
+   - Current outstanding balance
+   - Payment due date
+   - Late fee amount(s)
+   - Previous late payment history (last 12 months)
+   - Customer tenure
+   - Current account standing (good standing, collections, etc.)
+
+### 3. Determine Fee Waiver Eligibility
+1. First-time late payment (within 12 months): Eligible for full waiver
+2. Customer with 12+ months perfect payment history: Eligible for full waiver
+3. Late payment within 1-3 days of due date: Eligible for full waiver
+4. Second late payment (within 12 months): Eligible for 50% waiver
+5. Three or more late payments (within 12 months): Not eligible for waiver
+6. Technical/system issues affecting payment processing: Eligible for full waiver
+
+### 4. Process Fee Waiver (If Eligible)
+1. Select "Fee Adjustment" in the billing system
+2. Choose "Late Payment Fee" from the fee type dropdown
+3. Enter the appropriate waiver amount
+4. Select the corresponding waiver reason code
+5. Add detailed notes explaining the justification for the waiver
+6. Submit the adjustment for processing
+7. Verify the adjustment appears correctly in the account history
+
+### 5. Handle Non-Eligible Waiver Requests
+1. Explain the late fee policy clearly and respectfully
+2. Reference specific account history that affects eligibility
+3. Offer alternative solutions:
+   - Payment arrangement for the outstanding balance
+   - Enrollment in autopay to prevent future late fees
+   - Information about payment reminder options via the mobile app
+   - Due date adjustment to better align with customer's pay schedule
+
+### 6. Escalation Path
+1. If customer remains dissatisfied with the decision:
+   - For accounts with 2+ years tenure: Escalate to Team Lead
+   - For accounts with significant monthly spend (>$150): Escalate to Team Lead
+   - For customers threatening cancellation: Escalate to Retention Team
+2. Document the escalation reason in the customer notes
+3. Transfer the call or create an escalation ticket as appropriate
+
+### 7. Documentation Requirements
+1. Record all fee waiver decisions in the account notes including:
+   - Reason for the waiver or denial
+   - Policy exception justification (if applicable)
+   - Supervisor approval (if required)
+   - Customer education provided
+2. Update the customer's late payment history tracker
+3. Tag the interaction with appropriate category codes for reporting
+
+### 8. Customer Education
+1. Explain how to avoid future late fees:
+   - Set up autopay through online account or mobile app (iOS/Android)
+   - Enable payment reminders via text/email/app notifications
+   - Use the mobile app payment calendar feature
+   - Explain grace period policy
+2. Confirm the customer understands the information provided
+
+### 9. Follow-Up Actions
+1. If payment has not yet been made, assist with payment processing
+2. Send a confirmation email/text summarizing the resolution
+3. Schedule a follow-up notification if payment arrangements were made
+4. Flag account for review if systemic billing issues were identified
+
+## Approval Thresholds
+- CSRs: Up to $30 in fee waivers per customer per quarter
+- Team Leads: Up to $100 in fee waivers per customer per quarter
+- Managers: Unlimited fee waiver authority with documentation
+
+## Related Policies
+- Late Payment Fee Policy (#BP-2023-11)
+- Customer Financial Hardship Policy (#BP-2023-15)
+- Account Security Verification Standards (#SEC-2023-04)

@@ -1,0 +1,77 @@
+ID: KB-1072
+Type: Policy
+Category: Billing
+Subcategory: Third-party charges
+Title: Third-Party Charges Policy
+Tags: account,third-party charges,charges,third-party,policy,billing,plan
+Last Updated: 2024-06-02 23:59:47
+Generated: 2025-07-13T23:15:54.089795
+
+---
+
+# Third-Party Charges Policy
+
+## Overview
+This policy outlines how third-party charges appear on your bill, your rights regarding these charges, and the procedures for managing or disputing them. Third-party charges are fees for products or services provided by companies other than [Company Name] that are billed through your telecom account.
+
+## Definitions
+- **Third-party charges**: Any charges on your bill from companies other than [Company Name], sometimes called "premium services" or "direct carrier billing"
+- **Bill shock**: Unexpected high charges on your monthly statement
+- **Cramming**: Unauthorized third-party charges added to your bill
+
+## Types of Third-Party Charges
+Third-party charges may include:
+- Premium text message subscriptions
+- Digital content purchases (games, music, videos)
+- App store purchases
+- Donations to charitable organizations
+- Subscription services
+
+## Consent Requirements
+[Company Name] requires explicit consent before any third-party charges appear on your bill:
+- You must authorize the charge through a verifiable opt-in process
+- Double opt-in confirmation is required for recurring charges
+- Authorization records are maintained for a minimum of 24 months
+
+## Billing Presentation
+Third-party charges will:
+- Appear in a separate section of your bill clearly labeled "Third-Party Charges"
+- Include the service name, provider name, and contact information
+- Show the date of purchase and whether it's a one-time or recurring charge
+- Be itemized individually when multiple charges exist
+
+## Customer Rights
+As our customer, you have the right to:
+- Request a block on all third-party charges at any time at no cost
+- Dispute any unauthorized charges within 60 days of billing
+- Receive a refund for verified unauthorized charges that occurred within the past 6 months
+- Access detailed information about any third-party charge upon request
+
+## Dispute Resolution Process
+If you identify unauthorized third-party charges:
+1. Contact Customer Service within 60 days of the billing date
+2. Our team will investigate within 10 business days
+3. Disputed charges will be suspended during investigation
+4. If charges are determined to be unauthorized, a full refund will be issued within 2 billing cycles
+
+## Account Management
+You can manage third-party purchases through:
+- Your online account portal under "Purchase Controls"
+- The [Company Name] mobile app (iOS and Android) under "Account Settings"
+- Customer Service at [phone number]
+
+## Blocking Third-Party Charges
+To prevent all third-party charges:
+1. Log into your online account or mobile app
+2. Navigate to "Security & Permissions" > "Purchase Controls"
+3. Toggle "Block Third-Party Charges" to ON
+4. Alternatively, contact Customer Service to enable this block
+
+## Policy Updates
+This policy may be updated periodically. Customers will be notified of significant changes via email and bill inserts 30 days prior to implementation.
+
+## Contact Information
+For questions about this policy or to report unauthorized charges:
+- Phone: [Customer Service number]
+- Email: [Customer Service email]
+- Live Chat: Available through our website and mobile app 24/7

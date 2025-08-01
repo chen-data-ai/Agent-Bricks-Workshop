@@ -1,0 +1,85 @@
+ID: KB-1231
+Type: FAQ
+Category: Technical
+Subcategory: Mobile data troubleshooting
+Title: Why is my mobile data not working?
+Tags: troubleshooting,technical,faq,mobile,mobile data troubleshooting,network,data
+Last Updated: 2025-05-24 23:59:47
+Generated: 2025-07-13T23:15:42.863203
+
+---
+
+# Why is my mobile data not working?
+
+Mobile data connectivity issues can be frustrating, but many common problems can be resolved with simple troubleshooting steps. Follow this guide to diagnose and potentially fix your mobile data connection.
+
+## Basic Troubleshooting Steps
+
+1. **Check if mobile data is enabled**
+   * **iOS**: Go to Settings > Cellular and ensure "Cellular Data" is toggled on
+   * **Android**: Go to Settings > Network & Internet > Mobile network and ensure "Mobile data" is toggled on
+
+2. **Verify you're not in Airplane Mode**
+   * **iOS**: Open Control Center (swipe down from top-right corner) and check if Airplane Mode icon is highlighted
+   * **Android**: Swipe down from the top of your screen to access Quick Settings and check if Airplane Mode is active
+
+3. **Check your signal strength**
+   * Look at the signal bars in the status bar of your device
+   * If you have one bar or no bars, try moving to a different location
+
+4. **Restart your device**
+   * **iOS**: Press and hold the side button and either volume button until the slider appears, then drag to power off. Wait 30 seconds before turning it back on
+   * **Android**: Press and hold the power button until the power menu appears, then tap "Restart"
+
+## Advanced Troubleshooting
+
+5. **Reset network settings**
+   * **iOS**: Go to Settings > General > Reset > Reset Network Settings
+   * **Android**: Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+
+6. **Check APN settings**
+   * **iOS**: Go to Settings > Cellular > Cellular Data Network
+   * **Android**: Go to Settings > Network & Internet > Mobile network > Advanced > Access Point Names
+   * Verify the APN settings match those provided by your carrier (available in our mobile app under Account > Network Settings)
+
+7. **Update your device software**
+   * **iOS**: Go to Settings > General > Software Update
+   * **Android**: Go to Settings > System > System update
+
+8. **Check data usage limits**
+   * **iOS**: Go to Settings > Cellular > Cellular Data
+   * **Android**: Go to Settings > Network & Internet > Mobile network > Data warning & limit
+   * You can also check your remaining data in our mobile app under Usage > Data
+
+## Common Error Messages
+
+* **"Mobile data network unavailable"**: Try toggling Airplane Mode on and off
+* **"No service"**: Your device cannot connect to our network. Check your SIM card or try a different location
+* **"Data roaming is turned off"**: If traveling internationally, enable data roaming in your mobile network settings (additional charges may apply)
+* **"SIM card not detected"**: Power off your device, remove and reinsert your SIM card, then power on again
+
+## Device-Specific Issues
+
+### iPhone Users
+* If you see "Cellular data is turned off for 'App Name'", go to Settings > Cellular and scroll down to ensure the app has permission to use cellular data
+* If experiencing issues after an iOS update, reset network settings as mentioned above
+
+### Android Users
+* Some Android devices have a Data Saver feature that may restrict background data. Check Settings > Network & Internet > Data Saver
+* Ensure "Restrict background data" is not enabled for essential apps
+
+## When to Contact Support
+
+Contact our technical support team if:
+
+* You've tried all the steps above and still cannot connect to mobile data
+* Your device shows "Emergency calls only" for more than 30 minutes
+* You receive persistent error messages not covered in this guide
+* Your data speeds are significantly slower than normal in areas with good coverage
+
+You can reach us through:
+* Our mobile app's "Live Support" feature
+* Online chat at our website
+* Phone support at [support number]
+
+Our technical team can run remote diagnostics on your line and SIM card to identify any network-related issues.

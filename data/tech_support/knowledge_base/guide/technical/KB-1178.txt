@@ -1,0 +1,107 @@
+ID: KB-1178
+Type: Guide
+Category: Technical
+Subcategory: Network coverage
+Title: Understanding and Optimizing Network Coverage
+Tags: network coverage,technical,telecom,guide,network,coverage,support,plan
+Last Updated: 2025-05-02 23:59:47
+Generated: 2025-07-13T23:15:47.925215
+
+---
+
+# Understanding and Optimizing Network Coverage
+
+## Introduction
+Network coverage refers to the geographical area where your mobile service provider offers reliable connectivity for calls, texts, and data. Coverage quality can vary based on location, network technology (3G, 4G LTE, 5G), environmental factors, and your specific device. This guide will help you identify, troubleshoot, and optimize network coverage issues.
+
+## Prerequisites Before Troubleshooting
+- Ensure your account is active and in good standing
+- Confirm your device is compatible with your carrier's network bands
+- Verify you haven't exceeded any data limits that might result in throttling
+- Check that your SIM card is properly inserted and not damaged
+
+## Diagnosing Coverage Issues
+
+### Step 1: Check Network Signal Strength
+**For Android:**
+1. Open Settings
+2. Tap on "Connections" or "Network & Internet"
+3. Select "Mobile network" or "SIM & network"
+4. Look for signal bars or specific signal measurements (dBm)
+   - Excellent: -50 to -79 dBm
+   - Good: -80 to -89 dBm
+   - Fair: -90 to -99 dBm
+   - Poor: -100 to -109 dBm
+   - Very poor: -110 dBm or lower
+
+**For iOS:**
+1. Open Settings
+2. Tap on "Cellular" or "Mobile Data"
+3. Check signal bars in the status bar
+4. For exact measurements: dial *3001#12345#* and tap "Call" to access Field Test Mode
+5. Look for "Signal Strength" measured in dBm (same scale as Android)
+
+**Expected outcome:** You'll understand your current signal strength and whether it's the likely cause of connectivity issues.
+
+### Step 2: Check Coverage Maps
+1. Visit your carrier's website or download their mobile app
+2. Navigate to the coverage map section
+3. Enter your address or use location services
+4. Review coverage strength for your area
+5. Pay attention to different network types (3G, 4G, 5G) available
+
+**Expected outcome:** You'll know if your location is expected to have good coverage or if it's in a known weak or dead zone.
+
+## Resolving Common Coverage Issues
+
+### Solution 1: Toggle Airplane Mode
+1. Pull down the notification shade (Android) or Control Center (iOS)
+2. Enable Airplane Mode
+3. Wait 15 seconds
+4. Disable Airplane Mode
+5. Allow 1-2 minutes for reconnection
+
+**Expected outcome:** Your device will disconnect from all networks and then attempt to establish fresh connections, often resolving minor connectivity issues.
+
+### Solution 2: Manual Network Selection
+**For Android:**
+1. Open Settings
+2. Tap "Connections" or "Network & Internet"
+3. Select "Mobile networks"
+4. Tap "Network operators"
+5. Disable "Select automatically"
+6. Wait for available networks to appear
+7. Select your carrier from the list
+
+**For iOS:**
+1. Open Settings
+2. Tap "Cellular" or "Mobile Data"
+3. Select "Network Selection"
+4. Toggle off "Automatic"
+5. Wait for available networks to appear
+6. Select your carrier
+
+**Expected outcome:** Your device will connect directly to your preferred network, bypassing automatic selection that might choose a weaker signal.
+
+### Solution 3: Network Mode Selection
+**For Android:**
+1. Open Settings
+2. Tap "Connections" or "Network & Internet"
+3. Select "Mobile networks"
+4. Tap "Network mode" or "Preferred network type"
+5. Try different options:
+   - 5G/4G/3G/2G (Auto connect) - best for most situations
+   - 4G/3G/2G - if 5G is causing issues
+   - 3G/2G - in areas with poor 4G coverage
+
+**For iOS:**
+1. Open Settings
+2. Tap "Cellular" or "Mobile Data"
+3. Select "Cellular Data Options"
+4. Tap "Voice & Data"
+5. Select appropriate option:
+   - 5G Auto/5G On - for areas with good 5G coverage
+   - LTE/4G - for reliable 4G connectivity
+   - 3G - for areas with poor 4G coverage
+
+**Expected outcome:** Your

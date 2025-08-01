@@ -1,0 +1,69 @@
+Ticket ID: TICK-8015
+Customer ID: CUS-11092
+Subscription ID: SUB-10001610
+Category: Technical
+Priority: Medium
+Status: Closed
+Created: 2024-08-20 21:44:18.034000
+Agent ID: TEC-8231
+Resolved: 2024-08-20 21:44:18.034000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8015 (Created: 2024-08-21 04:44)
+
+I'm beyond frustrated with my home internet service right now. For the third time this week, my connection keeps dropping every 15-20 minutes with the router showing a blinking red internet light. I have the UltraFiber 500 plan that I'm paying $89.99/month for, but I'm getting nowhere near the speeds I'm supposed to. When it actually works, speedtest.net shows only 78Mbps download and 23Mbps upload.
+
+I've already tried power cycling the XTR-3000 router multiple times, checked all cable connections, and even tried connecting my laptop directly to the modem. Nothing helps! The error message on my router admin panel shows "ERR-4302: Connection Authentication Failed" whenever it drops.
+
+I work from home and have an important video conference in 3 hours that I absolutely cannot miss. I've been a loyal customer for 5 years and this is unacceptable. My address is 1472 Westview Drive in Portland, and I need a technician to come out TODAY if possible. If this can't be fixed immediately, I'll need to be compensated for lost work time and will seriously consider switching to another provider.
+
+My iPhone 15 Pro also shows "No Internet Connection" when connected to WiFi even though it shows full signal strength. Please help ASAP!
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8015 | Agent TEC-8231 | Resolved on 2024-08-21 04:44
+
+Dear Valued Customer,
+
+Thank you for bringing these connection issues to our attention. I sincerely apologize for the frustration you've experienced with your UltraFiber 500 service, especially as someone who works from home and has been a loyal customer for 5 years.
+
+## Diagnostic Actions Taken:
+- Performed remote diagnostic on your XTR-3000 router (SN: XTR30-78542169)
+- Identified authentication errors in the DOCSIS log related to ERR-4302
+- Detected signal degradation on the upstream channels (SNR levels below threshold at 28dB)
+- Confirmed account provisioning for UltraFiber 500 plan is correctly configured in our billing system
+
+## Resolution Steps Completed:
+1. Reset your connection credentials on our authentication server
+2. Pushed firmware update 12.3.8 to your XTR-3000 router
+3. Adjusted signal amplification settings remotely to optimize your connection
+4. Cleared the error cache on your device to resolve the authentication failures
+
+## Immediate Results:
+- Connection stability restored with consistent uptime
+- Latest speed test shows 512Mbps download/125Mbps upload (verified via remote diagnostic)
+- ERR-4302 error has been cleared from the system
+- WiFi connectivity for mobile devices has been restored
+
+## Additional Actions:
+- Scheduled a complimentary technician visit for tomorrow between 8am-12pm to inspect physical connections and ensure optimal performance (per our Same-Week Service Guarantee policy)
+- Applied a service credit of $25.00 to your account for the inconvenience (reflected on your next bill)
+- Added a 3-month Premium Technical Support package to your account at no charge ($14.99/month value)
+
+## Recommendations:
+1. Download our MyConnect mobile app to monitor your connection status and run speed tests directly
+2. Consider upgrading your router to our new XTR-4500 model, which offers improved WiFi 6 coverage (available at a discounted rate of $8.99/month for existing customers)
+3. For your iPhone 15 Pro connectivity, ensure it's running the latest iOS version as older versions have known WiFi connectivity issues with our equipment
+
+Please confirm if your connection is now stable for your upcoming video conference. If you experience any further issues, please contact us immediately through our Priority Support line at the number listed in your account, and reference this ticket number for expedited assistance.
+
+We value your business and are committed to providing you with the reliable service you deserve.
+
+Sincerely,
+Agent TEC-8231
+Technical Support Team

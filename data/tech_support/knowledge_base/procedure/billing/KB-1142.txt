@@ -1,0 +1,86 @@
+ID: KB-1142
+Type: Procedure
+Category: Billing
+Subcategory: Prorated billing
+Title: Prorated Billing Management Procedure
+Tags: payment,wireless,procedure,prorated,coverage,prorated billing,billing
+Last Updated: 2024-07-15 23:59:47
+Generated: 2025-07-13T23:15:45.343457
+
+---
+
+# Prorated Billing Management Procedure
+
+## Purpose
+This procedure guides customer support agents through handling prorated billing inquiries, adjustments, and explanations to ensure consistent customer experience while maintaining billing integrity.
+
+## Procedure
+
+### 1. Verify Customer Identity
+1. Request the account owner's full name and one additional identifier (last 4 digits of SSN, PIN, or security question)
+2. Confirm the contact information matches account records
+3. Document the verification in the customer interaction log
+
+### 2. Assess the Prorated Billing Inquiry
+1. Determine if the inquiry relates to:
+   - Service activation/deactivation
+   - Plan changes
+   - Feature additions/removals
+   - Billing cycle adjustments
+   - Device upgrades/returns
+2. Review the customer's current and previous bills in the billing system
+3. Identify specific prorated charges in question
+
+### 3. Explain Prorated Billing Concept
+1. Clarify that prorated charges reflect partial billing periods
+2. Explain the calculation method: (Monthly rate ÷ Days in billing cycle) × Days of service
+3. Direct customers to the "Billing Details" section in their online account or mobile app (iOS/Android) for visual reference
+
+### 4. Verify Billing Accuracy
+1. Access the Billing Management System (BMS)
+2. Compare system-calculated prorations against the customer's bill
+3. Verify service dates match activation/deactivation/change records
+4. Confirm the proration calculation is mathematically correct
+
+### 5. Process Billing Adjustments (If Required)
+1. For errors under $25:
+   - Process adjustment immediately
+   - Document justification in customer notes
+2. For errors $25-$100:
+   - Obtain supervisor approval via the Approval Queue system
+   - Document approval ID in customer notes
+3. For errors over $100:
+   - Create escalation ticket in Billing Resolution Queue
+   - Provide customer with ticket number and 2-3 business day resolution timeframe
+
+### 6. Document the Interaction
+1. Summarize the inquiry and resolution in the CRM
+2. Note any billing adjustments with reference numbers
+3. Record customer education provided
+4. Set follow-up flag if escalated
+
+### 7. Provide Customer Resources
+1. Direct customer to online resources:
+   - "Understanding Your Bill" in the account portal
+   - Billing FAQ section in mobile app
+   - Prorated billing video tutorial (if available)
+2. Offer to email a billing explanation summary
+3. Set billing alerts/notifications in customer's online account preferences
+
+### 8. Escalation Path
+1. Tier 1: Supervisor review for disputes or complex calculations
+2. Tier 2: Billing specialist for system discrepancies
+3. Tier 3: Account management team for recurring issues or high-value accounts
+4. Document all escalations with ticket numbers and expected resolution timeframes
+
+### 9. Quality Assurance
+1. Flag interaction for potential QA review if:
+   - Adjustment exceeds $50
+   - Customer expressed significant dissatisfaction
+   - Multiple billing adjustments within 6-month period
+2. Complete post-interaction survey in agent portal
+
+### 10. Follow-up (When Applicable)
+1. Schedule follow-up contact for escalated cases
+2. Set calendar reminder for complex resolutions
+3. Document follow-up commitment in customer notes and CRM system

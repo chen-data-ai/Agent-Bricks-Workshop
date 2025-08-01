@@ -1,0 +1,101 @@
+ID: KB-1234
+Type: FAQ
+Category: Technical
+Subcategory: Volte configuration
+Title: How do I configure VoLTE on my device?
+Tags: troubleshooting,technical,volte,faq,wireless,volte configuration,configuration,customer
+Last Updated: 2024-11-01 23:59:47
+Generated: 2025-07-13T23:15:43.060509
+
+---
+
+# How do I configure VoLTE on my device?
+
+## What is VoLTE?
+Voice over LTE (VoLTE) allows you to make high-quality voice calls over our 4G LTE network instead of using the traditional voice network. Benefits include clearer calls, faster call connection times, and the ability to use data while on a call.
+
+## Device Compatibility
+Before attempting configuration, ensure your device supports VoLTE. Most smartphones manufactured after 2016 are VoLTE-capable, but compatibility varies by model and carrier.
+
+## Enabling VoLTE
+
+### On Android Devices:
+1. Open the **Settings** app
+2. Tap on **Network & Internet** (may be called **Connections** on Samsung devices)
+3. Select **Mobile network**
+4. Look for **VoLTE**, **Enhanced 4G LTE Mode**, or **HD Voice** and toggle it on
+5. Restart your device to apply changes
+
+### On iPhone:
+1. Go to **Settings**
+2. Tap **Cellular**
+3. Select **Cellular Data Options**
+4. Tap **Voice & Data**
+5. Enable **VoLTE**
+6. Restart your iPhone to apply changes
+
+## Common Error Messages and Solutions
+
+### "VoLTE not available in your area"
+* Verify you're in our network coverage area
+* Try updating your device's carrier settings
+* For iPhone: Go to Settings > General > About and wait for carrier settings update prompt
+* For Android: Open the Phone app, dial `*#*#4636#*#*`, select "Phone information" and update carrier configuration
+
+### "SIM card not provisioned for VoLTE"
+* Ensure your account and SIM card are VoLTE-enabled
+* Check if your plan supports VoLTE (all current plans do, but legacy plans may not)
+* Try removing and reinserting your SIM card
+
+### "VoLTE option greyed out"
+* Update your device software to the latest version
+* Reset network settings:
+  - On Android: Settings > System > Reset options > Reset network settings
+  - On iPhone: Settings > General > Reset > Reset Network Settings
+
+## Troubleshooting Steps
+
+1. **Verify VoLTE is active**: Look for the "HD" or "VoLTE" icon next to the signal bars when making a call
+2. **Update device software**: Ensure you're running the latest operating system version
+3. **Check for carrier settings updates**:
+   - iPhone users can check in Settings > General > About
+   - Android users should check our mobile app for carrier updates
+4. **Reset network settings** if the feature still doesn't work
+5. **Test in different locations** to rule out coverage issues
+
+## Device-Specific Instructions
+
+### Samsung Galaxy Devices:
+1. Go to **Settings**
+2. Tap **Connections**
+3. Select **Mobile networks**
+4. Toggle on **VoLTE calls**
+5. If not visible, search for "VoLTE" in the Settings search bar
+
+### Google Pixel Devices:
+1. Open **Settings**
+2. Tap **Network & Internet**
+3. Select **Mobile network**
+4. Toggle on **Enhanced 4G LTE Mode**
+
+### OnePlus Devices:
+1. Go to **Settings**
+2. Tap **Wi-Fi & Network**
+3. Select **SIM & Network**
+4. Enable **VoLTE**
+
+## When to Contact Support
+
+Contact our technical support team if:
+* VoLTE option is missing from your device settings despite having a compatible device
+* You've followed all troubleshooting steps and still cannot enable VoLTE
+* VoLTE is enabled but calls are dropping or have poor quality
+* You receive persistent error messages after attempting configuration
+
+You can reach technical support through:
+* Our mobile app's chat feature
+* Customer service at 1-800-XXX-XXXX
+* Your online account portal at www.ourcompany.com/support
+
+## Additional Information
+VoLTE requires a compatible device, SIM card, and network coverage. While most areas have VoLTE coverage, some rural locations may still rely on our traditional voice network. Check our coverage map in the mobile app for detailed information about VoLTE availability in your area.

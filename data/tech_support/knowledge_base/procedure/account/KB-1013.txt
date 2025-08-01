@@ -1,0 +1,121 @@
+ID: KB-1013
+Type: Procedure
+Category: Account
+Subcategory: Port-out requirements
+Title: Port-Out Management Procedure
+Tags: account,requirements,port-out requirements,procedure,roaming,data,phone,port-out
+Last Updated: 2024-08-29 23:59:47
+Generated: 2025-07-13T23:15:49.438709
+
+---
+
+# Port-Out Management Procedure
+**Internal Support Document**
+
+## 1. Overview
+This document outlines the standardized procedure for managing port-out requests from customers who wish to transfer their number to another service provider. Proper handling of these requests is critical for regulatory compliance, customer satisfaction, and prevention of unauthorized transfers.
+
+## 2. Initial Request Processing
+
+### 2.1 Verification Requirements
+- Confirm the request is submitted by the account owner of record
+- Verify two forms of customer identification:
+  * Primary: Account PIN or password
+  * Secondary: One of the following:
+    - Last 4 digits of SSN/Tax ID
+    - Answer to security question
+    - One-time verification code sent to email/phone on file
+
+### 2.2 Documentation Collection
+- Obtain and record the following in the CRM:
+  * Date and time of request
+  * Customer name and account number
+  * Phone number(s) to be ported
+  * Receiving carrier name
+  * Customer's explicit consent statement
+  * Agent ID processing the request
+
+**Example Documentation:**
+```
+PORT-OUT REQUEST
+Date/Time: 2023-11-15 14:32 EST
+Customer: Jane Smith (Acct #87654321)
+Numbers to Port: (555) 123-4567
+Receiving Carrier: ABC Wireless
+Verification: PIN verified, Email OTP verified
+Consent: "I authorize the transfer of my number to ABC Wireless"
+Agent: TechID-4592
+```
+
+## 3. System Updates
+
+### 3.1 Account Status Changes
+1. Access the Billing Management System
+2. Navigate to Account > Number Management
+3. Select the number(s) to be ported
+4. Update status to "Port-Out Pending"
+5. Enter the scheduled port date (if provided)
+6. Document the receiving carrier information
+
+### 3.2 Service Impact Assessment
+1. Review all services tied to the number(s)
+2. Document services that will be terminated
+3. Note any equipment that must be returned
+4. Flag any promotional credits or ETFs that may apply
+
+## 4. Compliance Verification
+
+### 4.1 Regulatory Requirements
+- Verify the account has no FCC or regulatory holds
+- Confirm the number is eligible for porting (not in "cooling off" period)
+- Check for any legal restrictions on the account
+- Ensure compliance with local number portability (LNP) regulations
+
+### 4.2 Fraud Prevention Checks
+1. Check for recent account changes (within 30 days)
+2. Verify no unusual activity patterns
+3. Confirm request aligns with customer's usage history
+4. Flag and escalate if suspicious indicators present:
+   * Recent SIM changes
+   * Multiple port requests
+   * Account address recently changed
+   * High-value account with premium services
+
+## 5. Customer Notifications
+
+### 5.1 Required Communications
+1. Send immediate confirmation of port request receipt
+2. Provide estimated timeline for port completion
+3. Send 24-hour reminder before scheduled port
+4. Deliver post-port confirmation when complete
+
+### 5.2 Communication Methods
+- Primary: Email to address on file
+- Secondary: SMS notification (to alternate number if primary is being ported)
+- Account notification via mobile app and online portal
+
+**Example Notification:**
+```
+IMPORTANT: We've received a request to transfer your number (555) 123-4567 to another carrier. This transfer is scheduled for 11/18/2023. If you did not authorize this change, please contact us immediately at 1-800-XXX-XXXX. Reference: PORT-87654321
+```
+
+## 6. Port Execution
+
+### 6.1 Pre-Port Verification
+1. Reconfirm customer authorization is still valid
+2. Verify receiving carrier has submitted proper documentation
+3. Confirm account is in good standing
+4. Check that all required fields in port request are complete
+
+### 6.2 Port Processing
+1. Process port request in Number Portability Administration Center (NPAC)
+2. Update internal systems to reflect port-out status
+3. Monitor port progress through completion
+4. Document completion time and final status
+
+## 7. Post-Port Actions
+
+### 7.1 Account Updates
+1. Update account status to reflect completed port
+2. Process any final billing adjustments
+3. Generate equipment return

@@ -1,0 +1,100 @@
+ID: KB-1134
+Type: FAQ
+Category: Technical
+Subcategory: 5g connection troubleshooting
+Title: FAQ: Why is my 5G connection not working properly?
+Tags: subscription,troubleshooting,technical,faq,wireless,5g connection troubleshooting,5g,connection
+Last Updated: 2025-04-28 23:59:47
+Generated: 2025-07-13T23:15:44.889179
+
+---
+
+# FAQ: Why is my 5G connection not working properly?
+
+## Understanding the Issue
+
+If you're experiencing problems with your 5G connection such as slow speeds, intermittent connectivity, or inability to connect to 5G networks, several factors may be causing these issues. This guide will help you troubleshoot common 5G connection problems.
+
+## Step-by-Step Troubleshooting
+
+### 1. Verify 5G Coverage in Your Area
+
+* Open our mobile app or visit our coverage map at [website.com/coverage-map]
+* Enter your current location to check if 5G service is available
+* Note: Not all areas have 5G coverage yet, even in cities with partial coverage
+
+**Common Error Message:** "5G network not available" or "Connected to 4G LTE"
+
+### 2. Confirm Your Device is 5G Compatible
+
+* Not all smartphones support 5G connectivity
+* Check your device specifications in your phone settings:
+  * **iOS:** Go to Settings > General > About > Model Name/Number
+  * **Android:** Go to Settings > About Phone > Model & Hardware
+
+### 3. Verify Your Plan Includes 5G Access
+
+* Log into your account through our mobile app or website
+* Navigate to "Plan Details" to confirm 5G access is included
+* Some legacy plans may require an upgrade to access 5G services
+
+### 4. Check Device Settings
+
+**For iOS Devices:**
+* Go to Settings > Cellular > Cellular Data Options
+* Ensure "5G" or "5G Auto" is selected (not "LTE" or "4G")
+* If using "5G Auto," your device may switch between 5G and LTE to conserve battery
+
+**For Android Devices:**
+* Go to Settings > Connections > Mobile Networks > Network Mode
+* Select "5G/LTE/3G/2G" or equivalent option that includes 5G
+* Some devices may have this under Settings > Network & Internet > Mobile Network
+
+### 5. Restart Your Device
+
+* Power off your device completely
+* Wait 30 seconds
+* Power it back on
+* Allow 1-2 minutes for network reconnection
+
+### 6. Update Your Device Software
+
+**For iOS:**
+* Go to Settings > General > Software Update
+* Download and install any available updates
+
+**For Android:**
+* Go to Settings > System > System Update or Software Update
+* Follow prompts to download and install updates
+
+### 7. Reset Network Settings
+
+**Warning:** This will remove saved Wi-Fi networks and Bluetooth pairings
+
+**For iOS:**
+* Go to Settings > General > Reset > Reset Network Settings
+* Enter your passcode if prompted
+* Confirm the reset
+
+**For Android:**
+* Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+* Tap "Reset Settings" and confirm
+
+## When to Contact Customer Support
+
+Contact our technical support team if:
+
+* You've confirmed 5G coverage in your area but still cannot connect
+* Your device is 5G compatible and your plan includes 5G access
+* You've completed all troubleshooting steps above
+* You see persistent error messages like "SIM card not provisioned for 5G" or "Network registration failed"
+* Your device connects to 5G but speeds are consistently below 50 Mbps in strong coverage areas
+
+## Contact Methods
+
+* Call: 1-800-XXX-XXXX
+* Live Chat: Available in our mobile app or website
+* Text: Send "5GHELP" to XXXXX
+* Schedule a Technical Support Callback through your online account
+
+Our technical support team is available 24/7 to assist with complex 5G connectivity issues.

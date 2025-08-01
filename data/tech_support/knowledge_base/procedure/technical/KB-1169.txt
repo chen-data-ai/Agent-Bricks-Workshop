@@ -1,0 +1,128 @@
+ID: KB-1169
+Type: Procedure
+Category: Technical
+Subcategory: Battery optimization
+Title: Technical Procedure: Resolving Battery Optimization Issues
+Tags: subscription,technical,battery optimization,battery,procedure,roaming,optimization,data
+Last Updated: 2025-03-22 23:59:47
+Generated: 2025-07-13T23:15:47.341609
+
+---
+
+# Technical Procedure: Resolving Battery Optimization Issues
+
+## Document ID: TP-BAT-2023-001
+## Last Updated: [Current Date]
+## Classification: Internal Support Document
+
+### 1. Overview
+
+This procedure guides support agents through diagnosing and resolving battery optimization issues across iOS and Android devices. Battery optimization problems typically manifest as excessive battery drain, overheating, or shortened battery life.
+
+### 2. Required Tools/Access
+
+- Customer account management system
+- Device diagnostics tool (TechSupport+ or equivalent)
+- Remote device access capability (if available)
+- Knowledge base access for device-specific documentation
+- Battery performance baseline metrics database
+
+### 3. Pre-Diagnostic Assessment
+
+1. Verify customer identity following standard authentication protocol
+2. Document the following information:
+   - Device make and model
+   - Operating system version
+   - When battery issues began (date/time)
+   - Recent software updates or app installations
+   - Current battery health percentage (if accessible)
+   - Customer's typical usage patterns
+
+### 4. Diagnostic Procedure
+
+#### Step 1: Initial Battery Health Assessment
+
+1. For iOS devices:
+   - Navigate to Settings > Battery > Battery Health
+   - Document Maximum Capacity percentage
+   - Check if "Peak Performance Capability" is degraded
+   
+2. For Android devices:
+   - Navigate to Settings > Battery > Battery Usage
+   - Some manufacturers offer Battery Health tools (Samsung: Device Care > Battery)
+   - Document battery health metrics available
+
+**Decision Point:**
+- If battery health is below 80%, proceed to Section 5.1
+- If battery health is normal, continue to Step 2
+
+#### Step 2: Identify Battery-Draining Applications
+
+1. Review battery usage statistics:
+   - iOS: Settings > Battery > Battery Usage by App
+   - Android: Settings > Battery > Battery Usage
+
+2. Document applications consuming >10% battery
+
+3. Check for background activity:
+   - iOS: Note apps with "Background Activity" label
+   - Android: Note apps showing significant background usage
+
+**Decision Point:**
+- If specific apps show excessive drain, proceed to Step 3
+- If usage appears normal but battery issues persist, skip to Step 4
+
+#### Step 3: Application-Specific Optimization
+
+1. For problematic applications:
+   
+   a. iOS devices:
+      - Navigate to Settings > General > Background App Refresh
+      - Disable for problematic apps
+      - For location services: Settings > Privacy > Location Services
+      - Set problematic apps to "While Using" or "Never"
+   
+   b. Android devices:
+      - Navigate to Settings > Apps > [Problem App] > Battery
+      - Set to "Restricted" or "Optimized"
+      - Disable "Allow background activity" if available
+      - For location: Settings > Apps > [Problem App] > Permissions > Location
+      - Set to "Only while using the app" or "Deny"
+
+2. Recommend app updates or reinstallation if necessary
+
+#### Step 4: System-Level Battery Optimization
+
+1. Enable device battery optimization features:
+   
+   a. iOS devices:
+      - Enable Low Power Mode (Settings > Battery)
+      - Verify Auto-Brightness is enabled (Settings > Accessibility > Display)
+      - Check for iOS updates (Settings > General > Software Update)
+   
+   b. Android devices:
+      - Enable Battery Saver mode
+      - Enable Adaptive Battery (Settings > Battery > Adaptive Battery)
+      - Check for system updates (Settings > System > System Update)
+
+2. Adjust system settings:
+   - Reduce screen brightness
+   - Set shorter screen timeout
+   - Disable unnecessary connectivity (Bluetooth, Wi-Fi, NFC when not in use)
+   - Disable "Hey Siri" or "OK Google" always-on listening
+
+### 5. Troubleshooting Decision Trees
+
+#### 5.1 Degraded Battery Health
+
+```
+If Battery Health < 80%:
+├── Device under warranty?
+│   ├── YES → Initiate warranty replacement process
+│   │         Document: RP-BAT-2023-002
+│   └── NO → Age of device?
+│       ├── < 2 years → Offer battery replacement service
+│       │               Quote current pricing
+│       └── ≥ 2 years → Recommend device upgrade
+│                       Transfer to sales if customer interested
+└──

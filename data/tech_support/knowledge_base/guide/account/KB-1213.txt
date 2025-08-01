@@ -1,0 +1,88 @@
+ID: KB-1213
+Type: Guide
+Category: Account
+Subcategory: Account suspension process
+Title: Account Suspension Process: User Guide
+Tags: data,account,telecom,guide,support,account suspension process,suspension,process
+Last Updated: 2025-02-25 23:59:47
+Generated: 2025-07-13T23:15:41.495121
+
+---
+
+# Account Suspension Process: User Guide
+
+## Overview
+Account suspension temporarily halts your telecom service while maintaining your phone number and account. This guide explains how to request a suspension, what happens during suspension, and how to reactivate your service.
+
+## When to Use Account Suspension
+- Extended travel abroad
+- Military deployment
+- Seasonal residence changes
+- Financial hardship (temporary)
+- Lost or stolen device (temporary measure)
+
+## Suspension Methods
+
+### Online Self-Service
+1. Log in to your account via the mobile app or website
+2. Navigate to "Account Settings" or "Manage Services"
+3. Select "Suspend Service" or "Temporary Suspension"
+4. Choose your suspension start date and duration
+5. Verify your identity using your PIN or password
+6. Review suspension terms and confirm
+
+**Processing time:** Immediate to 24 hours
+
+### Customer Service Phone Support
+1. Call customer service at the number on your bill
+2. Verify your identity with the representative (account PIN, last 4 of SSN)
+3. Request account suspension and specify duration
+4. Note your confirmation number for future reference
+
+**Processing time:** Immediate to 24 hours
+
+### In-Store Assistance
+1. Visit any retail location with valid government ID
+2. Request account suspension from a representative
+3. Provide required verification (photo ID, account PIN)
+4. Complete any necessary paperwork
+5. Obtain written confirmation of suspension terms
+
+**Processing time:** Same day implementation
+
+## Security Verification Requirements
+- Government-issued photo ID (for in-store requests)
+- Account PIN or password
+- Last 4 digits of account holder's SSN
+- Billing address verification
+- For authorized users: written permission from primary account holder may be required
+
+## Important Considerations
+
+### During Suspension
+- Your phone number remains attached to your account
+- Service access is disabled (calls, texts, data)
+- Monthly charges are typically reduced (not eliminated)
+- Suspension periods are generally limited to 3-6 months per year
+- Automatic payments may continue at the reduced rate
+
+### Financial Information
+- Reduced monthly fee applies (typically $5-15/month)
+- Equipment installment plans continue uninterrupted
+- Early termination fees still apply if you cancel during suspension
+- Promotional periods may continue to count down during suspension
+
+## Reactivation Process
+1. Online: Log in and select "Reactivate Service"
+2. Phone: Call customer service and request reactivation
+3. In-Store: Visit with ID and request reactivation
+4. Automatic: Service resumes on the pre-selected end date (if specified)
+
+**Processing time:** Typically within 24 hours
+
+## Special Circumstances
+- **Military Deployment:** Extended suspension options with proper documentation
+- **Financial Hardship:** May qualify for special payment arrangements
+- **Lost/Stolen Devices:** Additional security measures apply
+
+For further assistance, contact customer support through the mobile app's chat feature, call the support number, or visit your nearest retail location.

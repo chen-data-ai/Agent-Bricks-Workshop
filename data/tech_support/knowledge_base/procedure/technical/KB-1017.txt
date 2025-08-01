@@ -1,0 +1,127 @@
+ID: KB-1017
+Type: Procedure
+Category: Technical
+Subcategory: Phone not receiving calls
+Title: Technical Procedure: Resolving Phone Not Receiving Calls
+Tags: payment,calls,receiving,technical,phone not receiving calls,procedure,mobile,phone,customer
+Last Updated: 2024-07-30 23:59:47
+Generated: 2025-07-13T23:15:49.700745
+
+---
+
+# Technical Procedure: Resolving Phone Not Receiving Calls
+
+**Document ID:** TP-CALL-001  
+**Version:** 2.3  
+**Last Updated:** [Current Date]  
+**Department:** Technical Support  
+
+## 1. Overview
+
+This procedure guides support agents through diagnosing and resolving instances where customers report their mobile device is not receiving incoming calls. This document follows the standard troubleshooting methodology to isolate the issue to network, device, or account-related causes.
+
+## 2. Required Tools/System Access
+
+- Agent CRM portal (Level 2 access minimum)
+- Network Status Dashboard
+- Account Management System (AMS)
+- Line Testing Tool (LTT)
+- Device Diagnostics Platform (DDP)
+- Knowledge Base access
+
+## 3. Diagnostic Procedure
+
+### 3.1 Initial Assessment
+
+1. Verify customer identity following standard authentication protocol
+2. Confirm the exact symptoms:
+   - No incoming calls at all
+   - Intermittent call reception
+   - Calls going directly to voicemail
+   - Any error messages displayed
+3. Document when the issue began and any changes made to the device/account
+4. Verify if outgoing calls are functioning properly
+5. Confirm if the issue occurs in specific locations or is universal
+
+### 3.2 Account Verification
+
+1. Access customer account in AMS
+2. Verify account status is ACTIVE
+3. Check for billing issues or payment restrictions
+4. Confirm call forwarding settings are disabled
+   - Path: Account Settings > Call Management > Call Forwarding
+5. Verify Do Not Disturb or Call Blocking features are disabled
+   - Path: Account Settings > Call Management > Call Restrictions
+6. Check for any recent changes to the account or plan
+
+### 3.3 Network Diagnostics
+
+1. Access Network Status Dashboard
+2. Check for outages or degraded service in customer's area
+3. Verify signal strength reported by customer's device
+   - Guide customer to: Settings > About Phone/General > Network/Status
+4. Run remote line test using LTT
+   - Select customer's line
+   - Execute "Full Line Diagnostic"
+   - Document test ID and results
+5. Verify proper network registration status
+
+### 3.4 Device Diagnostics
+
+1. Determine if issue persists in airplane mode toggle test:
+   - Enable Airplane Mode for 30 seconds
+   - Disable Airplane Mode
+   - Wait for full network registration (1-2 minutes)
+
+2. For Android devices:
+   - Access Phone app > Three-dot menu > Settings > Calls
+   - Verify Call Forwarding is disabled
+   - Check "Preferred Network Type" is appropriate
+   - Clear cache: Settings > Apps > Phone > Storage > Clear Cache
+
+3. For iOS devices:
+   - Check Settings > Phone > Call Forwarding (should be OFF)
+   - Verify Settings > Phone > Calls on Other Devices (disable if needed)
+   - Check Settings > Phone > Silence Unknown Callers (should be OFF)
+
+4. SIM card verification:
+   - Guide customer to power off device
+   - Remove and reseat SIM card
+   - Power on device
+   - Wait for network registration
+
+5. Run remote device diagnostic using DDP:
+   - Select "Call Services Test"
+   - Document test ID and results
+
+## 4. Resolution Paths
+
+### 4.1 Account-Related Resolution
+
+If issue identified in account settings:
+1. Disable any call blocking, forwarding, or filtering features
+2. Update account preferences as needed
+3. Perform test call to verify resolution
+4. Document specific settings changed
+
+### 4.2 Network-Related Resolution
+
+If network issue identified:
+1. Initiate network reconnection procedure:
+   - Toggle Airplane Mode
+   - Reset Network Settings (document backup warning to customer)
+   - Update PRL/Carrier Settings if available
+2. If area outage confirmed:
+   - Provide outage information and ETA
+   - Offer call forwarding to alternate number as temporary solution
+   - Document outage ticket number
+
+### 4.3 Device-Related Resolution
+
+If device issue identified:
+1. Perform software troubleshooting:
+   - Update device to latest OS version
+   - Update carrier settings if available
+2. For persistent issues:
+   - Perform factory reset (document backup warning)
+   - Test with

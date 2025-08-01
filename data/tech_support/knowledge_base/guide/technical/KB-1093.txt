@@ -1,0 +1,119 @@
+ID: KB-1093
+Type: Guide
+Category: Technical
+Subcategory: Battery optimization
+Title: Battery Optimization Guide for Mobile Devices
+Tags: subscription,troubleshooting,technical,battery optimization,service,battery,optimization,guide
+Last Updated: 2024-06-20 23:59:47
+Generated: 2025-07-13T23:15:55.677081
+
+---
+
+# Battery Optimization Guide for Mobile Devices
+
+## Introduction
+Battery optimization helps extend your device's battery life by managing how apps and system processes use power. This guide will help you identify battery-draining issues and implement optimization techniques for both Android and iOS devices.
+
+## Prerequisites
+- Your device should have at least 20% battery remaining
+- Update to the latest operating system version
+- Close any unnecessary apps running in the background
+
+## Common Battery Drain Issues and Solutions
+
+### 1. Identify Battery-Draining Apps
+
+**For Android:**
+1. Go to Settings > Battery
+2. Tap "Battery usage" or "Battery optimization"
+3. Review the list of apps consuming the most power
+4. **Expected result:** You'll see apps ranked by battery consumption percentage
+
+**For iOS:**
+1. Go to Settings > Battery
+2. Scroll down to see battery usage by app
+3. Toggle between "Last 24 Hours" and "Last 10 Days" for different timeframes
+4. **Expected result:** You'll see which apps are using the most battery power
+
+**Success indicator:** You can identify specific apps consuming excessive battery power
+
+### 2. Enable Battery Optimization/Saver Mode
+
+**For Android:**
+1. Go to Settings > Battery > Battery Saver
+2. Toggle the switch to "On" or tap "Turn on now"
+3. Set a schedule by tapping "Set a schedule" (optional)
+4. **Expected result:** Status bar may change color (often to orange or red)
+
+**For iOS:**
+1. Go to Settings > Battery
+2. Toggle on "Low Power Mode"
+3. **Expected result:** Battery icon turns yellow and displays remaining percentage
+
+**Success indicator:** Battery saver mode is active, extending battery life by limiting background activities
+
+### 3. Adjust Screen Settings
+
+**For both Android and iOS:**
+1. Reduce screen brightness:
+   - Swipe down from the top of the screen to access quick settings
+   - Adjust the brightness slider to a lower level
+2. Enable auto-brightness:
+   - Android: Settings > Display > Brightness level > Toggle "Adaptive brightness"
+   - iOS: Settings > Accessibility > Display & Text Size > Auto-Brightness
+3. Reduce screen timeout:
+   - Android: Settings > Display > Screen timeout
+   - iOS: Settings > Display & Brightness > Auto-Lock
+4. **Expected result:** Screen dims appropriately and turns off faster when not in use
+
+**Success indicator:** Reduced screen brightness and quicker timeout, noticeably extending battery life
+
+### 4. Manage Background App Refresh
+
+**For Android:**
+1. Go to Settings > Apps > See all apps
+2. Select an app > Mobile data & Wi-Fi
+3. Toggle off "Background data" for non-essential apps
+4. **Expected result:** Selected apps will only update when actively used
+
+**For iOS:**
+1. Go to Settings > General > Background App Refresh
+2. Toggle off completely or selectively for specific apps
+3. **Expected result:** Apps will not refresh content in the background
+
+**Success indicator:** Reduced background activity, extending battery life between charges
+
+### 5. Location Services Optimization
+
+**For Android:**
+1. Go to Settings > Location
+2. Review apps with location permissions
+3. Change app permissions to "Allow only while using the app" or "Ask every time"
+4. **Expected result:** Apps access location only when necessary
+
+**For iOS:**
+1. Go to Settings > Privacy > Location Services
+2. Review and adjust app permissions to "While Using the App" or "Ask Next Time"
+3. **Expected result:** Location services are used more efficiently
+
+**Success indicator:** Location icon appears less frequently in status bar
+
+## Advanced Optimization Techniques
+
+### Check for System Updates
+1. Android: Settings > System > System update
+2. iOS: Settings > General > Software Update
+3. **Expected result:** Your device is running the latest software version with battery optimizations
+
+### Use Dark Mode (if available)
+1. Android: Settings > Display > Dark theme
+2. iOS: Settings > Display & Brightness > Dark
+3. **Expected result:** Interface changes to darker colors, saving battery on OLED/AMOLED screens
+
+### Monitor via Carrier App
+1. Download your carrier's official mobile app from the App Store or Google Play Store
+2. Many carrier apps include device health checks and battery optimization tips
+3. **Expected result:** Carrier-specific recommendations for your device and service plan
+
+## When to Seek Additional Support
+If battery drain

@@ -1,0 +1,100 @@
+ID: KB-1177
+Type: FAQ
+Category: Technical
+Subcategory: Device blacklist removal
+Title: How Can I Remove My Device from a Blacklist?
+Tags: payment,technical,removal,device blacklist removal,faq,voice,data,device,blacklist
+Last Updated: 2025-03-22 23:59:47
+Generated: 2025-07-13T23:15:47.863106
+
+---
+
+# How Can I Remove My Device from a Blacklist?
+
+## What is a device blacklist?
+
+A device blacklist (sometimes called the IMEI database) is a shared registry that wireless carriers use to track lost, stolen, or fraudulently obtained devices. When a device is blacklisted, it cannot be activated on most carrier networks in the country.
+
+## Why might my device be blacklisted?
+
+Your device may be blacklisted if:
+- It was reported lost or stolen
+- It has unpaid financial obligations on a previous account
+- It was purchased from an unauthorized retailer
+- There was fraud associated with the device
+
+## How to check if your device is blacklisted
+
+### For all devices:
+1. Locate your device's IMEI number by:
+   - Dialing *#06# on your phone
+   - Checking under Settings > About Phone/About Device > IMEI (Android)
+   - Checking under Settings > General > About > IMEI (iOS)
+   - Looking on the original packaging or receipt
+2. Visit our online IMEI checker tool at [carrier website]/imei-check
+3. Enter your IMEI number and submit
+
+### Common error messages:
+- "Device blacklisted due to loss/theft report"
+- "Device has financial obligations"
+- "Device cannot be activated on our network"
+
+## Steps to remove your device from the blacklist
+
+### If you are the original owner:
+
+1. **For devices reported lost/stolen:**
+   - Log into your account through our mobile app or website
+   - Navigate to "Device Management" section
+   - Select the device in question
+   - Choose "Report Device Found"
+   - Follow the verification prompts
+   - Allow 24-48 hours for processing
+
+2. **For devices with financial obligations:**
+   - Log into your account
+   - Check for any outstanding balance
+   - Pay the remaining balance
+   - Request blacklist removal through the app's "Support" section
+   - Note: Removal typically processes within 24-72 hours after payment clears
+
+### If you purchased the device from someone else:
+
+1. Contact the original owner and ask them to:
+   - Remove the lost/stolen report with their carrier
+   - Settle any outstanding payments on the device
+   - Provide you with proof of purchase and ownership transfer
+
+2. If unable to contact the original owner:
+   - Gather all proof of your legitimate purchase (receipt, payment record)
+   - Contact our support team with this documentation
+   - Be prepared to provide the IMEI number and your identification
+
+## Device-specific verification processes
+
+### Android devices:
+- Samsung: Additional verification may be required through Samsung's Find My Mobile service
+- Google Pixel: Google account verification may be needed
+- Other Android: Manufacturer-specific verification may apply
+
+### iOS devices:
+- Ensure Activation Lock/Find My iPhone is disabled
+- The previous owner must remove the device from their Apple ID
+- Apple devices require both carrier blacklist removal AND Apple Activation Lock removal
+
+## When to contact support
+
+Contact our support team immediately if:
+- You've followed all steps but the device remains blacklisted after 72 hours
+- You receive error message "Blacklist removal denied"
+- You have proof of legitimate purchase but cannot reach the original owner
+- The blacklist originated from a different carrier
+- You believe your device was blacklisted in error
+
+Our support team can be reached at:
+- Through the mobile app: Support > Device Issues > Blacklist Inquiry
+- Phone: [carrier support number]
+- Online chat: [carrier website]/support
+- In-store: Visit any of our retail locations with your device and proof of purchase
+
+**Note:** Providing false information during the blacklist removal process is against our terms of service and may result in permanent blacklisting of the device.

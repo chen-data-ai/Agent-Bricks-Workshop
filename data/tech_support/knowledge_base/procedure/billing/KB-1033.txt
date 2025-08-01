@@ -1,0 +1,124 @@
+ID: KB-1033
+Type: Procedure
+Category: Billing
+Subcategory: Family plan billing
+Title: Family Plan Billing Management Procedure
+Tags: family plan billing,family,telecom,procedure,roaming,billing,plan,customer
+Last Updated: 2025-05-09 23:59:47
+Generated: 2025-07-13T23:15:50.857530
+
+---
+
+# Family Plan Billing Management Procedure
+
+## Purpose
+This procedure outlines the steps for customer support representatives to handle family plan billing inquiries, changes, and disputes while ensuring both customer satisfaction and compliance with company policies.
+
+## Procedure
+
+### 1. Customer Verification
+1.1. Verify the caller's identity using at least two authentication methods:
+   - Account PIN/password
+   - Last 4 digits of SSN
+   - Recent transaction details
+   - Security questions
+
+1.2. Confirm the caller is the account owner/primary account holder (PAH).
+   - Only the PAH can make billing changes to the family plan
+   - Exception: Authorized users listed in the account notes with proper verification
+
+### 2. Account Assessment
+2.1. Review the current family plan configuration:
+   - Number of lines
+   - Current plan tier and features
+   - Recurring charges and add-ons
+   - Recent billing changes
+   - Payment history (last 3 months)
+
+2.2. Identify any recent system alerts, pending changes, or account flags.
+
+### 3. Billing Inquiry Handling
+3.1. For billing questions:
+   - Explain line item charges in simple terms
+   - Clarify shared vs. individual line charges
+   - Review data usage allocation across lines
+   - Explain proration for mid-cycle changes
+
+3.2. For billing disputes:
+   - Document the specific disputed amount and reason
+   - Verify if the dispute is eligible per policy guidelines
+   - For disputes under $50, proceed to resolution
+   - For disputes $50-$150, obtain team lead approval
+   - For disputes over $150, escalate to billing department
+
+### 4. Plan Modifications
+4.1. For adding lines:
+   - Verify eligibility for additional lines
+   - Explain prorated charges for mid-cycle additions
+   - Process credit check if required
+   - Update the billing system with new line details
+   - Document relationship of new member to PAH
+
+4.2. For removing lines:
+   - Verify if line is under contract
+   - Calculate any early termination fees
+   - Explain impact on overall plan pricing
+   - Process line removal in billing system
+   - Offer number porting options if applicable
+
+### 5. System Documentation
+5.1. Record all actions in the CRM:
+   - Document customer's request verbatim
+   - Note all explanations provided
+   - Record any promises or commitments made
+   - Include reference numbers for any system changes
+
+5.2. Update account notes with:
+   - Summary of billing changes
+   - Effective dates of modifications
+   - Any special arrangements or exceptions
+   - Names of approving supervisors (if applicable)
+
+### 6. Customer Education
+6.1. Explain self-service options:
+   - Mobile app features for managing family plans
+   - Online account management tools (iOS and Android)
+   - Usage monitoring capabilities
+   - Paperless billing options
+
+6.2. Review next bill expectations:
+   - Explain any prorated charges or credits
+   - Provide next bill date and estimated amount
+   - Detail any one-time charges that will appear
+
+### 7. Escalation Path
+7.1. Escalate to team lead when:
+   - Request exceeds agent authorization limits
+   - Customer expresses dissatisfaction with proposed solution
+   - Account has VIP status or multiple previous escalations
+   - Dispute involves technical billing system errors
+
+7.2. Escalate to billing department when:
+   - Dispute exceeds $150
+   - Issue involves complex proration calculations
+   - Multiple billing cycles require adjustment
+   - System limitations prevent agent resolution
+
+### 8. Follow-up Requirements
+8.1. Schedule follow-up contact when:
+   - Complex changes were made to the billing structure
+   - Customer expressed confusion about the resolution
+   - System delays require verification of changes
+   - Promised credits need confirmation
+
+8.2. Document follow-up in the tracking system with:
+   - Scheduled date and time
+   - Contact method preference
+   - Specific items to verify
+   - Resolution ownership
+
+## Related Resources
+- Family Plan Terms and Conditions
+- Billing Dispute Resolution Guidelines
+- Line Addition/Removal Authorization Matrix
+- Proration Calculation Tool

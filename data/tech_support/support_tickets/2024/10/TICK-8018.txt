@@ -1,0 +1,63 @@
+Ticket ID: TICK-8018
+Customer ID: CUS-10228
+Subscription ID: SUB-10000347
+Category: Account
+Priority: Medium
+Status: Resolved
+Created: 2024-10-30 21:45:32.169000
+Agent ID: ACC-7434
+Resolved: 2024-10-31 21:45:32.169000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8018 (Created: 2024-10-31 04:45)
+
+I am beyond frustrated with my account situation right now. I upgraded from your Basic 10GB plan to the Premium Unlimited Plus plan three days ago through your website, and I received a confirmation email saying the change would take effect immediately. However, my iPhone 15 Pro is still showing that I'm on the old plan when I check the MyTelecom app, and I just received a "90% data usage alert" text message which shouldn't be happening on an unlimited plan!
+
+To make matters worse, when I tried to stream video on my lunch break today, I got the "Data Speed Reduced" notification that only happens on the Basic plan. I've already been charged the higher Premium Unlimited Plus rate on my credit card ($89.99 instead of my old $59.99), but I'm not receiving any of the benefits!
+
+I need this fixed IMMEDIATELY as I'm traveling to Seattle for work tomorrow and absolutely need the included hotspot data and international roaming that comes with the Premium plan. I've already tried restarting my phone, updating the app, and even called your automated system which also confirms I'm still on the Basic plan.
+
+Please don't make me explain this all over again. Just fix my account so it reflects the plan I'm PAYING for! My account number is 8872145390.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8018 | Agent ACC-7434 | Resolved on 2024-11-01 04:45
+
+Dear Valued Customer,
+
+I sincerely apologize for the frustration you've experienced with your plan upgrade. I completely understand how important it is to have access to the Premium Unlimited Plus features you're paying for, especially with your upcoming travel to Seattle.
+
+Actions Taken:
+1. Accessed your account #8872145390 in our billing system and confirmed that while the payment change to $89.99 was processed correctly, there was a synchronization error between our billing platform and the plan provisioning system.
+
+2. Manually forced a plan update in our Network Provisioning Tool (NPT) to correctly apply the Premium Unlimited Plus plan to your line.
+
+3. Sent a network refresh signal to your iPhone 15 Pro to update your device settings.
+
+4. Verified that all Premium Unlimited Plus features are now active, including:
+   - Unlimited high-speed data with no throttling
+   - 30GB of mobile hotspot data
+   - International roaming capabilities (specifically confirmed for Seattle trip)
+   - Premium streaming quality (no resolution restrictions)
+
+5. Applied a service credit of $10.00 to your account as compensation for the inconvenience, per our Service Guarantee Policy (Section 4.3), which will appear on your next bill.
+
+Verification Steps:
+- Confirmed the plan change is now reflected in the MyTelecom app (you may need to force close and reopen the app to see the update)
+- Removed all data usage alerts from your account that were associated with the previous 10GB plan
+- Tested that the system now properly recognizes your unlimited status
+
+I recommend restarting your iPhone one more time to ensure all network settings are properly updated. Your international roaming features are fully activated for your Seattle trip, and you'll have access to the full 30GB hotspot allowance.
+
+If you experience any further issues with your service, please contact us directly at our Premium Support line: 1-800-555-1234, where agents can provide immediate assistance.
+
+Again, I apologize for this error and thank you for your patience while we resolved this matter.
+
+Sincerely,
+Agent ACC-7434
+Customer Solutions Team

@@ -1,0 +1,106 @@
+ID: KB-1230
+Type: Guide
+Category: Billing
+Subcategory: Payment methods
+Title: Guide to Managing Your Payment Methods
+Tags: payment,payment methods,methods,telecom,guide,billing,plan,customer
+Last Updated: 2025-05-23 23:59:47
+Generated: 2025-07-13T23:15:42.778149
+
+---
+
+# Guide to Managing Your Payment Methods
+
+This comprehensive guide will help you set up, change, or remove payment methods for your telecom account using either our mobile app or online account management portal.
+
+## Online Account Management
+
+### Adding a New Payment Method
+
+1. **Log in to your account**
+   - Visit our official website and click the "My Account" or "Sign In" button in the top right corner
+   - Enter your phone number/email and password
+   - Expected outcome: You'll see your account dashboard with options for billing, usage, and account settings
+   
+2. **Navigate to payment settings**
+   - Click on "Billing" or "Payment Options" in the main menu
+   - Select "Payment Methods" or "Manage Payment Options"
+   - Expected outcome: You'll see a list of your current payment methods (if any)
+
+3. **Add a new payment method**
+   - Click the "Add Payment Method" or "+" button
+   - Expected outcome: A form will appear for entering new payment details
+
+4. **Choose payment type**
+   - Select from options: Credit/Debit Card, Bank Account, or Digital Wallet
+   - Expected outcome: The form will update to show relevant fields for your selection
+
+5. **Enter payment details**
+   - For credit/debit cards: Enter the card number, expiration date, CVV code, and billing address
+   - For bank accounts: Enter your routing and account numbers
+   - For digital wallets: Follow the prompts to connect your digital wallet account
+   - Expected outcome: All fields will be completed with your information
+
+6. **Save your new payment method**
+   - Click "Save" or "Add Payment Method" button
+   - You may be asked to verify the payment method via text or email
+   - Expected outcome: Your new payment method appears in your list of payment options
+
+## Mobile App Instructions
+
+### Adding a New Payment Method
+
+1. **Open the mobile app**
+   - Locate our app on your device and tap to open
+   - Sign in if prompted
+   - Expected outcome: You'll see the app's home screen
+
+2. **Access account settings**
+   - Tap the menu icon (usually three lines or dots) or your profile icon
+   - Select "Account" or "Billing"
+   - Expected outcome: You'll see account management options
+
+3. **Navigate to payment settings**
+   - Tap "Payment Methods" or "Manage Payments"
+   - Expected outcome: You'll see your current payment methods (if any)
+
+4. **Add a new payment method**
+   - Tap the "+" icon or "Add Payment Method" button
+   - Expected outcome: A form will appear for entering new payment details
+
+5. **Enter payment information**
+   - iOS users: You may have the option to use Apple Pay or scan your card with your camera
+   - Android users: You may have the option to use Google Pay or scan your card with your camera
+   - All users can manually enter payment details
+   - Expected outcome: Payment information will be captured
+
+6. **Save your new payment method**
+   - Tap "Save" or "Add"
+   - Expected outcome: Your new payment method appears in your list of payment options
+
+## Setting a Default Payment Method
+
+1. **Access your payment methods**
+   - Follow steps 1-2 above for either online or app access
+   - Expected outcome: You'll see your list of payment methods
+
+2. **Select default payment method**
+   - Online: Click the "Set as Default" button next to your preferred payment method
+   - Mobile app: Tap the payment method and select "Set as Default" or toggle the default option
+   - Expected outcome: The selected payment method will be marked as default, usually with a checkmark or star
+
+## Removing a Payment Method
+
+1. **Access your payment methods**
+   - Follow steps 1-2 above for either online or app access
+   - Expected outcome: You'll see your list of payment methods
+
+2. **Select the payment method to remove**
+   - Online: Click the "Remove" or trash icon next to the payment method
+   - Mobile app: Swipe left on the payment method or tap the three dots menu and select "Remove"
+   - Expected outcome: You'll see a confirmation prompt
+
+3. **Confirm removal**
+   - Click or tap "Confirm" or "Yes" to remove the payment method
+   - Note: You cannot remove your last payment method if you have active services
+   - Expected outcome: The payment method will be removed from your account

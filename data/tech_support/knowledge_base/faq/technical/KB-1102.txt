@@ -1,0 +1,110 @@
+ID: KB-1102
+Type: FAQ
+Category: Technical
+Subcategory: Phone not receiving calls
+Title: Why Is My Phone Not Receiving Calls?
+Tags: calls,receiving,technical,faq,phone not receiving calls,voice,data,support,phone
+Last Updated: 2024-06-16 23:59:47
+Generated: 2025-07-13T23:15:56.241324
+
+---
+
+# Why Is My Phone Not Receiving Calls?
+
+## Overview
+If your phone isn't receiving incoming calls, this can be frustrating and concerning. Callers might hear ringing while your phone shows no incoming call, or calls may go straight to voicemail. This guide will help you troubleshoot the issue step-by-step.
+
+## Common Symptoms
+- Callers report your phone rings but you don't receive calls
+- Incoming calls go straight to voicemail
+- You see missed call notifications without the phone ever ringing
+- Error message: "Call Failed" or "Connection Problem"
+
+## Troubleshooting Steps
+
+### 1. Check Network Signal
+**For all devices:**
+- Verify you have adequate signal strength (at least 2-3 bars)
+- Check if the signal icon shows "No Service" or "Emergency Calls Only"
+- Try moving to a different location to see if reception improves
+
+**Common error:** Signal bars present but showing "Emergency Calls Only" indicates a network registration issue.
+
+### 2. Toggle Airplane Mode
+**For Android:**
+1. Swipe down from the top of your screen to access Quick Settings
+2. Tap the Airplane Mode icon to turn it ON
+3. Wait 15 seconds
+4. Tap again to turn Airplane Mode OFF
+5. Wait up to 1 minute for network reconnection
+
+**For iPhone:**
+1. Swipe down from the top-right corner (or up from bottom on older models)
+2. Tap the Airplane Mode icon to enable it
+3. Wait 15 seconds
+4. Tap again to disable Airplane Mode
+5. Wait for the network to reconnect
+
+### 3. Check Call Forwarding Settings
+**For Android:**
+1. Open the Phone app
+2. Tap the three dots (⋮) or More icon
+3. Select "Settings" or "Call settings"
+4. Look for "Call forwarding" or "Voice call"
+5. Ensure all forwarding options are turned OFF
+
+**For iPhone:**
+1. Go to Settings
+2. Scroll down and tap "Phone"
+3. Tap "Call Forwarding"
+4. Make sure the toggle is switched OFF
+
+### 4. Check Do Not Disturb or Focus Mode
+**For Android:**
+1. Swipe down from the top of the screen
+2. Check if Do Not Disturb (moon icon) is enabled
+3. If enabled, tap to disable it
+4. Alternatively, go to Settings > Sound > Do Not Disturb to check schedules
+
+**For iPhone:**
+1. Swipe down from top-right corner
+2. Check if Focus or Do Not Disturb (moon icon) is enabled
+3. Tap to disable if active
+4. Go to Settings > Focus to check for scheduled Focus modes
+
+### 5. Check for Call Blocking
+**For Android:**
+1. Open the Phone app
+2. Tap the three dots (⋮) or More icon
+3. Select "Settings" or "Call settings"
+4. Look for "Blocked numbers" or "Call blocking & identification"
+5. Review the list and unblock any numbers as needed
+
+**For iPhone:**
+1. Go to Settings
+2. Scroll down and tap "Phone"
+3. Tap "Blocked Contacts"
+4. Review the list and swipe left on any contact to unblock
+
+### 6. Restart Your Device
+**For Android:**
+1. Press and hold the Power button
+2. Tap "Restart" or "Reboot"
+3. If unresponsive, hold Power + Volume Down buttons for 10-15 seconds
+
+**For iPhone:**
+1. For iPhone X or newer: Press and hold Side button + either Volume button until slider appears
+2. For iPhone 8 or older: Press and hold Side/Top button until slider appears
+3. Drag the slider to power off
+4. After shutdown, press and hold the Side/Top button to restart
+
+### 7. Check SIM Card
+1. Power off your device completely
+2. Remove the SIM card using the ejector tool or paperclip
+3. Check for any damage or debris on the SIM card
+4. Clean gently with a dry cloth if necessary
+5. Reinsert the SIM card properly
+6. Power on your device
+
+### 8. Reset Network Settings
+**Warning:** This will remove saved Wi-Fi networks and Bluetooth pairings

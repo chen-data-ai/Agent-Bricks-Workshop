@@ -1,0 +1,96 @@
+ID: KB-1146
+Type: Policy
+Category: Services
+Subcategory: Visual voicemail
+Title: Visual Voicemail Service Policy
+Tags: visual,services,voicemail,roaming,network,data,policy,visual voicemail
+Last Updated: 2025-04-05 23:59:47
+Generated: 2025-07-13T23:15:45.603396
+
+---
+
+# Visual Voicemail Service Policy
+
+## Overview
+Visual Voicemail transforms traditional voicemail into a visual interface, allowing customers to view, manage, and access voicemail messages directly from their smartphone without dialing into a voicemail system. This document outlines our policy regarding Visual Voicemail service offerings, availability, and customer commitments.
+
+## Service Description
+Visual Voicemail enables customers to:
+- View a list of voicemail messages with caller information and timestamps
+- Listen to messages in any order without navigating through a traditional voicemail menu
+- Read transcriptions of voicemail messages (where available)
+- Save, delete, or forward messages directly from the mobile interface
+- Receive notifications for new voicemail messages
+
+## Service Level Agreements
+
+### Availability Commitment
+- Visual Voicemail service is designed to maintain 99.5% uptime, measured monthly
+- Scheduled maintenance windows are excluded from uptime calculations and will be communicated at least 72 hours in advance
+- Service disruptions exceeding 4 consecutive hours qualify for service credits as outlined in the General Terms of Service
+
+### Message Retention
+- Visual Voicemail messages will be stored for 30 calendar days from receipt
+- Messages marked as "saved" will be retained for an additional 30 days from the date of saving
+- System will provide notifications when messages approach expiration dates
+
+## Feature Availability
+
+### Standard Features (Included with Service)
+- Visual message list with caller ID information
+- In-app message playback
+- Basic message management (save, delete, forward)
+- New message notifications
+
+### Premium Features (May Require Additional Subscription)
+- Voice-to-text transcription
+- Extended message storage (up to 90 days)
+- Message categorization and filtering
+- Message sharing via email or text
+
+## Compatibility Requirements
+
+### Device Requirements
+- Compatible with iOS devices running iOS 12.0 or later
+- Compatible with Android devices running Android 8.0 (Oreo) or later
+- Requires installation of our carrier-specific Visual Voicemail app or native device support
+- Specific device exceptions are listed in our online compatibility checker available in the My Account section of our website and mobile app
+
+### Network Requirements
+- Service requires active data connection (cellular or Wi-Fi)
+- Visual Voicemail functionality may be limited when roaming internationally
+- Service is optimized for our network; performance on MVNOs may vary
+
+## Service Modification Procedures
+
+### Planned Enhancements
+- Feature enhancements will be implemented during scheduled maintenance windows
+- Major feature additions will be announced 30 days prior to implementation
+- Customers will receive in-app notifications about new features upon release
+
+### Service Changes
+- Material changes to existing functionality will be communicated 60 days in advance
+- Changes affecting premium features will be communicated 90 days in advance
+- Emergency modifications to maintain system integrity may be implemented with shorter notice
+
+## Customer Communication Protocols
+
+### Notification Methods
+1. **Primary Notification:** Push notifications through the Visual Voicemail app
+2. **Secondary Notification:** Email to the customer's account email address
+3. **Tertiary Notification:** Notice in the "Announcements" section of the customer account portal
+
+### Communication Timeline
+- Routine updates: 14 days advance notice
+- Feature additions: 30 days advance notice
+- Material changes to functionality: 60 days advance notice
+- Emergency maintenance: As soon as reasonably possible
+
+### Opt-Out Options
+Customers may adjust notification preferences through:
+- Visual Voicemail app settings
+- Online account management portal
+- Customer service representative request
+
+## Policy Updates
+This Visual Voicemail Service Policy may be updated periodically. Material changes to this policy will be communicated through the same channels outlined in the Customer Communication Protocols section above.

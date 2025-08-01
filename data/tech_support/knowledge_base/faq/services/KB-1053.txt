@@ -1,0 +1,81 @@
+ID: KB-1053
+Type: FAQ
+Category: Services
+Subcategory: Spam call filtering
+Title: How Does Spam Call Filtering Work on Our Network?
+Tags: spam call filtering,services,faq,wireless,roaming,filtering,data,spam,call
+Last Updated: 2025-02-02 23:59:47
+Generated: 2025-07-13T23:15:52.405988
+
+---
+
+# How Does Spam Call Filtering Work on Our Network?
+
+## Overview
+Our Spam Call Filtering service helps protect you from unwanted calls by identifying and blocking potential spam calls before they reach your device. The service uses advanced algorithms to analyze calling patterns and known spam numbers to provide real-time protection against robocalls, telemarketers, and potential scammers.
+
+## How It Works
+When a call comes through our network, our system:
+1. Checks the incoming number against our constantly updated database of known spam callers
+2. Analyzes calling patterns and behaviors typical of spam operations
+3. Assigns a risk level to the call (Low, Medium, or High)
+4. Takes action based on your selected protection level
+
+Depending on your settings, suspicious calls will either:
+- Display with a "Potential Spam" warning on your screen
+- Be sent directly to voicemail
+- Be blocked entirely from reaching your device
+
+## Compatibility
+
+### Plan Compatibility
+- **Basic Plans**: Receive spam call warnings only
+- **Standard Plans**: Warnings plus option to auto-send to voicemail
+- **Premium Plans**: Full functionality including complete call blocking
+- **Business Plans**: All features plus custom whitelist/blacklist management
+
+### Device Compatibility
+- **Android**: Compatible with all devices running Android 6.0 or higher
+- **iOS**: Compatible with iPhone 6 and newer running iOS 12+
+- **Basic Phones**: Limited functionality available through network-level filtering only
+
+## Activation and Setup
+
+### Mobile App Method
+1. Download our carrier app from the App Store or Google Play Store
+2. Sign in with your account credentials
+3. Navigate to "Security & Privacy" > "Call Protection"
+4. Toggle "Spam Protection" to ON
+5. Select your desired protection level (Warning Only, Send to Voicemail, or Block Completely)
+
+### Online Account Method
+1. Log in to your account at our website
+2. Navigate to "Services & Features"
+3. Select "Security Settings"
+4. Enable "Spam Call Protection" and choose your protection level
+5. Click "Save Changes"
+
+### Customer Service Activation
+Call our support team at 1-800-XXX-XXXX to have a representative activate the service on your account.
+
+## Maximizing Value
+
+### Personalization Tips
+- **Report False Positives**: If legitimate calls are marked as spam, add these numbers to your "Safe Senders" list in the app
+- **Report Missed Spam**: Use the "Report Spam" feature in our app when spam calls get through to improve the system
+- **Custom Block Lists**: Premium and Business plan customers can create custom lists of numbers to always block
+- **Protection Levels**: Adjust your protection level during business hours if you're expecting important calls from unknown numbers
+
+### Practical Examples
+- **Job Hunting**: Set to "Warning Only" mode when expecting calls from potential employers
+- **After Hours**: Switch to "Block Completely" during sleeping hours
+- **Business Owners**: Create exceptions for important clients while blocking known solicitors
+- **Elderly Care**: Set up maximum protection for vulnerable family members to prevent scam attempts
+
+## Additional Information
+- The service is updated daily with new spam number databases
+- Network-level filtering has no impact on device battery life
+- Call filtering works even when roaming in most countries
+- The service does not record or store the content of your calls
+
+For further assistance with Spam Call Filtering, please contact customer support through our mobile app, website chat, or by calling 1-800-XXX-XXXX.

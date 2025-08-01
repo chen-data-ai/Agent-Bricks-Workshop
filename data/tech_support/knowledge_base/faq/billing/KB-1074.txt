@@ -1,0 +1,76 @@
+ID: KB-1074
+Type: FAQ
+Category: Billing
+Subcategory: Unexpected charges explanation
+Title: Why Am I Seeing Unexpected Charges on My Bill?
+Tags: troubleshooting,account,explanation,faq,charges,unexpected,unexpected charges explanation,billing
+Last Updated: 2024-10-15 23:59:47
+Generated: 2025-07-13T23:15:54.332344
+
+---
+
+# Why Am I Seeing Unexpected Charges on My Bill?
+
+## Understanding Your Bill
+
+If you've noticed charges on your bill that you weren't expecting, you're not alone. Many customers occasionally encounter charges they don't immediately recognize. Here's a comprehensive explanation of common unexpected charges and what they might mean.
+
+### One-Time Charges
+
+**Activation Fees:** When you start a new line of service, you may see a one-time activation fee of $30-$45 per line. This is typically disclosed during sign-up but can be easy to forget.
+
+**Device Payments:** If you purchased a new phone on an installment plan, you'll see monthly device payments (typically for 24-36 months). For example, a $1,200 phone on a 36-month plan would appear as a $33.33 monthly charge.
+
+**Upgrade Fees:** When upgrading to a new device, a one-time fee of $35-$40 may apply, even if you paid full price for the device.
+
+### Proration and Billing Cycle Changes
+
+**Proration Charges:** If you made changes to your plan mid-billing cycle, you might see partial charges for both your old and new plans. For example:
+- If you upgraded from a $60 plan to an $80 plan halfway through your billing cycle, you might see a $30 credit for the unused half of your old plan and a $40 charge for the new plan's half-month of service.
+
+**Billing Cycle Adjustments:** Sometimes your billing date changes, resulting in a longer billing period and consequently higher charges for that month.
+
+### Usage-Based Charges
+
+**Data Overage:** If you exceeded your data plan limit, you may see overage charges (typically $10-$15 per GB over your limit).
+
+**International Usage:** Calls, texts, or data used while traveling internationally can incur significant charges:
+- International calls from the US: $1-$3 per minute
+- Data usage abroad: $5-$10 per day or $2-$10 per MB without a travel pass
+- International texting: $0.25-$0.50 per message
+
+**Premium Services:** Third-party charges for services like premium texting, apps, or subscriptions that bill through your carrier.
+
+### Taxes and Regulatory Fees
+
+**Government Taxes:** These vary by location but typically include state/local taxes and can account for 10-25% of your bill.
+
+**Regulatory Fees:** These include:
+- Universal Service Fund (USF): A federal fee that changes quarterly
+- 911 Service Fee: Typically $0.75-$1.50 per line
+- Administrative fees: Carrier-imposed fees to recover regulatory compliance costs
+
+## What To Do Next
+
+1. **Review Your Plan Details:** Log into your account through our mobile app (available on iOS and Android) or website to verify your current plan.
+
+2. **Check for Recent Changes:** Any plan changes, new lines, or device upgrades will affect your bill.
+
+3. **Analyze Usage Patterns:** In the app, view your data, talk, and text usage to see if you exceeded your plan limits.
+
+4. **Contact Customer Support:** If you still don't understand a charge after reviewing your bill, our support team can provide a detailed explanation.
+
+5. **Consider Plan Optimization:** If you regularly incur overage charges, you might save money by upgrading to a higher-tier plan.
+
+## Frequently Asked Questions About Billing
+
+**Q: Can I dispute a charge I don't recognize?**
+A: Yes, contact customer support within 60 days of receiving your bill to dispute any unrecognized charges.
+
+**Q: How can I prevent unexpected charges in the future?**
+A: Set up usage alerts in your online account or mobile app to be notified when you're approaching plan limits.
+
+**Q: Will I be notified before incurring overage charges?**
+A: We send courtesy alerts at 75%, 90%, and 100% of your data limit to the primary account holder's device and email.
+
+Need more help understanding your bill? Our customer support team is available 24/7 through the mobile app chat feature, by calling 1-800-XXX-XXXX, or by visiting your nearest retail location.

@@ -1,0 +1,59 @@
+ID: KB-1240
+Type: FAQ
+Category: Services
+Subcategory: Roaming partners worldwide
+Title: What are our roaming partners worldwide and how does international roaming work?
+Tags: partners,services,faq,worldwide,roaming,voice,roaming partners worldwide,phone,billing
+Last Updated: 2025-04-14 23:59:47
+Generated: 2025-07-13T23:15:43.451891
+
+---
+
+# What are our roaming partners worldwide and how does international roaming work?
+
+## Overview
+Our network provides international roaming service through partnerships with trusted carriers across the globe, allowing you to stay connected while traveling abroad. With our extensive roaming network spanning over 200 countries and territories, you can make calls, send texts, and use data just like you would at home.
+
+## How International Roaming Works
+When you travel internationally, your device automatically connects to one of our partner networks in that country. Your phone searches for the strongest available signal from our preferred partners, ensuring optimal connectivity. You'll continue using your same phone number, and all charges will appear on your regular monthly bill.
+
+## Compatibility with Plans
+- **Unlimited Plans**: Include roaming in 30+ countries at no extra charge. Data speeds up to 5G where available.
+- **Premium Plans**: Include roaming in 70+ countries with high-speed data allowances.
+- **Standard Plans**: Roaming available for an additional daily fee ($10/day in most countries).
+- **Prepaid Plans**: Require purchase of specific international add-ons before travel.
+
+## Device Compatibility
+- **Smartphones**: Most modern smartphones (iPhone 8 and newer, Samsung Galaxy S9 and newer) are compatible with our international roaming service.
+- **Tablets & Mobile Hotspots**: Select models support international roaming. Check your specific device in our Mobile App under "Device Info."
+- **eSIM Devices**: Benefit from enhanced connectivity options in countries with eSIM support.
+
+## Activation Requirements
+1. **Automatic Activation**: Most accounts have international roaming pre-activated.
+2. **Manual Activation**: If needed, activate through:
+   - Our mobile app: Settings > International > Activate Roaming
+   - Online account: Services > International Options
+   - Customer Support: Call 1-800-XXX-XXXX before traveling
+
+## Maximizing Value While Roaming
+- **Data Management**: Monitor usage through our mobile app (iOS/Android) to avoid unexpected charges.
+- **Wi-Fi Calling**: Use Wi-Fi calling when connected to reliable Wi-Fi to reduce roaming charges.
+- **Travel Pass**: Consider adding our Travel Pass for frequent travelers ($10/day for unlimited talk, text, and your domestic data allowance).
+- **Data Saver Mode**: Enable this feature in our app to compress data and extend your allowance.
+
+## Practical Example
+**Business Trip to Europe**: Maria travels to Germany, France, and Italy for two weeks. Before leaving, she:
+1. Confirms roaming is active via the mobile app
+2. Adds the Europe Travel Pass to her account
+3. Downloads maps and essential documents for offline access
+4. Enables Wi-Fi calling and Data Saver mode
+
+During her trip, Maria stays connected with colleagues, navigates unfamiliar cities, and shares photos with family—all while managing her usage through the app's real-time monitoring tools.
+
+## Finding Partner Networks
+To view specific partner networks by country:
+1. Open our mobile app
+2. Go to Services > International > Coverage Map
+3. Select your destination to see preferred partners and coverage details
+
+For additional assistance with international roaming, please contact Customer Support or visit your nearest retail location.

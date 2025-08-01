@@ -1,0 +1,78 @@
+ID: KB-1052
+Type: Policy
+Category: Billing
+Subcategory: Family plan billing
+Title: Family Plan Billing Policy
+Tags: subscription,payment,family plan billing,family,policy,billing,plan
+Last Updated: 2024-11-14 23:59:47
+Generated: 2025-07-13T23:15:52.337184
+
+---
+
+# Family Plan Billing Policy
+
+## Overview
+This policy document outlines the billing procedures, customer rights, and company obligations regarding Family Plans. Family Plans allow multiple lines to share a single account with consolidated billing while providing individual usage allocations.
+
+## Definitions
+- **Account Holder**: The primary customer responsible for payment of all lines on the Family Plan
+- **Additional Line**: Any line beyond the primary line added to the Family Plan
+- **Billing Cycle**: The recurring monthly period for which service charges are applied
+- **Prorated Charges**: Partial charges calculated based on the number of days of service within a billing cycle
+
+## Billing Structure
+Family Plans consist of:
+1. A base plan fee for the primary line
+2. A reduced monthly access fee for each additional line
+3. Shared or individual data allocations as specified in the selected plan
+4. Any additional features, services, or device payments per line
+
+## Billing Procedures
+### Billing Cycle
+- Family Plan bills are generated on the same date each month based on the account establishment date
+- The Account Holder will receive a single consolidated bill for all lines
+- Bills are delivered electronically by default through our mobile app and online account portal
+- Paper billing is available upon request for an additional fee of $2.95 per month
+
+### Payment Terms
+- Payment is due in full within 21 days of the bill date
+- Multiple payment methods are supported including credit/debit cards, bank transfers, and in-store payments
+- Auto-pay enrollment provides a $5 monthly discount and can be configured through our mobile app (iOS/Android) or online account portal
+
+## Line Management
+### Adding Lines
+- New lines can be added to a Family Plan at any time during the billing cycle
+- Charges for new lines will be prorated based on the activation date
+- The Account Holder must authorize all line additions through identity verification
+- Line additions will be reflected on the next billing statement
+
+### Removing Lines
+- Lines may be removed from a Family Plan with 24 hours' notice
+- Removal requests must be submitted by the Account Holder via phone, in-store, or through the account management portal
+- Final charges for removed lines will be prorated to the date of removal
+- Early termination fees may apply if under contract as specified in the service agreement
+
+## Usage Monitoring and Controls
+- The Account Holder can monitor usage for all lines through our mobile app or online portal
+- Usage alerts can be set at customizable thresholds (50%, 75%, 90%, 100%)
+- The Account Holder may set spending limits for additional lines
+- Data usage controls can be implemented per line to prevent overages
+
+## Dispute Resolution
+- Billing disputes must be reported within 60 days of the bill date
+- Disputes can be submitted through customer service (1-800-XXX-XXXX), via the mobile app, or online account portal
+- The company will investigate all disputes within 10 business days
+- Credits for validated disputes will appear on the next billing statement
+
+## Changes to Plan Structure
+- The Account Holder may change the Family Plan type once per billing cycle at no charge
+- Plan changes take effect on the next billing cycle unless otherwise requested
+- Mid-cycle plan upgrades are processed immediately with prorated charges
+- Mid-cycle plan downgrades take effect on the next billing cycle
+
+## Privacy and Access
+- The Account Holder has access to billing details for all lines on the account
+- Individual line users may access only their own usage details unless granted permission by the Account Holder
+- Account access permissions can be managed through the online account portal or mobile app
+
+For additional assistance with Family Plan billing, please contact Customer Support at 1-800-XXX-XXXX or visit the Support section in our mobile app (available for iOS and Android).

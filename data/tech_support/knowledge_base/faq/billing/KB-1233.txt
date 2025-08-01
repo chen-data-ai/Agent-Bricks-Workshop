@@ -1,0 +1,59 @@
+ID: KB-1233
+Type: FAQ
+Category: Billing
+Subcategory: Billing cycle changes
+Title: How Will a Billing Cycle Change Affect My Bill?
+Tags: billing cycle changes,service,faq,voice,data,billing,changes,cycle
+Last Updated: 2025-04-17 23:59:47
+Generated: 2025-07-13T23:15:43.008172
+
+---
+
+# How Will a Billing Cycle Change Affect My Bill?
+
+When your billing cycle changes, you'll see some temporary adjustments on your bill as we transition you to your new billing date. Here's everything you need to know about this process:
+
+## What happens when my billing cycle changes?
+
+When your billing cycle changes, you'll receive a one-time prorated bill that covers the partial period between your old billing date and your new one. After this transition bill, your regular monthly billing will resume on your new cycle date.
+
+## How are charges calculated during a billing cycle change?
+
+We calculate prorated charges using a daily rate (your monthly plan cost ÷ number of days in the billing month). For example:
+
+* If your $60 monthly plan shifts from billing on the 15th to the 1st of each month
+* In a 30-day month, your daily rate would be $2 per day ($60 ÷ 30)
+* If there are 16 days between your old and new billing dates, you'd be charged $32 (16 days × $2/day)
+
+## Will my plan features be prorated too?
+
+Yes. During the prorated period, your plan's features will also be adjusted proportionally:
+
+* **Data:** If you have a 15GB monthly data plan and your prorated period is half a month, you'll receive 7.5GB for that period
+* **Talk/Text:** Any limited talk or text allowances will be similarly prorated
+
+## How will this appear on my bill?
+
+Your bill will clearly show:
+1. The date range for the prorated period
+2. The prorated charges for your base plan
+3. Prorated amounts for any add-ons or features
+4. The new billing date for future bills
+
+You can view these details in the "Billing Summary" section of your paper bill or by logging into your online account or mobile app (available for both iOS and Android).
+
+## Will my autopay be affected?
+
+If you're enrolled in autopay, the prorated amount will be automatically charged on your new billing date. You don't need to make any changes to your autopay settings.
+
+## Do I need to request a billing cycle change?
+
+You can request a billing cycle change through your online account, mobile app, or by contacting Customer Support. In some cases, billing cycles may change when you:
+* Upgrade your plan
+* Add a line to your account
+* Merge accounts
+* Transfer service to a new address
+
+## Still have questions?
+
+If you need help understanding your prorated bill or want to request a billing cycle change, contact us through the Support section of our mobile app, chat with us online, or call Customer Support at 1-800-XXX-XXXX.

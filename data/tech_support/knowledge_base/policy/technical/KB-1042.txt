@@ -1,0 +1,104 @@
+ID: KB-1042
+Type: Policy
+Category: Technical
+Subcategory: Signal strength problems
+Title: Technical Services Policy: Signal Strength Issues
+Tags: strength,technical,text,signal,problems,voice,policy,phone,signal strength problems
+Last Updated: 2024-07-16 23:59:47
+Generated: 2025-07-13T23:15:51.548263
+
+---
+
+# Technical Services Policy: Signal Strength Issues
+
+## 1. Policy Overview
+
+This document outlines our company's approach to addressing signal strength problems affecting our wireless network services. It defines the standards we maintain, how we monitor and resolve signal issues, and clarifies the respective responsibilities of our company and our customers.
+
+## 2. Service Standards
+
+### 2.1 Signal Strength Commitments
+- We commit to providing minimum signal strength of -100 dBm outdoors within our published coverage areas
+- Indoor coverage may vary based on building materials and construction
+- 99.5% network availability in covered areas, measured monthly
+
+### 2.2 Performance Metrics
+- Download/upload speeds as advertised for respective service tiers when signal strength is optimal
+- Latency under 100ms for voice services and 50ms for data services under normal conditions
+- Call drop rate below 2% in areas with adequate signal coverage
+
+## 3. Monitoring and Maintenance
+
+### 3.1 Network Monitoring
+- 24/7 automated monitoring of cell sites and signal quality
+- Regular drive tests to verify coverage maps and identify weak signal areas
+- Analysis of customer-reported issues to identify patterns requiring infrastructure improvements
+
+### 3.2 Maintenance Windows
+- Routine maintenance: Tuesdays and Thursdays, 1:00 AM - 5:00 AM local time
+- Emergency maintenance: As required, with priority on minimizing service disruption
+- Quarterly preventative maintenance on all cell sites and equipment
+
+## 4. Customer Notification Protocols
+
+### 4.1 Planned Service Impacts
+- Notification via SMS and email 72 hours before scheduled maintenance
+- In-app alerts 48 hours in advance for customers using our mobile application
+- Service status updates on company website and account portal
+
+### 4.2 Unplanned Outages
+- Initial notification within 30 minutes of confirmed widespread signal issues
+- Status updates every 2 hours until resolution
+- Post-incident summary within 24 hours of resolution for outages exceeding 4 hours
+
+## 5. Signal Issue Remediation Procedures
+
+### 5.1 Troubleshooting Process
+1. Remote diagnostics of affected areas
+2. Dispatch of field technicians when remote resolution is not possible
+3. Temporary solutions deployment (COWs - Cells on Wheels) for major outages
+4. Root cause analysis and permanent resolution implementation
+
+### 5.2 Resolution Timeframes
+- Critical issues (complete service loss): Resolution within 4 hours
+- Major issues (severe degradation): Resolution within 8 hours
+- Minor issues (limited impact): Resolution within 48 hours
+
+## 6. Customer Responsibilities
+
+### 6.1 Device Considerations
+- Ensure device firmware and operating system are current
+- Use manufacturer-approved accessories and charging equipment
+- Report persistent signal issues through official support channels
+
+### 6.2 Environmental Factors
+- Recognize that certain building materials (metal, concrete, energy-efficient windows) may impact indoor signal
+- Consider company-offered signal boosters for locations with known structural interference
+- Maintain clear access to company equipment installed on customer premises
+
+## 7. Company Obligations
+
+### 7.1 Technical Support
+- Free technical support for signal-related issues via phone, chat, and in-app assistance
+- Remote device diagnostics when permitted by customer
+- On-site technical visits when issues cannot be resolved remotely
+
+### 7.2 Service Credits
+- Automatic service credits for outages exceeding 24 consecutive hours
+- Pro-rated refunds for service periods with documented signal issues below our guaranteed standards
+- Additional compensation considered on a case-by-case basis for extended service disruptions
+
+## 8. Signal Enhancement Solutions
+
+### 8.1 Company-Provided Options
+- Wi-Fi Calling capability on compatible devices at no additional charge
+- Signal boosters available for purchase or rental
+- Femtocell/microcell solutions for qualifying customers with persistent coverage issues
+
+### 8.2 Implementation Process
+1. Technical assessment of signal issues
+2. Recommendation of appropriate enhancement solution
+3. Installation support (self-install or technician assistance)
+4. Post-installation verification of improved service
+
+For assistance with signal strength issues, contact Technical Support at 1-800-555-0123 or through the Support section of our mobile app.

@@ -1,0 +1,129 @@
+ID: KB-1145
+Type: Procedure
+Category: Technical
+Subcategory: Device overheating
+Title: Technical Procedure: Resolving Device Overheating Issues
+Tags: subscription,account,technical,device overheating,overheating,procedure,voice,device
+Last Updated: 2024-09-12 23:59:47
+Generated: 2025-07-13T23:15:45.514720
+
+---
+
+# Technical Procedure: Resolving Device Overheating Issues
+
+**Document ID:** TP-DEV-OH-2023-01  
+**Last Updated:** [Current Date]  
+**Department:** Technical Support  
+**Classification:** Internal Use Only
+
+## 1. Overview
+
+This document provides a systematic approach for diagnosing and resolving device overheating issues on customer smartphones and tablets. Device overheating can lead to performance degradation, battery damage, and safety concerns.
+
+## 2. Required Tools/System Access
+
+- Customer account access (CRM)
+- Knowledge Base access
+- Remote Diagnostic Tool (RDT) access
+- Device specifications database
+- Case management system
+
+## 3. Procedure
+
+### 3.1 Initial Assessment
+
+1. Verify customer identity following standard authentication protocol
+2. Document the following information:
+   - Device make and model
+   - Operating system version (iOS or Android)
+   - When overheating occurs (during specific activities, charging, or idle)
+   - Duration of the issue
+   - Any recent changes (new apps, updates, physical damage)
+   - Current temperature reading if available through RDT
+
+### 3.2 Diagnostic Steps
+
+1. **Run remote diagnostics** (if device is operational)
+   - Launch Remote Diagnostic Tool
+   - Select "Hardware Diagnostics" > "Temperature Analysis"
+   - Record CPU, battery, and ambient temperature readings
+   - Compare against normal operating parameters in specifications database
+
+2. **Analyze battery health**
+   - For iOS: Access Battery Health percentage (Settings > Battery > Battery Health)
+   - For Android: Use RDT to check battery health metrics
+   - Document charging cycles and battery age
+
+3. **Review running processes**
+   - Check for resource-intensive applications
+   - Identify background processes with high CPU usage
+   - Note any system processes showing abnormal activity
+
+## 4. Resolution Path Decision Tree
+
+```
+START
+|
++-- Are temperature readings within normal range?
+|   |
+|   +-- YES --> Perceived overheating may be normal under current usage
+|   |           Proceed to customer education (5.1)
+|   |
+|   +-- NO --> Continue diagnostics
+|       |
+|       +-- Is device case preventing proper ventilation?
+|       |   |
+|       |   +-- YES --> Recommend case removal (5.2)
+|       |   |
+|       |   +-- NO --> Continue
+|       |
+|       +-- Are resource-intensive apps running?
+|           |
+|           +-- YES --> Proceed to software optimization (5.3)
+|           |
+|           +-- NO --> Check for system issues (5.4)
+|
++-- Is battery health below 80%?
+    |
+    +-- YES --> Potential battery issue (5.5)
+    |
+    +-- NO --> Continue with software diagnostics
+```
+
+## 5. Resolution Steps
+
+### 5.1 Normal Operating Temperature Education
+
+1. Explain normal operating temperatures (35-45°C during heavy usage)
+2. Provide usage recommendations to minimize heat generation
+3. Document in case notes: "Educated customer on normal device operating temperatures"
+
+### 5.2 Physical Ventilation Improvement
+
+1. Instruct customer to remove case while using intensive applications
+2. Recommend using device on hard surfaces rather than soft surfaces (beds, couches)
+3. Advise against charging while using processor-intensive applications
+
+### 5.3 Software Optimization
+
+1. Guide customer to close unused applications:
+   - iOS: Double-tap home button/swipe up from bottom, swipe apps up to close
+   - Android: Tap recent apps button, swipe apps away or tap "Close All"
+2. Identify and address problematic apps:
+   - Check battery usage statistics for power-hungry applications
+   - Recommend updating or uninstalling problematic apps
+3. Clear system cache:
+   - iOS: Guide through restart process
+   - Android: Navigate to Settings > Storage > Cache > Clear Cache
+
+### 5.4 System Issues Resolution
+
+1. Check for pending system updates and install if available
+2. Perform soft reset:
+   - iOS: Guide through restart process
+   - Android: Power off device for 30 seconds, then restart
+3. If issue persists, perform factory reset as last resort (ensure data backup first)
+
+### 5.5 Battery Assessment
+
+1. Run battery

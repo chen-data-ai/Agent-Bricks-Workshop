@@ -1,0 +1,64 @@
+ID: KB-1150
+Type: FAQ
+Category: Account
+Subcategory: Data privacy
+Title: How Does Our Company Protect My Personal Data and Privacy?
+Tags: data privacy,account,service,faq,mobile,data,privacy,customer
+Last Updated: 2025-02-06 23:59:47
+Generated: 2025-07-13T23:15:45.885003
+
+---
+
+# How Does Our Company Protect My Personal Data and Privacy?
+
+At our company, we take your data privacy seriously and employ multiple safeguards to protect your personal information while providing you with control over your data.
+
+## Data Protection Measures
+
+Your personal information is protected through:
+
+* **Encryption**: All sensitive data is encrypted both during transmission and when stored in our systems
+* **Access controls**: Only authorized personnel with specific job requirements can access your personal information
+* **Regular security audits**: We conduct ongoing assessments to identify and address potential vulnerabilities
+* **Compliance**: Our practices adhere to telecommunications industry standards and relevant data protection regulations
+
+## Managing Your Privacy Settings
+
+You can review and adjust your privacy preferences through:
+
+**Mobile App**:
+1. Log in to your account
+2. Tap the profile icon in the top right corner
+3. Select "Privacy & Security"
+4. Toggle your preferences for marketing communications, data usage analysis, and third-party sharing
+
+**Online Account**:
+1. Sign in at our website
+2. Navigate to "Account Settings"
+3. Select "Privacy Preferences"
+4. Update your settings as desired
+
+## Verification Requirements
+
+For privacy-related changes, we require:
+
+* **Standard changes** (marketing preferences): Account password only
+* **Enhanced privacy requests** (data deletion): Two-factor authentication via SMS or email
+* **Complete data requests**: Government-issued ID verification may be required for comprehensive personal data reports
+
+## Implementation Timeframes
+
+* Marketing preference changes: Immediate effect
+* Data sharing opt-outs: 24-48 hours to propagate across all systems
+* Data deletion requests: Processed within 30 days as required by regulations
+* Data access requests: 7-10 business days for compilation and secure delivery
+
+## Impact on Services
+
+Please note:
+* Opting out of certain data sharing may limit personalized offers and recommendations
+* Some data collection is necessary for essential service functionality (billing, network optimization)
+* Privacy settings do not affect your core telecommunications services or billing amounts
+* Deleting certain account data may reset your preferences for services like voicemail or parental controls
+
+If you have additional privacy concerns, please contact our dedicated Privacy Team at privacy@ourcompany.com or call 1-800-PRIVACY (1-800-774-8223).

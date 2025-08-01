@@ -1,0 +1,55 @@
+Ticket ID: TICK-8006
+Customer ID: CUS-10232
+Subscription ID: SUB-10000355
+Category: Technical
+Priority: Low
+Status: Closed
+Created: 2024-06-06 21:42:47.316000
+Agent ID: TEC-3692
+Resolved: 2024-06-07 21:42:47.316000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8006 (Created: 2024-06-07 04:43)
+
+Customer's phone reported as lost/stolen incorrectly; needs review of blacklist status for iPhone 15 Pro with IMEI 969930526.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8006 | Agent TEC-3692 | Resolved on 2024-06-08 04:43
+
+Dear Customer,
+
+Thank you for bringing this matter to our attention regarding your iPhone 15 Pro that was incorrectly reported as lost/stolen and subsequently blacklisted.
+
+## Actions Taken:
+1. Verified your account ownership and identity through our secure authentication protocol (SAP-2024)
+2. Confirmed the IMEI 969930526 is registered to your account and matches our records
+3. Accessed our Device Management System (DMS) to review the blacklist status
+4. Located the incorrect lost/stolen report filed on 2024-06-06
+5. Removed the IMEI from the national blacklist database (GSMA Device Check)
+6. Performed a manual override in our internal system to clear all flags
+7. Conducted a verification call to confirm device is now functioning properly
+
+## Resolution Details:
+The investigation revealed that your device was incorrectly flagged during a batch update in our system. I've successfully removed all blacklist indicators from both our internal database and the national registry. Your iPhone 15 Pro with IMEI 969930526 is now fully cleared and should operate normally on all networks.
+
+As compensation for this error and any inconvenience caused, I've applied a service credit of $25.00 to your account per our Service Disruption Policy (SDP-103). This credit will appear on your next billing statement.
+
+## Follow-Up Actions:
+1. A confirmation email has been sent to your registered email address with details of this resolution
+2. I've added a permanent note to your account regarding this incident to prevent similar issues
+3. Our system will perform an automatic verification check in 24 hours to ensure the blacklist removal is properly propagated across all networks
+
+If you experience any further issues with your device connectivity, please contact us immediately by referencing this ticket number. We sincerely apologize for the inconvenience this situation has caused and appreciate your patience while we resolved this matter.
+
+Is there anything else I can assist you with today?
+
+Best regards,
+
+Agent TEC-3692
+Technical Support Department

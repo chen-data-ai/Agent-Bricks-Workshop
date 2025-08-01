@@ -1,0 +1,62 @@
+Ticket ID: TICK-8053
+Customer ID: CUS-10412
+Subscription ID: SUB-10000615
+Category: Billing
+Priority: Critical
+Status: Resolved
+Created: 2024-07-29 21:58:49.772000
+Agent ID: BIL-9064
+Resolved: 2024-07-29 21:58:49.772000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8053 (Created: 2024-07-30 04:59)
+
+I am absolutely FURIOUS about my latest bill! I just opened my July statement and discovered I've been charged $149.99 for "Premium Content Services" that I NEVER authorized. I've been a loyal customer on your Ultimate Unlimited Family Plan for over 5 years and have never had issues until now.
+
+I recently upgraded from a Galaxy S22 to an iPhone 15 Pro about three weeks ago, and suddenly these charges appear? This cannot be a coincidence. The customer service rep who helped with my upgrade in your Portland store specifically assured me my Standard Individual plan and billing would remain exactly the same.
+
+When I tried using your mobile app to dispute the charge, I kept getting an "Error 4056: Unable to process billing inquiry" message. I then spent 45 minutes on hold trying to speak with someone on your billing team before giving up.
+
+I need these unauthorized charges removed IMMEDIATELY and confirmation that whatever subscription or service causing this has been canceled. I've already had to adjust my budget this month because of this unexpected expense, and I cannot afford to wait until next billing cycle for this to be resolved.
+
+If this isn't fixed within 48 hours, I'll be forced to file a complaint with the FCC and consider switching to another carrier. My account number is 8176542390 if you need it for reference.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8053 | Agent BIL-9064 | Resolved on 2024-07-30 04:59
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration you've experienced with the unauthorized "Premium Content Services" charge of $149.99 on your July statement, as well as the difficulties you encountered when attempting to resolve this through our mobile app and customer service line.
+
+## Actions Taken:
+1. Accessed your account #8176542390 in our Billing Management System (BMS)
+2. Verified your Ultimate Unlimited Family Plan status and confirmed your recent device upgrade from Galaxy S22 to iPhone 15 Pro
+3. Investigated the $149.99 "Premium Content Services" charge
+4. Identified this charge was erroneously applied during your device transition due to a system integration error between our Android and iOS subscription platforms (Error Code: SUB-1045)
+5. Removed the unauthorized subscription from your account effective immediately
+6. Applied a full credit of $149.99 to your account per our Billing Dispute Resolution Policy (Section 5.2: Unauthorized Charges)
+7. Added a 12-month subscription block flag to prevent similar unauthorized activations
+
+## Resolution Details:
+The charge appears to have been triggered during your device transition when certain third-party content permissions were incorrectly transferred between operating systems. This is a known issue we're currently addressing with our technical team (Internal Ticket: SYS-7821). The error you received in our mobile app (Error 4056) has also been documented and forwarded to our development team.
+
+The $149.99 credit will appear on your next statement as "Billing Adjustment - Unauthorized Charge Reversal." Your account has been noted to prevent this issue from recurring, and I've verified your plan remains unchanged at the rate you confirmed with our Portland store representative.
+
+## Additional Information:
+1. I've added a courtesy account notation that exempts you from our standard 14-day dispute window, as this was clearly a system error on our part
+2. For future reference, you can monitor subscription services on your iPhone 15 Pro by going to Settings > [Your Name] > Subscriptions
+3. I've scheduled a courtesy follow-up call in 7 days to ensure everything is resolved to your satisfaction
+
+I understand how concerning unexpected charges can be, especially when they impact your monthly budget. Please accept my sincere apologies for this inconvenience. Your loyalty as a 5-year customer is greatly appreciated, and we're committed to maintaining your trust.
+
+If you have any additional questions or concerns before our scheduled follow-up, please contact our dedicated Billing Support team at 1-800-XXX-XXXX or reply directly to this resolution.
+
+Sincerely,
+Agent BIL-9064
+Billing Resolution Specialist

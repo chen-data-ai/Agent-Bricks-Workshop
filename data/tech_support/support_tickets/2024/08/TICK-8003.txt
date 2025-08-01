@@ -1,0 +1,57 @@
+Ticket ID: TICK-8003
+Customer ID: CUS-10391
+Subscription ID: SUB-10000584
+Category: Technical
+Priority: Low
+Status: Resolved
+Created: 2024-08-13 21:42:30.891000
+Agent ID: TEC-8303
+Resolved: 2024-08-16 21:42:30.891000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8003 (Created: 2024-08-14 04:42)
+
+Customer's Motorola Edge eSIM activation failed with error code E2735; need assistance completing setup.
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8003 | Agent TEC-8303 | Resolved on 2024-08-17 04:42
+
+Dear Customer,
+
+Thank you for your patience while we resolved your Motorola Edge eSIM activation issue. I understand how frustrating it can be when device setup doesn't go smoothly.
+
+## Actions Taken:
+1. Accessed our eSIM Provisioning System (EPS) to investigate error code E2735
+2. Verified your account eligibility for eSIM service
+3. Identified that error E2735 indicates an EID mismatch between our system and your device
+
+## Resolution Process:
+1. Reset your eSIM profile in our backend system
+2. Manually verified and updated your device's EID in our Customer Information Management System (CIMS)
+3. Generated a new eSIM QR code and activation token
+4. Guided you through the proper eSIM installation process via the Motorola Edge settings menu:
+   - Settings > Network & Internet > SIMs > Add eSIM > Scan QR code
+
+The activation was successfully completed during our troubleshooting session, and we confirmed your device now shows proper network connectivity with full service.
+
+## Additional Information:
+As discussed, per our Service Guarantee Policy (SGP-2024), I've applied a service credit of $15.00 to your account for the inconvenience experienced during the activation process. This credit will appear on your next billing statement.
+
+## Follow-up:
+Please monitor your device connectivity over the next 24-48 hours. If you experience any further issues with your eSIM, please contact us immediately by:
+- Using our Mobile Support App (available on both iOS and Android)
+- Visiting your online account portal at our website
+- Referencing this ticket number for expedited service
+
+Is there anything else I can assist you with regarding your Motorola Edge or eSIM activation?
+
+Best regards,
+
+Agent TEC-8303
+Technical Support Team

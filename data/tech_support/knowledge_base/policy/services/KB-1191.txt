@@ -1,0 +1,114 @@
+ID: KB-1191
+Type: Policy
+Category: Services
+Subcategory: Roaming partners worldwide
+Title: Global Roaming Partner Policy
+Tags: payment,troubleshooting,partners,policy,services,worldwide,roaming,roaming partners worldwide
+Last Updated: 2024-11-27 23:59:47
+Generated: 2025-07-13T23:15:39.998559
+
+---
+
+# Global Roaming Partner Policy
+
+## Overview
+This policy document outlines our company's international roaming services, partnerships, and related terms for customers traveling abroad. Our global roaming network provides connectivity across 215+ countries through agreements with 650+ partner carriers worldwide.
+
+## Roaming Service Offerings
+
+### Standard Roaming Services
+- Voice calls (incoming and outgoing)
+- SMS messaging (sending and receiving)
+- Data connectivity (4G/LTE where available, 5G in select markets)
+- Visual voicemail (carrier-dependent)
+- Emergency services access (universally available)
+
+### Premium Roaming Features
+- International Wi-Fi calling
+- High-speed data in 180+ destinations
+- Seamless network switching technology
+- Daily/weekly unlimited roaming passes
+- Real-time usage notifications
+
+## Service Level Agreements
+
+### Coverage Guarantees
+- 99.5% service availability in primary partner markets
+- 95% service availability in secondary partner markets
+- No service guarantees in remote/maritime/aviation zones
+
+### Quality Standards
+- Call quality equivalent to local carrier standards
+- Data speeds subject to local network capabilities
+- Maximum latency thresholds of 300ms in primary markets
+- Automatic network selection optimized for quality and cost
+
+### Support Response Times
+- Critical roaming issues: 4-hour resolution target
+- Standard roaming inquiries: 24-hour response time
+- Billing disputes: Resolution within 5 business days
+
+## Feature Availability Guarantees
+
+### Core Services
+- Voice and SMS guaranteed in all partner networks
+- Data services available on 98% of partner networks
+- 4G/LTE available in 175+ countries
+- 5G roaming available in 65+ countries (expanding quarterly)
+
+### Advanced Features
+- Visual voicemail supported by 70% of partners
+- Wi-Fi calling available in 120+ countries
+- VoLTE supported by 60% of partner networks
+- eSIM roaming supported by 85+ partners
+
+## Policy Modification Procedures
+
+### Scheduled Updates
+- Partner network additions/removals announced 60 days in advance
+- Rate changes communicated 30 days before implementation
+- Feature enhancements announced 14 days prior to launch
+- Annual comprehensive policy review (January)
+
+### Emergency Modifications
+- Force majeure service disruptions communicated within 24 hours
+- Regulatory compliance changes implemented as legally required
+- Security-related modifications may be implemented immediately
+- Temporary service restrictions during natural disasters or emergencies
+
+## Compatibility Requirements
+
+### Device Requirements
+- Compatible with all company-sold devices manufactured after 2018
+- Third-party devices must support GSM/WCDMA standards
+- 5G roaming requires 5G-compatible device with current firmware
+- VoLTE roaming requires VoLTE-capable device with enabled settings
+
+### Software Requirements
+- Latest device operating system recommended (iOS 14+, Android 10+)
+- Company mobile app (version 5.0+) for optimal roaming experience
+- Automatic network selection enabled for seamless transitions
+- Data roaming setting must be enabled in device settings
+
+## Customer Communication Channels
+
+### Proactive Notifications
+- SMS alerts upon entering new roaming territory
+- Push notifications via mobile app for usage thresholds (50%, 80%, 100%)
+- Email notifications for policy changes affecting customer's specific plan
+- In-app roaming service availability map (updated weekly)
+
+### Access to Information
+- Complete roaming details viewable in online account portal
+- Mobile app "Travel Mode" provides destination-specific information
+- Customer service specialists available 24/7 for roaming assistance
+- Downloadable PDF country guides through online account
+
+## Data Privacy and Security
+
+- All roaming traffic subject to same encryption standards as home network
+- Location data handled according to our Privacy Policy
+- Partner carriers bound by data protection agreements
+- EU roaming compliant with GDPR requirements
+
+This policy is effective as of [Current Date] and supersedes all previous versions. We reserve the right to modify this policy according to the procedures outlined above.

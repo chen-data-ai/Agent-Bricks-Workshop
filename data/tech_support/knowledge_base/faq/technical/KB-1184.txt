@@ -1,0 +1,80 @@
+ID: KB-1184
+Type: FAQ
+Category: Technical
+Subcategory: Signal strength problems
+Title: FAQ: Why is my mobile signal strength poor or inconsistent?
+Tags: troubleshooting,technical,signal,faq,problems,voice,coverage,strength,signal strength problems
+Last Updated: 2024-09-13 23:59:47
+Generated: 2025-07-13T23:15:48.368669
+
+---
+
+# FAQ: Why is my mobile signal strength poor or inconsistent?
+
+## Understanding Signal Issues
+
+Poor signal strength can cause dropped calls, slow data speeds, and messaging delays. This guide will help you troubleshoot and potentially resolve signal problems before contacting customer support.
+
+## Common Symptoms
+* One bar or no bars displayed in your status bar
+* Calls dropping or poor call quality
+* Slow data speeds or inability to connect to mobile data
+* "No Service" or "Emergency Calls Only" message
+* "SOS Only" (iOS) or "Emergency Calls Only" (Android)
+
+## Troubleshooting Steps
+
+### 1. Check Network Coverage
+* Verify you're in a coverage area using our coverage map in the MyAccount app or at [company website]/coverage
+* Signal strength naturally varies by location (buildings, rural areas, underground)
+* If you recently moved, check if your new location has adequate coverage
+
+### 2. Restart Your Device
+* **Android**: Press and hold the power button, then tap "Restart"
+* **iOS**: Press and hold the side button and either volume button until the slider appears, slide to power off, then press and hold the side button to restart
+
+### 3. Toggle Airplane Mode
+* **Android**: Swipe down from the top of your screen and tap the airplane icon, wait 30 seconds, then tap again
+* **iOS**: Go to Settings or Control Center (swipe down from top-right), enable Airplane Mode, wait 30 seconds, then disable it
+
+### 4. Check for Network Settings Updates
+* **Android**: Go to Settings > System > Advanced > System update, or Settings > About phone > System updates
+* **iOS**: Go to Settings > General > Software Update
+
+### 5. Reset Network Settings
+**Note**: This will remove saved Wi-Fi networks and Bluetooth pairings
+* **Android**: Go to Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+* **iOS**: Go to Settings > General > Reset > Reset Network Settings
+
+### 6. Check SIM Card
+* Power off your device
+* Remove and reinsert your SIM card to ensure proper connection
+* Check for physical damage to the SIM card
+* If damaged, contact support for a replacement SIM
+
+### 7. Manual Network Selection
+* **Android**: Go to Settings > Connections/Network & Internet > Mobile network > Network operators > Search networks
+* **iOS**: Go to Settings > Cellular > Network Selection, toggle off Automatic and select your carrier
+
+### 8. Signal Boosting Solutions
+* Consider a signal booster or femtocell if you consistently have poor coverage at home
+* Wi-Fi Calling can be enabled in:
+  * **Android**: Settings > Connections > Wi-Fi Calling
+  * **iOS**: Settings > Cellular > Wi-Fi Calling
+
+## When to Contact Support
+
+Contact our technical support team if:
+* Signal issues persist after trying all troubleshooting steps
+* Signal was previously strong in your area but has recently degraded
+* Your device shows "Emergency Calls Only" for more than 24 hours
+* You see error messages like "SIM not provisioned" or "Registration failed"
+* Multiple devices in the same location experience the same issue
+
+## Contact Methods
+* In-app support through MyAccount app
+* Call *611 from your mobile device
+* Text HELP to 611
+* Live chat at [company website]/support
+
+Our technical team can run remote diagnostics on your line and check for network outages or maintenance in your area.

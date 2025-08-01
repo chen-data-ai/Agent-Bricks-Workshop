@@ -1,0 +1,57 @@
+Ticket ID: TICK-8036
+Customer ID: CUS-10273
+Subscription ID: SUB-10000411
+Category: Billing
+Priority: Medium
+Status: Closed
+Created: 2024-09-10 21:51:36.525000
+Agent ID: BIL-7870
+Resolved: 2024-09-10 21:51:36.525000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8036 (Created: 2024-09-11 04:51)
+
+I am beyond frustrated with my latest bill which shows a $49.99 "Premium Content Access" charge that I NEVER authorized! I've been a loyal customer on your Unlimited Elite Family Plan for over 3 years and have never had issues until now. I checked my iPhone 15 Pro settings and there are NO subscriptions active through my carrier account. 
+
+When I called customer service yesterday, the representative said this charge was from "third-party content" but couldn't explain what specific service this was for. I was told to check my Galaxy S24 (which is also on my account) but that device is used by my daughter who confirms she didn't subscribe to anything either.
+
+The error message I received when trying to dispute this online was "Error 2305: Charge verification pending" which makes absolutely no sense. I need this charge removed IMMEDIATELY and want written confirmation that these types of charges cannot be added to my account without explicit authorization. My autopay is scheduled for tomorrow and I don't want to be charged for something I didn't order!
+
+I'm in the Phoenix area and have never had billing issues before. Please resolve this today or I'll be forced to file a complaint with the FCC.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8036 | Agent BIL-7870 | Resolved on 2024-09-11 04:51
+
+Dear Valued Customer,
+
+Thank you for bringing this unauthorized charge to our attention. I sincerely apologize for the frustration this has caused you and appreciate your loyalty to our service over the past 3 years.
+
+Actions Taken:
+1. Accessed your billing account in our ATLAS billing system and verified the $49.99 "Premium Content Access" charge on your current statement
+2. Conducted a thorough investigation using our Content Subscription Verification Tool (CSVT) which confirmed no active authorization was present for this service
+3. Identified this as an erroneous third-party billing error from content provider ID: CP-38291
+4. Immediately removed the $49.99 charge from your current billing cycle
+5. Applied a $49.99 credit to your account (Credit Reference: CR-20240911-8036)
+6. Added a Third-Party Billing Block to your account as per our Premium Content Protection Policy (PCPP-2024)
+
+The charge has been fully removed and will not appear on your upcoming autopay withdrawal. I've confirmed your autopay is scheduled for tomorrow, and the updated amount will reflect the removal of this unauthorized charge.
+
+Per our Content Billing Protection Policy, I've also added a safeguard to your account that prevents any third-party content charges from being applied without your explicit verification through our Mobile App or Account Portal. This protection has been applied to all lines on your Unlimited Elite Family Plan.
+
+You can verify this change by:
+• Opening our mobile app and navigating to Account → Profile → Content Purchases → Third-Party Billing (shows "BLOCKED")
+• Or visiting our website, logging into your account, and checking under Billing Preferences → Content Controls
+
+I've documented all actions taken in your account notes for future reference. Should you notice any similar issues in the future, please reference this ticket number.
+
+We value your business and apologize again for this inconvenience. Is there anything else I can assist you with regarding your account today?
+
+Sincerely,
+Agent BIL-7870
+Customer Billing Resolution Team

@@ -1,0 +1,57 @@
+Ticket ID: TICK-8062
+Customer ID: CUS-10083
+Subscription ID: SUB-10000133
+Category: Billing
+Priority: High
+Status: Resolved
+Created: 2025-05-18 22:01:09.683000
+Agent ID: BIL-6536
+Resolved: 2025-05-18 22:01:09.683000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8062 (Created: 2025-05-19 05:01)
+
+I am absolutely FURIOUS about my latest bill! I've been a loyal customer for over 7 years and this is how you treat me? My May statement shows $149.87 in "International Roaming Charges" but I NEVER left the country! I was in Phoenix the entire time for a work conference.
+
+I have the Unlimited Premium Family Plan ($89.99/month) that's supposed to include North American coverage. My iPhone 15 Pro shows I've only used 7.2GB of data this month, well under my Basic Individual plan's limit. When I opened your billing app yesterday, it displayed an alert saying "Additional charges applied - see bill details" but gives NO explanation for these international charges.
+
+I checked my location history in Google Maps and can PROVE I was in Arizona. This is completely unacceptable! I need these bogus charges removed IMMEDIATELY. My autopay is scheduled for the 22nd and I refuse to pay for services I didn't use.
+
+Please fix this ASAP or I'm switching to your competitor. Their "Ultimate Freedom" plan is $10 cheaper anyway.
+
+- Michael Donovan
+Account #: 8872-4491
+Phone: (602) 555-8176
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8062 | Agent BIL-6536 | Resolved on 2025-05-19 05:01
+
+Dear Mr. Donovan,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration caused by the unexpected international roaming charges on your May statement.
+
+After thoroughly investigating your account #8872-4491, I've confirmed that these charges were incorrectly applied to your account. I accessed our billing system (TeleBill) and verified that your Unlimited Premium Family Plan does indeed include North American coverage as you mentioned. Upon reviewing your device's connection logs, I found that your iPhone 15 Pro connected to cell towers near Phoenix Sky Harbor International Airport that were miscoded in our system as international towers due to a recent network update.
+
+Actions taken:
+1. Removed all international roaming charges totaling $149.87 from your May statement
+2. Applied a one-time courtesy credit of $15.00 for the inconvenience (reference code: CR-25051901)
+3. Submitted the tower miscoding issue to our Network Operations team (ticket #NET-19052025) to prevent this from happening to other customers
+4. Updated your account notes to document this resolution
+
+Your revised balance is now $89.99, reflecting only your regular monthly plan charge. These changes will be visible in your online account and mobile app within 24 hours. Your scheduled autopay for May 22nd will process for the corrected amount.
+
+We value your 7+ years of loyalty and understand how concerning unexpected charges can be. Please be assured that this was a technical error and not a reflection of how we value your business. I've also added a 12-month note to your account to monitor for any similar issues.
+
+If you have any other questions or concerns about your bill or service, please don't hesitate to contact us. We're available 24/7 through our support line or via chat in our mobile app.
+
+Thank you for your patience while we resolved this matter.
+
+Sincerely,
+Agent BIL-6536
+Billing Resolution Team

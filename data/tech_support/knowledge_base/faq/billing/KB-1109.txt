@@ -1,0 +1,48 @@
+ID: KB-1109
+Type: FAQ
+Category: Billing
+Subcategory: Refund policy
+Title: What is the refund policy for my bill?
+Tags: refund,service,refund policy,faq,telecom,mobile,policy,billing
+Last Updated: 2025-03-22 23:59:47
+Generated: 2025-07-13T23:15:56.761712
+
+---
+
+# What is the refund policy for my bill?
+
+When you request a refund for charges on your bill, our policy is designed to be fair while following industry regulations. Here's what you need to know:
+
+## General Refund Guidelines
+
+* **Service Plan Charges**: Refunds for monthly service plans are prorated based on the date of cancellation. For example, if you cancel on the 15th day of a 30-day billing cycle, you'll receive approximately 50% of your monthly plan charge as a refund.
+
+* **One-time Charges**: Activation fees are refundable within 14 days of service activation. SIM card fees ($10-25 depending on type) are generally non-refundable once the package is opened.
+
+* **Equipment Purchases**: Devices can be returned within 30 days with receipt and original packaging. A restocking fee of $35 for smartphones or $15 for basic phones may apply unless the device is defective.
+
+## How Refunds Are Processed
+
+Refunds are typically issued to your original payment method:
+* Credit/debit card refunds: 3-5 business days
+* Bank account refunds: 5-7 business days
+* Bill credits: Applied to your next billing cycle
+
+## Special Circumstances
+
+* **Service Outages**: If you experienced a significant service outage (24+ hours), you may be eligible for a prorated credit. For example, a 2-day outage on a $60 monthly plan would result in a $4 credit ($60 ÷ 30 × 2).
+
+* **Disputed Charges**: If you find unexpected charges on your bill, contact us within 60 days. We'll investigate and issue refunds for verified billing errors.
+
+* **International Roaming**: Roaming charges can take up to 60 days to appear on your bill. Refund requests for these charges follow the same dispute process but may take longer to resolve.
+
+## How to Request a Refund
+
+You can request a refund through:
+* Your online account (tap "Billing" → "Request Refund")
+* Our mobile app (available for iOS and Android)
+* Customer service at 1-800-XXX-XXXX
+
+## Additional Information
+
+Still have questions about your specific situation? Check your account details in our mobile app or contact customer support with your account number and the specific charges you're inquiring about.

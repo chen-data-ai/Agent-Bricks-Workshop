@@ -1,0 +1,113 @@
+ID: KB-1165
+Type: Guide
+Category: Technical
+Subcategory: Mobile hotspot setup
+Title: Complete Guide to Mobile Hotspot Setup
+Tags: technical,mobile hotspot setup,setup,mobile,guide,support,phone,hotspot
+Last Updated: 2024-09-14 23:59:47
+Generated: 2025-07-13T23:15:47.067255
+
+---
+
+# Complete Guide to Mobile Hotspot Setup
+
+## Introduction
+A mobile hotspot turns your smartphone into a portable Wi-Fi router, allowing you to share your cellular data connection with other devices like laptops, tablets, or other smartphones. This guide will help you set up your mobile hotspot correctly and troubleshoot common issues.
+
+## Prerequisites
+Before setting up your mobile hotspot:
+- Ensure your data plan includes hotspot capabilities (some carriers require a specific plan)
+- Check that you have sufficient data allowance (hotspot usage typically counts against your data plan)
+- Verify your device has adequate battery (hotspot functionality drains battery quickly)
+- Confirm you have cellular data connectivity (check that you can browse the web on your phone)
+
+## Basic Setup Instructions
+
+### For Android Devices
+
+1. **Access Settings**
+   - Open the Settings app on your device
+   - Expected result: You'll see the main settings menu
+
+2. **Navigate to Hotspot Settings**
+   - Tap on "Network & Internet" or "Connections" (varies by device)
+   - Tap "Hotspot & Tethering" or "Mobile Hotspot and Tethering"
+   - Expected result: You'll see hotspot configuration options
+
+3. **Enable Mobile Hotspot**
+   - Tap "Mobile Hotspot" or "Wi-Fi Hotspot"
+   - Toggle the switch to "On"
+   - Expected result: Your phone will begin broadcasting a Wi-Fi signal
+
+4. **Configure Hotspot Settings**
+   - Tap on "Configure" or the gear icon
+   - Set a network name (SSID) and password
+   - Select security type (WPA2 PSK recommended)
+   - Expected result: Your hotspot settings are saved
+
+### For iOS Devices (iPhone/iPad)
+
+1. **Access Settings**
+   - Open the Settings app
+   - Expected result: Settings menu appears
+
+2. **Enable Personal Hotspot**
+   - Tap "Personal Hotspot"
+   - Toggle "Allow Others to Join" to on
+   - Expected result: Hotspot becomes active and displays connection information
+
+3. **Configure Hotspot (Optional)**
+   - To change the password, tap "Wi-Fi Password"
+   - Enter a new password (must be at least 8 characters)
+   - Expected result: Password is updated
+
+4. **Quick Access**
+   - On iOS 13 or later, access Control Center by swiping down from the top-right corner
+   - Press and hold the connectivity panel
+   - Tap "Personal Hotspot" to toggle on/off
+   - Expected result: Hotspot can be quickly enabled/disabled
+
+## Connecting Devices to Your Hotspot
+
+1. **On the device you want to connect:**
+   - Open Wi-Fi settings
+   - Look for your hotspot name in available networks
+   - Tap to connect and enter the password when prompted
+   - Expected result: Device connects to the hotspot and can access the internet
+
+2. **Verify Connection**
+   - On your hotspot device, check the status indicator showing connected devices
+   - Android: Look for "Connected devices: X" in the hotspot settings
+   - iOS: Look at the blue bar at the top showing "Personal Hotspot: X Connection(s)"
+   - Expected result: Your phone shows the number of connected devices
+
+## Troubleshooting Common Issues
+
+### Hotspot Not Appearing in Wi-Fi List
+
+1. **Check Hotspot Status**
+   - Verify hotspot is enabled on your phone
+   - Expected result: Hotspot settings show "On" or "Active"
+
+2. **Toggle Hotspot**
+   - Turn hotspot off and back on
+   - Expected result: Hotspot refreshes and broadcasts again
+
+3. **Check Distance**
+   - Ensure connecting device is within 30 feet of hotspot
+   - Expected result: Signal strength improves with proximity
+
+### Cannot Connect to Hotspot
+
+1. **Verify Password**
+   - Double-check you're entering the correct password
+   - Note: Passwords are case-sensitive
+   - Expected result: Connection succeeds with correct password
+
+2. **Restart Devices**
+   - Restart both the hotspot device and connecting device
+   - Expected result: Fresh connection attempt works properly
+
+3. **Reset Network Settings on Connecting Device**
+   - For persistent issues, reset network settings
+   - Android: Settings > System > Reset options >

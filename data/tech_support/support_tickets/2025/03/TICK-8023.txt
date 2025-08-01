@@ -1,0 +1,54 @@
+Ticket ID: TICK-8023
+Customer ID: CUS-10310
+Subscription ID: SUB-10000468
+Category: Account
+Priority: High
+Status: Resolved
+Created: 2025-03-08 20:47:11.649000
+Agent ID: ACC-7493
+Resolved: 2025-03-08 20:47:11.649000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8023 (Created: 2025-03-09 04:47)
+
+I'm extremely frustrated with my account situation right now. I upgraded from your Basic Plus plan to the Premium Unlimited Family plan three weeks ago when I purchased my new iPhone 15 Pro, but my latest bill shows I'm still being charged for the Basic Plus plan PLUS additional data overages of $47.83! This makes absolutely no sense since the Premium Unlimited plan is supposed to have unlimited data.
+
+I've checked my account through your mobile app multiple times and it shows I'm on the Premium Unlimited Family plan with 4 lines, but the billing doesn't match this at all. When I try to view my Basic Individual plan details, I keep getting an "Error 4056: Unable to retrieve current plan information" message.
+
+I need this fixed IMMEDIATELY. I'm paying $189.99/month for this Premium plan specifically to avoid overages, and now I'm being double-charged. My account number is 8834291057 and this is affecting all four lines on my account. We're located in Phoenix and have never had billing issues before this plan change.
+
+Please resolve this today - I can't afford these incorrect charges and I need confirmation that my next bill will be correct. I've already spent 45 minutes on hold trying to speak with someone about this yesterday.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8023 | Agent ACC-7493 | Resolved on 2025-03-09 04:47
+
+Dear Valued Customer,
+
+Thank you for bringing this billing discrepancy to our attention. I sincerely apologize for the frustration this has caused you and appreciate your patience while we resolved this matter.
+
+After reviewing your account #8834291057, I confirmed that you did indeed upgrade from the Basic Plus plan to the Premium Unlimited Family plan three weeks ago with your iPhone 15 Pro purchase. I accessed our Billing Management System (BMS) and identified that while your plan was correctly updated in our customer-facing systems (explaining why it appears correctly in the mobile app), there was a synchronization error with our billing platform (error code 4056) that prevented the plan change from being properly applied to your billing cycle.
+
+Actions taken:
+1. Corrected the plan designation in our billing system to reflect Premium Unlimited Family with 4 lines at $189.99/month
+2. Removed the erroneous Basic Plus plan charges of $89.99
+3. Reversed all data overage charges totaling $47.83
+4. Applied a one-time courtesy credit of $25.00 for the inconvenience (per our Customer Satisfaction Policy #CS-114)
+5. Generated a corrected bill which you can view in your online account within 24 hours
+6. Verified that all four lines in Phoenix are now properly configured under the Premium Unlimited Family plan with unlimited data
+
+The total adjustment to your account is $162.82 ($89.99 + $47.83 + $25.00), which will appear as a credit on your next statement. I've also added a note to your account to have a billing specialist review your next invoice before it's finalized to ensure everything is correct going forward.
+
+To prevent similar issues, I recommend downloading our latest app update (version 8.4.2) which includes enhanced plan verification features. You can also enable billing alerts through your online account settings to receive notifications about any unusual charges.
+
+If you have any further questions or notice any discrepancies on your next bill, please contact us directly at our Premium Customer Support line: 1-800-555-7890 (available 24/7).
+
+We value your business and apologize again for this error. Thank you for your understanding.
+
+Sincerely,
+Customer Support Team

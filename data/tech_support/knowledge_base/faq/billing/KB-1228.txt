@@ -1,0 +1,52 @@
+ID: KB-1228
+Type: FAQ
+Category: Billing
+Subcategory: Service interruption credits
+Title: How do service interruption credits work on my bill?
+Tags: interruption,payment,service interruption credits,service,credits,faq,network,billing
+Last Updated: 2024-07-03 23:59:47
+Generated: 2025-07-13T23:15:42.620015
+
+---
+
+# How do service interruption credits work on my bill?
+
+When you experience a service outage or interruption, you may be eligible for a credit on your bill. We understand how frustrating service disruptions can be, and we're committed to fair compensation when they occur.
+
+## How service interruption credits are calculated
+
+Service interruption credits are typically calculated based on:
+- The duration of the outage
+- The services affected (voice, data, TV, etc.)
+- Your monthly plan cost
+
+For example, if you have a $60 monthly plan and experience a 24-hour outage, you may receive a credit of approximately $2 (calculated as $60 ÷ 30 days = $2 per day).
+
+## Types of eligible interruptions
+
+Credits may be issued for:
+- Network outages affecting your area
+- Equipment failures on our end
+- Scheduled maintenance that exceeds planned timeframes
+- Service quality issues that make your service unusable
+
+## How to request a credit
+
+1. **Report the outage when it occurs** through our mobile app or by calling customer service at the time of the disruption
+2. After service is restored, contact us within 7 days to request a credit
+3. Provide details about when the outage started and ended
+
+## When credits appear on your bill
+
+Service interruption credits typically appear on your next bill as a line item labeled "Service Interruption Credit" or "Outage Compensation." The credit amount will be subtracted from your total charges.
+
+## Important things to know
+
+- Brief interruptions (less than 30 minutes) typically don't qualify for credits
+- Credits are not automatic—you need to report the issue and request compensation
+- For major outages affecting multiple customers, we may proactively issue credits
+- If you use autopay, the credit will reduce your next automatic payment amount
+
+## Still have questions?
+
+You can check the status of reported outages in your area through our mobile app (available for iOS and Android) or your online account. If you believe you didn't receive proper credit for an outage, please contact customer support with your outage reference number.

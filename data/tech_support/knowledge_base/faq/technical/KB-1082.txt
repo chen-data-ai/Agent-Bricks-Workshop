@@ -1,0 +1,113 @@
+ID: KB-1082
+Type: FAQ
+Category: Technical
+Subcategory: Battery optimization
+Title: How Can I Optimize My Phone's Battery Life?
+Tags: technical,battery optimization,faq,telecom,battery,network,optimization,support
+Last Updated: 2024-12-29 23:59:47
+Generated: 2025-07-13T23:15:54.874944
+
+---
+
+# How Can I Optimize My Phone's Battery Life?
+
+## Overview
+Battery drain is one of the most common concerns for mobile users. This guide will help you identify battery-consuming apps and settings, implement optimization techniques, and determine when it's time to seek additional support.
+
+## Common Symptoms
+- Battery depletes more than 15% per hour when not in use
+- Device feels warm even when idle
+- Battery life suddenly decreases after an update
+- Phone shuts down unexpectedly despite showing remaining battery percentage
+
+## Troubleshooting Steps
+
+### Step 1: Check Battery Usage Statistics
+**Android:**
+1. Go to Settings > Battery
+2. Review the battery usage graph and app list
+3. Look for apps consuming more than 5% battery when not actively used
+
+**iOS:**
+1. Navigate to Settings > Battery
+2. Review the "Battery Usage by App" section
+3. Toggle between "Last 24 Hours" and "Last 10 Days" for comparison
+
+### Step 2: Identify and Manage Power-Hungry Apps
+
+**Android:**
+1. In Battery settings, identify apps with high battery usage
+2. For problematic apps:
+   - Tap the app name > Restrict background activity
+   - Or tap "Battery optimization" > "All apps" > Select app > "Optimize"
+
+**iOS:**
+1. For apps with "Background Activity" label in battery settings:
+   - Go to Settings > General > Background App Refresh
+   - Toggle off for specific apps or all apps
+
+**Error Message:** "App is using battery in background" (Android notification)
+**Solution:** Tap notification and follow prompts to restrict the app's background activity
+
+### Step 3: Adjust System Settings
+
+**For All Devices:**
+1. Reduce screen brightness or enable auto-brightness
+   - Android: Settings > Display > Brightness level
+   - iOS: Control Center (swipe down from top-right) > Brightness slider
+
+2. Decrease screen timeout
+   - Android: Settings > Display > Screen timeout
+   - iOS: Settings > Display & Brightness > Auto-Lock
+
+3. Enable battery saver/low power mode
+   - Android: Settings > Battery > Battery Saver
+   - iOS: Settings > Battery > Low Power Mode
+
+### Step 4: Manage Connectivity Features
+
+1. Turn off unused connections:
+   - Disable Bluetooth, Wi-Fi, and Location services when not needed
+   - Android: Quick Settings panel (swipe down from top)
+   - iOS: Control Center (swipe down from top-right)
+
+2. Adjust location settings:
+   - Android: Settings > Location > App permission > Set apps to "While using"
+   - iOS: Settings > Privacy > Location Services > Select "While Using" for apps
+
+### Step 5: Update Software
+
+1. Check for system updates:
+   - Android: Settings > System > System update
+   - iOS: Settings > General > Software Update
+
+2. Update apps:
+   - Android: Google Play Store > Profile icon > Manage apps & device
+   - iOS: App Store > Profile icon > Available Updates
+
+**Error Message:** "System is using more battery than normal" (Android notification)
+**Solution:** Check for system updates as newer versions often include battery optimizations
+
+### Step 6: Use Our Carrier App's Battery Tools
+
+1. Open our mobile app
+2. Navigate to Device Care or Support section
+3. Run the Battery Optimization tool
+4. Follow the personalized recommendations
+
+## When to Contact Support
+
+Contact our technical support team if:
+
+- Battery depletes completely in less than 4 hours with minimal use
+- Phone shuts down at battery percentages above 20% consistently
+- Battery optimization steps don't improve battery life after 48 hours
+- You notice extreme heat from your device during charging or normal use
+- Battery health is reported below 80% within the first year of ownership
+
+**Before contacting support:**
+1. Note your device model and operating system version
+2. Document which apps were running during rapid battery drain
+3. Try restarting your device in safe mode to determine if third-party apps are causing the issue
+
+Contact us through our mobile app's chat support, call 1-800-XXX-XXXX, or visit your nearest retail location for personalized assistance.

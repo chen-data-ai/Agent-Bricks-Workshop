@@ -1,0 +1,97 @@
+ID: KB-1007
+Type: Guide
+Category: Billing
+Subcategory: Service interruption credits
+Title: How to Request Service Interruption Credits
+Tags: interruption,payment,service interruption credits,service,credits,wireless,guide,billing,plan
+Last Updated: 2025-01-30 23:59:47
+Generated: 2025-07-13T23:15:49.016045
+
+---
+
+# How to Request Service Interruption Credits
+
+This guide will help you request credits for service interruptions you've experienced with your telecom service. Follow these steps to submit your request through either our online account portal or mobile app.
+
+## What You'll Need
+- Your account login credentials
+- Details about the service interruption (dates, times, services affected)
+- Any error messages or reference numbers related to the outage (if available)
+
+## Online Account Portal Instructions
+
+1. **Log in to your account**
+   - Visit our official website and click the "My Account" or "Sign In" button in the top right corner
+   - Enter your username/email and password
+   - **Expected outcome**: You'll be directed to your account dashboard
+   - **Screenshot description**: Login page with username and password fields and a blue "Sign In" button
+
+2. **Navigate to the billing section**
+   - Click on "Billing" or "My Bill" in the main navigation menu
+   - **Expected outcome**: Your billing dashboard will appear showing recent bills and payment options
+   - **Screenshot description**: Billing dashboard showing payment history and current balance
+
+3. **Locate the "Service Issues" or "Report a Problem" option**
+   - Look for this in the sidebar menu or under "Account Services"
+   - **Expected outcome**: You'll see options for reporting different types of service issues
+   - **Screenshot description**: Menu showing various service issue reporting options
+
+4. **Select "Request Credit for Service Interruption"**
+   - Click on this specific option to start your credit request
+   - **Expected outcome**: A form will appear for you to provide details about the interruption
+   - **Screenshot description**: Credit request form with fields for dates and service details
+
+5. **Complete the service interruption form**
+   - Enter the start and end dates/times of the interruption
+   - Select which services were affected (internet, TV, phone, etc.)
+   - Describe the issue you experienced
+   - Upload any supporting documentation if available (screenshots of error messages, etc.)
+   - **Expected outcome**: All required fields will be completed
+   - **Screenshot description**: Completed form with date fields, service checkboxes, and description area
+
+6. **Submit your request**
+   - Click the "Submit" or "Request Credit" button
+   - **Expected outcome**: You'll receive a confirmation message with a reference number
+   - **Screenshot description**: Confirmation screen with reference number and estimated processing time
+
+## Mobile App Instructions
+
+1. **Open the mobile app and sign in**
+   - Launch our official app on your iOS or Android device
+   - Enter your username/email and password
+   - **Expected outcome**: You'll see your account dashboard
+   - **Screenshot description**: Mobile app login screen followed by account dashboard
+
+2. **Access the billing section**
+   - Tap the "Billing" icon or menu option (usually at the bottom or in the hamburger menu)
+   - **Expected outcome**: Your billing summary will appear
+   - **Screenshot description**: Mobile billing screen showing payment history and amount due
+
+3. **Find the support or service options**
+   - Look for "Support," "Help," or "Service Issues" in the menu
+   - On iOS, this may be in the bottom navigation or side menu
+   - On Android, check the hamburger menu or account settings
+   - **Expected outcome**: You'll see various support options
+   - **Screenshot description**: Support menu screen with various help options
+
+4. **Select "Report Service Issue" or "Request Credit"**
+   - Tap on this option to begin your request
+   - **Expected outcome**: The service interruption form will appear
+   - **Screenshot description**: Mobile form for reporting service issues
+
+5. **Complete the service interruption details**
+   - Enter the dates and times of the outage
+   - Select affected services from the dropdown or checkbox options
+   - Provide a brief description of the issue
+   - Add photos of error messages if applicable (tap the camera or attachment icon)
+   - **Expected outcome**: All required information is entered
+   - **Screenshot description**: Completed mobile form with date selectors and service options
+
+6. **Submit your request**
+   - Tap the "Submit" button, usually at the bottom of the screen
+   - **Expected outcome**: You'll see a confirmation screen with a reference number
+   - **Screenshot description**: Mobile confirmation screen with reference number and next steps
+
+## What Happens Next
+
+After submission, your request will be reviewed by our billing team. This typically takes 3-5 business days. If approved, the credit will appear on

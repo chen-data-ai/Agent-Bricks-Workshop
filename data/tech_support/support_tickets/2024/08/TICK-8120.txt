@@ -1,0 +1,61 @@
+Ticket ID: TICK-8120
+Customer ID: CUS-10516
+Subscription ID: SUB-10000759
+Category: Account
+Priority: High
+Status: Closed
+Created: 2024-08-14 22:23:07.985000
+Agent ID: ACC-1653
+Resolved: 2024-08-15 22:23:07.985000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8120 (Created: 2024-08-15 05:23)
+
+I'm beyond frustrated with my account situation right now. I upgraded from your Basic Unlimited plan to the Premium Family plan three weeks ago when I purchased my new iPhone 15 Pro, but my latest bill is showing BOTH plans being charged! I'm being double-billed for $184.99 (Premium Family) AND $79.99 (Basic Unlimited). The customer service rep who helped me with the upgrade specifically assured me that the old plan would be discontinued immediately.
+
+To make matters worse, I can't access my account details on the mobile app - it keeps showing "Error 4023: Account information temporarily unavailable" whenever I try to view my billing section. I've tried uninstalling and reinstalling the app on my iPhone, clearing the cache, everything!
+
+I need this fixed ASAP as the payment is scheduled to be automatically withdrawn from my account tomorrow, and I absolutely cannot afford to pay for two plans. I've been a loyal customer for over 7 years at my Phoenix location and have never had billing issues before. Please help resolve this immediately!
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8120 | Agent ACC-1653 | Resolved on 2024-08-16 05:23
+
+Dear Valued Customer,
+
+Thank you for bringing this billing concern to our attention. I sincerely apologize for the frustration you've experienced with the double billing on your account and the mobile app access issues. As a loyal customer of 7 years, you deserve better service from us.
+
+Actions Taken:
+1. Accessed your billing account in our Customer Management System (CMS) and confirmed that both the Basic Unlimited plan ($79.99) and Premium Family plan ($184.99) were simultaneously active on your account following your upgrade to the iPhone 15 Pro.
+
+2. Reviewed the account notes from your upgrade transaction and verified that the previous plan should have been terminated upon activation of your new Premium Family plan, per our Plan Upgrade Policy (PUP-2024).
+
+3. Immediately removed the Basic Unlimited plan from your account and backdated this removal to your upgrade date to prevent future incorrect billing.
+
+4. Applied a full credit of $79.99 to your account for the incorrectly billed Basic Unlimited plan charge.
+
+5. Investigated the mobile app Error 4023 and determined it was related to the conflicting plan information in your account. After resolving the billing structure, I cleared the account cache on our server side.
+
+6. Verified that your upcoming automatic payment has been adjusted to reflect only the correct Premium Family plan amount of $184.99.
+
+7. Added a 12-month account note to prevent similar billing errors during any future plan changes.
+
+For the app access issue, please try accessing your account again. The Error 4023 should now be resolved as the system has been refreshed with your correct plan information. If you continue experiencing any issues with the mobile app, please:
+- Force close the app completely
+- Restart your iPhone
+- Open the app and log in again
+
+I've also added a courtesy service credit of $25 to your account for the inconvenience caused, in accordance with our Customer Satisfaction Guarantee policy. This credit will appear on your next bill.
+
+Please review your account details at your convenience to confirm everything appears correct. Your next bill will show only the Premium Family plan charge of $184.99, along with the $25 courtesy credit.
+
+I appreciate your patience while we resolved this matter. If you have any further questions or concerns, please don't hesitate to contact us. We value your continued loyalty and are committed to providing you with the exceptional service you deserve.
+
+Sincerely,
+Agent ACC-1653
+Customer Support Team

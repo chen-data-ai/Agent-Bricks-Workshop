@@ -1,0 +1,56 @@
+ID: KB-1242
+Type: FAQ
+Category: Billing
+Subcategory: Prorated billing
+Title: What is prorated billing and how does it affect my monthly charges?
+Tags: text,faq,prorated,prorated billing,phone,billing,customer
+Last Updated: 2024-10-10 23:59:47
+Generated: 2025-07-13T23:15:43.593384
+
+---
+
+# What is prorated billing and how does it affect my monthly charges?
+
+When you make changes to your service in the middle of your billing cycle, we use prorated billing to ensure you only pay for the services you actually used. This means we calculate your charges based on the exact number of days you had each service, rather than charging the full monthly rate regardless of when changes occurred.
+
+## How prorated billing works
+
+Prorated charges are calculated using this simple formula:
+* (Monthly rate ÷ Number of days in billing cycle) × Number of days service was active
+
+For example, if you have a $60 monthly plan and upgrade to an $80 plan halfway through a 30-day billing cycle:
+* You'll be credited for the unused portion of your old plan: ($60 ÷ 30) × 15 = $30 credit
+* You'll be charged for the days on your new plan: ($80 ÷ 30) × 15 = $40 charge
+* The net difference on your bill would be an additional $10
+
+## Common scenarios where you'll see prorated charges
+
+* **Plan changes:** Upgrading or downgrading your service plan
+* **Line additions:** Adding a new line to your account mid-cycle
+* **Device upgrades:** When a new device changes your monthly payment amount
+* **Feature changes:** Adding or removing features like international calling or data add-ons
+* **Account activation:** When you first join our service mid-billing cycle
+
+## How to identify prorated charges on your bill
+
+Prorated items on your bill will typically show:
+* The service name
+* The specific date range the charge covers
+* The prorated amount
+* A note indicating it's a partial charge
+
+You can view these details in your online account portal or through our mobile app (available for both iOS and Android devices).
+
+## Frequently asked follow-up questions
+
+**Will I be notified before prorated charges appear on my bill?**
+Yes, when you make a change that will result in prorated charges, the estimated amount will be disclosed before you confirm the change.
+
+**Do all services get prorated?**
+Most recurring monthly charges are prorated, but one-time fees (like activation fees or equipment purchases) are typically charged in full regardless of timing.
+
+**If I cancel service, will I receive a prorated refund?**
+Yes, we prorate refunds for unused service when you cancel. You'll receive credit for the days remaining in your billing cycle.
+
+**Still have questions about your bill?**
+Contact our billing support team through the Support section of our mobile app, or call us at the number listed on your bill for personalized assistance with understanding your specific charges.

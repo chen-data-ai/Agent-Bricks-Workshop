@@ -1,0 +1,47 @@
+ID: KB-1123
+Type: FAQ
+Category: Billing
+Subcategory: Bill payment options
+Title: What payment options are available for my monthly bill?
+Tags: payment,troubleshooting,options,bill,faq,wireless,bill payment options,billing,customer
+Last Updated: 2025-03-09 23:59:47
+Generated: 2025-07-13T23:15:57.753570
+
+---
+
+# What payment options are available for my monthly bill?
+
+We offer several convenient ways to pay your monthly bill:
+
+## Online Payment Options
+* **My Account Portal**: Log in at myaccount.ourcompany.com or use our mobile app (available for iOS and Android) to make one-time payments or set up autopay
+* **Text-to-Pay**: Text "PAY" to 87654 to receive a secure payment link
+* **Payment by Phone**: Call our automated system at 1-800-555-1234 (toll-free, available 24/7)
+
+## In-Person Payment Options
+* **Retail Stores**: Visit any of our store locations (find the nearest one using our Store Locator in the mobile app)
+* **Authorized Payment Centers**: Including most major grocery stores and check-cashing locations (may charge a processing fee of $2-$5)
+
+## By Mail
+Send checks or money orders (not cash) to:
+```
+Our Telecom Company
+P.O. Box 12345
+Anytown, ST 12345
+```
+Please include your account number on your check and allow 5-7 business days for processing.
+
+## Autopay Options
+Set up automatic payments through:
+* Credit/debit card (Visa, MasterCard, American Express, Discover)
+* Bank account (checking or savings)
+* Digital wallets (Apple Pay, Google Pay, PayPal)
+
+Autopay can be scheduled for your due date or up to 5 days before. You'll still receive your bill 15-20 days before payment is processed.
+
+## Important Notes:
+* **Late Payment Fee**: $10 or 1.5% of unpaid balance (whichever is greater) applies to payments received after the due date
+* **Payment Processing**: Online and phone payments typically post within 24 hours; in-store payments post immediately; mailed payments may take 5-7 business days
+* **Partial Payments**: You can make partial payments, but any remaining balance must be paid by the due date to avoid late fees
+
+Need to discuss a payment arrangement or have questions about your bill? Contact our customer service team at 1-800-555-5678 or chat with us through the mobile app.

@@ -1,0 +1,114 @@
+ID: KB-1206
+Type: Procedure
+Category: Billing
+Subcategory: Prepaid vs. postpaid billing differences
+Title: Procedure: Managing Prepaid vs. Postpaid Billing Inquiries
+Tags: subscription,text,prepaid,differences,procedure,prepaid vs. postpaid billing differences,postpaid,data,billing
+Last Updated: 2024-06-02 23:59:47
+Generated: 2025-07-13T23:15:41.054230
+
+---
+
+# Procedure: Managing Prepaid vs. Postpaid Billing Inquiries
+
+## Purpose
+This procedure guides customer support representatives in effectively addressing billing inquiries and issues for both prepaid and postpaid customers while ensuring proper verification, documentation, and compliance with company policies.
+
+## Prepaid Customer Billing Support
+
+### Initial Verification
+1. Verify customer identity by requesting the mobile number and at least two of the following: account PIN, last 4 digits of payment method, or recent transaction details.
+2. Confirm prepaid account status in the Customer Management System (CMS) by checking the current balance and service expiration date.
+3. Review the customer's recent payment and usage history (last 90 days) to identify potential issues.
+
+### Balance and Payment Processing
+4. For balance inquiries, inform customers they can also check their balance via:
+   - The mobile app (iOS/Android)
+   - USSD code *123#
+   - SMS to 12345 with text "BAL"
+   - Online account portal
+
+5. For payment issues:
+   - Verify payment receipt details (date, amount, confirmation number)
+   - Check for system delays (allow up to 4 hours for processing)
+   - Resend confirmation if payment is confirmed but not reflected
+
+6. For disputed charges:
+   - Review itemized usage details with the customer
+   - Explain any applicable fees or taxes
+   - Process refunds up to $20 without approval
+   - Document justification for all refunds in CMS notes
+
+### Escalation Path
+7. Escalate to Tier 2 support if:
+   - Refund amount exceeds $20
+   - System shows payment but balance not updated after 4 hours
+   - Suspected fraud or security concerns
+   - Technical issues preventing account access
+
+## Postpaid Customer Billing Support
+
+### Initial Verification
+1. Verify customer identity using account number plus two of the following: account PIN, last 4 digits of SSN/Tax ID, billing address, or security questions.
+2. Access the Billing Management System (BMS) to review:
+   - Current bill status
+   - Payment history (last 6 months)
+   - Contract details and plan information
+   - Any applied promotions or discounts
+
+3. Confirm the specific billing issue with the customer (e.g., unexpected charges, missing discount, payment not applied).
+
+### Bill Analysis and Resolution
+4. For bill explanation requests:
+   - Review line-by-line charges with the customer
+   - Explain proration for new services or plan changes
+   - Clarify one-time charges vs. recurring charges
+   - Direct customers to detailed bill explanations in the mobile app or online portal
+
+5. For disputed charges:
+   - Compare charges against the customer's plan details
+   - Verify usage data for data/minutes/text overages
+   - Check for recent plan or service changes that may affect billing
+   - Document all findings in the customer's account notes
+
+6. For payment arrangements:
+   - Verify customer payment history and account standing
+   - Offer payment extensions up to 7 days without approval
+   - Process payment arrangements up to 30 days with supervisor approval
+   - Document all arrangements in BMS with specific dates and amounts
+
+7. For billing adjustments:
+   - Process credits up to $50 without approval
+   - Require supervisor approval for credits between $50-$150
+   - Request manager approval for credits exceeding $150
+   - Document all adjustments with detailed justification
+
+### Documentation Requirements
+8. For all billing interactions, document:
+   - Customer's specific concern
+   - Actions taken to investigate
+   - Resolution provided
+   - Any promises or commitments made
+   - Follow-up actions required
+
+9. If adjustments were made, document:
+   - Specific amount credited
+   - Justification for credit
+   - Approval obtained (if required)
+   - Expected date for adjustment to appear
+
+### Escalation Path
+10. Escalate to Billing Specialist if:
+    - Adjustment exceeds your approval threshold
+    - Issue spans multiple billing cycles
+    - Complex contract or promotion issues
+    - Suspected system-wide billing errors
+
+11. Escalate to Account Management if:
+    - Customer threatens cancellation
+    - Issue involves multiple lines with significant charges
+    - Customer has escalated the same issue previously
+
+## Follow-up Procedures
+12. For both prepaid and postpaid accounts:
+    - Summarize

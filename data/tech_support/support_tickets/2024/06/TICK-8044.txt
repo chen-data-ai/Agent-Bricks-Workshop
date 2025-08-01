@@ -1,0 +1,64 @@
+Ticket ID: TICK-8044
+Customer ID: CUS-10371
+Subscription ID: SUB-10000557
+Category: Technical
+Priority: High
+Status: Closed
+Created: 2024-06-02 21:55:21.219000
+Agent ID: TEC-9412
+Resolved: 2024-06-05 21:55:21.219000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8044 (Created: 2024-06-03 04:55)
+
+I'm beyond frustrated with my service right now. Since yesterday evening, my iPhone 15 Pro keeps showing "No Service" or fluctuating between 1-2 bars in areas where I normally have full 5G coverage. I live in the Brookhaven neighborhood of Atlanta where I've NEVER had connectivity issues before. 
+
+I've already tried everything - restarted my phone multiple times, toggled airplane mode, reset network settings, and even removed/reinserted my SIM card. Nothing helps! The "Network Diagnostics" tool in your app shows "Connection Error: E-4029" whatever that means.
+
+I'm on the Unlimited Elite Plus plan paying $85/month for supposedly "premium network access" but can't even make a basic phone call from my living room. My wife's Galaxy S24 on the same plan works perfectly fine, so it's not a coverage issue.
+
+This is extremely urgent as I work from home and have important client calls scheduled today. I need this resolved IMMEDIATELY. If this isn't fixed within the next few hours, I'll be forced to switch carriers after 8 years of loyalty.
+
+---
+RESOLUTION:
+---
+
+Resolution for Ticket TICK-8044 | Agent TEC-9412 | Resolved on 2024-06-06 04:55
+
+Dear Valued Customer,
+
+Thank you for your patience while we addressed the connectivity issues you experienced with your iPhone 15 Pro in the Brookhaven area of Atlanta. I sincerely apologize for the frustration and inconvenience this situation caused, especially given your work-from-home requirements and the importance of your client calls.
+
+Actions Taken:
+1. Performed a comprehensive diagnostic on your account and device using our Network Analysis Tool (NAT) system
+2. Identified that error code E-4029 indicates a device-specific network configuration conflict with our recently upgraded 5G towers in your area
+3. Verified that a tower maintenance operation was conducted in Brookhaven on 2024-06-02, which affected select iPhone 15 Pro devices due to a firmware compatibility issue
+4. Remotely pushed a carrier settings update to your device (version 56.2.1) to resolve the compatibility issue
+5. Confirmed with our Network Operations Center that the Brookhaven tower (ID: ATL-BH-0423) is now functioning at 100% capacity
+
+Resolution Details:
+The issue has been fully resolved by implementing the carrier settings update and completing necessary adjustments to the tower configuration. Our diagnostics show your device is now maintaining consistent 5G connectivity with signal strength between -65dBm and -75dBm, which is excellent for your location.
+
+Compensation:
+As per our Service Guarantee Policy (SGP-2024-01), I've applied a service credit of $20.00 to your account for the inconvenience experienced. This credit will appear on your next billing statement.
+
+Follow-up Actions:
+1. Our system will automatically monitor your device's connectivity for the next 7 days to ensure continued stability
+2. I've added a note to your account to prioritize any future connectivity issues you may experience
+3. We've scheduled a courtesy call for next week to verify everything is working properly
+
+Additional Recommendations:
+- Consider enabling "Allow More Data on 5G" in Settings > Cellular > Cellular Data Options for optimal performance
+- Our Mobile App has been updated with a new "Network Status" feature that provides real-time information about service in your area
+- You can enable notifications for planned maintenance through your online account portal
+
+Please don't hesitate to contact us if you experience any further issues. We truly value your 8 years of loyalty and are committed to providing you with the premium service you deserve.
+
+Thank you for your patience throughout this resolution process.
+
+Sincerely,
+Agent TEC-9412
+Technical Support Team

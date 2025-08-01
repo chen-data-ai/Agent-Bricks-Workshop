@@ -1,0 +1,107 @@
+ID: KB-1054
+Type: Policy
+Category: Technical
+Subcategory: Cellular data not working
+Title: Technical Services Policy: Cellular Data Connectivity Issues
+Tags: technical,cellular,cellular data not working,telecom,mobile,data,policy,working,plan
+Last Updated: 2025-03-24 23:59:47
+Generated: 2025-07-13T23:15:52.460244
+
+---
+
+# Technical Services Policy: Cellular Data Connectivity Issues
+
+## 1. Policy Overview
+
+This document outlines our company's policies and procedures regarding cellular data connectivity issues. It defines the service standards we maintain, our responsibilities for network maintenance, customer notification protocols, and the procedures for resolving cellular data disruptions.
+
+## 2. Service Standards
+
+### 2.1 Network Availability Commitment
+- We commit to maintaining 99.5% cellular data network availability averaged monthly across our service areas
+- Data speeds will meet or exceed those advertised for each service plan, subject to reasonable network management practices
+- Coverage maps are updated quarterly and represent expected service areas under normal conditions
+
+### 2.2 Known Limitations
+- Indoor coverage may vary based on building materials and location
+- Network congestion may temporarily reduce speeds during peak usage periods (typically 7-9pm)
+- Extreme weather events may impact service quality or availability
+
+## 3. Maintenance Windows
+
+### 3.1 Scheduled Maintenance
+- Routine network maintenance occurs between 12:00am-5:00am local time
+- Scheduled maintenance is performed on Tuesdays and Thursdays when possible
+- Major system upgrades requiring extended maintenance will be scheduled with minimum 7-day advance notice
+
+### 3.2 Emergency Maintenance
+- Unplanned maintenance may be required to address critical network issues
+- Every effort will be made to minimize service disruption during emergency maintenance
+
+## 4. Customer Notification Protocols
+
+### 4.1 Scheduled Maintenance Notifications
+- Notifications for scheduled maintenance will be delivered via:
+  - SMS alerts (opt-in required)
+  - Mobile app push notifications
+  - Account dashboard alerts
+  - Email (for registered accounts)
+
+### 4.2 Service Disruption Notifications
+- Major outages affecting multiple cell sites will be communicated through:
+  - Company website service status page
+  - Mobile app status center
+  - Social media channels
+  - Interactive voice response (IVR) system
+- Estimated restoration times will be provided when available
+
+## 5. Troubleshooting and Remediation Procedures
+
+### 5.1 Initial Diagnostics
+- Automated network monitoring systems continuously evaluate connectivity
+- Customer-reported issues trigger diagnostic protocols to identify scope and cause
+- Technical support will utilize remote diagnostics when applicable
+
+### 5.2 Resolution Timeframes
+- Individual account issues: Initial response within 4 hours, resolution target within 24 hours
+- Localized outages: Resolution target within 8 hours
+- Regional/system-wide outages: Resolution target within 24 hours
+
+## 6. Customer Responsibilities
+
+### 6.1 Device Requirements
+- Customers must use compatible devices that support our network technology
+- Device software/firmware should be kept updated to current versions
+- SIM cards must be properly installed and activated
+
+### 6.2 Account Requirements
+- Active account in good standing with data service included in plan
+- Data usage within plan limits (throttling may apply if exceeded)
+- Compliance with Acceptable Use Policy
+
+### 6.3 Reporting Issues
+- Customers should first perform basic troubleshooting:
+  - Restart device
+  - Check for airplane mode or data restrictions
+  - Verify account status via online portal or mobile app
+- Report persistent issues through customer support channels with relevant details
+
+## 7. Company Obligations
+
+### 7.1 Technical Support
+- 24/7 technical support via phone, chat, and mobile app
+- Tier 1-3 escalation procedures for complex issues
+- Remote diagnostics and troubleshooting assistance
+
+### 7.2 Service Credits
+- Automatic service credits for verified outages exceeding 24 continuous hours
+- Pro-rated credits based on monthly service fee and duration of outage
+- Additional considerations for business accounts per service level agreements
+
+### 7.3 Network Investments
+- Ongoing infrastructure improvements to enhance coverage and capacity
+- Regular technology upgrades to support evolving data standards
+- Capacity planning to accommodate growing data demands
+
+## 8. Policy Updates
+This policy is subject to change. Customers will be notified of significant policy updates through account communications. The current version is always available on our website and mobile app.

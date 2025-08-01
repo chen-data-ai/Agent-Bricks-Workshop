@@ -1,0 +1,61 @@
+ID: KB-1247
+Type: FAQ
+Category: Billing
+Subcategory: Service interruption credits
+Title: How do I receive credit for a service interruption?
+Tags: interruption,payment,subscription,service interruption credits,troubleshooting,service,credits,faq,billing
+Last Updated: 2024-10-19 23:59:47
+Generated: 2025-07-13T23:15:43.933696
+
+---
+
+# How do I receive credit for a service interruption?
+
+When you experience a service interruption, you may be eligible for a credit on your bill. We understand how frustrating service disruptions can be, and we're committed to fair compensation when they occur.
+
+## How service interruption credits work
+
+Service interruption credits are calculated based on:
+- The duration of the outage
+- The services affected
+- Your monthly plan cost
+
+For most interruptions lasting more than 24 consecutive hours, you'll automatically receive a prorated credit based on your monthly service charge. For example, if you experience a 2-day outage on a $60/month plan, you may receive approximately $4 credit (($60 ÷ 30 days) × 2 days).
+
+## How to request a credit
+
+1. **Automatic credits**: For widespread outages affecting your area, credits are typically applied automatically within 1-2 billing cycles.
+
+2. **Report an issue**: If you experience a service disruption, report it immediately through:
+   - Our mobile app (available for iOS and Android)
+   - Your online account at myaccount.ourcompany.com
+   - Customer service at 1-800-XXX-XXXX
+
+3. **Credit review**: After reporting, our team will verify the outage and determine appropriate credit based on:
+   - Confirmation of the service disruption in your area
+   - The duration you were affected
+   - Your specific service plan
+
+## Credit examples by plan type
+
+- **Basic plans ($30-$40/month)**: A 2-day outage typically results in $2-$2.70 credit
+- **Standard plans ($50-$70/month)**: A 2-day outage typically results in $3.30-$4.70 credit
+- **Premium plans ($80-$120/month)**: A 2-day outage typically results in $5.30-$8 credit
+
+## Frequently asked questions
+
+**When will I see the credit on my bill?**
+Credits typically appear on your next bill, labeled as "Service Interruption Credit" or "Service Adjustment." You can view pending credits in your online account or mobile app.
+
+**What if I don't receive my credit?**
+If you don't see a credit within two billing cycles after a confirmed outage, please contact customer support with details about the outage dates and services affected.
+
+**Are there interruptions that don't qualify for credits?**
+Credits typically don't apply to:
+- Scheduled maintenance (with advance notice)
+- Outages lasting less than 24 hours
+- Issues with your personal equipment
+- Force majeure events (natural disasters, etc.)
+
+**Can I track the status of my credit request?**
+Yes! Log into your online account or mobile app and navigate to "Billing" → "Adjustment Requests" to check the status of any pending credits.

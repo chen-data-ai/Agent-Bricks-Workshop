@@ -1,0 +1,117 @@
+ID: KB-1068
+Type: Guide
+Category: Technical
+Subcategory: Device blacklist removal
+Title: Device Blacklist Removal Guide
+Tags: technical,removal,service,device blacklist removal,network,guide,support,device,blacklist
+Last Updated: 2025-04-24 23:59:47
+Generated: 2025-07-13T23:15:53.535141
+
+---
+
+# Device Blacklist Removal Guide
+
+## Introduction
+
+A blacklisted device has been reported lost, stolen, or has unpaid financial obligations, preventing it from connecting to carrier networks. This guide will help you understand if your device is blacklisted and the steps to remove it from the blacklist legitimately.
+
+## Prerequisites
+
+Before attempting blacklist removal:
+- Ensure you have legal ownership of the device
+- Have the device's IMEI number ready (dial *#06# on most phones)
+- Have proof of purchase or ownership documentation
+- Ensure device is fully charged or connected to power
+
+## Checking Blacklist Status
+
+1. **Verify blacklist status**
+   - Option 1: Use your carrier's app or website (Account → Device Info → Status)
+   - Option 2: Visit imei.info or similar IMEI checking websites
+   - Option 3: Contact your carrier's customer support
+   
+   *Expected result: Confirmation of blacklist status and reason code*
+
+## Removal Process by Scenario
+
+### Scenario 1: Device Was Reported Lost/Stolen But Recovered
+
+1. **Contact the original carrier**
+   - Call customer service or visit a store
+   - Provide the IMEI number and proof of ownership
+   - Explain the situation (device was reported lost but now recovered)
+   
+   *Expected result: Customer service will create a case number*
+
+2. **Submit required documentation**
+   - Original proof of purchase
+   - Government-issued ID matching the account holder's name
+   - Completed carrier-specific recovery form (available online or in-store)
+   
+   *Expected result: Confirmation of document receipt*
+
+3. **Follow up after processing period**
+   - Processing typically takes 24-72 hours
+   - Check status through carrier app/website or by calling with your case number
+   
+   *Success indicator: Device status shows "Clear" or "Active" in carrier systems*
+
+### Scenario 2: Financial Obligation Resolution
+
+1. **Identify the financial issue**
+   - Contact the carrier that placed the blacklist
+   - Request specific details about the outstanding balance
+   
+   *Expected result: Detailed breakdown of amounts owed*
+
+2. **Settle the outstanding balance**
+   - Pay through carrier app, website, phone, or in-store
+   - Obtain a payment confirmation number
+   
+   *Expected result: Receipt of payment*
+
+3. **Request blacklist removal**
+   - Contact carrier with payment confirmation
+   - Request explicit blacklist removal (this may not happen automatically)
+   
+   *Success indicator: Carrier confirms blacklist removal; device connects to network*
+
+## Device-Specific Variations
+
+### iOS Devices
+- For iPhones, also check Activation Lock status at appleid.apple.com
+- iPhones may require additional Apple support if both blacklisted and Activation Locked
+
+### Android Devices
+- Some Android devices require additional FRP (Factory Reset Protection) removal if reset after blacklisting
+- Samsung devices may need additional verification through Samsung account
+
+## Verification After Removal
+
+1. **Test network connectivity**
+   - Insert SIM card
+   - Attempt to make a call and use mobile data
+   
+   *Success indicator: Full network functionality*
+
+2. **Verify through carrier systems**
+   - Check status again through carrier app or IMEI verification websites
+   - Allow 24 hours for all systems to update
+   
+   *Success indicator: Status shows "Clear" across all platforms*
+
+## Troubleshooting
+
+If blacklist removal is unsuccessful:
+- Ensure all documentation is complete and accurate
+- Request escalation to a supervisor if initial attempts fail
+- Consider filing a complaint with the FCC if you believe the blacklisting is erroneous
+- For devices purchased used, contact the seller for assistance with the original carrier
+
+## Important Notes
+
+- Blacklist removal can only be performed by the carrier that placed the blacklist
+- Attempting to use blacklisted devices through technical workarounds may violate terms of service and laws
+- International blacklists (GSMA IMEI Database) may require additional steps for removal
+
+For further assistance, contact your carrier's dedicated device support team through their mobile app or customer service line.

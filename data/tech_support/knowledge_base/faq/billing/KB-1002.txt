@@ -1,0 +1,77 @@
+ID: KB-1002
+Type: FAQ
+Category: Billing
+Subcategory: Paper bill vs. electronic billing
+Title: Paper Bill vs. Electronic Billing: What's the Difference?
+Tags: text,bill,paper,faq,roaming,paper bill vs. electronic billing,electronic,billing,plan
+Last Updated: 2024-10-10 23:59:47
+Generated: 2025-07-13T23:15:48.609927
+
+---
+
+# Paper Bill vs. Electronic Billing: What's the Difference?
+
+## Overview
+Paper bills and electronic bills (e-bills) contain identical account information but are delivered through different methods. This FAQ explains the differences, benefits of each option, and how to switch between them.
+
+## What's the difference between paper and electronic billing?
+
+**Paper bills** are physical statements mailed to your postal address each billing cycle. They include:
+- A detailed summary of your monthly charges
+- Itemized call records (for non-unlimited plans)
+- Payment information and due date
+- Any one-time charges or credits
+- Current and past balance information
+
+**Electronic bills (e-bills)** contain the exact same information but are delivered digitally. You can:
+- Receive an email notification when your bill is ready
+- View your bill through our mobile app (iOS and Android)
+- Access up to 12 months of billing history through your online account
+- Download PDF versions for your records
+
+## Are there any fees associated with either billing method?
+
+Many customers ask this question. Yes, there is typically a $1.99 paper billing fee applied to accounts receiving mailed statements. This fee helps offset printing and postage costs. Electronic billing is provided at no additional charge and is our environmentally-friendly option.
+
+## Example of how this appears on your bill:
+
+```
+Monthly Service Charges
+    Unlimited Talk & Text Plan             $45.00
+    5GB Data Package                       $25.00
+    Device Protection                      $13.00
+    Paper Bill Fee                          $1.99
+                                 Subtotal: $84.99
+```
+
+## How do I switch from paper to electronic billing?
+
+Switching to e-billing is simple:
+1. Log into your account at myaccount.ourcompany.com
+2. Go to "Billing Preferences" in the account settings
+3. Select "Electronic Billing" and confirm your email address
+4. Click "Save Changes"
+
+Alternatively, you can:
+- Use our mobile app: Navigate to Account → Billing → Billing Preferences
+- Call customer service at 1-800-XXX-XXXX
+- Visit any retail store with your ID
+
+The change typically takes effect for your next billing cycle.
+
+## Will I still get notified when my bill is ready if I switch to e-billing?
+
+Yes! When you switch to e-billing, you'll receive an email notification when your new bill is ready to view. You can customize these notifications in your account settings to also receive text alerts. Our mobile app also sends push notifications when a new bill is available.
+
+## Can I still pay my bill the same way if I switch billing methods?
+
+Absolutely. Your payment options remain the same regardless of how you receive your bill. You can pay through:
+- Automatic payments
+- Online account portal
+- Mobile app
+- Phone payment system (1-800-XXX-XXXX)
+- In-store payments
+- Mail-in payments
+
+## Need more help?
+If you have additional questions about your billing options or need assistance switching between paper and electronic billing, please contact our customer support team at 1-800-XXX-XXXX or chat with us through the mobile app.

@@ -1,0 +1,130 @@
+ID: KB-1205
+Type: Policy
+Category: Technical
+Subcategory: Mobile data troubleshooting
+Title: Mobile Data Troubleshooting Policy
+Tags: troubleshooting,account,technical,coverage,mobile,mobile data troubleshooting,support,data,policy
+Last Updated: 2024-07-04 23:59:47
+Generated: 2025-07-13T23:15:40.985139
+
+---
+
+# Mobile Data Troubleshooting Policy
+
+## Purpose
+This policy outlines the procedures, responsibilities, and expectations regarding mobile data service issues, their diagnosis, and resolution. It establishes clear guidelines for both customers and company representatives to ensure efficient troubleshooting and service restoration.
+
+## Service Standards
+
+### Network Availability
+- Our mobile data network is designed to maintain 99.5% availability in covered service areas
+- Service quality may vary based on location, network congestion, and environmental factors
+- Standard data speeds are as defined in your specific service plan documentation
+
+### Performance Metrics
+- Standard latency: <100ms in 4G/LTE areas, <30ms in 5G areas
+- Minimum download speeds: As specified in your service agreement
+- Service disruptions exceeding 4 hours may qualify for service credits per our Service Level Agreement
+
+## Customer Responsibilities
+
+### Basic Troubleshooting
+Before contacting technical support, customers should:
+- Restart the device
+- Check if the issue affects all applications or just one
+- Verify data usage hasn't exceeded plan limits via our mobile app or online account
+- Ensure device software is current (iOS or Android)
+- Check if the issue occurs in multiple locations
+
+### Device Maintenance
+- Keep device operating systems updated to the latest compatible version
+- Regularly restart devices (at least weekly) to refresh network connections
+- Manage application data usage through device settings
+- Maintain sufficient storage space for proper device operation
+
+## Company Obligations
+
+### Technical Support
+- 24/7 support via phone, chat, and our mobile app
+- Remote diagnostics of network and device issues
+- Guided troubleshooting for common connectivity problems
+- Escalation to specialized technical teams when necessary
+
+### Service Restoration
+- Network issues will be addressed according to our priority matrix:
+  - Critical outages (affecting multiple customers): 2-hour response
+  - Individual connectivity issues: 24-hour resolution target
+  - Intermittent service problems: 72-hour investigation window
+
+## Maintenance Windows
+
+### Scheduled Maintenance
+- Routine network maintenance: Tuesdays and Thursdays, 1:00 AM - 5:00 AM local time
+- Major system upgrades: Communicated with 7 days advance notice
+- Emergency maintenance may occur outside these windows as needed
+
+### Service Impact
+- Most maintenance activities will not impact service
+- When service disruption is anticipated, the expected duration will be communicated
+- Alternative service options will be provided when available
+
+## Customer Notification Protocols
+
+### Outage Communication
+- Network status viewable on company website and mobile app
+- SMS notifications for major outages affecting customer's area
+- Email updates for scheduled maintenance affecting service
+- Push notifications (if enabled) through our mobile app
+
+### Status Updates
+- Initial notification within 30 minutes of confirmed outage
+- Progress updates every 2 hours for ongoing issues
+- Resolution confirmation when service is restored
+
+## Troubleshooting Procedures
+
+### Tier 1 Support
+1. Verify account status and plan details
+2. Guide through device-level troubleshooting
+3. Check network status in customer's area
+4. Reset network settings if necessary
+
+### Tier 2 Support
+1. Detailed signal analysis and tower connectivity check
+2. SIM card diagnostics and possible replacement
+3. Device-specific configuration adjustments
+4. Provisioning verification and corrections
+
+### Tier 3 Support
+1. Advanced network diagnostics
+2. Coordination with network operations center
+3. Device-specific engineering support
+4. On-site testing when necessary
+
+## Remediation Procedures
+
+### Service Credits
+- Automatic credits for verified outages exceeding 4 consecutive hours
+- Credit requests must be submitted within 30 days of the incident
+- Credit amount based on service plan and outage duration
+
+### Hardware Replacement
+- Device diagnostics available at retail locations or via mail-in service
+- Warranty replacements per manufacturer terms
+- Loaner devices available for business customers during repair period
+
+### Escalation Path
+1. Customer Support Representative
+2. Technical Support Specialist
+3. Network Operations Team
+4. Regional Technical Manager
+5. Customer Advocacy Team
+
+## Policy Exceptions
+Exceptions to this policy may be granted in cases of:
+- Natural disasters or emergency situations
+- Regulatory requirements
+- Special accommodations for accessibility needs
+- Enterprise service agreements with custom SLAs
+
+For additional assistance, please contact Technical Support through our mobile app, website, or by calling 1-800-XXX-

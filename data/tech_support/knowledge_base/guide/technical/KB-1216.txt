@@ -1,0 +1,97 @@
+ID: KB-1216
+Type: Guide
+Category: Technical
+Subcategory: Internet connectivity issues
+Title: Troubleshooting Internet Connectivity Issues: A Complete Guide
+Tags: subscription,technical,internet connectivity issues,wireless,connectivity,internet,guide,plan,issues
+Last Updated: 2025-05-05 23:59:47
+Generated: 2025-07-13T23:15:41.674830
+
+---
+
+# Troubleshooting Internet Connectivity Issues: A Complete Guide
+
+## Introduction
+This guide will help you diagnose and resolve common internet connectivity problems with your home or mobile internet service. By following these steps systematically, you can identify the source of the problem and restore your connection in most cases without needing technical support.
+
+## Prerequisites Before Starting
+- Verify your account is active and payments are current (check via the My Account section of our mobile app or website)
+- Have your modem/router model information ready
+- Know your normal connection speed (from previous speed tests)
+- Have administrator access to your devices
+
+## Common Symptoms of Connectivity Issues
+- No internet access on any device
+- Slow or intermittent connection
+- Connected to Wi-Fi but no internet access
+- Specific applications unable to connect
+
+## Step-by-Step Troubleshooting
+
+### Step 1: Verify Physical Connections
+**For Home Internet:**
+1. Check that your modem/router is powered on (look for illuminated indicator lights)
+2. Ensure all cables are firmly connected (power, coaxial/fiber, Ethernet)
+3. Verify the cable from the wall to the modem isn't damaged
+4. Check that all connection lights on your modem/router match normal operation (refer to your device manual for specific light patterns)
+
+**For Mobile Internet:**
+1. Check that mobile data is enabled
+   - iOS: Settings → Cellular → Cellular Data (toggle on)
+   - Android: Settings → Network & Internet → Mobile Network (toggle on)
+2. Verify you're in a coverage area using our network coverage map in the mobile app
+
+**Expected outcome:** All appropriate lights on your modem/router should be solid (not blinking), typically including power, internet/online, and Wi-Fi indicators.
+
+### Step 2: Restart Your Equipment
+**For Home Internet:**
+1. Power off your modem/router (unplug from power source)
+2. Wait 30 seconds
+3. Reconnect power to the modem and wait for it to fully initialize (typically 2-3 minutes)
+4. If you have a separate router, power it on after the modem has initialized
+5. Wait for all indicator lights to return to their normal state
+
+**For Mobile Devices:**
+1. Toggle Airplane Mode on for 30 seconds, then off
+   - iOS: Control Center (swipe down from top-right) → Airplane Mode
+   - Android: Quick Settings (swipe down from top) → Airplane Mode
+2. Alternatively, restart your device completely
+
+**Expected outcome:** Your devices should reconnect to the internet automatically after the equipment restarts.
+
+### Step 3: Check Wi-Fi Connection
+1. Verify you're connected to the correct Wi-Fi network
+   - iOS: Settings → Wi-Fi
+   - Android: Settings → Network & Internet → Wi-Fi
+   - Windows: Click Wi-Fi icon in taskbar
+   - Mac: Click Wi-Fi icon in menu bar
+2. Try forgetting the network and reconnecting:
+   - iOS/Android: Tap network name → Forget/Forget Network
+   - Windows: Settings → Network & Internet → Wi-Fi → Manage known networks → Select network → Forget
+   - Mac: System Preferences → Network → Advanced → Wi-Fi → Select network → Remove
+
+**Expected outcome:** Your device should successfully reconnect to the Wi-Fi network with a "Connected" status.
+
+### Step 4: Run a Speed Test
+1. Use our carrier app's built-in speed test tool or visit speedtest.net
+2. Run the test while positioned near your router
+3. Compare results with your plan's advertised speeds
+4. Run tests at different times of day to identify patterns
+
+**Expected outcome:** Speed test results should be within 80% of your plan's advertised speeds during normal usage periods.
+
+### Step 5: Check for Service Outages
+1. Open our mobile app and check the network status page
+2. Look for reported outages in your area
+3. Alternatively, call our automated service status line or check our website
+
+**Expected outcome:** You'll see either confirmation of a known outage (with estimated resolution time) or no reported issues.
+
+### Step 6: Reset Network Settings on Your Device
+**For iOS:**
+1. Go to Settings → General → Reset → Reset Network Settings
+2. Enter your passcode if prompted
+3. Confirm the reset
+
+**For Android:**
+1. Go to Settings → System → Reset options →

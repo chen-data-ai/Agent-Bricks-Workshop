@@ -1,0 +1,83 @@
+ID: KB-1236
+Type: Procedure
+Category: Billing
+Subcategory: Billing error resolution
+Title: Billing Error Resolution Procedure for Telecom Customer Support
+Tags: service,wireless,procedure,roaming,billing error resolution,error,resolution,billing
+Last Updated: 2025-02-25 23:59:47
+Generated: 2025-07-13T23:15:43.203461
+
+---
+
+# Billing Error Resolution Procedure for Telecom Customer Support
+
+## Purpose
+This procedure outlines the systematic approach for resolving billing errors reported by customers, ensuring accurate investigation, proper documentation, and timely resolution while maintaining compliance with company policies.
+
+## Procedure
+
+### Initial Customer Contact
+1. Greet the customer professionally and acknowledge their billing concern
+2. Verify the customer's identity using at least two authentication methods:
+   - Account PIN/password
+   - Last 4 digits of SSN/Tax ID
+   - Recent transaction details
+   - Security questions
+3. Document the customer's specific billing complaint in the CRM system using the "Billing Dispute" category
+4. Inform the customer of the expected resolution timeframe (typically 3-5 business days for standard issues)
+
+### Investigation and Analysis
+5. Review the customer's billing history for the past three billing cycles
+6. Compare disputed charges against the customer's service plan and any promotions/discounts on the account
+7. Verify usage data in the billing system matches what appears on the customer's bill
+8. Check for recent account changes, plan modifications, or feature additions that might explain billing changes
+9. Document all findings in the case notes with specific timestamps and system references
+
+### Error Verification and Classification
+10. Determine if an actual billing error exists based on the investigation
+11. Classify the error type in the system:
+    - System calculation error
+    - Proration miscalculation
+    - Promotion/discount not applied
+    - Duplicate charge
+    - Third-party billing error
+    - Other (requires detailed description)
+12. Calculate the exact financial impact of the error
+
+### Resolution Implementation
+13. For errors under $50:
+    - Process immediate credit/adjustment
+    - Document justification in the system
+14. For errors between $50-$150:
+    - Request supervisor approval via the billing adjustment queue
+    - Provide complete documentation of findings
+15. For errors exceeding $150:
+    - Submit to billing department for review
+    - Expect 3-5 business day review period
+16. Apply the appropriate adjustment code in the billing system
+17. Document the adjustment details including amount, reason code, and authorization ID
+
+### Customer Communication
+18. Contact the customer to explain the resolution (via their preferred contact method)
+19. Explain when the adjustment will appear (current bill or next billing cycle)
+20. Provide instructions for viewing the adjustment in their online account or mobile app
+    - iOS: Navigate to Billing > Payment History > Adjustments
+    - Android: Tap Account > Billing > View Adjustments
+21. Offer to email a confirmation of the adjustment to the customer
+
+### Follow-up and Prevention
+22. Set a follow-up task in the CRM to verify the adjustment processed correctly
+23. If the error affects multiple customers, submit an incident report to the Billing Operations team
+24. For recurring error types, complete a "Billing Error Pattern" form for Quality Assurance review
+25. Document any customer feedback about the resolution process
+
+### Escalation Path
+26. If unable to resolve within standard timeframes, escalate to:
+    - Tier 1: Billing Team Lead (response within 4 hours)
+    - Tier 2: Billing Operations Manager (response within 24 hours)
+    - Tier 3: Finance Department (for systemic issues or amounts exceeding $500)
+27. For escalations, provide complete case history and customer contact information
+28. Update the customer every 48 hours on escalated cases
+
+## Quality Assurance
+All billing adjustments are subject to random quality review. Ensure all documentation is thorough and complies with company financial policies.

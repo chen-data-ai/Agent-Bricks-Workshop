@@ -1,0 +1,131 @@
+ID: KB-1095
+Type: Procedure
+Category: Technical
+Subcategory: Phone not receiving calls
+Title: Technical Support Procedure: Resolving Phone Not Receiving Calls
+Tags: calls,receiving,technical,phone not receiving calls,procedure,network,support,phone,plan
+Last Updated: 2024-11-13 23:59:47
+Generated: 2025-07-13T23:15:55.792613
+
+---
+
+# Technical Support Procedure: Resolving Phone Not Receiving Calls
+
+**Document ID:** TS-CALL-001  
+**Last Updated:** [Current Date]  
+**Department:** Technical Support  
+**Access Level:** Internal Support Staff  
+
+## 1. Overview
+
+This procedure guides support agents through diagnosing and resolving issues where customers report their mobile device is not receiving incoming calls. This document follows a systematic approach to identify and address common causes while providing clear escalation paths for complex scenarios.
+
+## 2. Required Tools/System Access
+
+- Customer account management system (CRM)
+- Network diagnostic tools (NetDiag)
+- Call routing verification system (CallTrace)
+- Device compatibility database
+- Trouble ticket system
+- Remote SIM provisioning tool (if applicable)
+
+## 3. Procedure
+
+### 3.1 Initial Assessment
+
+1. **Verify customer identity** using standard authentication protocol
+2. **Document issue details**:
+   - Exact symptoms (all calls or specific callers)
+   - Issue onset timing
+   - Recent changes to device/account
+   - Call behavior (rings for caller but not recipient, goes straight to voicemail, etc.)
+3. **Verify account status**:
+   - Confirm account is active and in good standing
+   - Check for payment blocks or service restrictions
+   - Verify no recent porting activity
+
+### 3.2 Network Diagnostics
+
+1. **Check network coverage**:
+   - Verify customer's current location has adequate coverage
+   - Check for known outages in customer's area (NetDiag tool)
+   - Confirm device shows network connectivity indicators
+
+2. **Verify call routing**:
+   - Run CallTrace diagnostic for customer's number
+   - Check for call forwarding settings
+   - Verify voicemail configuration is correct
+
+3. **Test basic connectivity**:
+   - Have customer toggle Airplane Mode on/off
+   - Verify data connectivity functions
+   - If possible, test outgoing calls
+
+### 3.3 Device Configuration
+
+1. **Check device settings**:
+   - Verify Do Not Disturb is disabled
+   - Check Call Blocking settings for blocked numbers
+   - Confirm Call Forwarding is disabled (unless intentionally enabled)
+   - Check Focus/Silent modes (iOS) or Do Not Disturb (Android)
+
+2. **SIM verification**:
+   - Verify SIM is properly seated
+   - Check SIM status in account system
+   - Test with known working SIM if available
+
+3. **Software verification**:
+   - Check OS version is current
+   - Verify carrier settings are updated
+   - Check for pending device updates
+
+## 4. Decision Tree
+
+```
+START
+├── Account active? 
+│   ├── NO → Resolve account issues
+│   └── YES → Continue
+├── Network coverage adequate?
+│   ├── NO → Advise on coverage limitations
+│   └── YES → Continue
+├── Call forwarding active?
+│   ├── YES → Disable if unwanted
+│   └── NO → Continue
+├── Device settings blocking calls?
+│   ├── YES → Adjust settings
+│   └── NO → Continue
+├── SIM functioning properly?
+│   ├── NO → SIM troubleshooting
+│   └── YES → Continue
+├── Basic reset resolved issue?
+│   ├── YES → Document solution
+│   └── NO → Advanced troubleshooting
+```
+
+## 5. Advanced Troubleshooting
+
+1. **Network registration reset**:
+   - Guide customer to reset network settings
+   - For iOS: Settings > General > Reset > Reset Network Settings
+   - For Android: Settings > System > Reset options > Reset Wi-Fi, mobile & Bluetooth
+
+2. **SIM troubleshooting**:
+   - Initiate SIM refresh signal from provisioning system
+   - If available, test with alternative SIM
+   - Verify IMEI is properly registered
+
+3. **Device-specific checks**:
+   - Check for known issues with device model/OS version
+   - Verify device compatibility with network technologies
+   - Check for carrier-specific firmware requirements
+
+## 6. Resolution and Documentation
+
+1. **Confirm resolution**:
+   - Test incoming call to verify functionality
+   - Verify all services are working properly
+   - Document specific resolution in customer notes
+
+2. **Preventative guidance**:
+   - Advise on settings

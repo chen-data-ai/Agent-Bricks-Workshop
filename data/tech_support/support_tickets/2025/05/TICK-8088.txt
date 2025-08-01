@@ -1,0 +1,64 @@
+Ticket ID: TICK-8088
+Customer ID: CUS-10471
+Subscription ID: SUB-10000697
+Category: Account
+Priority: Medium
+Status: Resolved
+Created: 2025-05-21 22:11:11.653000
+Agent ID: ACC-6113
+Resolved: 2025-05-23 22:11:11.653000
+
+---
+DESCRIPTION:
+---
+
+Re: Ticket TICK-8088 (Created: 2025-05-22 05:11)
+
+I'm absolutely furious about the unauthorized changes made to my account! I just received my monthly bill and discovered that someone switched my "Ultimate Unlimited Plus" family plan to a basic plan without my consent. My bill is now showing a "ValueSaver 10GB" plan that I NEVER approved!
+
+I've been a loyal customer for 7 years and this is unacceptable. All four lines on my account are now experiencing data throttling - my son's iPhone 15 Pro can barely load Instagram and my Galaxy S24 Ultra keeps showing "High-speed data limit reached" notifications even though we should have unlimited data.
+
+When I tried to check my account on the mobile app, I got an "Error 4056: Account Plan Mismatch" message. I need this fixed IMMEDIATELY and want compensation for this disruption. We're heading to Portland for a business trip tomorrow and need our data working properly.
+
+Please call me back ASAP at 555-123-4567. I've already wasted 45 minutes on hold earlier today and had to hang up to attend a meeting.
+
+- Michael Donovan
+
+---
+RESOLUTION:
+---
+
+# Resolution for Ticket TICK-8088 | Agent ACC-6113 | Resolved on 2025-05-24 05:11
+
+Dear Mr. Donovan,
+
+I sincerely apologize for the unauthorized plan change on your account and the significant inconvenience this has caused you and your family, especially before your business trip to Portland. After thoroughly investigating this matter, I've taken the following actions to resolve your issue:
+
+## Investigation Findings
+- Accessed Account Management System (AMS) and confirmed an unauthorized plan change occurred on 2025-05-20, switching your "Ultimate Unlimited Plus" family plan to "ValueSaver 10GB"
+- Verified through call logs that no authorization was provided by any account holder for this change
+- Identified this as a system error during our recent billing platform migration (Error Code: BPM-2025)
+
+## Actions Taken
+1. Immediately restored your "Ultimate Unlimited Plus" family plan on all four lines
+2. Manually reset data usage counters in the Network Management System (NMS)
+3. Pushed network refresh signals to all devices on your account
+4. Verified with our Technical Operations team that the "Error 4056" in the mobile app has been resolved
+5. Applied a service credit of $75.00 to your account as compensation for the inconvenience (Reference: CR-8754321)
+6. Added a 12-month account notation (Note ID: PT-45678) to prevent unauthorized changes
+
+## Verification
+- Conducted test calls to confirm proper plan restoration
+- Verified data speeds have returned to unlimited high-speed status on all four lines
+- Confirmed the mobile app now correctly displays your "Ultimate Unlimited Plus" plan
+
+Per our Service Guarantee Policy (SGP-2025), I've also applied an additional 20GB of priority data to all lines on your account for your upcoming Portland trip to ensure you experience no further disruptions.
+
+I personally called you at 555-123-4567 to confirm these changes have resolved your issue. I've also provided my direct extension (x7890) should you experience any further concerns.
+
+We deeply value your 7-year loyalty to our company and sincerely apologize for this error. A formal apology letter from our Customer Experience Director will be sent to your email address on file.
+
+Respectfully,
+Thomas Reynolds
+Senior Account Specialist
+Customer Resolution Team

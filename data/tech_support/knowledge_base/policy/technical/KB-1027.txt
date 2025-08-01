@@ -1,0 +1,90 @@
+ID: KB-1027
+Type: Policy
+Category: Technical
+Subcategory: Signal strength problems
+Title: Signal Strength Policy and Resolution Procedures
+Tags: strength,technical,signal,service,problems,voice,policy,signal strength problems,plan
+Last Updated: 2025-03-21 23:59:47
+Generated: 2025-07-13T23:15:50.408147
+
+---
+
+# Signal Strength Policy and Resolution Procedures
+
+## Overview
+This document outlines our company's policies regarding signal strength issues, including our service standards, maintenance procedures, notification protocols, and resolution processes. It clarifies both customer and company responsibilities when addressing signal strength problems.
+
+## Service Standards
+
+### Signal Strength Commitments
+- Our network is designed to provide minimum signal strength of -100 dBm outdoors and -110 dBm indoors in all advertised coverage areas
+- Service availability target of 99.9% in primary coverage zones
+- Voice call quality minimum Mean Opinion Score (MOS) of 3.5/5
+- Data throughput of at least 80% of advertised speeds when signal strength is adequate
+
+### Coverage Limitations
+- Natural terrain, building materials, and weather conditions may impact signal strength
+- Coverage maps represent expected outdoor coverage and may differ from actual experience
+- Indoor coverage may require additional solutions in some locations
+
+## Maintenance Windows and Network Updates
+
+### Scheduled Maintenance
+- Routine maintenance: Monday-Thursday, 12:00 AM - 5:00 AM local time
+- Quarterly system upgrades: First Sunday of each quarter, 12:00 AM - 6:00 AM local time
+- Emergency maintenance may occur outside these windows when necessary
+
+### Customer Notifications
+- Scheduled maintenance affecting service will be announced 72 hours in advance
+- Notifications delivered via:
+  - SMS alerts (opt-in required)
+  - Account notifications in mobile app
+  - Company website service status page
+  - Email (for customers who have provided email addresses)
+
+## Signal Issue Identification and Reporting
+
+### Customer Responsibilities
+- Verify device settings (Airplane Mode, network selection)
+- Ensure device software is current
+- Report persistent issues via customer support channels
+- Provide accurate location information when reporting problems
+- Allow reasonable access for technicians if on-site assessment is required
+
+### Company Obligations
+- Maintain 24/7 network monitoring systems
+- Respond to reported issues within 24 hours
+- Provide troubleshooting assistance via phone, chat, or in-store support
+- Deploy technicians when necessary to resolve infrastructure issues
+- Offer signal enhancement solutions when appropriate
+
+## Remediation Procedures
+
+### Troubleshooting Process
+1. Remote diagnostics of customer device and local network
+2. Signal strength testing and analysis
+3. Network equipment assessment
+4. On-site investigation if necessary
+
+### Resolution Options
+- Network adjustments or repairs when infrastructure issues are identified
+- Signal boosters or Wi-Fi calling solutions for eligible customers
+- Temporary bill credits for extended service outages (24+ hours)
+- Service plan adjustments if coverage expectations cannot be met
+
+### Escalation Path
+1. Initial customer support contact
+2. Technical support specialist
+3. Network operations team
+4. Regional network manager
+5. Customer solutions director
+
+## Monitoring and Improvement
+
+We continuously monitor network performance and signal strength through:
+- Automated network monitoring systems
+- Drive testing in coverage areas
+- Customer feedback and reported issues
+- Annual infrastructure assessment and upgrade planning
+
+This policy is reviewed quarterly to ensure alignment with technological capabilities and customer expectations.

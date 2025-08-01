@@ -1,0 +1,80 @@
+ID: KB-1179
+Type: FAQ
+Category: Billing
+Subcategory: Prepaid vs. postpaid billing differences
+Title: What's the difference between prepaid and postpaid billing?
+Tags: payment,phone,prepaid,differences,faq,postpaid,prepaid vs. postpaid billing differences,device,billing
+Last Updated: 2024-09-14 23:59:47
+Generated: 2025-07-13T23:15:47.996393
+
+---
+
+# What's the difference between prepaid and postpaid billing?
+
+Prepaid and postpaid are two fundamentally different ways to pay for your mobile service, each with distinct advantages and billing processes.
+
+## Prepaid Service
+
+With prepaid service, you pay for your usage **before** you use it. Think of it as "pay-as-you-go."
+
+**How prepaid billing works:**
+- You purchase credit (or "top up") in advance
+- Services are available until your balance depletes
+- When your balance runs low, service stops until you add more funds
+- No surprise bills or overage charges
+- No credit check required to start service
+
+**Example:** If you purchase a $40 prepaid plan on May 1st, you'll have service until May 31st. On June 1st, you'll need to make another payment to continue service.
+
+**Common prepaid charges:**
+- Base plan cost (e.g., $25/month for 5GB data + unlimited talk/text)
+- Add-on packages (e.g., $5 for additional 1GB data)
+- International calling credits
+
+## Postpaid Service
+
+With postpaid service, you use your services first and receive a bill at the end of your billing cycle.
+
+**How postpaid billing works:**
+- You sign up for a monthly plan with specific allowances
+- You're billed regularly (typically monthly) for your base plan
+- Any usage beyond your plan limits appears as additional charges
+- Requires credit approval and often a contract
+- Service continues even if you exceed your limits (resulting in overage charges)
+
+**Example:** If your billing cycle runs from the 15th to the 14th of each month, you'll receive a bill after the 14th that includes your base plan cost plus any additional charges from the previous 30 days.
+
+**Common postpaid charges:**
+- Monthly plan fee (e.g., $70/month for unlimited data)
+- Device installment payments (e.g., $25/month for 24 months)
+- Overage fees (e.g., $15/GB for data beyond your limit)
+- One-time fees (activation, late payment, etc.)
+- Taxes and regulatory fees
+
+## Managing Your Account
+
+**For prepaid service:**
+- Check your balance anytime in our mobile app (iOS and Android)
+- Set up auto-pay to automatically top up when your balance gets low
+- Purchase add-ons for additional data or international calling
+
+**For postpaid service:**
+- View and pay bills through our online account portal or mobile app
+- Set up usage alerts to notify you when approaching limits
+- Analyze your usage patterns to determine if you're on the right plan
+
+## Which is right for you?
+
+**Consider prepaid if you:**
+- Want predictable costs with no surprise bills
+- Prefer flexibility without contracts
+- Have variable usage month-to-month
+- Don't want to undergo a credit check
+
+**Consider postpaid if you:**
+- Want the latest devices with installment plans
+- Have consistent, heavy usage
+- Prefer not having to remember to top up
+- Need family or multi-line discounts
+
+Still have questions about which billing type is right for your situation? Contact our customer support team through the mobile app, website chat, or by calling 1-800-XXX-XXXX.

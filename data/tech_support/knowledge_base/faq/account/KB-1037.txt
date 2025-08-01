@@ -1,0 +1,52 @@
+ID: KB-1037
+Type: FAQ
+Category: Account
+Subcategory: Billing responsibility transfer
+Title: How Do I Transfer Billing Responsibility for My Account to Someone Else?
+Tags: account,transfer,faq,responsibility,billing responsibility transfer,billing,plan
+Last Updated: 2025-05-15 23:59:47
+Generated: 2025-07-13T23:15:51.109193
+
+---
+
+# How Do I Transfer Billing Responsibility for My Account to Someone Else?
+
+## Overview
+Transferring billing responsibility allows you to shift financial ownership of your account to another person while maintaining the same phone numbers and services. This process, also known as a Transfer of Responsibility (TOR), requires verification from both parties and careful consideration of billing impacts.
+
+## Eligibility Requirements
+- The account must be in good standing with no past-due balance
+- Both parties must be at least 18 years old and pass a credit check
+- The current account holder must authorize the transfer
+- The new account holder must accept responsibility for the account
+
+## Transfer Process
+1. **Initiate the transfer**: The current account holder must start the process either:
+   - Through the mobile app: Navigate to Account → Settings → Transfer Responsibility
+   - Online: Log in to your account dashboard and select "Transfer Billing Responsibility" under Account Management
+   - By phone: Contact Customer Support at 1-800-XXX-XXXX
+
+2. **Verification required**:
+   - Current account holder: Account PIN, last 4 digits of SSN, and government-issued photo ID
+   - New account holder: Full name, email address, SSN, date of birth, and government-issued photo ID
+
+3. **Agreement review**: Both parties will receive the Transfer Agreement via email that must be digitally signed within 7 days
+
+## Timeframes
+- Online/app transfers typically process within 24-48 hours after both parties complete verification
+- Phone-initiated transfers may take 3-5 business days
+- If the new account holder fails credit verification, you'll be notified within 24 hours
+
+## Billing and Service Impacts
+- The billing cycle may reset on the transfer date
+- A prorated final bill will be issued to the current account holder
+- The new account holder may need to select a new rate plan if the current plan is no longer available
+- Service features like autopay, paperless billing, and authorized users will need to be re-established
+- Device payment plans will transfer to the new account holder's responsibility
+
+## Important Considerations
+- Promotional discounts may not transfer to the new account
+- The new account holder may be subject to a credit check which could affect deposit requirements
+- Family plans require all lines to transfer together unless individual lines are moved to separate accounts first
+
+For additional assistance, contact Customer Support or visit your nearest retail store with both parties present and proper identification.
