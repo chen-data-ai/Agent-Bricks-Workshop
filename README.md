@@ -6,7 +6,7 @@ This repository contains all the demo assets and notebooks for the Agent Bricks 
 
 You will find four notebooks:
 - **AI Functions with Batch Inference:** Sample code demonstrating how to use AI functions such as `ai_parse_document` for information extraction.
-- **Information Extraction with Agent Bricks**
+- **Model Context Protocol (MCP) Servers on Databricks**: Build and use different types of MCP servers (managed, external, custom) as tools with your agent. 
 - **Knowledge Assistant with Agent Bricks:** Creating a document-based question-answering assistant.
 - **MLflow3 UI with the Knowledge Assistant Agent:** 
 

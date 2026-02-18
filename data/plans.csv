@@ -1,0 +1,13 @@
+plan_id,plan_name,plan_type,monthly_price,data_limit_gb,unlimited_calls,unlimited_texts,contract_required,description,is_active
+PLAN-1004,Unlimited Business,Business,229.99,0,true,true,true,"Unlimited Business: Unlimited data, unlimited calls, unlimited texts. Contract required.",true
+PLAN-1005,Basic Individual,Individual,29.99,2,false,false,false,"Basic Individual: 2GB data, pay-per-minute calls, pay-per-text. No contract required.",true
+PLAN-1006,Standard Individual,Individual,49.99,5,false,true,false,"Standard Individual: 5GB data, pay-per-minute calls, unlimited texts. No contract required.",true
+PLAN-1007,Premium Individual,Individual,69.99,10,true,true,true,"Premium Individual: 10GB data, unlimited calls, unlimited texts. Contract required.",true
+PLAN-1008,Unlimited Family,Family,159.99,0,true,true,true,"Unlimited Family: Unlimited data, unlimited calls, unlimited texts. Contract required.",true
+PLAN-1009,Basic Individual,Individual,29.99,2,false,false,false,"Basic Individual: 2GB data, pay-per-minute calls, pay-per-text. No contract required.",true
+PLAN-1010,Standard Business,Business,129.99,5,false,true,true,"Standard Business: 5GB data, pay-per-minute calls, unlimited texts. Contract required.",true
+PLAN-1011,Premium Business,Business,179.99,10,true,true,true,"Premium Business: 10GB data, unlimited calls, unlimited texts. Contract required.",true
+PLAN-1012,Unlimited Individual,Individual,99.99,0,true,true,true,"Unlimited Individual: Unlimited data, unlimited calls, unlimited texts. Contract required.",true
+PLAN-1001,Basic Family,Family,59.99,2,false,false,true,"Basic Family: 2GB data, pay-per-minute calls, pay-per-text. Contract required.",true
+PLAN-1002,Standard Individual,Individual,49.99,5,false,true,false,"Standard Individual: 5GB data, pay-per-minute calls, unlimited texts. No contract required.",true
+PLAN-1003,Premium Family,Family,119.99,10,true,true,true,"Premium Family: 10GB data, unlimited calls, unlimited texts. Contract required.",true

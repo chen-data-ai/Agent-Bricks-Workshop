@@ -1,0 +1,36 @@
+device_id,device_name,manufacturer,device_type,retail_price,monthly_installment,storage_gb,color_options,release_date,is_5g_compatible,is_active
+DEV-2025,Samsung Galaxy S25 Plus,Samsung,Smartphone,827.94,27.6,128,"Silver, Black, Gold, White",2021-03-02,true,true
+DEV-2026,Samsung Galaxy S24 Edge,Samsung,Smartphone,3827.38,159.47,1024,"Silver, Black, White",2019-06-06,false,true
+DEV-2027,Samsung Galaxy S24 Edge,Samsung,Smartphone,7589.15,316.21,1024,"White, Gold, Black, Silver",2019-01-07,false,false
+DEV-2028,Samsung Galaxy Tab S8,Samsung,Tablet,877.54,24.38,256,"Silver, Gold, Black, White",2024-09-08,true,true
+DEV-2029,Apple iPhone 15 Pro Max,Apple,Smartphone,409.63,11.38,128,"White, Silver, Gold, Black",2025-02-22,true,true
+DEV-2030,Apple iPhone 15 Pro,Apple,Smartphone,2419.51,100.81,512,"White, Silver, Black, Gold",2024-10-12,true,true
+DEV-2031,Apple iPhone 14 Pro Max,Apple,Smartphone,870.43,36.27,256,"Black, Gold, Silver",2024-04-30,true,true
+DEV-2032,Apple iPad Air 11,Apple,Tablet,2065.35,86.06,512,"Black, Gold, White",2021-06-15,true,false
+DEV-2033,Apple iPhone 14,Apple,Smartphone,1455.99,48.53,512,"Gold, Silver, White, Black",2020-10-13,false,true
+DEV-2034,Apple iPhone 15 Pro Max,Apple,Smartphone,2995.43,99.85,512,"Black, Silver, White, Gold",2022-01-17,true,true
+DEV-2035,Apple iPad Air 9,Apple,Tablet,2584.24,71.78,512,"Black, White, Silver",2022-09-17,true,true
+DEV-2017,Samsung Galaxy S22,Samsung,Smartphone,4666.25,129.62,1024,"Black, Silver, Gold",2021-01-31,true,true
+DEV-2018,Apple iPad Air 11,Apple,Tablet,1766.6,73.61,1024,"Silver, White, Black, Gold",2021-09-04,true,true
+DEV-2019,Apple iPhone 13,Apple,Smartphone,2977.99,82.72,512,"Black, Silver, Gold",2024-09-03,true,true
+DEV-2020,Google Nexus Connect 2,Google,Hotspot,204.03,6.8,256,"Black, Silver, White, Gold",2020-07-04,true,false
+DEV-2021,Apple iPad Pro 11,Apple,Tablet,661.44,27.56,128,"Gold, White, Black, Silver",2023-10-01,true,true
+DEV-2022,Apple iPhone 14 Pro Max,Apple,Smartphone,772.05,25.73,256,"Black, Gold, Silver, White",2025-02-12,true,true
+DEV-2023,Apple iPhone 16,Apple,Smartphone,250.22,10.43,64,"White, Silver, Black, Gold",2022-12-19,true,true
+DEV-2024,Apple iPad Air 9,Apple,Tablet,829.53,34.56,128,"Black, Gold, White, Silver",2021-10-13,true,false
+DEV-2009,Google Nexus Connect 5,Google,Hotspot,271.23,11.3,256,"Silver, Black, Gold, White",2019-11-19,false,true
+DEV-2010,Apple iPhone 14,Apple,Smartphone,3994.14,166.42,512,"Gold, Black, Silver, White",2023-06-23,true,false
+DEV-2011,Apple iPhone 16,Apple,Smartphone,435.26,14.51,128,"White, Silver, Black",2019-01-30,false,true
+DEV-2012,Apple iPhone 13 Pro,Apple,Smartphone,330.52,11.02,64,"White, Silver, Black, Gold",2021-09-22,false,false
+DEV-2013,Apple iPhone 16 Pro,Apple,Smartphone,2322.61,64.52,512,"Black, Gold, White",2022-10-21,true,false
+DEV-2014,Apple iPhone 16,Apple,Smartphone,1612.46,53.75,512,"Black, White, Gold",2019-07-27,false,false
+DEV-2015,Apple iPhone 13,Apple,Smartphone,577,19.23,128,"Gold, Black, Silver",2023-04-02,true,true
+DEV-2016,Motorola Moto G13 Plus,Motorola,Smartphone,1977.44,54.93,512,"White, Black, Gold, Silver",2019-08-28,false,false
+DEV-2001,Apple MiFi 1,Apple,Hotspot,335.41,11.18,512,"Black, Silver, White, Gold",2023-03-31,true,true
+DEV-2002,Apple iPhone 15 Pro Max,Apple,Smartphone,809.56,33.73,128,"Silver, Black, Gold",2020-02-18,false,true
+DEV-2003,Apple iPad Pro 9,Apple,Tablet,1302.35,36.18,256,"White, Silver, Black",2020-10-31,false,true
+DEV-2004,Samsung Mobile Hotspot A20,Samsung,Hotspot,423.41,17.64,256,"Black, White, Silver",2022-01-01,true,true
+DEV-2005,Apple MiFi 3,Apple,Hotspot,192.8,6.43,128,"White, Gold, Black, Silver",2025-04-18,true,true
+DEV-2006,Apple iPad mini 10,Apple,Tablet,843.26,35.14,128,"Black, Gold, Silver, White",2020-10-17,false,true
+DEV-2007,Apple iPhone 16 Pro Max,Apple,Smartphone,2034.87,84.79,256,"Silver, Gold, White",2020-04-01,true,true
+DEV-2008,Samsung Galaxy S24 Plus,Samsung,Smartphone,7176.69,199.35,1024,"White, Black, Gold, Silver",2025-01-18,true,true

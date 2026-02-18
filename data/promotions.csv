@@ -1,0 +1,81 @@
+promo_id,promo_name,discount_type,discount_value,start_date,end_date,description,is_active,eligible_plans,eligible_devices
+PROMO-4041,Port-In Credit,Fixed,200,2025-05-12,2025-06-11,Port-In Credit: $200 monthly credit for 1 months with eligible service. Get a $200 bill credit when you bring your number from another carrier.,true,all,all
+PROMO-4042,Business Device Fleet Upgrade,Fixed,50,2025-05-05,2025-09-02,Business Device Fleet Upgrade: $50 monthly credit for 4 months with eligible service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4043,Back to School Bundle,Fixed,25,2025-07-09,2025-08-23,Back to School Bundle: $25 monthly credit for 1 months with eligible service.,false,all,all
+PROMO-4044,5-Year Milestone Gift,Fixed,100,2025-05-16,2025-06-15,5-Year Milestone Gift: $100 monthly credit for 1 months with eligible service. Special reward for customers who have been with us for 5+ years.,true,all,all
+PROMO-4045,Black Friday Special,Percentage,40,2025-11-09,2025-11-23,Black Friday Special: Get 40% off for 14 days on qualifying plans. Our biggest discounts of the year on select devices and plans.,false,all,all
+PROMO-4046,Standard Multi-Line Discount,Percentage,10,2025-05-03,2026-05-03,Multi-Line Discount: Get 10% off for 12 months on qualifying plans. Available with Standard plans.,true,all,all
+PROMO-4047,Standard Data Rollover Plus,Service,0,2025-05-15,2026-05-15,Data Rollover Plus: Enjoy this special offer for 12 months with qualifying service. Available with Standard plans. Unused data from your monthly allowance automatically rolls over to the next month.,true,all,all
+PROMO-4048,Priority Support Access,Service,0,2025-05-13,2025-11-09,Priority Support Access: Enjoy this special offer for 6 months with qualifying service.,true,all,all
+PROMO-4049,Unlimited Unlimited Plan Discount,Percentage,15,2025-05-11,2025-09-08,Unlimited Plan Discount: Get 15% off for 4 months on qualifying plans. Available with Unlimited plans.,true,"PLAN-1004,PLAN-1008,PLAN-1012",all
+PROMO-4050,Free Phone Upgrade,Service,0,2025-05-07,2025-06-06,"Free Phone Upgrade: Enjoy this special offer for 1 months with qualifying service. Requires new line activation and approved credit. Eligible customers can upgrade to a iPhone 15,Galaxy S24,Pixel 8,OnePlus 12 at no additional cost.",true,all,"DEV-2026,DEV-2027,DEV-2029,DEV-2030,DEV-2034,DEV-2002,DEV-2008"
+PROMO-4051,Premium Multi-Line Discount,Percentage,10,2025-05-11,2026-05-11,Multi-Line Discount: Get 10% off for 12 months on qualifying plans. Available with Premium plans.,true,all,all
+PROMO-4052,Premium International Add-On Included,Service,0,2025-05-01,2025-07-30,International Add-On Included: Enjoy this special offer for 3 months with qualifying service. Available with Premium plans.,true,all,all
+PROMO-4053,Anniversary Discount,Fixed,15,2025-05-03,2025-07-02,Anniversary Discount: $15 monthly credit for 2 months with eligible service.,true,all,all
+PROMO-4054,Premium Accessory Package,Service,0,2025-05-14,2025-06-13,Premium Accessory Package: Enjoy this special offer for 1 months with qualifying service. Requires new line activation and approved credit.,true,all,all
+PROMO-4055,Valentine's Couples Plan,Fixed,30,2025-02-08,2025-03-08,Valentine's Couples Plan: $30 credit for 28 days with eligible service.,false,all,all
+PROMO-4056,Business Device Fleet Upgrade,Fixed,50,2025-05-16,2025-09-13,Business Device Fleet Upgrade: $50 monthly credit for 4 months with eligible service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4057,Graduation Gift Promotion,Service,0,2025-07-01,2025-08-30,Graduation Gift Promotion: Enjoy this special offer for 2 months with qualifying service.,false,all,all
+PROMO-4058,First Month Free,Percentage,100,2025-05-08,2025-06-07,First Month Free: Get 100% off for 1 months on qualifying plans.,true,all,all
+PROMO-4059,Spring Trade-In Event,Fixed,75,2025-03-08,2025-04-22,Spring Trade-In Event: $75 monthly credit for 1 months with eligible service.,false,all,all
+PROMO-4060,Premium Streaming Service Bundle,Service,0,2025-05-14,2025-11-10,Streaming Service Bundle: Enjoy this special offer for 6 months with qualifying service. Available with Premium plans. Includes 6-month subscriptions to Prime Video and HBO Max.,true,all,all
+PROMO-4061,Enterprise Solution Package,Service,0,2025-05-12,2025-08-10,Enterprise Solution Package: Enjoy this special offer for 3 months with qualifying service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4062,Business Device Fleet Upgrade,Fixed,50,2025-05-09,2025-09-06,Business Device Fleet Upgrade: $50 monthly credit for 4 months with eligible service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4063,Standard Premium Plan Trial,Percentage,25,2025-05-04,2025-07-03,Premium Plan Trial: Get 25% off for 2 months on qualifying plans. Available with Standard plans.,true,"PLAN-1007,PLAN-1011,PLAN-1003",all
+PROMO-4064,Multi-Line Business Discount,Fixed,15,2025-05-11,2026-05-11,Multi-Line Business Discount: $15 monthly credit for 12 months with eligible service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4065,Family Migration Bonus,Fixed,75,2025-05-06,2025-07-05,Family Migration Bonus: $75 monthly credit for 2 months with eligible service.,true,"PLAN-1008,PLAN-1001,PLAN-1003",all
+PROMO-4066,Galaxy S25 Upgrade,Fixed,150,2025-05-16,2025-08-14,Galaxy S25 Upgrade: $150 monthly credit for 3 months with eligible service. Requires new line activation and approved credit.,true,all,DEV-2025
+PROMO-4067,Premium Streaming Service Bundle,Service,0,2025-05-10,2025-11-06,Streaming Service Bundle: Enjoy this special offer for 6 months with qualifying service. Available with Premium plans. Includes 6-month subscriptions to Netflix and Disney+.,true,all,all
+PROMO-4068,Free Pixel 9 with Premium Plan,Service,0,2025-05-06,2025-07-05,Free Pixel 9 with Premium Plan: Enjoy this special offer for 2 months with qualifying service. Requires new line activation and approved credit.,true,all,all
+PROMO-4069,Standard Unlimited Plan Discount,Percentage,15,2025-05-09,2025-09-06,Unlimited Plan Discount: Get 15% off for 4 months on qualifying plans. Available with Standard plans.,true,"PLAN-1004,PLAN-1008,PLAN-1012",all
+PROMO-4070,First 3 Months 50% Off,Percentage,50,2025-05-10,2025-08-08,First 3 Months 50% Off: Get 50% off for 3 months on qualifying plans.,true,all,all
+PROMO-4071,Multi-Line Business Discount,Fixed,15,2025-05-16,2026-05-16,Multi-Line Business Discount: $15 monthly credit for 12 months with eligible service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4072,First 3 Months 50% Off,Percentage,50,2025-05-10,2025-08-08,First 3 Months 50% Off: Get 50% off for 3 months on qualifying plans.,true,all,all
+PROMO-4073,Black Friday Special,Percentage,40,2025-11-15,2025-11-29,Black Friday Special: Get 40% off for 14 days on qualifying plans. Our biggest discounts of the year on select devices and plans.,false,all,all
+PROMO-4074,Basic Family Plan Extra Line Free,Service,0,2025-05-09,2025-08-07,Family Plan Extra Line Free: Enjoy this special offer for 3 months with qualifying service. Available with Basic plans.,true,"PLAN-1008,PLAN-1001,PLAN-1003",all
+PROMO-4075,48-Hour Priority Shipping,Service,0,2025-05-21,2025-05-23,48-Hour Priority Shipping: Enjoy this special offer for 2 days with qualifying service.,false,all,all
+PROMO-4076,Flash Sale,Percentage,35,2025-05-30,2025-06-04,Flash Sale: Get 35% off for 5 days on qualifying plans.,false,all,all
+PROMO-4077,Summer Data Boost,Service,0,2025-05-02,2025-07-31,Summer Data Boost: Enjoy this special offer for 3 months with qualifying service.,true,all,all
+PROMO-4078,Galaxy S25 Upgrade,Fixed,150,2025-05-10,2025-08-08,Galaxy S25 Upgrade: $150 monthly credit for 3 months with eligible service. Requires new line activation and approved credit.,true,all,DEV-2025
+PROMO-4079,Switch & Save,Fixed,20,2025-05-04,2025-10-31,Switch & Save: $20 monthly credit for 6 months with eligible service.,true,all,all
+PROMO-4080,5-Year Milestone Gift,Fixed,100,2025-05-14,2025-06-13,5-Year Milestone Gift: $100 monthly credit for 1 months with eligible service. Special reward for customers who have been with us for 5+ years.,true,all,all
+PROMO-4021,Family Migration Bonus,Fixed,75,2025-05-02,2025-07-01,Family Migration Bonus: $75 monthly credit for 2 months with eligible service.,true,"PLAN-1008,PLAN-1001,PLAN-1003",all
+PROMO-4022,Basic Family Plan Extra Line Free,Service,0,2025-05-02,2025-07-31,Family Plan Extra Line Free: Enjoy this special offer for 3 months with qualifying service. Available with Basic plans.,true,"PLAN-1008,PLAN-1001,PLAN-1003",all
+PROMO-4023,Flash Sale,Percentage,35,2025-05-25,2025-05-30,Flash Sale: Get 35% off for 5 days on qualifying plans.,false,all,all
+PROMO-4024,Early Upgrade Eligibility,Service,0,2025-05-01,2025-10-28,Early Upgrade Eligibility: Enjoy this special offer for 6 months with qualifying service. Requires new line activation and approved credit.,true,all,all
+PROMO-4025,Anniversary Discount,Fixed,15,2025-05-08,2025-07-07,Anniversary Discount: $15 monthly credit for 2 months with eligible service.,true,all,all
+PROMO-4026,Free Phone Upgrade,Service,0,2025-05-04,2025-06-03,"Free Phone Upgrade: Enjoy this special offer for 1 months with qualifying service. Requires new line activation and approved credit. Eligible customers can upgrade to a iPhone 15,Galaxy S24,Pixel 8,OnePlus 12 at no additional cost.",true,all,"DEV-2026,DEV-2027,DEV-2029,DEV-2030,DEV-2034,DEV-2002,DEV-2008"
+PROMO-4027,Anniversary Discount,Fixed,15,2025-05-15,2025-07-14,Anniversary Discount: $15 monthly credit for 2 months with eligible service.,true,all,all
+PROMO-4028,Enterprise Solution Package,Service,0,2025-05-12,2025-08-10,Enterprise Solution Package: Enjoy this special offer for 3 months with qualifying service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4029,Device Protection Bundle,Percentage,50,2025-05-04,2025-10-31,"Device Protection Bundle: Get 50% off for 6 months on qualifying plans. Requires new line activation and approved credit. Includes device insurance, screen protection, and priority tech support.",true,all,all
+PROMO-4030,Weekend Special,Fixed,25,2025-05-27,2025-05-30,Weekend Special: $25 credit for 3 days with eligible service.,false,all,all
+PROMO-4031,BOGO Line Offer,Service,0,2025-05-01,2026-05-01,BOGO Line Offer: Enjoy this special offer for 12 months with qualifying service. Add a second line to your account and get it free for a full year.,true,all,all
+PROMO-4032,Unlimited International Add-On Included,Service,0,2025-05-13,2025-08-11,International Add-On Included: Enjoy this special offer for 3 months with qualifying service. Available with Unlimited plans.,true,all,all
+PROMO-4033,Multi-Line Business Discount,Fixed,15,2025-05-03,2026-05-03,Multi-Line Business Discount: $15 monthly credit for 12 months with eligible service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4034,Annual Upgrade Option,Service,0,2025-05-08,2026-05-08,Annual Upgrade Option: Enjoy this special offer for 12 months with qualifying service.,true,all,all
+PROMO-4035,Family Migration Bonus,Fixed,75,2025-05-10,2025-07-09,Family Migration Bonus: $75 monthly credit for 2 months with eligible service.,true,"PLAN-1008,PLAN-1001,PLAN-1003",all
+PROMO-4036,Flash Sale,Percentage,35,2025-06-05,2025-06-10,Flash Sale: Get 35% off for 5 days on qualifying plans.,false,all,all
+PROMO-4037,Flash Sale,Percentage,35,2025-05-29,2025-06-03,Flash Sale: Get 35% off for 5 days on qualifying plans.,false,all,all
+PROMO-4038,Long-Term Customer Rate Lock,Service,0,2025-05-12,2026-05-12,Long-Term Customer Rate Lock: Enjoy this special offer for 12 months with qualifying service.,true,all,all
+PROMO-4039,BOGO Line Offer,Service,0,2025-05-11,2026-05-11,BOGO Line Offer: Enjoy this special offer for 12 months with qualifying service. Add a second line to your account and get it free for a full year.,true,all,all
+PROMO-4040,Port-In Credit,Fixed,200,2025-05-16,2025-06-15,Port-In Credit: $200 monthly credit for 1 months with eligible service. Get a $200 bill credit when you bring your number from another carrier.,true,all,all
+PROMO-4001,Summer Data Boost,Service,0,2025-05-07,2025-08-05,Summer Data Boost: Enjoy this special offer for 3 months with qualifying service.,true,all,all
+PROMO-4002,48-Hour Priority Shipping,Service,0,2025-05-30,2025-06-01,48-Hour Priority Shipping: Enjoy this special offer for 2 days with qualifying service.,false,all,all
+PROMO-4003,Flash Sale,Percentage,35,2025-06-05,2025-06-10,Flash Sale: Get 35% off for 5 days on qualifying plans.,false,all,all
+PROMO-4004,Black Friday Special,Percentage,40,2025-11-01,2025-11-15,Black Friday Special: Get 40% off for 14 days on qualifying plans. Our biggest discounts of the year on select devices and plans.,false,all,all
+PROMO-4005,Unlimited Premium Plan Trial,Percentage,25,2025-05-14,2025-07-13,Premium Plan Trial: Get 25% off for 2 months on qualifying plans. Available with Unlimited plans.,true,"PLAN-1007,PLAN-1011,PLAN-1003",all
+PROMO-4006,Annual Upgrade Option,Service,0,2025-05-08,2026-05-08,Annual Upgrade Option: Enjoy this special offer for 12 months with qualifying service.,true,all,all
+PROMO-4007,Back to School Bundle,Fixed,25,2025-07-09,2025-08-23,Back to School Bundle: $25 monthly credit for 1 months with eligible service.,false,all,all
+PROMO-4008,Black Friday Special,Percentage,40,2025-11-01,2025-11-15,Black Friday Special: Get 40% off for 14 days on qualifying plans. Our biggest discounts of the year on select devices and plans.,false,all,all
+PROMO-4009,Holiday Device Offer,Fixed,50,2025-11-13,2025-12-13,Holiday Device Offer: $50 monthly credit for 1 months with eligible service.,false,all,all
+PROMO-4010,Multi-Line Business Discount,Fixed,15,2025-05-15,2026-05-15,Multi-Line Business Discount: $15 monthly credit for 12 months with eligible service.,true,"PLAN-1004,PLAN-1010,PLAN-1011",all
+PROMO-4011,Device Protection Bundle,Percentage,50,2025-05-01,2025-10-28,"Device Protection Bundle: Get 50% off for 6 months on qualifying plans. Requires new line activation and approved credit. Includes device insurance, screen protection, and priority tech support.",true,all,all
+PROMO-4012,Valentine's Couples Plan,Fixed,30,2025-02-01,2025-03-01,Valentine's Couples Plan: $30 credit for 28 days with eligible service.,false,all,all
+PROMO-4013,Family Migration Bonus,Fixed,75,2025-05-14,2025-07-13,Family Migration Bonus: $75 monthly credit for 2 months with eligible service.,true,"PLAN-1008,PLAN-1001,PLAN-1003",all
+PROMO-4014,Early Upgrade Eligibility,Service,0,2025-05-15,2025-11-11,Early Upgrade Eligibility: Enjoy this special offer for 6 months with qualifying service. Requires new line activation and approved credit.,true,all,all
+PROMO-4015,iPhone 15 Trade-In Credit,Fixed,100,2025-05-09,2025-07-08,iPhone 15 Trade-In Credit: $100 monthly credit for 2 months with eligible service. Requires new line activation and approved credit.,true,all,"DEV-2029,DEV-2030,DEV2034,DEV-2002"
+PROMO-4016,Holiday Device Offer,Fixed,50,2025-11-07,2025-12-07,Holiday Device Offer: $50 monthly credit for 1 months with eligible service.,false,all,all
+PROMO-4017,Holiday Device Offer,Fixed,50,2025-11-11,2025-12-11,Holiday Device Offer: $50 monthly credit for 1 months with eligible service.,false,all,all
+PROMO-4018,48-Hour Priority Shipping,Service,0,2025-05-26,2025-05-28,48-Hour Priority Shipping: Enjoy this special offer for 2 days with qualifying service.,false,all,all
+PROMO-4019,48-Hour Priority Shipping,Service,0,2025-05-26,2025-05-28,48-Hour Priority Shipping: Enjoy this special offer for 2 days with qualifying service.,false,all,all
+PROMO-4020,Flash Sale,Percentage,35,2025-06-02,2025-06-07,Flash Sale: Get 35% off for 5 days on qualifying plans.,false,all,all
