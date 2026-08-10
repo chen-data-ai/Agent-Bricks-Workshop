@@ -20,3 +20,5 @@ dev = [
 [tool.pytest.ini_options]
 # Async tests run without a per-test marker.
 asyncio_mode = "auto"
+# Make the top-level server.py importable as `server` when running `pytest` directly.
+pythonpath = "."

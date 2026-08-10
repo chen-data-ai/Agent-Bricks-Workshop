@@ -33,7 +33,7 @@ mcp.run(transport="streamable-http")    # HTTP — reachable at a URL, on the /m
 
 Two small extras for running on Databricks Apps (see the top of `server.py`):
 
-- Bind `0.0.0.0` and the port Apps assigns: `mcp.settings.port = int(os.environ["DATABRICKS_APP_PORT"])`.
+- Bind `0.0.0.0` and the port Apps assigns: `mcp.settings.port = int(os.environ.get("DATABRICKS_APP_PORT", 8000))`.
 - Create the server with `stateless_http=True` so each request is self-contained — a gateway or
   agent tool call works without the client first opening a session via an MCP `initialize` handshake
   (otherwise you get *"Missing session ID"*).

@@ -69,17 +69,17 @@ async def weather_get_current(latitude: float, longitude: float) -> str:
             "current": ["temperature_2m", "apparent_temperature", "relative_humidity_2m",
                         "precipitation", "cloud_cover", "wind_speed_10m"],
         })
+        c = data["current"]
+        return (
+            f"Current weather at ({latitude}, {longitude}) — {c['time']}\n"
+            f"- Temperature: {c['temperature_2m']}°C (feels like {c['apparent_temperature']}°C)\n"
+            f"- Humidity: {c['relative_humidity_2m']}%\n"
+            f"- Precipitation: {c['precipitation']} mm\n"
+            f"- Cloud cover: {c['cloud_cover']}%\n"
+            f"- Wind speed: {c['wind_speed_10m']} km/h"
+        )
     except Exception as e:
         return f"Error getting current weather: {e}"
-    c = data["current"]
-    return (
-        f"Current weather at ({latitude}, {longitude}) — {c['time']}\n"
-        f"- Temperature: {c['temperature_2m']}°C (feels like {c['apparent_temperature']}°C)\n"
-        f"- Humidity: {c['relative_humidity_2m']}%\n"
-        f"- Precipitation: {c['precipitation']} mm\n"
-        f"- Cloud cover: {c['cloud_cover']}%\n"
-        f"- Wind speed: {c['wind_speed_10m']} km/h"
-    )
 
 
 @mcp.tool()
@@ -93,16 +93,16 @@ async def weather_get_forecast(latitude: float, longitude: float, days: int = 7)
             "forecast_days": days,
             "daily": ["temperature_2m_min", "temperature_2m_max", "precipitation_sum"],
         })
+        d = data["daily"]
+        lines = [f"{days}-day forecast at ({latitude}, {longitude}):"]
+        for i in range(len(d["time"])):
+            lines.append(
+                f"- {d['time'][i]}: {d['temperature_2m_min'][i]}–{d['temperature_2m_max'][i]}°C, "
+                f"{d['precipitation_sum'][i]} mm precipitation"
+            )
+        return "\n".join(lines)
     except Exception as e:
         return f"Error getting forecast: {e}"
-    d = data["daily"]
-    lines = [f"{days}-day forecast at ({latitude}, {longitude}):"]
-    for i in range(len(d["time"])):
-        lines.append(
-            f"- {d['time'][i]}: {d['temperature_2m_min'][i]}–{d['temperature_2m_max'][i]}°C, "
-            f"{d['precipitation_sum'][i]} mm precipitation"
-        )
-    return "\n".join(lines)
 
 
 @mcp.tool()
@@ -116,16 +116,16 @@ async def weather_get_hourly(latitude: float, longitude: float, hours: int = 24)
             "forecast_hours": hours,
             "hourly": ["temperature_2m", "precipitation", "wind_speed_10m"],
         })
+        h = data["hourly"]
+        lines = [f"{hours}-hour forecast at ({latitude}, {longitude}):"]
+        for i in range(len(h["time"])):
+            lines.append(
+                f"- {h['time'][i]}: {h['temperature_2m'][i]}°C, "
+                f"{h['precipitation'][i]} mm precip, wind {h['wind_speed_10m'][i]} km/h"
+            )
+        return "\n".join(lines)
     except Exception as e:
         return f"Error getting hourly forecast: {e}"
-    h = data["hourly"]
-    lines = [f"{hours}-hour forecast at ({latitude}, {longitude}):"]
-    for i in range(len(h["time"])):
-        lines.append(
-            f"- {h['time'][i]}: {h['temperature_2m'][i]}°C, "
-            f"{h['precipitation'][i]} mm precip, wind {h['wind_speed_10m'][i]} km/h"
-        )
-    return "\n".join(lines)
 
 
 if __name__ == "__main__":
