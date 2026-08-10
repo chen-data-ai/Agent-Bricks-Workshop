@@ -1,0 +1,24 @@
+[project]
+name = "weather-mcp-server"
+version = "0.1.0"
+description = "External weather MCP server (Open-Meteo) on Databricks Apps"
+requires-python = ">=3.11"
+
+# mcp is pinned to the 1.x line: the server imports `mcp.server.fastmcp.FastMCP`,
+# which was restructured/removed in mcp 2.0.
+dependencies = [
+    "mcp[cli]>=1.14.0,<2.0",
+    "httpx>=0.27.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "pytest-asyncio",
+]
+
+[tool.pytest.ini_options]
+# Async tests run without a per-test marker.
+asyncio_mode = "auto"
+# Make the top-level server.py importable as `server` when running `pytest` directly.
+pythonpath = "."
