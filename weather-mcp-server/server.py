@@ -4,12 +4,16 @@ Weather MCP server (Open-Meteo, no API key) — served over HTTP.
 The workshop's "external MCP" example: a small MCP server we host on a Databricks App and govern
 through the Unity AI Gateway.
 
-Making an MCP server HTTP-able is essentially one line: instead of `mcp.run()` (stdio), call
-`mcp.run(transport="streamable-http")`, which serves the MCP protocol at /mcp. The two settings
-below are what a hosted deployment needs:
+Why HTTP: off-the-shelf MCP servers use the *stdio* transport — they run as a local program a
+client launches and talks to over stdin/stdout, which has no network address. The Unity AI Gateway
+reaches tools over the network, so it needs a URL. Serving the same server over HTTP gives it one.
+That switch is essentially one line: `mcp.run(transport="streamable-http")` instead of `mcp.run()`,
+which exposes the MCP protocol at /mcp.
+
+The two settings below are what a hosted deployment needs:
   - host/port: bind 0.0.0.0 and the port Databricks Apps assigns ($DATABRICKS_APP_PORT).
-  - stateless_http: each request stands alone, so a gateway/agent tool call works without first
-    doing an MCP `initialize` handshake (otherwise you get "Missing session ID").
+  - stateless_http: each request stands alone, so a gateway/agent tool call works without the client
+    first opening a session via an MCP `initialize` handshake (otherwise you get "Missing session ID").
 
 Everything else in this file is just the weather tools.
 """

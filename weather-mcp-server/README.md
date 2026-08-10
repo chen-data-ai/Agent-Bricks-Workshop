@@ -14,27 +14,29 @@ It's a single file, [`server.py`](./server.py), with four tools:
 | `weather_get_forecast` | `latitude`, `longitude`, `days=7` | Daily forecast (1–16 days) |
 | `weather_get_hourly` | `latitude`, `longitude`, `hours=24` | Hourly forecast (1–168 hours) |
 
-## Making an MCP server HTTP-able
+## Why we run it over HTTP
 
-That's the whole point of this example, and it's essentially one line. A stdio MCP server ends with:
+An MCP client and server talk over a *transport*. Off-the-shelf servers like this one use **stdio**:
+the server runs as a local program that a client (e.g. a desktop app on your laptop) launches and
+talks to through standard input/output. That's fine on one machine, but the server has no network
+address — there's nothing to send a request to.
+
+The Unity AI Gateway isn't on your laptop; it's a service in Databricks that reaches tools **over
+the network**, so it needs a URL to call. A stdio server can't be reached that way. The fix is to
+run the server over **HTTP** instead. MCP defines an HTTP transport ("streamable HTTP") for this,
+and switching to it is essentially one line:
 
 ```python
-mcp.run()                               # stdio (talks to a local desktop client)
+mcp.run()                               # stdio — a local program on one machine
+mcp.run(transport="streamable-http")    # HTTP — reachable at a URL, on the /mcp path
 ```
 
-To serve it over HTTP so the Unity AI Gateway can reach it, run the same server with the
-streamable-HTTP transport, which exposes the MCP protocol at `/mcp`:
+Two small extras for running on Databricks Apps (see the top of `server.py`):
 
-```python
-mcp.run(transport="streamable-http")    # HTTP at /mcp
-```
-
-The only other things a hosted deployment needs (see the top of `server.py`):
-
-- Bind `0.0.0.0` and the port Databricks Apps assigns: `mcp.settings.port = int(os.environ["DATABRICKS_APP_PORT"])`.
+- Bind `0.0.0.0` and the port Apps assigns: `mcp.settings.port = int(os.environ["DATABRICKS_APP_PORT"])`.
 - Create the server with `stateless_http=True` so each request is self-contained — a gateway or
-  agent tool call works without first doing an MCP `initialize` handshake (otherwise you get
-  *"Missing session ID"*).
+  agent tool call works without the client first opening a session via an MCP `initialize` handshake
+  (otherwise you get *"Missing session ID"*).
 
 ## Run locally
 

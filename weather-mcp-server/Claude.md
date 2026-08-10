@@ -18,8 +18,10 @@ file is meant to be readable end-to-end in under a minute.
 
 ## The point of the example
 
-Making an MCP server HTTP-able is one line: `mcp.run(transport="streamable-http")` instead of
-`mcp.run()`. The only extras a hosted deployment needs (all at the top of `server.py`):
+Off-the-shelf MCP servers use the stdio transport (a local program, no network address); the Unity
+AI Gateway reaches tools over the network, so the server must run over HTTP to have a URL. That
+switch is one line: `mcp.run(transport="streamable-http")` instead of `mcp.run()`. The only extras a
+hosted deployment needs (all at the top of `server.py`):
 - `mcp.settings.port = int(os.environ.get("DATABRICKS_APP_PORT", 8000))` and host `0.0.0.0`.
 - `stateless_http=True` so gateway/agent tool calls work without an `initialize` handshake
   (otherwise: "Missing session ID").
