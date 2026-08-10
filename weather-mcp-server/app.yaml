@@ -1,0 +1,1 @@
+command: ["uv", "run", "python", "server.py"]

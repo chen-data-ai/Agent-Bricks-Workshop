@@ -6,7 +6,7 @@ This repository contains all the demo assets and notebooks for the Agent Bricks 
 
 You will find four notebooks:
 - **AI Functions with Batch Inference:** Sample code demonstrating how to use AI functions such as `ai_parse_document` for information extraction.
-- **Model Context Protocol (MCP) Servers on Databricks**: Build and use different types of MCP servers (managed, external, custom) as tools with your agent. 
+- **Model Context Protocol (MCP) on Databricks:** Build a managed MCP tool (a Unity Catalog function), then host an external weather MCP server as a Databricks App and route it through the **Unity AI Gateway** — governed, audited, and added as a tool in the Multi-Agent Supervisor. (See `02_MCP on Databricks.ipynb` and `weather-mcp-server/`.)
 - **Knowledge Assistant with Agent Bricks:** Creating a document-based question-answering assistant.
 - **MLflow3 UI with the Knowledge Assistant Agent:** 
 

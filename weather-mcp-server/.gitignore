@@ -1,0 +1,8 @@
+# Local dev artifacts — not committed (this repo ships source only)
+.venv/
+uv.lock
+.databricks/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
